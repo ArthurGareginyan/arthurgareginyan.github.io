@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="arthurgareginyan.github.io" resolutions="1x" timestamp="1450863588710">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="arthurgareginyan.github.io" resolutions="1x" timestamp="1450881381573">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="158556341" ref="resume:donate:index:about-me:portfolio:contact"/>
-    <file name="resume.css" crc="4200094240" ref="resume"/>
-    <file name="donate.css" crc="3758291283" ref="donate"/>
-    <file name="index.css" crc="4041185860" ref="index"/>
-    <file name="about-me.css" crc="378519232" ref="about-me"/>
-    <file name="portfolio.css" crc="215293363" ref="portfolio"/>
-    <file name="contact.css" crc="4055674889" ref="contact"/>
+    <file name="resume.css" crc="307141353" ref="resume"/>
+    <file name="donate.css" crc="4183351500" ref="donate"/>
+    <file name="index.css" crc="4098295568" ref="index"/>
+    <file name="about-me.css" crc="229158773" ref="about-me"/>
+    <file name="portfolio.css" crc="3871266128" ref="portfolio"/>
+    <file name="contact.css" crc="82395200" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
@@ -20,11 +20,6 @@
     <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact:resume:portfolio:about-me:donate"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate"/>
-    <file name="webpro.js" crc="3883484123" ref="contact"/>
-    <file name="form_check.php" crc="3932029206" ref="contact"/>
-    <file name="form_throttle.php" crc="314685628" ref="contact"/>
-    <file name="form_process.php" crc="401030677" ref="contact"/>
-    <file name="form-u201.php" crc="3830559085" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="blueprinttexture.jpg" crc="3947835348" ref="index:contact:resume:portfolio:about-me:donate"/>
@@ -33,15 +28,11 @@
     <file name="author-ieu437-fr.png" crc="30896931" ref="index"/>
     <file name="author.jpg" crc="3905365255" ref="index"/>
     <file name="arrow_down.png" crc="3874046791" seo="true" ref="index:contact:resume:portfolio:about-me:donate"/>
-    <file name="u202-17.png" crc="3932939328" ref="contact"/>
-    <file name="u202-17-r.png" crc="4064237493" ref="contact"/>
-    <file name="u202-17-m.png" crc="4209755811" ref="contact"/>
-    <file name="u202-17-fs.png" crc="3976683670" ref="contact"/>
   </folder>
-  <file name="index.html" crc="4323112" seo="true" mt="1450863473722" redirect="true"/>
-  <file name="contact.html" crc="4246856100" seo="true" mt="1450863473722" redirect="true"/>
-  <file name="resume.html" crc="4257144371" seo="true" mt="1450863473722" redirect="true"/>
-  <file name="portfolio.html" crc="475871425" seo="true" mt="1450863473722" redirect="true"/>
-  <file name="about-me.html" crc="4057431966" seo="true" mt="1450863473722" redirect="true"/>
-  <file name="donate.html" crc="126170153" seo="true" mt="1450863473722" redirect="true"/>
+  <file name="index.html" crc="4323112" seo="true" mt="1450880194699" redirect="true"/>
+  <file name="contact.html" crc="295758203" seo="true" mt="1450880194699" redirect="true"/>
+  <file name="resume.html" crc="4257144371" seo="true" mt="1450880194699" redirect="true"/>
+  <file name="portfolio.html" crc="475871425" seo="true" mt="1450880194699" redirect="true"/>
+  <file name="about-me.html" crc="4057431966" seo="true" mt="1450880194699" redirect="true"/>
+  <file name="donate.html" crc="126170153" seo="true" mt="1450880194699" redirect="true"/>
 </manifest>

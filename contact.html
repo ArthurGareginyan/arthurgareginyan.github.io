@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "webpro.js", "contact.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "contact.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -12,7 +12,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
   <link rel="stylesheet" type="text/css" href="css/master_main.css?158556341"/>
-  <link rel="stylesheet" type="text/css" href="css/contact.css?4055674889" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/contact.css?82395200" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -61,31 +61,32 @@ var __adobewebfontsappname__ = "muse";
       <div class="clearfix colelem" id="u200-4"><!-- content -->
        <p>Share your thoughts with me. You might just have a brilliant idea up your sleeve and I can make it happen, so let’s get started!</p>
       </div>
+      <div class="colelem" id="u1006"><!-- custom html -->
+       <form id="contact-form" method="POST">
+
+    <div class="form-title">Name: <span style="color:#D70000">*</span></div>
+    <input type="text" name="name" placeholder="Enter your name" class="form-field">
+
+    <div class="form-title">Email: <span style="color:#D70000">*</span></div>
+    <input type="email" name="_replyto" placeholder="Enter your email" class="form-field">
+
+    <div class="form-title">Message: <span style="color:#D70000">*</span></div>
+    <textarea name="message" rows="5" placeholder="Enter your message" class="form-field"></textarea>
+
+    <input type="hidden" name="_subject" value="Website contact" />
+    <input type="hidden" name="_next" value="//mywebsite.com/thanks.html" />
+    <input type="text" name="_gotcha" style="display:none">
+
+    <div class="buttons-container">
+       <input type="submit" value="Send" class="buttons">
+    </div>
+</form>
+<script>
+    var contactform =  document.getElementById('contactform');
+    contactform.setAttribute('action', '//formspree.io/' + 'arthurgareginyan' + '@' + 'gmail' + '.' + 'com');
+</script>
+</div>
      </div>
-     <form class="form-grp clearfix grpelem" id="widgetu201" method="post" enctype="multipart/form-data" action="scripts/form-u201.php"><!-- none box -->
-      <div class="fld-grp clearfix grpelem" id="widgetu204" data-required="true"><!-- none box -->
-       <label class="fld-label actAsDiv clearfix grpelem" id="u206-4" for="widgetu204_input"><!-- content --><span class="actAsPara">Name:</span></label>
-       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u207-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu204_input" name="custom_U204" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu204_prompt" for="widgetu204_input"><span class="actAsPara">Enter Name</span></label></span>
-      </div>
-      <div class="fld-grp clearfix grpelem" id="widgetu208" data-required="true" data-type="email"><!-- none box -->
-       <label class="fld-label actAsDiv clearfix grpelem" id="u210-4" for="widgetu208_input"><!-- content --><span class="actAsPara">Email:</span></label>
-       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u209-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu208_input" name="Email" tabindex="2"/><label class="wrapped-input fld-prompt" id="widgetu208_prompt" for="widgetu208_input"><span class="actAsPara">Enter Email</span></label></span>
-      </div>
-      <div class="clearfix grpelem" id="u203-4"><!-- content -->
-       <p>Submitting Form...</p>
-      </div>
-      <div class="clearfix grpelem" id="u217-4"><!-- content -->
-       <p>The server encountered an error.</p>
-      </div>
-      <div class="clearfix grpelem" id="u212-4"><!-- content -->
-       <p>Form received.</p>
-      </div>
-      <input class="submit-btn NoWrap grpelem" id="u202-17" type="submit" value="" tabindex="4"/><!-- state-based BG images -->
-      <div class="fld-grp clearfix grpelem" id="widgetu213" data-required="false"><!-- none box -->
-       <label class="fld-label actAsDiv clearfix grpelem" id="u215-4" for="widgetu213_input"><!-- content --><span class="actAsPara">Message:</span></label>
-       <span class="fld-textarea actAsDiv clearfix grpelem" id="u216-4"><!-- content --><textarea class="wrapped-input" id="widgetu213_input" name="custom_U213" tabindex="3"></textarea><label class="wrapped-input fld-prompt" id="widgetu213_prompt" for="widgetu213_input"><span class="actAsPara">Enter Your Message</span></label></span>
-      </div>
-     </form>
      <div class="grpelem" id="u380"><!-- simple frame --></div>
     </div>
    </div>
@@ -103,14 +104,87 @@ var __adobewebfontsappname__ = "muse";
       <div class="clearfix grpelem" id="u199-4"><!-- content -->
        <p>Copyright 2015 · Arthur Gareginyan</p>
       </div>
+      <div class="grpelem" id="u1008"><!-- custom html -->
+       /* Stylesheet for contct form
+*******************************/
+<style>
+.form-title {
+   margin-bottom:10px;
+   color: #6B6B6B;
+   text-shadow: #fdf2e4 0 1px 0;
+   font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+   }
+
+.form-field {
+   font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+   border: 1px solid #a39584;
+   background: #f3f3f3;
+   -webkit-border-radius: 4px;
+   -moz-border-radius: 4px;
+   border-radius: 4px;
+   color: #C4C4C4;
+   -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(000,000,000,0.7) 0 0px 0px;
+   -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(000,000,000,0.7) 0 0px 0px;
+   box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(000,000,000,0.7) 0 0px 0px;
+   padding:8px;
+   margin-bottom:20px;
+   width:280px;
+   }
+.form-field:focus {
+   background: #fff;
+   color: #725129;
+   }
+
+.buttons-container {
+   margin:8px 0;
+   text-align:right;
+   }
+
+.buttons {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9));
+	background:-moz-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
+	background:-webkit-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
+	background:-o-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
+	background:-ms-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9',GradientType=0);
+	background-color:#f9f9f9;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.buttons:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #e9e9e9), color-stop(1, #f9f9f9));
+	background:-moz-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
+	background:-webkit-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
+	background:-o-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
+	background:-ms-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
+	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9',GradientType=0);
+	background-color:#e9e9e9;
+}
+.buttons:active {
+	position:relative;
+	top:1px;
+}
+</style>
+</div>
      </div>
     </div>
    </div>
-  </div>
-  <div class="preload_images">
-   <img class="preload" src="images/u202-17-r.png" alt=""/>
-   <img class="preload" src="images/u202-17-m.png" alt=""/>
-   <img class="preload" src="images/u202-17-fs.png" alt=""/>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
@@ -122,7 +196,6 @@ var __adobewebfontsappname__ = "muse";
   <script src="scripts/museutils.js?275725342" type="text/javascript"></script>
   <script src="scripts/jquery.musepolyfill.bgsize.js?185257658" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?4042164668" type="text/javascript"></script>
-  <script src="scripts/webpro.js?3883484123" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -133,7 +206,6 @@ typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw E
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#widgetu201', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu201 */
 Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
