@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="arthurgareginyan.github.io" resolutions="1x" timestamp="1451418721416">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="arthurgareginyan.com" resolutions="1x" timestamp="1451497260103">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_main.css" crc="3836362417" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy"/>
-    <file name="resume.css" crc="3968761344" ref="resume"/>
-    <file name="donate.css" crc="4090626204" ref="donate"/>
-    <file name="index.css" crc="434864382" ref="index"/>
+    <file name="master_main.css" crc="48226199" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy"/>
+    <file name="resume.css" crc="484570068" ref="resume"/>
+    <file name="donate.css" crc="3890843953" ref="donate"/>
+    <file name="index.css" crc="4122585917" ref="index"/>
     <file name="about-me.css" crc="335733652" ref="about-me"/>
     <file name="portfolio.css" crc="4159144790" ref="portfolio"/>
     <file name="contact.css" crc="62731229" ref="contact"/>
@@ -32,11 +32,11 @@
     <file name="pattern-dark-grey-cropped.jpg" crc="338499582" ref="index"/>
     <file name="smiling_face.png" crc="194477606" seo="true" ref="about-me"/>
   </folder>
-  <file name="index.html" crc="4060534516" seo="true" mt="1451411208966" redirect="true"/>
+  <file name="index.html" crc="139880773" seo="true" mt="1451497216746" redirect="true"/>
   <file name="contact.html" crc="3940951751" seo="true" mt="1451414262899" redirect="true"/>
-  <file name="resume.html" crc="4115103430" seo="true" mt="1451414298268" redirect="true"/>
+  <file name="resume.html" crc="4123113016" seo="true" mt="1451497129541" redirect="true"/>
   <file name="portfolio.html" crc="143900552" seo="true" mt="1451411208966" redirect="true"/>
   <file name="about-me.html" crc="3846146944" seo="true" mt="1451418647007" redirect="true"/>
-  <file name="donate.html" crc="4241286660" seo="true" mt="1451411634421" redirect="true"/>
+  <file name="donate.html" crc="430034678" seo="true" mt="1451497086959" redirect="true"/>
   <file name="privacy-policy.html" crc="525963410" seo="true" mt="1451411469865" redirect="true"/>
 </manifest>

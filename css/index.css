@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000019;
-	background-color: #EB80FE;
+	color: #0000F5;
+	background-color: #B9AB3D;
 }
 
 .html
@@ -367,7 +367,7 @@
 
 #u435
 {
-	z-index: 94;
+	z-index: 97;
 	width: 210px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -380,7 +380,7 @@
 
 #u437
 {
-	z-index: 95;
+	z-index: 98;
 	width: 189px;
 	height: 189px;
 	border-radius: 104px;
@@ -394,16 +394,16 @@
 	background-size: cover;
 }
 
-#u410-4
+#u410-6
 {
 	z-index: 59;
 	width: 662px;
 	min-height: 197px;
 	background-color: transparent;
-	color: #0092C4;
+	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
-	line-height: 46px;
+	color: #0092C4;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -420,7 +420,7 @@
 
 #u416
 {
-	z-index: 66;
+	z-index: 68;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -435,7 +435,7 @@
 
 #u422-4
 {
-	z-index: 83;
+	z-index: 86;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -450,7 +450,7 @@
 
 #u412
 {
-	z-index: 63;
+	z-index: 65;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -465,7 +465,7 @@
 
 #u419-4
 {
-	z-index: 69;
+	z-index: 71;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -494,7 +494,7 @@
 
 #u417
 {
-	z-index: 67;
+	z-index: 69;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -509,7 +509,7 @@
 
 #u423-4
 {
-	z-index: 87;
+	z-index: 90;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -524,7 +524,7 @@
 
 #u415
 {
-	z-index: 65;
+	z-index: 67;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -539,7 +539,7 @@
 
 #u420-4
 {
-	z-index: 73;
+	z-index: 75;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -569,7 +569,7 @@
 
 #u418
 {
-	z-index: 68;
+	z-index: 70;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -584,7 +584,7 @@
 
 #u424-3
 {
-	z-index: 91;
+	z-index: 94;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -599,7 +599,7 @@
 
 #u414
 {
-	z-index: 64;
+	z-index: 66;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -612,9 +612,9 @@
 	border-width: 0px 0px 1px;
 }
 
-#u421-6
+#u421-7
 {
-	z-index: 77;
+	z-index: 79;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
