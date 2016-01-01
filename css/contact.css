@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000003;
-	background-color: #BD33DD;
+	color: #0000FD;
+	background-color: #5D29A6;
 }
 
 .html
@@ -388,8 +388,8 @@
 	width: 898px;
 	min-height: 56px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-top: 24px;
