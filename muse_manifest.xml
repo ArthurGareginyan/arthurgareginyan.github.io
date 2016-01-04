@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1451610277555">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1451915146508">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_main.css" crc="3836362417" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy"/>
+    <file name="master_main.css" crc="48226199" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy"/>
     <file name="resume.css" crc="4238948084" ref="resume"/>
     <file name="donate.css" crc="4199082146" ref="donate"/>
     <file name="index.css" crc="4153349374" ref="index"/>
     <file name="about-me.css" crc="335733652" ref="about-me"/>
     <file name="portfolio.css" crc="4159144790" ref="portfolio"/>
-    <file name="contact.css" crc="4250741158" ref="contact"/>
+    <file name="contact.css" crc="301202356" ref="contact"/>
     <file name="privacy-policy.css" crc="8571823" ref="privacy-policy"/>
   </folder>
   <folder name="assets">
@@ -16,24 +16,24 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy"/>
     <file name="museutils.js" crc="275725342" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:contact"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy"/>
   </folder>
   <folder name="images">
-    <file name="bg_pattern_dark.png" crc="246684301" ref="index"/>
-    <file name="bg_pattern_light.png" crc="146282756" ref="index"/>
+    <file name="bg_pattern_dark.png" crc="246684301" ref="index:contact"/>
+    <file name="bg_pattern_light.png" crc="146282756" ref="index:contact"/>
     <file name="author-ieu437-fr.png" crc="30896931" ref="index"/>
     <file name="author.jpg" crc="3905365255" ref="index"/>
     <file name="arrow_down.png" crc="3874046791" seo="true" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy"/>
     <file name="leather_1.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy"/>
-    <file name="pattern-dark-grey-cropped.jpg" crc="338499582" ref="index"/>
+    <file name="pattern-dark-grey-cropped.jpg" crc="338499582" ref="index:contact"/>
     <file name="smiling_face.png" crc="194477606" seo="true" ref="about-me"/>
   </folder>
   <file name="index.html" crc="4235313938" seo="true" mt="1451610261442" redirect="true"/>
-  <file name="contact.html" crc="3852519063" seo="true" mt="1451610261442" redirect="true"/>
+  <file name="contact.html" crc="361662389" seo="true" mt="1451915057166" redirect="true"/>
   <file name="resume.html" crc="4028247224" seo="true" mt="1451610261442" redirect="true"/>
   <file name="portfolio.html" crc="4147875703" seo="true" mt="1451610261442" redirect="true"/>
   <file name="about-me.html" crc="456261232" seo="true" mt="1451610261442" redirect="true"/>
