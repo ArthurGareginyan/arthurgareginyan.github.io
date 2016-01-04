@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1451915330223">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1451915432224">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="48226199" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy"/>
@@ -33,7 +33,7 @@
     <file name="smiling_face.png" crc="194477606" seo="true" ref="about-me"/>
   </folder>
   <file name="index.html" crc="4235313938" seo="true" mt="1451610261442" redirect="true"/>
-  <file name="contact.html" crc="4130893105" seo="true" mt="1451915320830" redirect="true"/>
+  <file name="contact.html" crc="3844035451" seo="true" mt="1451915425392" redirect="true"/>
   <file name="resume.html" crc="4028247224" seo="true" mt="1451610261442" redirect="true"/>
   <file name="portfolio.html" crc="4147875703" seo="true" mt="1451610261442" redirect="true"/>
   <file name="about-me.html" crc="456261232" seo="true" mt="1451610261442" redirect="true"/>
