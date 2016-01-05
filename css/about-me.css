@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000014;
-	background-color: #02E394;
+	color: #000008;
+	background-color: #B25F56;
 }
 
 .html
@@ -355,10 +355,10 @@
 	width: 216px;
 	min-height: 34px;
 	background-color: transparent;
-	color: #0092C4;
+	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 36px;
+	color: #0092C4;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
