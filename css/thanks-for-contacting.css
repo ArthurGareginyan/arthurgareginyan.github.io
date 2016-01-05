@@ -1,7 +1,7 @@
 .version.thanks_for_contacting /* version checker */
 {
-	color: #000011;
-	background-color: #9CF2F2;
+	color: #000007;
+	background-color: #9561D6;
 }
 
 .html
@@ -330,71 +330,11 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pppu1287-4
+#pu425
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 8px;
-}
-
-#ppu1287-4
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-}
-
-#pu1287-4
-{
-	width: 0.01px;
-	margin-left: 15px;
-}
-
-#u1287-4
-{
-	z-index: 59;
-	width: 635px;
-	min-height: 34px;
-	background-color: transparent;
-	line-height: 36px;
-	text-align: center;
-	font-size: 30px;
-	color: #0092C4;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	left: 116px;
-}
-
-#u1288
-{
-	z-index: 63;
-	width: 868px;
-	height: 16px;
-	border-style: solid;
-	border-color: #7F7F7F;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 20px;
-	border-width: 0px 0px 1px;
-}
-
-#u1289-7
-{
-	z-index: 64;
-	width: 898px;
-	min-height: 56px;
-	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	margin-top: 95px;
-	position: relative;
+	margin-top: 16px;
 }
 
 #u425
@@ -403,7 +343,6 @@
 	width: 19px;
 	height: 137px;
 	margin-right: -10000px;
-	margin-top: 8px;
 	left: 921px;
 }
 
@@ -413,7 +352,7 @@
 	width: 114px;
 	min-height: 19px;
 	margin-right: -10000px;
-	margin-top: 72px;
+	margin-top: 64px;
 	left: 874px;
 }
 
@@ -422,8 +361,24 @@
 	z-index: 12;
 	width: 14px;
 	margin-right: -10000px;
-	margin-top: 12px;
+	margin-top: 4px;
 	left: 924px;
+}
+
+#u1289-10
+{
+	z-index: 59;
+	width: 898px;
+	min-height: 56px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 123px;
 }
 
 #u1125
@@ -431,7 +386,7 @@
 	z-index: 57;
 	width: 943px;
 	padding-bottom: 49px;
-	margin-top: 175px;
+	margin-top: 137px;
 }
 
 #u1126

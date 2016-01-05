@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452015537725">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452038139739">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_main.css" crc="48226199" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:thanks-for-contacting"/>
+    <file name="master_main.css" crc="3836362417" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:thanks-for-contacting"/>
     <file name="resume.css" crc="484570068" ref="resume"/>
     <file name="donate.css" crc="3890843953" ref="donate"/>
     <file name="index.css" crc="3813435886" ref="index"/>
@@ -9,7 +9,7 @@
     <file name="portfolio.css" crc="4046592981" ref="portfolio"/>
     <file name="contact.css" crc="451230119" ref="contact"/>
     <file name="privacy-policy.css" crc="239824431" ref="privacy-policy"/>
-    <file name="thanks-for-contacting.css" crc="295498482" ref="thanks-for-contacting"/>
+    <file name="thanks-for-contacting.css" crc="127230422" ref="thanks-for-contacting"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
@@ -17,20 +17,20 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:thanks-for-contacting"/>
     <file name="museutils.js" crc="275725342" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:thanks-for-contacting"/>
-    <file name="pie.js" crc="3827607177" ref="index:contact"/>
+    <file name="pie.js" crc="3827607177" ref="index:contact:thanks-for-contacting"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:thanks-for-contacting"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:thanks-for-contacting"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:thanks-for-contacting"/>
   </folder>
   <folder name="images">
-    <file name="bg_pattern_dark.png" crc="246684301" ref="index:contact"/>
-    <file name="bg_pattern_light.png" crc="146282756" ref="index:contact"/>
+    <file name="bg_pattern_dark.png" crc="246684301" ref="index:contact:thanks-for-contacting"/>
+    <file name="bg_pattern_light.png" crc="146282756" ref="index:contact:thanks-for-contacting"/>
     <file name="author-ieu437-fr.png" crc="30896931" ref="index"/>
     <file name="author.jpg" crc="3905365255" ref="index"/>
     <file name="arrow_down.png" crc="3874046791" seo="true" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:thanks-for-contacting"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:thanks-for-contacting"/>
     <file name="leather_1.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:thanks-for-contacting"/>
-    <file name="pattern-dark-grey-cropped.jpg" crc="338499582" ref="index:contact"/>
+    <file name="pattern-dark-grey-cropped.jpg" crc="338499582" ref="index:contact:thanks-for-contacting"/>
     <file name="smiling_face.png" crc="194477606" seo="true" ref="about-me"/>
   </folder>
   <file name="index.html" crc="4235313938" seo="true" mt="1451916234289" redirect="true"/>
@@ -40,5 +40,5 @@
   <file name="about-me.html" crc="456261232" seo="true" mt="1451916234289" redirect="true"/>
   <file name="donate.html" crc="3964351392" seo="true" mt="1451916234289" redirect="true"/>
   <file name="privacy-policy.html" crc="463341961" seo="true" mt="1451916234289" redirect="true"/>
-  <file name="thanks-for-contacting.html" crc="4230346692" seo="true" mt="1451960615739" redirect="true"/>
+  <file name="thanks-for-contacting.html" crc="328561062" seo="true" mt="1452038022742" redirect="true"/>
 </manifest>
