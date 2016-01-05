@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00001A;
-	background-color: #E539A7;
+	color: #000005;
+	background-color: #5235A9;
 }
 
 .html
@@ -356,10 +356,10 @@
 	width: 216px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 36px;
+	color: #0092C4;
 	text-align: center;
 	font-size: 30px;
-	color: #0092C4;
+	line-height: 36px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -388,8 +388,8 @@
 	width: 898px;
 	min-height: 56px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-top: 24px;
@@ -428,7 +428,7 @@
 #u1221
 {
 	z-index: 64;
-	width: 787px;
+	width: 805px;
 	min-height: 497px;
 	border-style: none;
 	border-color: transparent;
