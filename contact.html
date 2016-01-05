@@ -12,7 +12,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
   <link rel="stylesheet" type="text/css" href="css/master_main.css?48226199"/>
-  <link rel="stylesheet" type="text/css" href="css/contact.css?301202356" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/contact.css?20881777" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -85,7 +85,7 @@ var __adobewebfontsappname__ = "muse";
     <input type="email" name="_replyto" placeholder="Enter your email" class="form-field">
 
     <div class="form-title">Message: <span style="color:#D70000">*</span></div>
-    <textarea name="message" rows="5" placeholder="Enter your message" class="form-field"></textarea>
+    <textarea name="message" rows="10" placeholder="Enter your message" class="form-field form-message"></textarea>
 
     <input type="hidden" name="_subject" value="Website contact" />
     <input type="hidden" name="_next" value="//www.arthurgareginyan.com/thanks-for-contacting.html" />
@@ -98,15 +98,18 @@ var __adobewebfontsappname__ = "muse";
 </form>
 
 <style>
+#contact-form {
+   font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+   font-size: 16px;
+}
+
 .form-title {
    margin-bottom:10px;
    color: #6B6B6B;
    text-shadow: #fdf2e4 0 1px 0;
-   font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-   }
+}
 
 .form-field {
-   font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
    border: 1px solid #a39584;
    background: #f3f3f3;
    -webkit-border-radius: 4px;
@@ -116,19 +119,23 @@ var __adobewebfontsappname__ = "muse";
    -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(000,000,000,0.7) 0 0px 0px;
    -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(000,000,000,0.7) 0 0px 0px;
    box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(000,000,000,0.7) 0 0px 0px;
-   padding:8px;
-   margin-bottom:20px;
-   width:280px;
-   }
+   padding: 8px;
+   margin-bottom: 20px;
+   width: 250px;
+}
 .form-field:focus {
    background: #fff;
    color: #725129;
-   }
+}
+
+.form-message {
+   width: 100%;
+}
 
 .buttons-container {
    margin:8px 0;
    text-align:right;
-   }
+}
 
 .buttons {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
