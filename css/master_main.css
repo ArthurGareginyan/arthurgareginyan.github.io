@@ -12,24 +12,12 @@
 
 #u1075
 {
-	-pie-box-shadow: 0px 8px 6px #7F7F7F;
+	-pie-box-shadow: none;
 	box-shadow: 0px 8px 6px rgba(0,0,0,0.5);
+	border-style: none;
 	border-radius: 10px 10px 0px 0px ;
 	position: relative;
-	background: #0E0003 url("../images/bg_pattern_dark.png") repeat left top;
-}
-
-#u1075::before
-{
-	content: "";
-	position: absolute;
-	pointer-events: none;
-	top: 0px;
-	left: 0px;
-	bottom: 0px;
-	right: 0px;
-	border-radius: 10px 10px 0px 0px ;
-	box-shadow: inset 1px 1px 4px rgba(255,255,255,0.75), inset -1px -1px 4px rgba(0,0,0,0.75);
+	background: transparent url("../images/pattern-dark-grey.jpg") repeat left top;
 }
 
 #menuu1082
@@ -283,18 +271,19 @@
 
 #u1126
 {
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: none;
+	border-radius: 0px 0px 10px 10px ;
 	position: relative;
-	background: #FFFFFF url("../images/leather_1.jpg") repeat center center;
+	background: transparent url("../images/leather.jpg") repeat left top;
 }
 
-.main-container
+#u1075:hover,#u1126:hover
 {
-	border-style: none;
-	-pie-box-shadow: 6px 6px 8px #7F7F7F;
-	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	border-color: #000000;
-	border-radius: 0px 0px 10px 10px ;
-	background: #FFFFFF url("../images/bg_pattern_light.png") repeat center center;
+	background-repeat: repeat;
+	background-position: left top;
+	background-color: transparent;
 }
 
 #u109
@@ -302,7 +291,7 @@
 	border-style: solid;
 	border-color: #7F7F7F;
 	border-width: 1px 0px 0px;
-	background: #333333 url("../images/pattern-dark-grey-cropped.jpg") repeat-x left top;
+	background: #333333 url("../images/pattern-dark-grey.jpg") repeat-x left top;
 }
 
 #u109:active

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E3;
-	background-color: #4C69EE;
+	color: #00001A;
+	background-color: #138EA4;
 }
 
 .html
@@ -18,7 +18,7 @@
 	border-color: #000000;
 	margin-left: auto;
 	margin-right: auto;
-	background: transparent url("../images/leather_1.jpg") repeat left top;
+	background: transparent url("../images/leather.jpg") repeat left top;
 }
 
 #page_position_content
@@ -51,6 +51,13 @@
 	z-index: 19;
 	width: 943px;
 	padding-bottom: 1px;
+}
+
+#u1075:hover
+{
+	width: 943px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #menuu1082
@@ -388,8 +395,8 @@
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 10px;
-	background: transparent url("../images/author-ieu437-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/author.jpg") no-repeat center center;
+	background: transparent url("../images/avatar-1-ieu437-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/avatar-1.jpg") no-repeat center center;
 	background-color: transparent;
 	background-size: cover;
 }
@@ -400,10 +407,10 @@
 	width: 662px;
 	min-height: 176px;
 	background-color: transparent;
-	line-height: 46px;
+	color: #0092C4;
 	text-align: center;
 	font-size: 38px;
-	color: #0092C4;
+	line-height: 46px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -640,6 +647,14 @@
 	width: 942px;
 	height: 35px;
 	margin-right: -10000px;
+}
+
+#u1126:hover
+{
+	width: 942px;
+	height: 35px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u109

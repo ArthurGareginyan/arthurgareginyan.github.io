@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #000007;
-	background-color: #9561D6;
+	color: #0000F3;
+	background-color: #3242E4;
 }
 
 .html
@@ -18,7 +18,7 @@
 	border-color: #000000;
 	margin-left: auto;
 	margin-right: auto;
-	background: transparent url("../images/leather_1.jpg") repeat left top;
+	background: transparent url("../images/leather.jpg") repeat left top;
 }
 
 #page_position_content
@@ -51,6 +51,13 @@
 	z-index: 19;
 	width: 943px;
 	padding-bottom: 1px;
+}
+
+#u1075:hover
+{
+	width: 943px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #menuu1082
@@ -395,6 +402,14 @@
 	width: 942px;
 	height: 35px;
 	margin-right: -10000px;
+}
+
+#u1126:hover
+{
+	width: 942px;
+	height: 35px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u109

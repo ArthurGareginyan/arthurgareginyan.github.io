@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000004;
-	background-color: #6785DD;
+	color: #00000F;
+	background-color: #2FB48D;
 }
 
 .html
@@ -18,7 +18,7 @@
 	border-color: #000000;
 	margin-left: auto;
 	margin-right: auto;
-	background: transparent url("../images/leather_1.jpg") repeat left top;
+	background: transparent url("../images/leather.jpg") repeat left top;
 }
 
 #u1070
@@ -46,6 +46,13 @@
 	z-index: 19;
 	width: 943px;
 	padding-bottom: 1px;
+}
+
+#u1075:hover
+{
+	width: 943px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #menuu1082
@@ -367,7 +374,7 @@
 	width: 868px;
 	height: 16px;
 	border-style: solid;
-	border-color: #7F7F7F;
+	border-color: #0093C4;
 	background-color: transparent;
 	margin-bottom: -1px;
 	position: relative;
@@ -405,7 +412,7 @@
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 10px;
-	background: transparent url("../images/7975502.jpg") no-repeat center center;
+	background: transparent url("../images/avatar-2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -510,12 +517,12 @@
 #u1267
 {
 	z-index: 99;
-	width: 38px;
+	width: 41px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 192px;
-	left: 473px;
+	left: 470px;
 }
 
 #u1125
@@ -531,6 +538,14 @@
 	width: 942px;
 	height: 35px;
 	margin-right: -10000px;
+}
+
+#u1126:hover
+{
+	width: 942px;
+	height: 35px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u109
