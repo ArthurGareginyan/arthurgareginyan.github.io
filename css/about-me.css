@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000003;
-	background-color: #C63593;
+	color: #0000FA;
+	background-color: #8C8EFA;
 }
 
 .html
@@ -523,6 +523,40 @@
 	margin-right: -10000px;
 	margin-top: 221px;
 	left: 470px;
+}
+
+#u1351-6
+{
+	z-index: 110;
+	width: 898px;
+	min-height: 78px;
+	background-color: transparent;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-left: 22px;
+	margin-top: 42px;
+	position: relative;
+}
+
+#u1351-2
+{
+	font-size: 20px;
+	text-align: center;
+	line-height: 24px;
+	color: #0093C4;
+}
+
+#u1351-3
+{
+	font-size: 20px;
+	line-height: 24px;
+	color: #0093C4;
+}
+
+#u1351-4
+{
+	font-size: 16px;
+	line-height: 19px;
 }
 
 #u1125
