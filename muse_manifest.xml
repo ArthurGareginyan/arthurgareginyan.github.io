@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452081460722">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452142775069">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="484652209" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks"/>
     <file name="resume.css" crc="72979514" ref="resume"/>
     <file name="donate.css" crc="9130620" ref="donate"/>
-    <file name="index.css" crc="437489316" ref="index"/>
+    <file name="index.css" crc="4218871660" ref="index"/>
     <file name="about-me.css" crc="254784653" ref="about-me"/>
     <file name="portfolio.css" crc="3854143111" ref="portfolio"/>
     <file name="contact.css" crc="110595698" ref="contact"/>
@@ -33,7 +33,7 @@
     <file name="avatar-1.jpg" crc="35660737" ref="index"/>
     <file name="avatar-2.jpg" crc="3933992100" ref="about-me"/>
   </folder>
-  <file name="index.html" crc="3911861058" seo="true" mt="1452081402704" redirect="true"/>
+  <file name="index.html" crc="346985997" seo="true" mt="1452142732521" redirect="true"/>
   <file name="contact.html" crc="504948352" seo="true" mt="1452081402704" redirect="true"/>
   <file name="resume.html" crc="302032682" seo="true" mt="1452081402704" redirect="true"/>
   <file name="portfolio.html" crc="127873932" seo="true" mt="1452081402704" redirect="true"/>
