@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452142775069">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452143095414">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="484652209" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks"/>
     <file name="resume.css" crc="72979514" ref="resume"/>
     <file name="donate.css" crc="9130620" ref="donate"/>
     <file name="index.css" crc="4218871660" ref="index"/>
-    <file name="about-me.css" crc="254784653" ref="about-me"/>
+    <file name="about-me.css" crc="63321491" ref="about-me"/>
     <file name="portfolio.css" crc="3854143111" ref="portfolio"/>
     <file name="contact.css" crc="110595698" ref="contact"/>
     <file name="privacy-policy.css" crc="65414179" ref="privacy-policy"/>
@@ -28,7 +28,7 @@
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks"/>
     <file name="smiling_face.png" crc="3841365763" seo="true" ref="about-me"/>
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:about-me"/>
     <file name="avatar-1-ieu437-fr.png" crc="30896931" ref="index"/>
     <file name="avatar-1.jpg" crc="35660737" ref="index"/>
     <file name="avatar-2.jpg" crc="3933992100" ref="about-me"/>
@@ -37,7 +37,7 @@
   <file name="contact.html" crc="504948352" seo="true" mt="1452081402704" redirect="true"/>
   <file name="resume.html" crc="302032682" seo="true" mt="1452081402704" redirect="true"/>
   <file name="portfolio.html" crc="127873932" seo="true" mt="1452081402704" redirect="true"/>
-  <file name="about-me.html" crc="321613711" seo="true" mt="1452081458443" redirect="true"/>
+  <file name="about-me.html" crc="4180054332" seo="true" mt="1452143086146" redirect="true"/>
   <file name="donate.html" crc="103238908" seo="true" mt="1452081402704" redirect="true"/>
   <file name="privacy-policy.html" crc="4176985226" seo="true" mt="1452081402704" redirect="true"/>
   <file name="contact-thanks.html" crc="49588614" seo="true" mt="1452081402704" redirect="true"/>
