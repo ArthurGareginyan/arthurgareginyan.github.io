@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000E3;
-	background-color: #4AC0CA;
+	color: #000016;
+	background-color: #471A13;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 622.9999999999999px;
+	min-height: 622.9999999999998px;
 	border-style: none;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -29,7 +29,7 @@
 
 #u1070
 {
-	z-index: 14;
+	z-index: 12;
 	width: 944px;
 }
 
@@ -41,7 +41,7 @@
 
 #u1074-4
 {
-	z-index: 15;
+	z-index: 13;
 	width: 298px;
 	min-height: 41px;
 	margin-left: 11px;
@@ -49,7 +49,7 @@
 
 #u1075
 {
-	z-index: 19;
+	z-index: 17;
 	width: 943px;
 	padding-bottom: 1px;
 }
@@ -63,7 +63,7 @@
 
 #menuu1082
 {
-	z-index: 20;
+	z-index: 18;
 	width: 940px;
 	margin-right: -10000px;
 	margin-top: 9px;
@@ -390,7 +390,7 @@
 	border-width: 0px 0px 1px;
 }
 
-#u1253-70
+#u1253-79
 {
 	z-index: 64;
 	width: 898px;
@@ -420,43 +420,62 @@
 	font-weight: 400;
 }
 
-#u1253-11,#u1253-12,#u1253-18,#u1253-19
+#u1253-16
+{
+	padding-left: 70px;
+	color: #534741;
+}
+
+#u1253-17 > #u1253-16:before
+{
+	font-family: bitter, Georgia;
+	font-weight: 400;
+	margin-right: -64px;
+}
+
+#u1253-17.rtl-list > #u1253-16:before
+{
+	margin-right: 0px;
+	margin-left: -64px;
+}
+
+#u1253-11,#u1253-13,#u1253-14,#u1253-18,#u1253-19,#u1253-25,#u1253-27,#u1253-28
 {
 	font-size: 16px;
 	line-height: 19px;
 	color: #534741;
 }
 
-#u1253-20
+#u1253-29
 {
 	font-size: 14px;
 	color: #7F7F7F;
 }
 
-#u1253-26,#u1253-38,#u1253-39
+#u1253-35,#u1253-47,#u1253-48
 {
 	font-size: 16px;
 	line-height: 19px;
 	color: #0093C4;
 }
 
-#u1253-14,#u1253-29,#u1253-41,#u1253-47,#u1253-53,#u1253-59
+#u1253-21,#u1253-38,#u1253-50,#u1253-56,#u1253-62,#u1253-68
 {
 	font-weight: 700;
 }
 
-#u1253-33,#u1253-43,#u1253-49,#u1253-55,#u1253-61
+#u1253-42,#u1253-52,#u1253-58,#u1253-64,#u1253-70
 {
 	color: #534741;
 }
 
-#u1253-9,#u1253-16,#u1253-21,#u1253-24,#u1253-27,#u1253-31,#u1253-34,#u1253-35,#u1253-36,#u1253-44,#u1253-45,#u1253-50,#u1253-51,#u1253-56,#u1253-57,#u1253-62,#u1253-63,#u1253-64
+#u1253-9,#u1253-23,#u1253-30,#u1253-33,#u1253-36,#u1253-40,#u1253-43,#u1253-44,#u1253-45,#u1253-53,#u1253-54,#u1253-59,#u1253-60,#u1253-65,#u1253-66,#u1253-71,#u1253-72,#u1253-73
 {
 	font-size: 16px;
 	line-height: 19px;
 }
 
-#u1253,#u1253-4,#u1253-23,#u1253-66
+#u1253,#u1253-4,#u1253-32,#u1253-75
 {
 	font-size: 20px;
 	text-align: center;
@@ -464,7 +483,7 @@
 	color: #0093C4;
 }
 
-#u1253-2,#u1253-67,#u1253-68
+#u1253-2,#u1253-76,#u1253-77
 {
 	font-size: 20px;
 	text-align: left;
@@ -492,25 +511,25 @@
 	left: 875px;
 }
 
-#u427
+#u1361
 {
-	z-index: 12;
-	width: 14px;
+	z-index: 57;
+	width: 13px;
 	margin-right: -10000px;
-	margin-top: 12px;
+	margin-top: 13px;
 	left: 924px;
 }
 
 #u1125
 {
-	z-index: 57;
+	z-index: 55;
 	width: 943px;
 	padding-bottom: 49px;
 }
 
 #u1126
 {
-	z-index: 58;
+	z-index: 56;
 	width: 942px;
 	height: 35px;
 	margin-right: -10000px;

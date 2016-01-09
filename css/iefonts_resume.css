@@ -33,8 +33,13 @@
 	font-family: bitter-n4, serif;
 }
 
-#u404-4,#u1253-70,#u1253-7,#u1253-8
+#u404-4,#u1253-79,#u1253-7,#u1253-8
 {
 	font-family: bitter-n4, serif;
+}
+
+#u1253-17 > #u1253-16:before
+{
+	font-family: bitter-n4, Georgia;
 }
 
