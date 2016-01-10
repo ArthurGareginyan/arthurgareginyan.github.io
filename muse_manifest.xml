@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452383980112">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452384554630">
   <folder name="css">
     <file name="site_global.css" crc="453856629"/>
     <file name="master_main.css" crc="3849502362" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks"/>
@@ -33,12 +33,12 @@
     <file name="avatar-1.jpg" crc="35660737" ref="index"/>
     <file name="avatar-2.jpg" crc="3933992100" ref="about-me"/>
   </folder>
-  <file name="index.html" crc="3974607139" seo="true" mt="1452383956283" redirect="true"/>
-  <file name="contact.html" crc="4187672029" seo="true" mt="1452383956283" redirect="true"/>
-  <file name="resume.html" crc="455395232" seo="true" mt="1452383956283" redirect="true"/>
-  <file name="portfolio.html" crc="4196120518" seo="true" mt="1452383956283" redirect="true"/>
-  <file name="about-me.html" crc="3804465679" seo="true" mt="1452383956283" redirect="true"/>
-  <file name="donate.html" crc="63486721" seo="true" mt="1452383956283" redirect="true"/>
-  <file name="privacy-policy.html" crc="57992159" seo="true" mt="1452383956283" redirect="true"/>
-  <file name="contact-thanks.html" crc="512116043" seo="true" mt="1452383956283" redirect="true"/>
+  <file name="index.html" crc="4143250756" seo="true" mt="1452384544677" redirect="true"/>
+  <file name="contact.html" crc="4242131659" seo="true" mt="1452384544677" redirect="true"/>
+  <file name="resume.html" crc="455656642" seo="true" mt="1452384544677" redirect="true"/>
+  <file name="portfolio.html" crc="3885236171" seo="true" mt="1452384544677" redirect="true"/>
+  <file name="about-me.html" crc="4022996557" seo="true" mt="1452384544677" redirect="true"/>
+  <file name="donate.html" crc="3781806959" seo="true" mt="1452384544677" redirect="true"/>
+  <file name="privacy-policy.html" crc="4125263371" seo="true" mt="1452384544677" redirect="true"/>
+  <file name="contact-thanks.html" crc="527941757" seo="true" mt="1452384544677" redirect="true"/>
 </manifest>
