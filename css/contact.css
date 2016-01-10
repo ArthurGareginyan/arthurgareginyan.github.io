@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000009;
-	background-color: #AB6A99;
+	color: #0000EC;
+	background-color: #F2DDC0;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 622.5000000000016px;
+	min-height: 622.50897184826px;
 	border-style: none;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -437,12 +437,12 @@
 #u1221
 {
 	z-index: 64;
-	width: 898px;
-	min-height: 713px;
+	width: 844px;
+	min-height: 472px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 22px;
+	margin-left: 55px;
 	margin-top: 19px;
 	position: relative;
 }
