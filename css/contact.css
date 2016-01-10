@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000E6;
-	background-color: #6CE796;
+	color: #000001;
+	background-color: #3E77CE;
 }
 
 .html
@@ -435,12 +435,12 @@
 #u1221
 {
 	z-index: 64;
-	width: 841px;
-	min-height: 497px;
+	width: 899px;
+	min-height: 641px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 57px;
+	margin-left: 22px;
 	margin-top: 23px;
 	position: relative;
 }
