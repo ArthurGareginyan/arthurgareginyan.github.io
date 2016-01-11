@@ -19,14 +19,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.arthurgareginyan.com/images/404-2.png</loc>
+    <lastmod>2016-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.arthurgareginyan.com/index.html</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/contact.html</loc>
-    <lastmod>2016-01-11</lastmod>
+    <lastmod>2016-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,31 +44,37 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/portfolio.html</loc>
-    <lastmod>2016-01-11</lastmod>
+    <lastmod>2016-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/about-me.html</loc>
-    <lastmod>2016-01-11</lastmod>
+    <lastmod>2016-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/donate.html</loc>
-    <lastmod>2016-01-11</lastmod>
+    <lastmod>2016-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/privacy-policy.html</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/contact-thanks.html</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/404.html</loc>
+    <lastmod>2016-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
