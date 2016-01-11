@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
 	color: #0000ED;
-	background-color: #E9EC45;
+	background-color: #1E50CB;
 }
 
 .html
@@ -379,7 +379,6 @@
 	min-height: 126px;
 	background-color: transparent;
 	font-family: bitter, serif;
-	font-weight: 700;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 39px;
@@ -389,18 +388,21 @@
 {
 	font-size: 25px;
 	line-height: 30px;
+	font-weight: 700;
 }
 
 #u1380-4
 {
 	font-size: 20px;
 	line-height: 24px;
+	font-weight: 700;
 }
 
 #u1380-5,#u1380-7,#u1380-9
 {
 	font-size: 16px;
 	line-height: 19px;
+	font-weight: 400;
 }
 
 #u1417
