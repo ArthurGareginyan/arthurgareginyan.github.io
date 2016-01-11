@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #00001F;
-	background-color: #396241;
+	color: #000011;
+	background-color: #0A96DD;
 }
 
 .html
@@ -412,9 +412,31 @@
 	font-weight: 400;
 }
 
+#u1253-17
+{
+	padding-left: 34px;
+}
+
+#u1253-17.rtl-list
+{
+	padding-left: 0px;
+	padding-right: 34px;
+}
+
+#u1253-17 > li:before
+{
+	margin-right: 6px;
+}
+
+#u1253-17.rtl-list > li:before
+{
+	margin-right: 0px;
+	margin-left: 6px;
+}
+
 #u1253-16
 {
-	padding-left: 70px;
+	padding-left: 145px;
 	color: #534741;
 }
 
@@ -422,13 +444,13 @@
 {
 	font-family: bitter, Georgia;
 	font-weight: 400;
-	margin-right: -64px;
+	margin-right: -139px;
 }
 
 #u1253-17.rtl-list > #u1253-16:before
 {
 	margin-right: 0px;
-	margin-left: -64px;
+	margin-left: -139px;
 }
 
 #u1253-11,#u1253-13,#u1253-14,#u1253-18,#u1253-19,#u1253-25,#u1253-27,#u1253-28
