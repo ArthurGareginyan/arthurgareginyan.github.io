@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000EC;
-	background-color: #F2DDC0;
+	color: #000010;
+	background-color: #C50EEA;
 }
 
 .html
@@ -339,61 +339,23 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pppu1202-4
+#ppu1223-4
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 8px;
+	margin-top: 16px;
 }
 
-#ppu1202-4
+#pu1223-4
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
-}
-
-#pu1202-4
-{
-	width: 0.01px;
-	margin-left: 15px;
-}
-
-#u1202-4
-{
-	z-index: 59;
-	width: 216px;
-	min-height: 34px;
-	background-color: transparent;
-	color: #0092C4;
-	text-align: center;
-	font-size: 30px;
-	line-height: 36px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	left: 326px;
-}
-
-#u1203
-{
-	z-index: 63;
-	width: 868px;
-	height: 16px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 20px;
-	border-width: 0px 0px 1px;
+	margin-top: 22px;
 }
 
 #u1223-4
 {
-	z-index: 65;
+	z-index: 60;
 	width: 898px;
 	min-height: 56px;
 	background-color: transparent;
@@ -401,7 +363,19 @@
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-top: 24px;
+	position: relative;
+}
+
+#u1221
+{
+	z-index: 59;
+	width: 844px;
+	min-height: 472px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 33px;
+	margin-top: 48px;
 	position: relative;
 }
 
@@ -411,7 +385,6 @@
 	width: 19px;
 	height: 137px;
 	margin-right: -10000px;
-	margin-top: 8px;
 	left: 921px;
 }
 
@@ -421,7 +394,7 @@
 	width: 114px;
 	min-height: 19px;
 	margin-right: -10000px;
-	margin-top: 72px;
+	margin-top: 64px;
 	left: 875px;
 }
 
@@ -430,21 +403,8 @@
 	z-index: 57;
 	width: 13px;
 	margin-right: -10000px;
-	margin-top: 13px;
+	margin-top: 5px;
 	left: 924px;
-}
-
-#u1221
-{
-	z-index: 64;
-	width: 844px;
-	min-height: 472px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 55px;
-	margin-top: 19px;
-	position: relative;
 }
 
 #u1125

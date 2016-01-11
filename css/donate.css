@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #00001D;
-	background-color: #0FF8F0;
+	color: #0000EF;
+	background-color: #CFA189;
 }
 
 .html
@@ -13,10 +13,9 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 622.8999999999999px;
+	min-height: 623px;
 	border-style: none;
 	border-color: #000000;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
@@ -338,67 +337,50 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pppu402-4
+#ppu425
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 8px;
+	margin-top: 16px;
 }
 
-#ppu402-4
+#pu425
 {
 	width: 0.01px;
-	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-left: 921px;
+}
+
+#u425
+{
+	z-index: 7;
+	width: 19px;
+	height: 137px;
 	margin-right: -10000px;
 }
 
-#pu402-4
+#u426-4
 {
-	width: 0.01px;
-	margin-left: 15px;
-}
-
-#u402-4
-{
-	z-index: 59;
-	width: 216px;
-	min-height: 34px;
-	background-color: transparent;
-	color: #0092C4;
-	text-align: center;
-	font-size: 30px;
-	line-height: 36px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
+	z-index: 8;
+	width: 114px;
+	min-height: 19px;
 	margin-right: -10000px;
-	left: 326px;
+	margin-top: 64px;
+	left: -47px;
 }
 
-#u406
+#u1361
 {
-	z-index: 63;
-	width: 868px;
-	height: 16px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
+	z-index: 57;
+	width: 13px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	border-width: 0px 0px 1px;
-}
-
-#pu1225-19
-{
-	width: 0.01px;
-	margin-top: 22px;
+	margin-top: 5px;
+	left: 3px;
 }
 
 #u1225-19
 {
-	z-index: 64;
+	z-index: 59;
 	width: 898px;
 	min-height: 323px;
 	background-color: transparent;
@@ -408,11 +390,12 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 28px;
 }
 
 #u1235
 {
-	z-index: 83;
+	z-index: 78;
 	width: 118px;
 	min-height: 33px;
 	border-style: none;
@@ -420,37 +403,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 193px;
+	margin-top: 224px;
 	left: 400px;
-}
-
-#u425
-{
-	z-index: 7;
-	width: 19px;
-	height: 137px;
-	margin-right: -10000px;
-	margin-top: 8px;
-	left: 921px;
-}
-
-#u426-4
-{
-	z-index: 8;
-	width: 114px;
-	min-height: 19px;
-	margin-right: -10000px;
-	margin-top: 72px;
-	left: 875px;
-}
-
-#u1361
-{
-	z-index: 57;
-	width: 13px;
-	margin-right: -10000px;
-	margin-top: 13px;
-	left: 924px;
 }
 
 #u1125
@@ -458,6 +412,7 @@
 	z-index: 55;
 	width: 943px;
 	padding-bottom: 49px;
+	margin-top: 4px;
 }
 
 #u1126
