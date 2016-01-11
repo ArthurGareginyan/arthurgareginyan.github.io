@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #00001E;
-	background-color: #554F2E;
+	color: #0000E5;
+	background-color: #1F07C2;
 }
 
 .html
@@ -409,14 +409,14 @@
 	line-height: 19px;
 }
 
-#u1405
+#u1411
 {
 	z-index: 70;
 	width: 664px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 55px;
+	margin-top: 65px;
 	left: 67px;
 }
 
