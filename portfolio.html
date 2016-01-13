@@ -87,8 +87,8 @@ var __adobewebfontsappname__ = "muse";
 function popUpWindow(URL, windowName, windowWidth, windowHeight) {
 	var centerLeft = (screen.width/2)-(windowWidth/2);
 	var centerTop = (screen.height/2)-(windowHeight/2);
-	var features = ''toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, ';
-	return window.open(url, windowName, '+ features +' width='+ windowWidth +', height='+ windowHeight +', top='+centerTop+', left='+centerLeft);
+	var features = 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, ';
+	return window.open(url, windowName, features +' width='+ windowWidth +', height='+ windowHeight +', top='+ centerTop +', left='+centerLeft);
 } 
 </script>
 </div>
