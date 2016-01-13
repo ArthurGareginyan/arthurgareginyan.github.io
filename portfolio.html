@@ -85,10 +85,9 @@ var __adobewebfontsappname__ = "muse";
    * @param windowHeight the window height in pixels (integer)
    */
 function popUpWindow(url, windowName, w, h) {
-	var left = (screen.width/2)-(w/2);
-	var top = (screen.height/2)-(h/2);
-	var window = window.open(url, windowName, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
-	return window;
+	var centerLeft = (screen.width/2)-(w/2);
+	var centerTop = (screen.height/2)-(h/2);
+	return window.open(url, windowName, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+centerTop+', left='+centerLeft);
 } 
 </script>
 </div>
