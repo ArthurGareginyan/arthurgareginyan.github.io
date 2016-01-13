@@ -76,14 +76,20 @@ var __adobewebfontsappname__ = "muse";
      <div class="clearfix grpelem" id="pu1424"><!-- column -->
       <div class="colelem" id="u1424"><!-- custom html -->
        <script language="JavaScript">
-
-function popUpWindow(URL, windowName, windowWidth, windowHeight) {
+  /**
+   * Open centered pop-up window
+   *
+   * @param URL - the URL to open
+   * @param windowName - the name of the window
+   * @param windowWidth - the window width in pixels (integer)
+   * @param windowHeight - the window height in pixels (integer)
+   */
+   function popUpWindow(URL, windowName, windowWidth, windowHeight) {
 	var centerLeft = (screen.width/2)-(windowWidth/2);
 	var centerTop = (screen.height/2)-(windowHeight/2);
 	var features = 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, ';
-	return window.open(URL, windowName, features +' width='+ windowWidth +', height='+ windowHeight +', top='+ centerTop +', left='+centerLeft);
-} 
-
+	return window.open(URL, windowName, features +' width='+ windowWidth +', height='+ windowHeight +', top='+ centerTop +', left='+ centerLeft);
+   } 
 </script>
 </div>
       <div class="clearfix colelem" id="u1299-7"><!-- content -->
