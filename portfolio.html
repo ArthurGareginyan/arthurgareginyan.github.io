@@ -76,24 +76,11 @@ var __adobewebfontsappname__ = "muse";
      <div class="clearfix grpelem" id="pu1424"><!-- column -->
       <div class="colelem" id="u1424"><!-- custom html -->
        <script language="JavaScript">
-  /**
-   * Opens window screen centered.
-   * @param url the url to open
-   * @param windowName the name of the window
-   * @param windowWidth the window width in pixels (integer)
-   * @param windowHeight the window height in pixels (integer)
-   * @param windowOuterHeight the window outer height in pixels (integer)
-   */
-  function popUpWindow( url, windowName, windowWidth, windowHeight, windowOuterHeight ) {
-    var centerLeft = parseInt((window.screen.availWidth - windowWidth) / 2);
-    var centerTop = parseInt(((window.screen.availHeight - windowHeight) / 2) - windowOuterHeight);
-     
-    var windowFeatures = 'width=' + windowWidth + ',height=' + windowHeight + ',left=' + centerLeft + ',top=' + centerTop + ', status=no, location=no, scrollbars=yes, resizable=yes';
-    var window = window.open(url, windowName, windowFeatures);
-    window.focus();
-
-    return window;
-  }
+   function popUpWindow(url, title, w, h) {
+	var left = (screen.width/2)-(w/2);
+	var top = (screen.height/2)-(h/2);
+	return window.open( url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left );
+   } 
 </script>
 </div>
       <div class="clearfix colelem" id="u1299-7"><!-- content -->
@@ -119,7 +106,7 @@ var __adobewebfontsappname__ = "muse";
      <p id="u1300-5"><span id="u1300-4">&nbsp;&nbsp; Lorem ipsum dolor sit amet, consectetur adipisici elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></p>
     </div>
     <div class="clearfix colelem" id="pu1305"><!-- group -->
-     <a class="nonblock nontext grpelem" id="u1305" href="javascript:popUpWindow('http://www.arthurgareginyan.com/theme-fashion-style.html','Testing','600','600','10')"><!-- simple frame --></a>
+     <a class="nonblock nontext grpelem" id="u1305" href="javascript:popUpWindow('http://www.arthurgareginyan.com/theme-fashion-style.html','Testing','600','600')"><!-- simple frame --></a>
      <div class="grpelem" id="u1307"><!-- simple frame --></div>
      <div class="grpelem" id="u1306"><!-- simple frame --></div>
     </div>
