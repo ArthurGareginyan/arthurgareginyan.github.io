@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000FF;
-	background-color: #DF1CAC;
+	color: #0000E7;
+	background-color: #08DE62;
 }
 
 .html
@@ -337,11 +337,52 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu425
+#ppu1424
 {
 	width: 0.01px;
 	margin-left: 22px;
 	margin-top: 16px;
+}
+
+#pu1424
+{
+	width: 0.01px;
+	padding-bottom: 1px;
+	margin-right: -10000px;
+	margin-top: 2px;
+}
+
+#u1424
+{
+	z-index: 95;
+	width: 200px;
+	min-height: 21px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 698px;
+	position: relative;
+}
+
+#u1299-7
+{
+	z-index: 59;
+	width: 898px;
+	min-height: 77px;
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u1299-3
+{
+	text-align: left;
+	color: #000000;
 }
 
 #u425
@@ -372,27 +413,6 @@
 	left: 924px;
 }
 
-#u1299-7
-{
-	z-index: 59;
-	width: 898px;
-	min-height: 77px;
-	background-color: transparent;
-	line-height: 24px;
-	font-size: 20px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 22px;
-}
-
-#u1299-3
-{
-	text-align: left;
-	color: #000000;
-}
-
 #pu1302
 {
 	width: 0.01px;
@@ -408,10 +428,11 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
-	background-color: #7F7F7F;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
+	background: #7F7F7F url("../images/screenshot.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u1304
@@ -422,11 +443,12 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
-	background-color: #7F7F7F;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
+	background: #7F7F7F url("../images/screenshot2.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u1303
@@ -437,11 +459,12 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
-	background-color: #7F7F7F;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	left: 623px;
+	background: #7F7F7F url("../images/screenshot3.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u1300-7
