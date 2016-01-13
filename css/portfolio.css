@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000E7;
-	background-color: #08DE62;
+	color: #0000F1;
+	background-color: #BA4C56;
 }
 
 .html
@@ -463,7 +463,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 623px;
-	background: #7F7F7F url("../images/screenshot3.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/screenshot-u1303-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
