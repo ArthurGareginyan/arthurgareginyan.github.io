@@ -77,17 +77,18 @@ var __adobewebfontsappname__ = "muse";
       <div class="colelem" id="u1424"><!-- custom html -->
        <script language="JavaScript">
   /**
-   * Open pop-up window
+   * Open centered pop-up window
    *
-   * @param url the url to open
-   * @param windowName the name of the window
-   * @param windowWidth the window width in pixels (integer)
-   * @param windowHeight the window height in pixels (integer)
+   * @param URL - the URL to open
+   * @param windowName - the name of the window
+   * @param windowWidth - the window width in pixels (integer)
+   * @param windowHeight - the window height in pixels (integer)
    */
-function popUpWindow(url, windowName, windowWidth, windowHeight) {
+function popUpWindow(URL, windowName, windowWidth, windowHeight) {
 	var centerLeft = (screen.width/2)-(windowWidth/2);
 	var centerTop = (screen.height/2)-(windowHeight/2);
-	return window.open(url, windowName, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+ windowWidth +', height='+ windowHeight +', top='+centerTop+', left='+centerLeft);
+	var features = ''toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, ';
+	return window.open(url, windowName, features, 'width='+ windowWidth +', height='+ windowHeight +', top='+centerTop+', left='+centerLeft);
 } 
 </script>
 </div>
@@ -104,8 +105,8 @@ function popUpWindow(url, windowName, windowWidth, windowHeight) {
      </div>
     </div>
     <div class="clearfix colelem" id="pu1302"><!-- group -->
-     <a class="nonblock nontext museBGSize grpelem" id="u1302" href="javascript:popUpWindow('http://www.arthurgareginyan.com/theme-fashion-style.html','Testing','600','600')"><!-- simple frame --></a>
-     <a class="nonblock nontext museBGSize grpelem" id="u1304" href="javascript:popUpWindow('http://www.arthurgareginyan.com/theme-fashion-style.html','Testing','600','600')"><!-- simple frame --></a>
+     <a class="nonblock nontext museBGSize grpelem" id="u1302" href="javascript:popUpWindow('http://www.arthurgareginyan.com/theme-fashion-style.html','Testing','700','600')"><!-- simple frame --></a>
+     <a class="nonblock nontext museBGSize grpelem" id="u1304" href="javascript:popUpWindow('http://www.arthurgareginyan.com/theme-fashion-style.html','Testing','700','600')"><!-- simple frame --></a>
      <a class="nonblock nontext museBGSize grpelem" id="u1303" href="javascript:popUpWindow('http://www.arthurgareginyan.com/theme-fashion-style.html','Testing','700','600')"><!-- simple frame --></a>
     </div>
     <div class="clearfix colelem" id="u1300-7"><!-- content -->
@@ -114,7 +115,7 @@ function popUpWindow(url, windowName, windowWidth, windowHeight) {
      <p id="u1300-5"><span id="u1300-4">&nbsp;&nbsp; Lorem ipsum dolor sit amet, consectetur adipisici elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></p>
     </div>
     <div class="clearfix colelem" id="pu1305"><!-- group -->
-     <a class="nonblock nontext grpelem" id="u1305" href="javascript:popUpWindow('http://www.arthurgareginyan.com/theme-fashion-style.html','Testing','600','600')"><!-- simple frame --></a>
+     <div class="grpelem" id="u1305"><!-- simple frame --></div>
      <div class="grpelem" id="u1307"><!-- simple frame --></div>
      <div class="grpelem" id="u1306"><!-- simple frame --></div>
     </div>
