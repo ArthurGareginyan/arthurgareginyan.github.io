@@ -1,7 +1,7 @@
 .version.theme_fashion_style /* version checker */
 {
-	color: #000001;
-	background-color: #863C7B;
+	color: #0000E0;
+	background-color: #F34351;
 }
 
 .html
@@ -12,15 +12,37 @@
 #page
 {
 	z-index: 1;
-	width: 657px;
-	min-height: 483.5px;
+	width: 500px;
+	min-height: 499.75px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 16px 110px 1px 175px;
+}
+
+#page_position_content
+{
+	padding-top: 13px;
+	width: 0.01px;
+}
+
+#pu1454
+{
+	width: 0.01px;
+	margin-left: -79px;
+}
+
+#u1454
+{
+	z-index: 2;
+	width: 657px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 82px;
 }
 
 #u1457-6
@@ -33,6 +55,7 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u1457-2
@@ -47,19 +70,28 @@
 	line-height: 26px;
 }
 
-#u1454
+#u1459
 {
-	z-index: 2;
-	width: 657px;
-	background-color: transparent;
-	margin-top: 16px;
+	z-index: 10;
+	width: 488px;
+	height: 26px;
+	margin-left: 6px;
+	margin-top: 20px;
 	position: relative;
+}
+
+.ie #u1459
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 body
 {
 	position: relative;
-	min-width: 942px;
+	min-width: 500px;
 }
 
 #page .verticalspacer

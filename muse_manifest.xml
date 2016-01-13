@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452718385934">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452718573772">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="48038226" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
@@ -13,7 +13,7 @@
     <file name="iefonts_resume.css" crc="527725121" ref="resume"/>
     <file name="404.css" crc="3978186955" ref="404"/>
     <file name="iefonts_404.css" crc="100851411" ref="404"/>
-    <file name="theme-fashion-style.css" crc="25574523" ref="theme-fashion-style"/>
+    <file name="theme-fashion-style.css" crc="3774038865" ref="theme-fashion-style"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
@@ -24,7 +24,7 @@
     <file name="pie.js" crc="3827607177" ref="index:about-me:404:portfolio"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="portfolio"/>
   </folder>
   <folder name="images">
@@ -37,9 +37,8 @@
     <file name="avatar-1.jpg" crc="35660737" ref="index"/>
     <file name="avatar-2.jpg" crc="3933992100" ref="about-me"/>
     <file name="404.png" crc="3823096910" seo="true" ref="404"/>
-    <file name="screenshot.jpg" crc="3831060545" ref="portfolio"/>
+    <file name="screenshot.jpg" crc="523739691" ref="portfolio:theme-fashion-style" seo="true"/>
     <file name="screenshot2.jpg" crc="82349711" ref="portfolio"/>
-    <file name="screenshot3.jpg" crc="523739691" ref="theme-fashion-style" seo="true"/>
     <file name="screenshot-u1303-fr.jpg" crc="4271500440" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="4074862671" seo="true" mt="1452549197122" redirect="true"/>
@@ -51,5 +50,5 @@
   <file name="privacy-policy.html" crc="4276785601" seo="true" mt="1452549197122" redirect="true"/>
   <file name="contact-thanks.html" crc="3812956069" seo="true" mt="1452549197122" redirect="true"/>
   <file name="404.html" crc="192823257" seo="true" mt="1452556137475" redirect="true"/>
-  <file name="theme-fashion-style.html" crc="3959264658" seo="true" mt="1452717135747" redirect="true"/>
+  <file name="theme-fashion-style.html" crc="39770936" seo="true" mt="1452718563023" redirect="true"/>
 </manifest>
