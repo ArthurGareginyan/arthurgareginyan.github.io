@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000EB;
-	background-color: #3DF80D;
+	color: #000019;
+	background-color: #30117C;
 }
 
 .html
@@ -492,7 +492,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 623px;
-	background: #7F7F7F url("../images/screen%20shot%202016-01-14%20at%2035706%20am.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/screenshot-u1303-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -865,7 +865,7 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/bmw%20zet-3%20brutalityredesign.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/bmwz3brutality.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -987,7 +987,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
-	background: #7F7F7F url("../images/studio-krredesign.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/studio-kr.jpg") no-repeat center top;
 	background-size: cover;
 }
 

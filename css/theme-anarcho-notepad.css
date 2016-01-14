@@ -1,7 +1,7 @@
 .version.theme_anarcho_notepad /* version checker */
 {
-	color: #0000E3;
-	background-color: #02556A;
+	color: #0000EC;
+	background-color: #FBA19F;
 }
 
 .html
@@ -66,8 +66,8 @@
 #u1579-4
 {
 	z-index: 8;
-	width: 723px;
-	min-height: 58px;
+	width: 600px;
+	min-height: 168px;
 	background-color: transparent;
 	text-indent: 5px;
 	line-height: 21px;
@@ -75,7 +75,6 @@
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	left: -62px;
 	margin-top: 17px;
 	position: relative;
 }

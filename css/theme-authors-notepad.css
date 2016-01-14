@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
 	color: #000004;
-	background-color: #B67CA7;
+	background-color: #29A630;
 }
 
 .html
@@ -68,8 +68,8 @@
 #u1610-4
 {
 	z-index: 8;
-	width: 723px;
-	min-height: 58px;
+	width: 625px;
+	min-height: 140px;
 	background-color: transparent;
 	color: #000000;
 	text-align: justify;
@@ -78,7 +78,7 @@
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	left: -62px;
+	left: -13px;
 	margin-top: 20px;
 	position: relative;
 }
