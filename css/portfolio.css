@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000F1;
-	background-color: #BA4C56;
+	color: #00001B;
+	background-color: #01E966;
 }
 
 .html
@@ -485,45 +485,42 @@
 #u1305
 {
 	z-index: 83;
-	width: 244px;
-	height: 155px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: #7F7F7F;
-	margin-bottom: -1px;
+	width: 245px;
+	height: 156px;
+	border-style: none;
+	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	background: transparent url("../images/icon-256x256-u1305-fr.png") no-repeat center top;
+	background-size: contain;
 }
 
 #u1307
 {
 	z-index: 85;
-	width: 244px;
-	height: 155px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: #7F7F7F;
-	margin-bottom: -1px;
+	width: 245px;
+	height: 156px;
+	border-style: none;
+	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
+	background: transparent url("../images/icon-256x256-u1307-fr.png") no-repeat center top;
+	background-size: contain;
 }
 
 #u1306
 {
 	z-index: 84;
-	width: 244px;
-	height: 155px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: #7F7F7F;
-	margin-bottom: -1px;
+	width: 245px;
+	height: 156px;
+	border-style: none;
+	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 623px;
+	background: transparent url("../images/icon-256x256-u1306-fr.png") no-repeat center top;
+	background-size: contain;
 }
 
 #pu1314
@@ -536,45 +533,46 @@
 #u1314
 {
 	z-index: 92;
-	width: 244px;
-	height: 155px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: #7F7F7F;
-	margin-bottom: -1px;
+	width: 245px;
+	height: 156px;
+	border-style: none;
+	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	background: transparent url("../images/icon-256x256.png") no-repeat center top;
+	background-size: contain;
 }
 
 #u1316
 {
 	z-index: 94;
-	width: 244px;
-	height: 155px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: #7F7F7F;
-	margin-bottom: -1px;
+	width: 245px;
+	height: 156px;
+	border-style: none;
+	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
+	background: transparent url("../images/icon-256x256-u1316-fr.png") no-repeat center top;
+	background-size: contain;
 }
 
 #u1315
 {
 	z-index: 93;
-	width: 244px;
-	height: 155px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: #7F7F7F;
-	margin-bottom: -1px;
+	width: 245px;
+	height: 156px;
 	position: relative;
 	margin-right: -10000px;
 	left: 623px;
+}
+
+.ie #u1315
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 #u1301-7
