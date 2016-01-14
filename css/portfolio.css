@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000FA;
-	background-color: #98EBA2;
+	color: #0000E3;
+	background-color: #1C7DD5;
 }
 
 .html
@@ -631,10 +631,11 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
-	background-color: #7F7F7F;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
+	background: #7F7F7F url("../images/mycyberuniverse.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u1310
@@ -645,11 +646,12 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
-	background-color: #7F7F7F;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
+	background: #7F7F7F url("../images/bmw%20zet-3%20brutalityredesign.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u1309
@@ -660,18 +662,12 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
-	background-color: #7F7F7F;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	left: 623px;
-}
-
-#pu1311
-{
-	width: 0.01px;
-	margin-left: 37px;
-	margin-top: 19px;
+	background: #7F7F7F url("../images/oneberserkblogspotcom.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u1311
@@ -682,10 +678,11 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
-	background-color: #7F7F7F;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
+	background: #7F7F7F url("../images/anarcho-hosting.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u1313
@@ -696,11 +693,12 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
-	background-color: #7F7F7F;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
+	background: #7F7F7F url("../images/karolinaray.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #u1312
@@ -711,11 +709,66 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
-	background-color: #7F7F7F;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	left: 623px;
+	background: #7F7F7F url("../images/studio-krredesign.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#pu1311,#pu1539
+{
+	width: 0.01px;
+	margin-left: 37px;
+	margin-top: 19px;
+}
+
+#u1539
+{
+	z-index: 96;
+	width: 244px;
+	height: 155px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0093C4;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #7F7F7F url("../images/milenakiselevablogspotcom.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1541
+{
+	z-index: 98;
+	width: 244px;
+	height: 155px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0093C4;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 312px;
+	background: #7F7F7F url("../images/circuscostume.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1540
+{
+	z-index: 97;
+	width: 244px;
+	height: 155px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0093C4;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 623px;
+	background: #7F7F7F url("../images/vipmegastar.jpg") no-repeat left top;
+	background-size: cover;
 }
 
 #u1125

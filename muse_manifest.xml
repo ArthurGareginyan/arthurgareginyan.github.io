@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452733158498">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452734315989">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_main.css" crc="48038226" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
@@ -6,7 +6,7 @@
     <file name="donate.css" crc="4023361929" ref="donate"/>
     <file name="index.css" crc="3907539998" ref="index"/>
     <file name="about-me.css" crc="89955219" ref="about-me"/>
-    <file name="portfolio.css" crc="4204325794" ref="portfolio"/>
+    <file name="portfolio.css" crc="3810295253" ref="portfolio"/>
     <file name="contact.css" crc="442932676" ref="contact"/>
     <file name="privacy-policy.css" crc="4281559508" ref="privacy-policy"/>
     <file name="contact-thanks.css" crc="39535785" ref="contact-thanks"/>
@@ -46,11 +46,20 @@
     <file name="icon-256x256.png" crc="312516791" ref="portfolio"/>
     <file name="icon-256x256-u1316-fr.png" crc="479497206" ref="portfolio"/>
     <file name="screen shot 2016-01-14 at 35706 am.jpg" crc="4054225141" ref="portfolio"/>
+    <file name="mycyberuniverse.jpg" crc="302901472" ref="portfolio"/>
+    <file name="bmw zet-3 brutalityredesign.jpg" crc="3937912880" ref="portfolio"/>
+    <file name="oneberserkblogspotcom.jpg" crc="4129693941" ref="portfolio"/>
+    <file name="anarcho-hosting.jpg" crc="342999117" ref="portfolio"/>
+    <file name="karolinaray.jpg" crc="41751633" ref="portfolio"/>
+    <file name="studio-krredesign.jpg" crc="4290573974" ref="portfolio"/>
+    <file name="milenakiselevablogspotcom.jpg" crc="4088252210" ref="portfolio"/>
+    <file name="circuscostume.jpg" crc="3802228104" ref="portfolio"/>
+    <file name="vipmegastar.jpg" crc="3778602105" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="4074862671" seo="true" mt="1452549197122" redirect="true"/>
   <file name="contact.html" crc="493898273" seo="true" mt="1452549197122" redirect="true"/>
   <file name="resume.html" crc="362628964" seo="true" mt="1452549197122" redirect="true"/>
-  <file name="portfolio.html" crc="4139303914" seo="true" mt="1452733157871" redirect="true"/>
+  <file name="portfolio.html" crc="450497311" seo="true" mt="1452734315375" redirect="true"/>
   <file name="about-me.html" crc="481430501" seo="true" mt="1452549197122" redirect="true"/>
   <file name="donate.html" crc="4285956229" seo="true" mt="1452549197122" redirect="true"/>
   <file name="privacy-policy.html" crc="4276785601" seo="true" mt="1452549197122" redirect="true"/>
