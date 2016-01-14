@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00001B;
-	background-color: #01E966;
+	color: #0000FA;
+	background-color: #98EBA2;
 }
 
 .html
@@ -370,8 +370,6 @@
 	width: 898px;
 	min-height: 77px;
 	background-color: transparent;
-	line-height: 24px;
-	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	top: -1px;
@@ -381,7 +379,9 @@
 
 #u1299-3
 {
+	font-size: 25px;
 	text-align: left;
+	line-height: 30px;
 	color: #000000;
 }
 
@@ -424,7 +424,7 @@
 {
 	z-index: 80;
 	width: 244px;
-	height: 155px;
+	height: 183px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
@@ -439,7 +439,7 @@
 {
 	z-index: 82;
 	width: 244px;
-	height: 155px;
+	height: 183px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
@@ -455,7 +455,7 @@
 {
 	z-index: 81;
 	width: 244px;
-	height: 155px;
+	height: 183px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #0093C4;
@@ -463,7 +463,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 623px;
-	background: #7F7F7F url("../images/screenshot-u1303-fr.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/screen%20shot%202016-01-14%20at%2035706%20am.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -473,12 +473,10 @@
 	width: 898px;
 	min-height: 71px;
 	background-color: transparent;
-	line-height: 24px;
-	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
-	margin-top: 49px;
+	margin-top: 50px;
 	position: relative;
 }
 
@@ -581,8 +579,6 @@
 	width: 898px;
 	min-height: 70px;
 	background-color: transparent;
-	line-height: 24px;
-	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
@@ -592,23 +588,23 @@
 
 #u1299-2,#u1300-2,#u1301-2
 {
+	font-size: 25px;
 	text-align: center;
-	color: #0093C4;
-}
-
-#u1299,#u1300,#u1301
-{
+	line-height: 30px;
 	color: #0093C4;
 }
 
 #u1300-3,#u1301-3
 {
+	font-size: 25px;
 	text-align: left;
+	line-height: 30px;
 	color: #0093C4;
 }
 
 #u1299-5,#u1300-5,#u1301-5
 {
+	font-size: 20px;
 	text-align: left;
 	color: #000000;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
@@ -618,6 +614,13 @@
 {
 	font-size: 16px;
 	line-height: 19px;
+}
+
+#pu1305,#pu1308
+{
+	width: 0.01px;
+	margin-left: 37px;
+	margin-top: 13px;
 }
 
 #u1308
@@ -664,7 +667,7 @@
 	left: 623px;
 }
 
-#pu1305,#pu1308,#pu1311
+#pu1311
 {
 	width: 0.01px;
 	margin-left: 37px;
