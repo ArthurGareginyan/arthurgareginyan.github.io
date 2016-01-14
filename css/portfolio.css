@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000F7;
-	background-color: #177632;
+	color: #000019;
+	background-color: #38A048;
 }
 
 .html
@@ -354,7 +354,7 @@
 
 #u1424
 {
-	z-index: 95;
+	z-index: 105;
 	width: 200px;
 	min-height: 21px;
 	border-style: none;
@@ -439,10 +439,9 @@
 
 #u1302:hover
 {
-	-pie-box-shadow: none;
-	box-shadow: none;
 	background-repeat: no-repeat;
 	background-position: center top;
+	border-radius: 0px;
 	width: 244px;
 	height: 183px;
 	min-height: 0px;
@@ -468,6 +467,17 @@
 	background-size: cover;
 }
 
+#u1304:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 183px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #u1303
 {
 	z-index: 81;
@@ -486,6 +496,17 @@
 	background-size: cover;
 }
 
+#u1303:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 183px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #u1300-7
 {
 	z-index: 66;
@@ -501,22 +522,27 @@
 
 #u1305
 {
-	z-index: 83;
-	vertical-align: top;
-	width: 251px;
+	z-index: 84;
 	height: 162px;
+	width: 251px;
+	vertical-align: top;
 	margin-bottom: -6px;
 	position: relative;
 	margin-right: -10000px;
 	background: url("../images/icon-256x256-u1305.png") no-repeat 0px 0px;
 }
 
+#u1305:hover
+{
+	background: url("../images/icon-256x256-u1305-r.png") no-repeat 0px 0px;
+}
+
 #u1307
 {
-	z-index: 85;
-	vertical-align: top;
-	width: 251px;
+	z-index: 90;
 	height: 162px;
+	width: 251px;
+	vertical-align: top;
 	margin-bottom: -6px;
 	position: relative;
 	margin-right: -10000px;
@@ -524,12 +550,17 @@
 	background: url("../images/icon-256x256-u1307.png") no-repeat 0px 0px;
 }
 
+#u1307:hover
+{
+	background: url("../images/icon-256x256-u1307-r.png") no-repeat 0px 0px;
+}
+
 #u1306
 {
-	z-index: 84;
-	vertical-align: top;
-	width: 251px;
+	z-index: 87;
 	height: 162px;
+	width: 251px;
+	vertical-align: top;
 	margin-bottom: -6px;
 	position: relative;
 	margin-right: -10000px;
@@ -537,7 +568,12 @@
 	background: url("../images/icon-256x256-u1306.png") no-repeat 0px 0px;
 }
 
-#pu1314
+#u1306:hover
+{
+	background: url("../images/icon-256x256-u1306-r.png") no-repeat 0px 0px;
+}
+
+#ppu1314
 {
 	width: 0.01px;
 	margin-left: 37px;
@@ -546,22 +582,27 @@
 
 #u1314
 {
-	z-index: 92;
-	vertical-align: top;
-	width: 251px;
+	z-index: 99;
 	height: 162px;
+	width: 251px;
+	vertical-align: top;
 	margin-bottom: -6px;
 	position: relative;
 	margin-right: -10000px;
 	background: url("../images/icon-256x256-u1314.png") no-repeat 0px 0px;
 }
 
+#u1314:hover
+{
+	background: url("../images/icon-256x256-u1314-r.png") no-repeat 0px 0px;
+}
+
 #u1316
 {
-	z-index: 94;
-	vertical-align: top;
-	width: 251px;
+	z-index: 103;
 	height: 162px;
+	width: 251px;
+	vertical-align: top;
 	margin-bottom: -6px;
 	position: relative;
 	margin-right: -10000px;
@@ -569,9 +610,14 @@
 	background: url("../images/icon-256x256-u1316.png") no-repeat 0px 0px;
 }
 
+#u1316:hover
+{
+	background: url("../images/icon-256x256-u1316-r.png") no-repeat 0px 0px;
+}
+
 #u1315
 {
-	z-index: 93;
+	z-index: 101;
 	width: 245px;
 	height: 156px;
 	position: relative;
@@ -630,7 +676,7 @@
 	line-height: 19px;
 }
 
-#pu1305,#pu1308
+#ppu1305,#pu1308
 {
 	width: 0.01px;
 	margin-left: 37px;
@@ -639,7 +685,7 @@
 
 #u1308
 {
-	z-index: 86;
+	z-index: 92;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -654,9 +700,20 @@
 	background-size: cover;
 }
 
+#u1308:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 155px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #u1310
 {
-	z-index: 88;
+	z-index: 94;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -672,9 +729,20 @@
 	background-size: cover;
 }
 
+#u1310:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 155px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #u1309
 {
-	z-index: 87;
+	z-index: 93;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -690,9 +758,20 @@
 	background-size: cover;
 }
 
+#u1309:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 155px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #u1311
 {
-	z-index: 89;
+	z-index: 95;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -707,9 +786,20 @@
 	background-size: cover;
 }
 
+#u1311:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 155px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #u1313
 {
-	z-index: 91;
+	z-index: 97;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -725,9 +815,20 @@
 	background-size: cover;
 }
 
+#u1313:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 155px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #u1312
 {
-	z-index: 90;
+	z-index: 96;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -743,6 +844,17 @@
 	background-size: cover;
 }
 
+#u1312:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 155px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #pu1311,#pu1539
 {
 	width: 0.01px;
@@ -752,7 +864,7 @@
 
 #u1539
 {
-	z-index: 96;
+	z-index: 106;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -767,9 +879,20 @@
 	background-size: cover;
 }
 
+#u1539:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 155px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #u1541
 {
-	z-index: 98;
+	z-index: 108;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -785,9 +908,20 @@
 	background-size: cover;
 }
 
+#u1541:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 244px;
+	height: 155px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
 #u1540
 {
-	z-index: 97;
+	z-index: 107;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -801,6 +935,29 @@
 	left: 623px;
 	background: #7F7F7F url("../images/vipmegastar.jpg") no-repeat left top;
 	background-size: cover;
+}
+
+#u1540:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 244px;
+	height: 155px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
+	background-size: cover;
+}
+
+#u1302:hover::before,#u1304:hover::before,#u1303:hover::before,#u1308:hover::before,#u1310:hover::before,#u1309:hover::before,#u1311:hover::before,#u1313:hover::before,#u1312:hover::before,#u1539:hover::before,#u1541:hover::before,#u1540:hover::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: -1px;
+	left: -1px;
+	bottom: -1px;
+	right: -1px;
+	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
 }
 
 #u1125
