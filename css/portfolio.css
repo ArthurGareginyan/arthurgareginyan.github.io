@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00001A;
-	background-color: #41BA5B;
+	color: #0000EB;
+	background-color: #3DF80D;
 }
 
 .html
@@ -590,11 +590,58 @@
 	background: url("../images/icon-256x256-u1306-r.png") no-repeat 0px 0px;
 }
 
+#u1599-4
+{
+	z-index: 112;
+	width: 245px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1600-4
+{
+	z-index: 116;
+	width: 245px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 312px;
+}
+
+#u1601-4
+{
+	z-index: 120;
+	width: 245px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 623px;
+}
+
 #ppu1314
 {
 	width: 0.01px;
 	margin-left: 37px;
-	margin-top: 26px;
+	margin-top: 16px;
 }
 
 #u1314
@@ -632,6 +679,43 @@
 	background: url("../images/icon-256x256-u1316-r.png") no-repeat 0px 0px;
 }
 
+#pu1599-4,#pu1602-4
+{
+	width: 0.01px;
+	margin-left: 37px;
+}
+
+#u1602-4
+{
+	z-index: 124;
+	width: 245px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1603-4
+{
+	z-index: 128;
+	width: 245px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 312px;
+}
+
 #u1301-7
 {
 	z-index: 73;
@@ -641,7 +725,7 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
-	margin-top: 51px;
+	margin-top: 40px;
 	position: relative;
 }
 

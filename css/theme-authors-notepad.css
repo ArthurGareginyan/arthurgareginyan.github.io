@@ -1,7 +1,7 @@
-.version.theme_anarcho_notepad /* version checker */
+.version.theme_authors_notepad /* version checker */
 {
-	color: #0000E3;
-	background-color: #02556A;
+	color: #000004;
+	background-color: #B67CA7;
 }
 
 .html
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 500px;
+	min-height: 499.85px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -28,7 +29,7 @@
 	width: 0.01px;
 }
 
-#u1580-6
+#u1609-6
 {
 	z-index: 2;
 	width: 657px;
@@ -41,42 +42,44 @@
 	position: relative;
 }
 
-#u1580-2
+#u1609-2
 {
 	font-size: 30px;
 	line-height: 36px;
 }
 
-#u1580-4
+#u1609-4
 {
 	font-size: 22px;
 	line-height: 26px;
 	color: #FFFFFF;
 }
 
-#u1586
+#u1615
 {
 	z-index: 12;
-	width: 600px;
+	width: 625px;
 	background-color: transparent;
-	margin-top: 17px;
+	left: -13px;
+	margin-top: 15px;
 	position: relative;
 }
 
-#u1579-4
+#u1610-4
 {
 	z-index: 8;
 	width: 723px;
 	min-height: 58px;
 	background-color: transparent;
+	color: #000000;
+	text-align: justify;
 	text-indent: 5px;
 	line-height: 21px;
-	text-align: justify;
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	left: -62px;
-	margin-top: 17px;
+	margin-top: 20px;
 	position: relative;
 }
 
