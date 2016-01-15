@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000005;
-	background-color: #5C9B93;
+	color: #0000E9;
+	background-color: #D58DFA;
 }
 
 .html
@@ -374,7 +374,7 @@
 
 #u1291
 {
-	z-index: 103;
+	z-index: 104;
 	width: 210px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -387,7 +387,7 @@
 
 #u1292
 {
-	z-index: 104;
+	z-index: 105;
 	width: 189px;
 	height: 189px;
 	border-radius: 104px;
@@ -401,12 +401,12 @@
 
 #u1290-7
 {
-	z-index: 96;
+	z-index: 97;
 	width: 508px;
 	min-height: 123px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -424,7 +424,7 @@
 
 #u1254-35
 {
-	z-index: 59;
+	z-index: 60;
 	width: 898px;
 	background-color: transparent;
 	font-family: bitter, serif;
@@ -470,7 +470,7 @@
 
 #u1267
 {
-	z-index: 94;
+	z-index: 95;
 	width: 41px;
 	background-color: transparent;
 	position: relative;
@@ -481,7 +481,7 @@
 
 #u1351-6
 {
-	z-index: 105;
+	z-index: 106;
 	width: 898px;
 	min-height: 78px;
 	background-color: transparent;
@@ -513,27 +513,10 @@
 	line-height: 19px;
 }
 
-#u1125
+#pu109
 {
-	z-index: 55;
-	width: 943px;
-	padding-bottom: 49px;
-}
-
-#u1126
-{
-	z-index: 56;
-	width: 942px;
-	height: 35px;
-	margin-right: -10000px;
-}
-
-#u1126:hover
-{
-	width: 942px;
-	height: 35px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	width: 0.01px;
+	margin-left: -100px;
 }
 
 #u109
@@ -580,6 +563,42 @@
 {
 	z-index: 2;
 	min-height: 56px;
+	margin-top: 84px;
+}
+
+#u1125
+{
+	z-index: 55;
+	width: 943px;
+	padding-bottom: 49px;
+	margin-right: -10000px;
+	left: 100px;
+}
+
+#u1126
+{
+	z-index: 56;
+	width: 942px;
+	height: 35px;
+	margin-right: -10000px;
+}
+
+#u1126:hover
+{
+	width: 942px;
+	height: 35px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1842
+{
+	z-index: 59;
+	width: 943px;
+	min-height: 59px;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 100px;
 }
 
 body

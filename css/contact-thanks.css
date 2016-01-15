@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #000002;
-	background-color: #5B44A9;
+	color: #00000D;
+	background-color: #FB7B64;
 }
 
 .html
@@ -374,13 +374,13 @@
 
 #u1289-10
 {
-	z-index: 59;
+	z-index: 60;
 	width: 898px;
 	min-height: 56px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -388,28 +388,11 @@
 	margin-top: 123px;
 }
 
-#u1125
+#pu109
 {
-	z-index: 55;
-	width: 943px;
-	padding-bottom: 49px;
-	margin-top: 137px;
-}
-
-#u1126
-{
-	z-index: 56;
-	width: 942px;
-	height: 35px;
-	margin-right: -10000px;
-}
-
-#u1126:hover
-{
-	width: 942px;
-	height: 35px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 231px;
 }
 
 #u109
@@ -456,6 +439,42 @@
 {
 	z-index: 2;
 	min-height: 56px;
+	margin-top: 84px;
+}
+
+#u1125
+{
+	z-index: 55;
+	width: 943px;
+	padding-bottom: 49px;
+	margin-right: -10000px;
+	left: 100px;
+}
+
+#u1126
+{
+	z-index: 56;
+	width: 942px;
+	height: 35px;
+	margin-right: -10000px;
+}
+
+#u1126:hover
+{
+	width: 942px;
+	height: 35px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1842
+{
+	z-index: 59;
+	width: 943px;
+	min-height: 59px;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 100px;
 }
 
 body

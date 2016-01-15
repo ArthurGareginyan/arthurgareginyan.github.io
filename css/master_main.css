@@ -20,14 +20,6 @@
 	background: transparent url("../images/pattern-dark-grey.jpg") repeat left top;
 }
 
-#menuu1082
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
 #u1111,#u1114
 {
 	background-color: transparent;
@@ -263,29 +255,6 @@
 	position: relative;
 }
 
-#u1070,#u1125
-{
-	position: relative;
-	background: #000000 url("../images/black_denim.jpg") repeat center top;
-}
-
-#u1126
-{
-	-pie-box-shadow: none;
-	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	border-style: none;
-	border-radius: 0px 0px 10px 10px ;
-	position: relative;
-	background: transparent url("../images/leather.jpg") repeat left top;
-}
-
-#u1075:hover,#u1126:hover
-{
-	background-repeat: repeat;
-	background-position: left top;
-	background-color: transparent;
-}
-
 #u109
 {
 	border-style: solid;
@@ -323,5 +292,36 @@
 	color: #777777;
 	visibility: inherit;
 	font-size: 11px;
+}
+
+#u1070,#u1125
+{
+	position: relative;
+	background: #000000 url("../images/black_denim.jpg") repeat center top;
+}
+
+#u1126
+{
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: none;
+	border-radius: 0px 0px 10px 10px ;
+	position: relative;
+	background: transparent url("../images/leather.jpg") repeat left top;
+}
+
+#u1075:hover,#u1126:hover
+{
+	background-repeat: repeat;
+	background-position: left top;
+	background-color: transparent;
+}
+
+#menuu1082,#u1842
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 }
 

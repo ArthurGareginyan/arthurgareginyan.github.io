@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00001A;
-	background-color: #669DC4;
+	color: #000017;
+	background-color: #E36184;
 }
 
 .html
@@ -13,10 +13,9 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 622.50897184826px;
+	min-height: 623px;
 	border-style: none;
 	border-color: #000000;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
@@ -376,12 +375,12 @@
 
 #u1223-4
 {
-	z-index: 60;
+	z-index: 61;
 	width: 898px;
 	min-height: 56px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -391,7 +390,7 @@
 
 #u1221
 {
-	z-index: 59;
+	z-index: 60;
 	width: 844px;
 	min-height: 472px;
 	border-style: none;
@@ -403,27 +402,10 @@
 	position: relative;
 }
 
-#u1125
+#pu109
 {
-	z-index: 55;
-	width: 943px;
-	padding-bottom: 49px;
-}
-
-#u1126
-{
-	z-index: 56;
-	width: 942px;
-	height: 35px;
-	margin-right: -10000px;
-}
-
-#u1126:hover
-{
-	width: 942px;
-	height: 35px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	width: 0.01px;
+	margin-left: -100px;
 }
 
 #u109
@@ -445,7 +427,6 @@
 	margin-right: auto;
 	width: 942px;
 	left: -100px;
-	margin-bottom: -1px;
 }
 
 #u199-4
@@ -471,7 +452,42 @@
 {
 	z-index: 2;
 	min-height: 56px;
-	margin-top: -1px;
+	margin-top: 83px;
+}
+
+#u1125
+{
+	z-index: 55;
+	width: 943px;
+	padding-bottom: 49px;
+	margin-right: -10000px;
+	left: 100px;
+}
+
+#u1126
+{
+	z-index: 56;
+	width: 942px;
+	height: 35px;
+	margin-right: -10000px;
+}
+
+#u1126:hover
+{
+	width: 942px;
+	height: 35px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1842
+{
+	z-index: 59;
+	width: 943px;
+	min-height: 59px;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 100px;
 }
 
 body
