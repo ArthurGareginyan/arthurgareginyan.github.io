@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
-	color: #000004;
-	background-color: #29A630;
+	color: #0000F6;
+	background-color: #156254;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.85px;
+	min-height: 499.8499999999999px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -57,7 +57,7 @@
 
 #u1615
 {
-	z-index: 12;
+	z-index: 84;
 	width: 625px;
 	background-color: transparent;
 	left: -13px;
@@ -65,7 +65,7 @@
 	position: relative;
 }
 
-#u1610-4
+#u1610-76
 {
 	z-index: 8;
 	width: 625px;
@@ -74,13 +74,37 @@
 	color: #000000;
 	text-align: justify;
 	text-indent: 5px;
-	line-height: 21px;
-	font-size: 16px;
 	font-family: bitter, serif;
-	font-weight: 400;
 	left: -13px;
 	margin-top: 20px;
 	position: relative;
+}
+
+#u1610-11,#u1610-53
+{
+	font-size: 16px;
+	line-height: 21px;
+	font-weight: 700;
+}
+
+#u1610-50 > #u1610-13:before,#u1610-50 > #u1610-15:before,#u1610-50 > #u1610-17:before,#u1610-50 > #u1610-19:before,#u1610-50 > #u1610-21:before,#u1610-50 > #u1610-23:before,#u1610-50 > #u1610-25:before,#u1610-50 > #u1610-27:before,#u1610-50 > #u1610-29:before,#u1610-50 > #u1610-31:before,#u1610-50 > #u1610-33:before,#u1610-50 > #u1610-35:before,#u1610-50 > #u1610-37:before,#u1610-50 > #u1610-39:before,#u1610-50 > #u1610-41:before,#u1610-50 > #u1610-43:before,#u1610-50 > #u1610-45:before,#u1610-50 > #u1610-47:before,#u1610-50 > #u1610-49:before,#u1610-62 > #u1610-55:before,#u1610-62 > #u1610-57:before,#u1610-62 > #u1610-59:before,#u1610-62 > #u1610-61:before
+{
+	font-family: bitter, Georgia;
+	font-weight: 400;
+}
+
+#u1610-2,#u1610-8,#u1610-66,#u1610-67
+{
+	font-size: 20px;
+	line-height: 26px;
+	font-weight: 700;
+}
+
+#u1610-3,#u1610-5,#u1610-6,#u1610-9,#u1610-13,#u1610-15,#u1610-17,#u1610-19,#u1610-21,#u1610-23,#u1610-25,#u1610-27,#u1610-29,#u1610-31,#u1610-33,#u1610-35,#u1610-37,#u1610-39,#u1610-41,#u1610-43,#u1610-45,#u1610-47,#u1610-49,#u1610-51,#u1610-55,#u1610-57,#u1610-59,#u1610-61,#u1610-63,#u1610-64,#u1610-69,#u1610-70,#u1610-72,#u1610-73,#u1610-74
+{
+	font-size: 16px;
+	line-height: 21px;
+	font-weight: 400;
 }
 
 body
