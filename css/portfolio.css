@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000019;
-	background-color: #30117C;
+	color: #0000E4;
+	background-color: #4E6B8F;
 }
 
 .html
@@ -347,14 +347,13 @@
 #pu1424
 {
 	width: 0.01px;
-	padding-bottom: 1px;
 	margin-right: -10000px;
-	margin-top: 2px;
+	margin-top: 10px;
 }
 
 #u1424
 {
-	z-index: 104;
+	z-index: 107;
 	width: 200px;
 	min-height: 21px;
 	border-style: none;
@@ -364,7 +363,21 @@
 	position: relative;
 }
 
-#u1299-7
+#u1760-4
+{
+	z-index: 135;
+	width: 898px;
+	min-height: 69px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u1299-8
 {
 	z-index: 59;
 	width: 898px;
@@ -372,8 +385,7 @@
 	background-color: transparent;
 	font-family: bitter, serif;
 	font-weight: 400;
-	top: -1px;
-	margin-bottom: -1px;
+	margin-top: 3px;
 	position: relative;
 }
 
@@ -417,12 +429,12 @@
 {
 	width: 0.01px;
 	margin-left: 37px;
-	margin-top: 3px;
+	margin-top: 12px;
 }
 
 #u1302
 {
-	z-index: 80;
+	z-index: 83;
 	width: 244px;
 	height: 183px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -451,7 +463,7 @@
 
 #u1304
 {
-	z-index: 82;
+	z-index: 85;
 	width: 244px;
 	height: 183px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -480,7 +492,7 @@
 
 #u1303
 {
-	z-index: 81;
+	z-index: 84;
 	width: 244px;
 	height: 183px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -509,7 +521,7 @@
 
 #u1592
 {
-	z-index: 110;
+	z-index: 113;
 	height: 190px;
 	width: 251px;
 	vertical-align: top;
@@ -524,9 +536,9 @@
 	background: url("../images/screenshot-u1592-r.png") no-repeat 0px 0px;
 }
 
-#u1300-7
+#u1300-8
 {
-	z-index: 66;
+	z-index: 67;
 	width: 898px;
 	min-height: 71px;
 	background-color: transparent;
@@ -539,7 +551,7 @@
 
 #u1305
 {
-	z-index: 84;
+	z-index: 87;
 	height: 162px;
 	width: 251px;
 	vertical-align: top;
@@ -556,7 +568,7 @@
 
 #u1307
 {
-	z-index: 90;
+	z-index: 93;
 	height: 162px;
 	width: 251px;
 	vertical-align: top;
@@ -574,7 +586,7 @@
 
 #u1306
 {
-	z-index: 87;
+	z-index: 90;
 	height: 162px;
 	width: 251px;
 	vertical-align: top;
@@ -592,7 +604,7 @@
 
 #u1599-4
 {
-	z-index: 112;
+	z-index: 115;
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
@@ -607,7 +619,7 @@
 
 #u1600-4
 {
-	z-index: 116;
+	z-index: 119;
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
@@ -623,7 +635,7 @@
 
 #u1601-4
 {
-	z-index: 120;
+	z-index: 123;
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
@@ -646,7 +658,7 @@
 
 #u1314
 {
-	z-index: 99;
+	z-index: 102;
 	height: 162px;
 	width: 251px;
 	vertical-align: top;
@@ -663,7 +675,7 @@
 
 #u1316
 {
-	z-index: 102;
+	z-index: 105;
 	height: 162px;
 	width: 251px;
 	vertical-align: top;
@@ -687,7 +699,7 @@
 
 #u1602-4
 {
-	z-index: 124;
+	z-index: 127;
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
@@ -702,7 +714,7 @@
 
 #u1603-4
 {
-	z-index: 128;
+	z-index: 131;
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
@@ -716,9 +728,9 @@
 	left: 312px;
 }
 
-#u1301-7
+#u1301-8
 {
-	z-index: 73;
+	z-index: 75;
 	width: 898px;
 	min-height: 70px;
 	background-color: transparent;
@@ -759,6 +771,14 @@
 	line-height: 19px;
 }
 
+#u1299-6,#u1300-6,#u1301-6
+{
+	font-size: 20px;
+	text-align: left;
+	line-height: 24px;
+	color: #000000;
+}
+
 #ppu1305,#pu1308
 {
 	width: 0.01px;
@@ -768,7 +788,7 @@
 
 #u1308
 {
-	z-index: 92;
+	z-index: 95;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -796,7 +816,7 @@
 
 #u1309
 {
-	z-index: 93;
+	z-index: 96;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -825,7 +845,7 @@
 
 #u1560
 {
-	z-index: 108;
+	z-index: 111;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -837,7 +857,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 623px;
-	background: #7F7F7F url("../images/arthurgareginyan.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/arthurgareginyan-u1560-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -854,7 +874,7 @@
 
 #u1310
 {
-	z-index: 94;
+	z-index: 97;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -865,7 +885,7 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/bmwz3brutality.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/bmwz3brutality-u1310-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -882,7 +902,7 @@
 
 #u1311
 {
-	z-index: 95;
+	z-index: 98;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -911,7 +931,7 @@
 
 #u1539
 {
-	z-index: 105;
+	z-index: 108;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -947,7 +967,7 @@
 
 #u1313
 {
-	z-index: 97;
+	z-index: 100;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -975,7 +995,7 @@
 
 #u1312
 {
-	z-index: 96;
+	z-index: 99;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -1004,7 +1024,7 @@
 
 #u1541
 {
-	z-index: 107;
+	z-index: 110;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -1033,7 +1053,7 @@
 
 #u1540
 {
-	z-index: 106;
+	z-index: 109;
 	width: 244px;
 	height: 155px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;

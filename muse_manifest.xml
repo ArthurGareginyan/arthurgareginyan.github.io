@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452741897051">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452825591641">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
+    <file name="site_global.css" crc="4157308636"/>
     <file name="master_main.css" crc="48038226" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
     <file name="resume.css" crc="4069480236" ref="resume"/>
     <file name="donate.css" crc="4023361929" ref="donate"/>
     <file name="index.css" crc="3907539998" ref="index"/>
     <file name="about-me.css" crc="89955219" ref="about-me"/>
-    <file name="portfolio.css" crc="422580604" ref="portfolio"/>
+    <file name="portfolio.css" crc="3830344591" ref="portfolio"/>
     <file name="contact.css" crc="442932676" ref="contact"/>
     <file name="privacy-policy.css" crc="4281559508" ref="privacy-policy"/>
     <file name="contact-thanks.css" crc="39535785" ref="contact-thanks"/>
@@ -16,18 +16,29 @@
     <file name="theme-fashion-style.css" crc="516889592" ref="theme-fashion-style"/>
     <file name="theme-anarcho-notepad.css" crc="3975913887" ref="theme-anarcho-notepad"/>
     <file name="theme-authors-notepad.css" crc="69838384" ref="theme-authors-notepad"/>
+    <file name="website-bmwz3brutality-copy-copy-copy.css" crc="4276460927" ref="website-bmwz3brutality-copy-copy-copy"/>
+    <file name="website-bmwz3brutality.css" crc="100799091" ref="website-bmwz3brutality"/>
+    <file name="website-bmwz3brutality-copy.css" crc="4095145912" ref="website-bmwz3brutality-copy"/>
+    <file name="plugin-all-meta-tags.css" crc="4086799599" ref="plugin-all-meta-tags"/>
+    <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy.css" crc="3988198440" ref="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy.css" crc="3871280563" ref="website-bmwz3brutality-copy-copy-copy-copy-copy-copy"/>
+    <file name="website-bmwz3brutality-copy-copy.css" crc="365269706" ref="website-bmwz3brutality-copy-copy"/>
+    <file name="website-bmwz3brutality-copy-copy-copy-copy.css" crc="3765450006" ref="website-bmwz3brutality-copy-copy-copy-copy"/>
+    <file name="website-arthurgareginyan.css" crc="3990516330" ref="website-arthurgareginyan"/>
+    <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy.css" crc="3794628919" ref="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="website-bmwz3brutality-copy-copy-copy-copy-copy.css" crc="4027971240" ref="website-bmwz3brutality-copy-copy-copy-copy-copy"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad"/>
-    <file name="museutils.js" crc="275725342" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-bmwz3brutality-copy:website-bmwz3brutality-copy-copy:website-bmwz3brutality-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="museutils.js" crc="275725342" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-bmwz3brutality-copy:website-bmwz3brutality-copy-copy:website-bmwz3brutality-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy"/>
     <file name="pie.js" crc="3827607177" ref="index:about-me:404:portfolio"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="portfolio"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-bmwz3brutality-copy:website-bmwz3brutality-copy-copy:website-bmwz3brutality-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-bmwz3brutality-copy:website-bmwz3brutality-copy-copy:website-bmwz3brutality-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="portfolio:website-arthurgareginyan:website-bmwz3brutality"/>
   </folder>
   <folder name="images">
     <file name="arrow_down.png" crc="3874046791" seo="true" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404"/>
@@ -59,19 +70,21 @@
     <file name="icon-256x256-u1306-r.png" crc="379211961" ref="portfolio"/>
     <file name="icon-256x256-u1314-r.png" crc="3942181516" ref="portfolio"/>
     <file name="icon-256x256-u1316-r.png" crc="3817789415" ref="portfolio"/>
-    <file name="arthurgareginyan.jpg" crc="4023390049" ref="portfolio"/>
+    <file name="arthurgareginyan.jpg" crc="3911032574" ref="website-arthurgareginyan"/>
     <file name="screenshot-u1592.png" crc="523630683" ref="portfolio"/>
     <file name="screenshot-u1592-r.png" crc="3882618831" ref="portfolio"/>
     <file name="anarcho-notepad.jpg" crc="60023408" seo="true" ref="theme-anarcho-notepad"/>
     <file name="screenshot-u1303-fr.jpg" crc="198858519" ref="portfolio"/>
-    <file name="bmwz3brutality.jpg" crc="3937912880" ref="portfolio"/>
+    <file name="bmwz3brutality.jpg" crc="3905837492" ref="website-bmwz3brutality"/>
     <file name="studio-kr.jpg" crc="4290573974" ref="portfolio"/>
     <file name="screenshot4.jpg" crc="492910818" seo="true" ref="theme-authors-notepad"/>
+    <file name="arthurgareginyan-u1560-fr.jpg" crc="124660740" ref="portfolio"/>
+    <file name="bmwz3brutality-u1310-fr.jpg" crc="4189514522" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="4074862671" seo="true" mt="1452549197122" redirect="true"/>
   <file name="contact.html" crc="493898273" seo="true" mt="1452549197122" redirect="true"/>
   <file name="resume.html" crc="362628964" seo="true" mt="1452549197122" redirect="true"/>
-  <file name="portfolio.html" crc="142852994" seo="true" mt="1452741859869" redirect="true"/>
+  <file name="portfolio.html" crc="4130921773" seo="true" mt="1452825587661" redirect="true"/>
   <file name="about-me.html" crc="481430501" seo="true" mt="1452549197122" redirect="true"/>
   <file name="donate.html" crc="4285956229" seo="true" mt="1452549197122" redirect="true"/>
   <file name="privacy-policy.html" crc="4276785601" seo="true" mt="1452549197122" redirect="true"/>
@@ -80,4 +93,15 @@
   <file name="theme-fashion-style.html" crc="3809416999" seo="true" mt="1452741505238" redirect="true"/>
   <file name="theme-anarcho-notepad.html" crc="4151797662" seo="true" mt="1452741466103" redirect="true"/>
   <file name="theme-authors-notepad.html" crc="197318474" seo="true" mt="1452741485963" redirect="true"/>
+  <file name="website-arthurgareginyan.html" crc="3990057013" seo="true" mt="1452825587663" redirect="true"/>
+  <file name="plugin-all-meta-tags.html" crc="4029385517" seo="true" mt="1452819441202" redirect="false"/>
+  <file name="website-bmwz3brutality.html" crc="3997409617" seo="true" mt="1452825587543" redirect="true"/>
+  <file name="website-bmwz3brutality-copy.html" crc="399038478" seo="true" mt="1452819974254" redirect="true"/>
+  <file name="website-bmwz3brutality-copy-copy.html" crc="3846761578" seo="true" mt="1452819980047" redirect="true"/>
+  <file name="website-bmwz3brutality-copy-copy-copy.html" crc="488413452" seo="true" mt="1452819983192" redirect="true"/>
+  <file name="website-bmwz3brutality-copy-copy-copy-copy.html" crc="4110624748" seo="true" mt="1452820018376" redirect="true"/>
+  <file name="website-bmwz3brutality-copy-copy-copy-copy-copy.html" crc="4204165345" seo="true" mt="1452820021495" redirect="true"/>
+  <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy.html" crc="292577417" seo="true" mt="1452820024233" redirect="true"/>
+  <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy.html" crc="4271909872" seo="true" mt="1452820027130" redirect="true"/>
+  <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy.html" crc="3814350061" seo="true" mt="1452820029852" redirect="true"/>
 </manifest>

@@ -1,0 +1,103 @@
+.version.website_bmwz3brutality_copy /* version checker */
+{
+	color: #0000F4;
+	background-color: #16F7B8;
+}
+
+.html
+{
+	background-color: #5FBDE2;
+}
+
+#page
+{
+	z-index: 1;
+	width: 600px;
+	min-height: 499.85px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 13px;
+	width: 0.01px;
+}
+
+#u1684-7
+{
+	z-index: 12;
+	width: 600px;
+	min-height: 64px;
+	background-color: transparent;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1684-2
+{
+	font-size: 25px;
+	line-height: 30px;
+}
+
+#u1684-5
+{
+	font-size: 20px;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+#u1686
+{
+	z-index: 19;
+	width: 600px;
+	height: 305px;
+	margin-top: 15px;
+	position: relative;
+}
+
+.ie #u1686
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u1685-10
+{
+	z-index: 2;
+	width: 600px;
+	min-height: 95px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u1685,#u1685-6
+{
+	color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 600px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
