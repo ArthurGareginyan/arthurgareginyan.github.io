@@ -1,7 +1,7 @@
-.version.website_bmwz3brutality_copy_copy_copy_copy_copy /* version checker */
+.version.website_studiokr /* version checker */
 {
-	color: #0000F0;
-	background-color: #15F6A8;
+	color: #0000ED;
+	background-color: #D4F257;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.85px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -29,9 +28,9 @@
 	width: 0.01px;
 }
 
-#u1721-7
+#u1739-7
 {
-	z-index: 12;
+	z-index: 15;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -41,51 +40,56 @@
 	position: relative;
 }
 
-#u1721-2
+#u1739-2
 {
 	font-size: 25px;
 	line-height: 30px;
 }
 
-#u1721-5
+#u1739-5
 {
 	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
 }
 
-#u1723
+#u1792-6
 {
-	z-index: 19;
+	z-index: 23;
 	width: 600px;
-	height: 305px;
-	margin-top: 15px;
-	position: relative;
-}
-
-.ie #u1723
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u1722-10
-{
-	z-index: 2;
-	width: 600px;
-	min-height: 95px;
+	min-height: 33px;
 	background-color: transparent;
 	line-height: 19px;
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-top: 15px;
 	position: relative;
 }
 
-#u1722,#u1722-6
+#u1740
+{
+	z-index: 22;
+	width: 600px;
+	height: 348px;
+	position: relative;
+	background: transparent url("../images/studio-kr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1741-13
+{
+	z-index: 2;
+	width: 600px;
+	min-height: 52px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1741-2,#u1741-5,#u1741-8
 {
 	color: #FFFFFF;
 }

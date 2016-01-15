@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452829500330">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452832549675">
   <folder name="css">
     <file name="site_global.css" crc="4157308636"/>
     <file name="master_main.css" crc="48038226" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
@@ -6,7 +6,7 @@
     <file name="donate.css" crc="4023361929" ref="donate"/>
     <file name="index.css" crc="3907539998" ref="index"/>
     <file name="about-me.css" crc="89955219" ref="about-me"/>
-    <file name="portfolio.css" crc="4116101600" ref="portfolio"/>
+    <file name="portfolio.css" crc="3861748537" ref="portfolio"/>
     <file name="contact.css" crc="442932676" ref="contact"/>
     <file name="privacy-policy.css" crc="4281559508" ref="privacy-policy"/>
     <file name="contact-thanks.css" crc="39535785" ref="contact-thanks"/>
@@ -17,30 +17,30 @@
     <file name="theme-anarcho-notepad.css" crc="3936577669" ref="theme-anarcho-notepad"/>
     <file name="theme-authors-notepad.css" crc="4128596564" ref="theme-authors-notepad"/>
     <file name="website-bmwz3brutality.css" crc="4118355122" ref="website-bmwz3brutality"/>
-    <file name="website-bmwz3brutality-copy.css" crc="4095145912" ref="website-bmwz3brutality-copy"/>
     <file name="plugin-all-meta-tags.css" crc="4086799599" ref="plugin-all-meta-tags"/>
-    <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy.css" crc="3988198440" ref="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy"/>
-    <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy.css" crc="3871280563" ref="website-bmwz3brutality-copy-copy-copy-copy-copy-copy"/>
     <file name="website-arthurgareginyan.css" crc="266204570" ref="website-arthurgareginyan"/>
-    <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy.css" crc="3794628919" ref="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy"/>
-    <file name="website-bmwz3brutality-copy-copy-copy-copy-copy.css" crc="4027971240" ref="website-bmwz3brutality-copy-copy-copy-copy-copy"/>
     <file name="iefonts_theme-anarcho-notepad.css" crc="3968068929" ref="theme-anarcho-notepad"/>
     <file name="iefonts_theme-authors-notepad.css" crc="250482173" ref="theme-authors-notepad"/>
-    <file name="website-one-berserkr.css" crc="367107488" ref="website-one-berserkr"/>
-    <file name="website-anarcho-hosting.css" crc="3970842413" ref="website-anarcho-hosting"/>
     <file name="website-mycyberuniverse.css" crc="4006740807" ref="website-mycyberuniverse"/>
+    <file name="website-oneberserkr.css" crc="367107488" ref="website-oneberserkr"/>
+    <file name="website-milenakiseleva.css" crc="3985725748" ref="website-milenakiseleva"/>
+    <file name="website-studiokr.css" crc="3990155863" ref="website-studiokr"/>
+    <file name="website-vipmegastar.css" crc="197846336" ref="website-vipmegastar"/>
+    <file name="website-circuscostume.css" crc="4204571813" ref="website-circuscostume"/>
+    <file name="website-anarchohosting.css" crc="3970842413" ref="website-anarchohosting"/>
+    <file name="website-karolinaray.css" crc="4024734301" ref="website-karolinaray"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-bmwz3brutality-copy:website-bmwz3brutality-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy:website-anarcho-hosting:website-one-berserkr:website-mycyberuniverse"/>
-    <file name="museutils.js" crc="275725342" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-bmwz3brutality-copy:website-bmwz3brutality-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy:website-anarcho-hosting:website-one-berserkr:website-mycyberuniverse"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar"/>
+    <file name="museutils.js" crc="275725342" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar"/>
     <file name="pie.js" crc="3827607177" ref="index:about-me:404:portfolio"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-bmwz3brutality-copy:website-bmwz3brutality-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy:website-anarcho-hosting:website-one-berserkr:website-mycyberuniverse"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-bmwz3brutality-copy:website-bmwz3brutality-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy:website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy:website-anarcho-hosting:website-one-berserkr:website-mycyberuniverse"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="portfolio:website-arthurgareginyan:website-bmwz3brutality:website-anarcho-hosting:website-one-berserkr:website-mycyberuniverse"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="portfolio:website-arthurgareginyan:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar"/>
   </folder>
   <folder name="images">
     <file name="arrow_down.png" crc="3874046791" seo="true" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404"/>
@@ -56,12 +56,12 @@
     <file name="screenshot2.jpg" crc="82349711" ref="portfolio"/>
     <file name="screenshot3.jpg" crc="523739691" seo="true" ref="theme-fashion-style"/>
     <file name="mycyberuniverse.jpg" crc="524048268" ref="website-mycyberuniverse"/>
-    <file name="oneberserkblogspotcom.jpg" crc="449550230" ref="website-one-berserkr"/>
-    <file name="anarcho-hosting.jpg" crc="3840658910" ref="website-anarcho-hosting"/>
+    <file name="oneberserkblogspotcom.jpg" crc="449550230" ref="website-oneberserkr"/>
+    <file name="anarcho-hosting.jpg" crc="3840658910" ref="website-anarchohosting"/>
     <file name="karolinaray.jpg" crc="41751633" ref="portfolio"/>
-    <file name="milenakiselevablogspotcom.jpg" crc="4088252210" ref="portfolio"/>
-    <file name="circuscostume.jpg" crc="3802228104" ref="portfolio"/>
-    <file name="vipmegastar.jpg" crc="3778602105" ref="portfolio"/>
+    <file name="milenakiselevablogspotcom.jpg" crc="398376663" ref="website-milenakiseleva"/>
+    <file name="circuscostume.jpg" crc="337814213" ref="website-circuscostume"/>
+    <file name="vipmegastar.jpg" crc="119622205" ref="website-vipmegastar"/>
     <file name="icon-256x256-u1305.png" crc="526634225" ref="portfolio"/>
     <file name="icon-256x256-u1307.png" crc="493297182" ref="portfolio"/>
     <file name="icon-256x256-u1306.png" crc="3882623175" ref="portfolio"/>
@@ -78,17 +78,22 @@
     <file name="anarcho-notepad.jpg" crc="60023408" seo="true" ref="theme-anarcho-notepad"/>
     <file name="screenshot-u1303-fr.jpg" crc="198858519" ref="portfolio"/>
     <file name="bmwz3brutality.jpg" crc="3905837492" ref="website-bmwz3brutality"/>
-    <file name="studio-kr.jpg" crc="4290573974" ref="portfolio"/>
+    <file name="studio-kr.jpg" crc="272866809" ref="website-studiokr"/>
     <file name="arthurgareginyan-u1560-fr.jpg" crc="124660740" ref="portfolio"/>
     <file name="bmwz3brutality-u1310-fr.jpg" crc="4189514522" ref="portfolio"/>
     <file name="mycyberuniverse-u1308-fr.jpg" crc="225352027" ref="portfolio"/>
     <file name="oneberserkblogspotcom-u1309-fr.jpg" crc="4293648010" ref="portfolio"/>
     <file name="anarcho-hosting-u1311-fr.jpg" crc="138578733" ref="portfolio"/>
+    <file name="milenakiselevablogspotcom-u1539-fr.jpg" crc="35715072" ref="portfolio"/>
+    <file name="studio-kr-u1312-fr.jpg" crc="3762212409" ref="portfolio"/>
+    <file name="circuscostume-u1541-fr.jpg" crc="107919803" ref="portfolio"/>
+    <file name="vipmegastar-u1540-fr.jpg" crc="4269335364" ref="portfolio"/>
+    <file name="karolinaray copy.jpg" crc="378085587" ref="website-karolinaray"/>
   </folder>
   <file name="index.html" crc="4074862671" seo="true" mt="1452549197122" redirect="true"/>
   <file name="contact.html" crc="493898273" seo="true" mt="1452549197122" redirect="true"/>
   <file name="resume.html" crc="362628964" seo="true" mt="1452549197122" redirect="true"/>
-  <file name="portfolio.html" crc="4130921773" seo="true" mt="1452829497790" redirect="true"/>
+  <file name="portfolio.html" crc="4247550794" seo="true" mt="1452832546653" redirect="true"/>
   <file name="about-me.html" crc="481430501" seo="true" mt="1452549197122" redirect="true"/>
   <file name="donate.html" crc="4285956229" seo="true" mt="1452549197122" redirect="true"/>
   <file name="privacy-policy.html" crc="4276785601" seo="true" mt="1452549197122" redirect="true"/>
@@ -100,12 +105,12 @@
   <file name="website-arthurgareginyan.html" crc="194337208" seo="true" mt="1452829175849" redirect="true"/>
   <file name="plugin-all-meta-tags.html" crc="4029385517" seo="true" mt="1452819441202" redirect="false"/>
   <file name="website-bmwz3brutality.html" crc="227472723" seo="true" mt="1452829098670" redirect="true"/>
-  <file name="website-bmwz3brutality-copy.html" crc="399038478" seo="true" mt="1452819974254" redirect="true"/>
-  <file name="website-bmwz3brutality-copy-copy-copy-copy-copy.html" crc="4204165345" seo="true" mt="1452820021495" redirect="true"/>
-  <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy.html" crc="292577417" seo="true" mt="1452820024233" redirect="true"/>
-  <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy.html" crc="4271909872" seo="true" mt="1452820027130" redirect="true"/>
-  <file name="website-bmwz3brutality-copy-copy-copy-copy-copy-copy-copy-copy.html" crc="3814350061" seo="true" mt="1452820029852" redirect="true"/>
-  <file name="website-anarcho-hosting.html" crc="4066151758" seo="true" mt="1452829497791" redirect="true"/>
-  <file name="website-one-berserkr.html" crc="3784079337" seo="true" mt="1452829497707" redirect="true"/>
   <file name="website-mycyberuniverse.html" crc="4145955865" seo="true" mt="1452829497642" redirect="true"/>
+  <file name="website-milenakiseleva.html" crc="269907611" seo="true" mt="1452832546652" redirect="true"/>
+  <file name="website-anarchohosting.html" crc="3941905563" seo="true" mt="1452832119880" redirect="true"/>
+  <file name="website-oneberserkr.html" crc="329883925" seo="true" mt="1452832112273" redirect="true"/>
+  <file name="website-karolinaray.html" crc="4139084192" seo="true" mt="1452832546762" redirect="true"/>
+  <file name="website-circuscostume.html" crc="4083674734" seo="true" mt="1452832546248" redirect="true"/>
+  <file name="website-studiokr.html" crc="3787839307" seo="true" mt="1452832546532" redirect="true"/>
+  <file name="website-vipmegastar.html" crc="489271089" seo="true" mt="1452832546355" redirect="true"/>
 </manifest>

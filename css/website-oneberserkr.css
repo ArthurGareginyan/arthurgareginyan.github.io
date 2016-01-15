@@ -1,7 +1,7 @@
-.version.website_bmwz3brutality_copy_copy_copy_copy_copy_copy_copy /* version checker */
+.version.website_oneberserkr /* version checker */
 {
-	color: #0000E2;
-	background-color: #2D7137;
+	color: #000015;
+	background-color: #E19DA0;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.85px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -29,9 +28,9 @@
 	width: 0.01px;
 }
 
-#u1739-7
+#u1704-7
 {
-	z-index: 12;
+	z-index: 11;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -41,51 +40,56 @@
 	position: relative;
 }
 
-#u1739-2
+#u1704-2
 {
 	font-size: 25px;
 	line-height: 30px;
 }
 
-#u1739-5
+#u1704-5
 {
 	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
 }
 
-#u1740
+#u1767-5
 {
 	z-index: 19;
 	width: 600px;
-	height: 305px;
-	margin-top: 15px;
-	position: relative;
-}
-
-.ie #u1740
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u1741-10
-{
-	z-index: 2;
-	width: 600px;
-	min-height: 95px;
+	min-height: 60px;
 	background-color: transparent;
 	line-height: 19px;
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-top: 15px;
 	position: relative;
 }
 
-#u1741,#u1741-6
+#u1702
+{
+	z-index: 18;
+	width: 600px;
+	height: 305px;
+	position: relative;
+	background: transparent url("../images/oneberserkblogspotcom.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u1703-9
+{
+	z-index: 2;
+	width: 600px;
+	min-height: 110px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1703-2,#u1703-5
 {
 	color: #FFFFFF;
 }

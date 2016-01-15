@@ -1,7 +1,7 @@
-.version.website_bmwz3brutality_copy_copy_copy_copy_copy_copy_copy_copy /* version checker */
+.version.website_vipmegastar /* version checker */
 {
-	color: #0000ED;
-	background-color: #B71428;
+	color: #00000B;
+	background-color: #CAE540;
 }
 
 .html
@@ -13,12 +13,12 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.85px;
+	min-height: 499.5px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
+	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -54,38 +54,45 @@
 	color: #FFFFFF;
 }
 
+#u1796-6
+{
+	z-index: 20;
+	width: 600px;
+	min-height: 43px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
 #u1749
 {
 	z-index: 19;
 	width: 600px;
-	height: 305px;
-	margin-top: 15px;
+	height: 320px;
 	position: relative;
-}
-
-.ie #u1749
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
+	background: transparent url("../images/vipmegastar.jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #u1748-10
 {
 	z-index: 2;
 	width: 600px;
-	min-height: 95px;
+	min-height: 59px;
 	background-color: transparent;
 	line-height: 19px;
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-top: 15px;
+	top: -2px;
+	margin-bottom: -2px;
 	position: relative;
 }
 
-#u1748,#u1748-6
+#u1748-2,#u1748-5
 {
 	color: #FFFFFF;
 }
