@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #000010;
-	background-color: #A90967;
+	color: #0000F7;
+	background-color: #601A8C;
 }
 
 .html
@@ -13,9 +13,10 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 623px;
+	min-height: 640.55px;
 	border-style: none;
 	border-color: #000000;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
@@ -450,22 +451,46 @@
 	left: 924px;
 }
 
-#pu109
+#u1125
 {
-	width: 0.01px;
-	margin-left: -100px;
+	z-index: 55;
+	width: 943px;
+	padding-bottom: 0px;
+}
+
+#u1126
+{
+	z-index: 56;
+	width: 942px;
+	height: 35px;
+}
+
+#u1126:hover
+{
+	width: 942px;
+	height: 35px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1842
+{
+	z-index: 59;
+	width: 943px;
+	min-height: 59px;
+	margin-top: 8px;
 }
 
 #u109
 {
 	z-index: 2;
-	min-height: 56px;
-	padding-bottom: 1px;
+	min-height: 47px;
+	padding-bottom: 10px;
 }
 
 #u109:active
 {
-	min-height: 56px;
+	min-height: 47px;
 	margin: 0px;
 }
 
@@ -483,7 +508,7 @@
 	width: 278px;
 	min-height: 19px;
 	margin-right: -10000px;
-	margin-top: 37px;
+	margin-top: 28px;
 	left: 431px;
 }
 
@@ -493,49 +518,13 @@
 	padding-bottom: 0px;
 	min-height: 19px;
 	width: 278px;
-	margin: 37px -10000px 0px 0px;
+	margin: 28px -10000px 0px 0px;
 }
 
 #u109-bw
 {
 	z-index: 2;
-	min-height: 56px;
-	margin-top: 84px;
-}
-
-#u1125
-{
-	z-index: 55;
-	width: 943px;
-	padding-bottom: 49px;
-	margin-right: -10000px;
-	left: 100px;
-}
-
-#u1126
-{
-	z-index: 56;
-	width: 942px;
-	height: 35px;
-	margin-right: -10000px;
-}
-
-#u1126:hover
-{
-	width: 942px;
-	height: 35px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u1842
-{
-	z-index: 59;
-	width: 943px;
-	min-height: 59px;
-	margin-right: -10000px;
-	margin-top: 35px;
-	left: 100px;
+	min-height: 47px;
 }
 
 body
