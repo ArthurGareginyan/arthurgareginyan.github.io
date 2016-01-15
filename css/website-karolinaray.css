@@ -1,7 +1,7 @@
 .version.website_karolinaray /* version checker */
 {
-	color: #0000EF;
-	background-color: #E4925D;
+	color: #000001;
+	background-color: #0A429D;
 }
 
 .html
@@ -59,8 +59,8 @@
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -82,8 +82,8 @@
 	width: 600px;
 	min-height: 56px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

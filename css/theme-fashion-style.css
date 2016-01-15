@@ -1,7 +1,7 @@
 .version.theme_fashion_style /* version checker */
 {
-	color: #00001E;
-	background-color: #CF1BF8;
+	color: #0000ED;
+	background-color: #E7F039;
 }
 
 .html
@@ -64,20 +64,86 @@
 	position: relative;
 }
 
+#pu1460-3
+{
+	width: 0.01px;
+	margin-left: -29px;
+	margin-top: 18px;
+}
+
 #u1460-3
 {
 	z-index: 10;
 	width: 656px;
 	min-height: 94px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: justify;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	left: -28px;
-	margin-top: 18px;
 	position: relative;
+	margin-right: -10000px;
+	left: 1px;
+}
+
+#u1835-33
+{
+	z-index: 13;
+	width: 656px;
+	min-height: 94px;
+	background-color: transparent;
+	text-align: justify;
+	font-family: bitter, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 1px;
+}
+
+#u1835-21
+{
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: 700;
+}
+
+#u1835-2,#u1835-8,#u1835-20,#u1835-27
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: 700;
+}
+
+#u1835-9,#u1835-28
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: 400;
+}
+
+#u1835-29
+{
+	font-size: 16px;
+}
+
+#u1835-3,#u1835-5,#u1835-6,#u1835-11,#u1835-12,#u1835-13,#u1835-14,#u1835-16,#u1835-17,#u1835-18,#u1835-23,#u1835-24,#u1835-25,#u1835-30,#u1835-31
+{
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: 400;
+}
+
+#u1836
+{
+	z-index: 46;
+	width: 155px;
+	min-height: 54px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 169px;
 }
 
 body

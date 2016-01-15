@@ -25,7 +25,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.arthurgareginyan.com/images/screenshot3.jpg</loc>
+    <loc>http://www.arthurgareginyan.com/images/screenshot.jpg</loc>
+    <lastmod>2016-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/images/screenshot2.jpg</loc>
     <lastmod>2016-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -98,7 +104,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/theme-fashion-style.html</loc>
-    <lastmod>2016-01-14</lastmod>
+    <lastmod>2016-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

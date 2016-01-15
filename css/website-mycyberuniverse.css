@@ -1,7 +1,7 @@
 .version.website_mycyberuniverse /* version checker */
 {
-	color: #0000EE;
-	background-color: #D20347;
+	color: #0000F6;
+	background-color: #8B480A;
 }
 
 .html
@@ -59,8 +59,8 @@
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -82,8 +82,8 @@
 	width: 600px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
-	color: #0000F6;
-	background-color: #156254;
+	color: #00001E;
+	background-color: #F9AD40;
 }
 
 .html
@@ -57,7 +57,7 @@
 
 #u1615
 {
-	z-index: 84;
+	z-index: 124;
 	width: 625px;
 	background-color: transparent;
 	left: -13px;
@@ -65,25 +65,31 @@
 	position: relative;
 }
 
-#u1610-76
+#pu1610-116
+{
+	width: 0.01px;
+	margin-left: -13px;
+	margin-top: 20px;
+}
+
+#u1610-116
 {
 	z-index: 8;
 	width: 625px;
 	min-height: 140px;
 	background-color: transparent;
-	color: #000000;
 	text-align: justify;
 	text-indent: 5px;
 	font-family: bitter, serif;
-	left: -13px;
-	margin-top: 20px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u1610-11,#u1610-53
 {
 	font-size: 16px;
 	line-height: 21px;
+	color: #000000;
 	font-weight: 700;
 }
 
@@ -93,18 +99,47 @@
 	font-weight: 400;
 }
 
-#u1610-2,#u1610-8,#u1610-66,#u1610-67
+#u1610-66
 {
 	font-size: 20px;
 	line-height: 26px;
 	font-weight: 700;
 }
 
-#u1610-3,#u1610-5,#u1610-6,#u1610-9,#u1610-13,#u1610-15,#u1610-17,#u1610-19,#u1610-21,#u1610-23,#u1610-25,#u1610-27,#u1610-29,#u1610-31,#u1610-33,#u1610-35,#u1610-37,#u1610-39,#u1610-41,#u1610-43,#u1610-45,#u1610-47,#u1610-49,#u1610-51,#u1610-55,#u1610-57,#u1610-59,#u1610-61,#u1610-63,#u1610-64,#u1610-69,#u1610-70,#u1610-72,#u1610-73,#u1610-74
+#u1610-67
 {
 	font-size: 16px;
 	line-height: 21px;
 	font-weight: 400;
+}
+
+#u1610-2,#u1610-8,#u1610-76,#u1610-86
+{
+	font-size: 20px;
+	line-height: 26px;
+	color: #000000;
+	font-weight: 700;
+}
+
+#u1610-3,#u1610-5,#u1610-6,#u1610-9,#u1610-13,#u1610-15,#u1610-17,#u1610-19,#u1610-21,#u1610-23,#u1610-25,#u1610-27,#u1610-29,#u1610-31,#u1610-33,#u1610-35,#u1610-37,#u1610-39,#u1610-41,#u1610-43,#u1610-45,#u1610-47,#u1610-49,#u1610-51,#u1610-55,#u1610-57,#u1610-59,#u1610-61,#u1610-63,#u1610-64,#u1610-69,#u1610-70,#u1610-71,#u1610-72,#u1610-73,#u1610-74,#u1610-77,#u1610-79,#u1610-80,#u1610-82,#u1610-83,#u1610-84,#u1610-87,#u1610-89,#u1610-90,#u1610-98,#u1610-99,#u1610-101,#u1610-103,#u1610-105,#u1610-107,#u1610-109,#u1610-111,#u1610-113,#u1610-114
+{
+	font-size: 16px;
+	line-height: 21px;
+	color: #000000;
+	font-weight: 400;
+}
+
+#u1838
+{
+	z-index: 126;
+	width: 212px;
+	min-height: 68px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 899px;
 }
 
 body

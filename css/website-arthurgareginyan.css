@@ -1,7 +1,7 @@
 .version.website_arthurgareginyan /* version checker */
 {
-	color: #00000F;
-	background-color: #DDF59A;
+	color: #0000FA;
+	background-color: #BB6C39;
 }
 
 .html
@@ -59,8 +59,8 @@
 	width: 600px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -87,8 +87,8 @@
 	width: 600px;
 	min-height: 66px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

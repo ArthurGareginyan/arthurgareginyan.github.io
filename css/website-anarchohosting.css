@@ -1,7 +1,7 @@
 .version.website_anarchohosting /* version checker */
 {
-	color: #0000EC;
-	background-color: #AE3F2D;
+	color: #000009;
+	background-color: #EDB167;
 }
 
 .html
@@ -59,8 +59,8 @@
 	width: 600px;
 	min-height: 66px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -82,8 +82,8 @@
 	width: 600px;
 	min-height: 71px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

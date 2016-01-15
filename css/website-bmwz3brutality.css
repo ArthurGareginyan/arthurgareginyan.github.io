@@ -1,7 +1,7 @@
 .version.website_bmwz3brutality /* version checker */
 {
-	color: #0000F5;
-	background-color: #791CB2;
+	color: #0000E3;
+	background-color: #0132B5;
 }
 
 .html
@@ -60,8 +60,8 @@
 	width: 600px;
 	min-height: 60px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -84,8 +84,8 @@
 	width: 600px;
 	min-height: 95px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
