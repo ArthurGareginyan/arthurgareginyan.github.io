@@ -286,6 +286,26 @@
 	position: relative;
 }
 
+#u109
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 1px 0px 0px;
+	background: #333333 url("../images/pattern-dark-grey.jpg") repeat-x left top;
+}
+
+#u109:active
+{
+	background-repeat: repeat-x;
+	background-position: left top;
+	border-color: #000000;
+}
+
+#u109_align_to_page
+{
+	position: relative;
+}
+
 #u199-4
 {
 	background-color: transparent;
@@ -303,20 +323,5 @@
 	color: #777777;
 	visibility: inherit;
 	font-size: 11px;
-}
-
-#u109
-{
-	border-style: solid;
-	border-color: #7F7F7F;
-	border-width: 1px 0px 0px;
-	background: #333333 url("../images/pattern-dark-grey.jpg") repeat-x left top;
-}
-
-#u109:active
-{
-	background-repeat: repeat-x;
-	background-position: left top;
-	border-color: #000000;
 }
 

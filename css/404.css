@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #0000F2;
-	background-color: #AD67AD;
+	color: #0000E2;
+	background-color: #BE836B;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 640.5499999999998px;
+	min-height: 640.9999999999998px;
 	border-style: none;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -29,7 +29,7 @@
 
 #u1070
 {
-	z-index: 11;
+	z-index: 7;
 	width: 944px;
 }
 
@@ -41,7 +41,7 @@
 
 #u1074-4
 {
-	z-index: 12;
+	z-index: 8;
 	width: 298px;
 	min-height: 41px;
 	margin-left: 11px;
@@ -49,7 +49,7 @@
 
 #u1075
 {
-	z-index: 16;
+	z-index: 12;
 	width: 943px;
 	padding-bottom: 1px;
 }
@@ -63,7 +63,7 @@
 
 #menuu1082
 {
-	z-index: 17;
+	z-index: 13;
 	width: 940px;
 	margin-right: -10000px;
 	margin-top: 9px;
@@ -347,7 +347,7 @@
 
 #u425
 {
-	z-index: 6;
+	z-index: 2;
 	width: 19px;
 	height: 137px;
 	margin-right: -10000px;
@@ -356,7 +356,7 @@
 
 #u426-4
 {
-	z-index: 7;
+	z-index: 3;
 	width: 114px;
 	min-height: 19px;
 	margin-right: -10000px;
@@ -366,7 +366,7 @@
 
 #u1361
 {
-	z-index: 56;
+	z-index: 52;
 	width: 13px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -435,7 +435,7 @@
 
 #u1125
 {
-	z-index: 54;
+	z-index: 50;
 	width: 943px;
 	padding-bottom: 0px;
 }
@@ -447,7 +447,7 @@
 
 #u1126
 {
-	z-index: 55;
+	z-index: 51;
 	width: 942px;
 	height: 35px;
 }
@@ -462,27 +462,42 @@
 
 #u1842
 {
-	z-index: 58;
+	z-index: 54;
 	width: 943px;
 	min-height: 59px;
 	margin-top: 8px;
 }
 
-#pu199-4
+#u109
 {
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: -5px;
+	z-index: 55;
+	min-height: 47px;
+	padding-bottom: 10px;
+}
+
+#u109:active
+{
+	min-height: 47px;
+	margin: 0px;
+}
+
+#u109_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 942px;
+	left: -100px;
+	margin-bottom: -5px;
 }
 
 #u199-4
 {
-	z-index: 2;
+	z-index: 56;
 	width: 278px;
 	min-height: 19px;
 	margin-right: -10000px;
-	margin-top: 29px;
-	left: 431px;
+	margin-top: 28px;
+	left: 432px;
 }
 
 #u199-4:hover
@@ -491,26 +506,14 @@
 	padding-bottom: 0px;
 	min-height: 19px;
 	width: 278px;
-	margin: 29px -10000px 0px 0px;
-}
-
-#u109
-{
-	z-index: 59;
-	height: 57px;
-}
-
-#u109:active
-{
-	height: 57px;
-	min-height: 0px;
-	margin: 0px;
+	margin: 28px -10000px 0px 0px;
 }
 
 #u109-bw
 {
-	z-index: 59;
-	height: 57px;
+	z-index: 55;
+	min-height: 47px;
+	margin-top: -5px;
 }
 
 body
