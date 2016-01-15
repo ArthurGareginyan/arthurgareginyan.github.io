@@ -1,7 +1,7 @@
 .version.theme_white_knight /* version checker */
 {
-	color: #00000C;
-	background-color: #656628;
+	color: #0000FE;
+	background-color: #40A9C2;
 }
 
 .html
@@ -56,14 +56,14 @@
 
 #u1818
 {
-	z-index: 38;
+	z-index: 43;
 	width: 629px;
 	background-color: transparent;
 	left: -29px;
 	position: relative;
 }
 
-#u1814-30
+#u1814-35
 {
 	z-index: 8;
 	width: 656px;
@@ -78,22 +78,22 @@
 	position: relative;
 }
 
-#u1814-12
+#u1814-17
 {
 	color: #FFFFFF;
 }
 
-#u1814-18,#u1814-19,#u1814-25
+#u1814-2,#u1814-9,#u1814-23,#u1814-24,#u1814-30
 {
 	font-weight: 700;
 }
 
-#u1814,#u1814-3,#u1814-4,#u1814-5,#u1814-7,#u1814-9,#u1814-10,#u1814-14,#u1814-15,#u1814-16,#u1814-21,#u1814-22,#u1814-23,#u1814-26,#u1814-28
+#u1814-3,#u1814-5,#u1814-6,#u1814-7,#u1814-10,#u1814-12,#u1814-14,#u1814-15,#u1814-19,#u1814-20,#u1814-21,#u1814-26,#u1814-27,#u1814-28,#u1814-31,#u1814-33
 {
 	font-weight: 400;
 }
 
-#u1814-2,#u1814-27
+#u1814-4,#u1814-32
 {
 	font-size: 16px;
 }

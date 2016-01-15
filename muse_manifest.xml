@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452877804352">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452877938649">
   <folder name="css">
     <file name="site_global.css" crc="4157308636"/>
     <file name="master_main.css" crc="3849502362" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
@@ -29,8 +29,8 @@
     <file name="website-circuscostume.css" crc="4204571813" ref="website-circuscostume"/>
     <file name="website-anarchohosting.css" crc="3970842413" ref="website-anarchohosting"/>
     <file name="website-karolinaray.css" crc="4024734301" ref="website-karolinaray"/>
-    <file name="theme-white-knight.css" crc="207971880" ref="theme-white-knight"/>
-    <file name="iefonts_theme-white-knight.css" crc="3987179437" ref="theme-white-knight"/>
+    <file name="theme-white-knight.css" crc="4265650626" ref="theme-white-knight"/>
+    <file name="iefonts_theme-white-knight.css" crc="518632597" ref="theme-white-knight"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
@@ -41,7 +41,7 @@
     <file name="pie.js" crc="3827607177" ref="index:about-me:404:portfolio"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:website-arthurgareginyan:plugin-all-meta-tags:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="portfolio:website-arthurgareginyan:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar"/>
   </folder>
   <folder name="images">
@@ -116,5 +116,5 @@
   <file name="website-circuscostume.html" crc="4083674734" seo="true" mt="1452832546248" redirect="true"/>
   <file name="website-studiokr.html" crc="3787839307" seo="true" mt="1452832546532" redirect="true"/>
   <file name="website-vipmegastar.html" crc="489271089" seo="true" mt="1452832546355" redirect="true"/>
-  <file name="theme-white-knight.html" crc="3940390989" seo="true" mt="1452877723013" redirect="true"/>
+  <file name="theme-white-knight.html" crc="4003339228" seo="true" mt="1452877919680" redirect="true"/>
 </manifest>
