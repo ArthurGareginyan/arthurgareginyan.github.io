@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000E4;
-	background-color: #4E6B8F;
+	color: #0000F5;
+	background-color: #56B9E0;
 }
 
 .html
@@ -799,7 +799,7 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/mycyberuniverse.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/mycyberuniverse-u1308-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -828,7 +828,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
-	background: #7F7F7F url("../images/oneberserkblogspotcom.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/oneberserkblogspotcom-u1309-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -914,7 +914,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
-	background: #7F7F7F url("../images/anarcho-hosting.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/anarcho-hosting-u1311-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
