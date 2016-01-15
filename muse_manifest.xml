@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452876898366">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1452877297501">
   <folder name="css">
     <file name="site_global.css" crc="4157308636"/>
     <file name="master_main.css" crc="3849502362" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
     <file name="resume.css" crc="4069480236" ref="resume"/>
     <file name="donate.css" crc="4023361929" ref="donate"/>
-    <file name="index.css" crc="3907539998" ref="index"/>
+    <file name="index.css" crc="512988404" ref="index"/>
     <file name="about-me.css" crc="89955219" ref="about-me"/>
     <file name="portfolio.css" crc="457064766" ref="portfolio"/>
     <file name="contact.css" crc="442932676" ref="contact"/>
@@ -90,7 +90,7 @@
     <file name="vipmegastar-u1540-fr.jpg" crc="4269335364" ref="portfolio"/>
     <file name="karolinaray copy.jpg" crc="378085587" ref="website-karolinaray"/>
   </folder>
-  <file name="index.html" crc="4074862671" seo="true" mt="1452549197122" redirect="true"/>
+  <file name="index.html" crc="4085009471" seo="true" mt="1452877280374" redirect="true"/>
   <file name="contact.html" crc="493898273" seo="true" mt="1452549197122" redirect="true"/>
   <file name="resume.html" crc="362628964" seo="true" mt="1452549197122" redirect="true"/>
   <file name="portfolio.html" crc="120940162" seo="true" mt="1452876886655" redirect="true"/>
