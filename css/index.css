@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #8205FF;
+	color: #0000F8;
+	background-color: #982FA9;
 }
 
 .html
@@ -375,7 +375,7 @@
 
 #u435
 {
-	z-index: 107;
+	z-index: 109;
 	width: 210px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -388,7 +388,7 @@
 
 #u437
 {
-	z-index: 108;
+	z-index: 110;
 	width: 189px;
 	height: 189px;
 	border-radius: 104px;
@@ -402,7 +402,7 @@
 	background-size: cover;
 }
 
-#u410-6
+#u410-8
 {
 	z-index: 60;
 	width: 662px;
@@ -429,7 +429,7 @@
 
 #u416
 {
-	z-index: 69;
+	z-index: 71;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -444,7 +444,7 @@
 
 #u422-5
 {
-	z-index: 87;
+	z-index: 89;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -459,7 +459,7 @@
 
 #u412
 {
-	z-index: 66;
+	z-index: 68;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -474,7 +474,7 @@
 
 #u419-5
 {
-	z-index: 72;
+	z-index: 74;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -489,7 +489,7 @@
 
 #u417
 {
-	z-index: 70;
+	z-index: 72;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -504,7 +504,7 @@
 
 #u423-7
 {
-	z-index: 92;
+	z-index: 94;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -519,7 +519,7 @@
 
 #u415
 {
-	z-index: 68;
+	z-index: 70;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -534,7 +534,7 @@
 
 #u420-5
 {
-	z-index: 77;
+	z-index: 79;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -564,7 +564,7 @@
 
 #u418
 {
-	z-index: 71;
+	z-index: 73;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -579,7 +579,7 @@
 
 #u424-8
 {
-	z-index: 99;
+	z-index: 101;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -599,7 +599,7 @@
 
 #u414
 {
-	z-index: 67;
+	z-index: 69;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -614,7 +614,7 @@
 
 #u421-5
 {
-	z-index: 82;
+	z-index: 84;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
