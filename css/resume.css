@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000E5;
-	background-color: #DFCB5D;
+	color: #000018;
+	background-color: #2B3021;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 640.9499999999998px;
+	min-height: 675.9499999999998px;
 	border-style: none;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -530,12 +530,11 @@
 {
 	z-index: 50;
 	width: 943px;
-	padding-bottom: 0px;
 }
 
 #u1125_position_content
 {
-	padding-bottom: 5px;
+	padding-bottom: 16px;
 }
 
 #u1126
@@ -558,7 +557,7 @@
 	z-index: 54;
 	width: 943px;
 	min-height: 59px;
-	margin-top: 8px;
+	margin-top: 31px;
 }
 
 #u109
@@ -580,7 +579,7 @@
 	margin-right: auto;
 	width: 942px;
 	left: -100px;
-	margin-bottom: -5px;
+	margin-bottom: -4px;
 }
 
 #u199-4
@@ -606,7 +605,7 @@
 {
 	z-index: 55;
 	min-height: 47px;
-	margin-top: -5px;
+	margin-top: -4px;
 }
 
 body

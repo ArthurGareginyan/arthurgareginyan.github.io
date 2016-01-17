@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000F3;
-	background-color: #1E71D9;
+	color: #00001E;
+	background-color: #C60555;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 640.9999999999995px;
+	min-height: 675.9999999999995px;
 	border-style: none;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -1103,12 +1103,11 @@
 {
 	z-index: 50;
 	width: 943px;
-	padding-bottom: 0px;
 }
 
 #u1125_position_content
 {
-	padding-bottom: 5px;
+	padding-bottom: 16px;
 }
 
 #u1126
@@ -1131,7 +1130,7 @@
 	z-index: 54;
 	width: 943px;
 	min-height: 59px;
-	margin-top: 8px;
+	margin-top: 31px;
 }
 
 #u109
@@ -1153,7 +1152,7 @@
 	margin-right: auto;
 	width: 942px;
 	left: -100px;
-	margin-bottom: -5px;
+	margin-bottom: -4px;
 }
 
 #u199-4
@@ -1179,7 +1178,7 @@
 {
 	z-index: 55;
 	min-height: 47px;
-	margin-top: -5px;
+	margin-top: -4px;
 }
 
 body

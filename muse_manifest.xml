@@ -1,17 +1,17 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1453001977347">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1453002223560">
   <folder name="css">
     <file name="site_global.css" crc="4157308636"/>
     <file name="master_main.css" crc="3800039760" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
-    <file name="resume.css" crc="3856649053" ref="resume"/>
-    <file name="donate.css" crc="303353821" ref="donate"/>
-    <file name="index.css" crc="4170723241" ref="index"/>
-    <file name="about-me.css" crc="16964709" ref="about-me"/>
-    <file name="portfolio.css" crc="4078858713" ref="portfolio"/>
-    <file name="contact.css" crc="4114670922" ref="contact"/>
-    <file name="privacy-policy.css" crc="3933586261" ref="privacy-policy"/>
-    <file name="contact-thanks.css" crc="4129730880" ref="contact-thanks"/>
+    <file name="resume.css" crc="405483553" ref="resume"/>
+    <file name="donate.css" crc="105604806" ref="donate"/>
+    <file name="index.css" crc="3989097784" ref="index"/>
+    <file name="about-me.css" crc="482573304" ref="about-me"/>
+    <file name="portfolio.css" crc="516293973" ref="portfolio"/>
+    <file name="contact.css" crc="3780790908" ref="contact"/>
+    <file name="privacy-policy.css" crc="368453572" ref="privacy-policy"/>
+    <file name="contact-thanks.css" crc="99467080" ref="contact-thanks"/>
     <file name="iefonts_resume.css" crc="4245629961" ref="resume"/>
-    <file name="404.css" crc="3804136299" ref="404"/>
+    <file name="404.css" crc="4108999064" ref="404"/>
     <file name="iefonts_404.css" crc="460104520" ref="404"/>
     <file name="theme-fashion-style.css" crc="3991400505" ref="theme-fashion-style"/>
     <file name="theme-anarcho-notepad.css" crc="353728054" ref="theme-anarcho-notepad"/>
@@ -49,7 +49,7 @@
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404"/>
     <file name="smiling_face.png" crc="3841365763" seo="true" ref="about-me"/>
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:portfolio"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index"/>
     <file name="avatar-1-ieu437-fr.png" crc="30896931" ref="index"/>
     <file name="avatar-1.jpg" crc="35660737" ref="index"/>
     <file name="avatar-2.jpg" crc="3933992100" ref="about-me"/>
@@ -92,15 +92,15 @@
     <file name="screenshot.png" crc="437435627" seo="true" ref="theme-white-knight"/>
     <file name="oneberserkr.jpg" crc="3762868153" ref="portfolio"/>
   </folder>
-  <file name="index.html" crc="3946268414" seo="true" mt="1452894423514" redirect="true"/>
-  <file name="contact.html" crc="4125267212" seo="true" mt="1452894234080" redirect="true"/>
-  <file name="resume.html" crc="439363085" seo="true" mt="1452894234080" redirect="true"/>
-  <file name="portfolio.html" crc="169174503" seo="true" mt="1453001975794" redirect="true"/>
-  <file name="about-me.html" crc="3899806965" seo="true" mt="1452894234080" redirect="true"/>
-  <file name="donate.html" crc="440198670" seo="true" mt="1452894234080" redirect="true"/>
-  <file name="privacy-policy.html" crc="3980353868" seo="true" mt="1452894234080" redirect="true"/>
-  <file name="contact-thanks.html" crc="3778977828" seo="true" mt="1452894234080" redirect="true"/>
-  <file name="404.html" crc="3784501357" seo="true" mt="1452894234080" redirect="true"/>
+  <file name="index.html" crc="3946268414" seo="true" mt="1453002206875" redirect="true"/>
+  <file name="contact.html" crc="4125267212" seo="true" mt="1453002206875" redirect="true"/>
+  <file name="resume.html" crc="439363085" seo="true" mt="1453002206875" redirect="true"/>
+  <file name="portfolio.html" crc="308974989" seo="true" mt="1453002206875" redirect="true"/>
+  <file name="about-me.html" crc="3899806965" seo="true" mt="1453002206875" redirect="true"/>
+  <file name="donate.html" crc="440198670" seo="true" mt="1453002206875" redirect="true"/>
+  <file name="privacy-policy.html" crc="3980353868" seo="true" mt="1453002206875" redirect="true"/>
+  <file name="contact-thanks.html" crc="3778977828" seo="true" mt="1453002206875" redirect="true"/>
+  <file name="404.html" crc="3784501357" seo="true" mt="1453002206875" redirect="true"/>
   <file name="theme-fashion-style.html" crc="384313073" seo="true" mt="1452890989271" redirect="true"/>
   <file name="theme-anarcho-notepad.html" crc="4199261513" seo="true" mt="1452889286902" redirect="true"/>
   <file name="theme-authors-notepad.html" crc="3896885314" seo="true" mt="1452889443800" redirect="true"/>
