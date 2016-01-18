@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #0000E8;
-	background-color: #9E1C9F;
+	color: #000009;
+	background-color: #985F61;
 }
 
 .html
@@ -13,9 +13,10 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 676px;
+	min-height: 675.8499999999998px;
 	border-style: none;
 	border-color: #000000;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
@@ -378,7 +379,7 @@
 	left: 3px;
 }
 
-#u1225-26
+#u1225-38
 {
 	z-index: 60;
 	width: 898px;
@@ -393,9 +394,15 @@
 	margin-top: 28px;
 }
 
+#u1225-16,#u1225-26
+{
+	font-family: bitter, serif;
+	font-weight: 400;
+}
+
 #u1235
 {
-	z-index: 86;
+	z-index: 98;
 	width: 118px;
 	min-height: 33px;
 	border-style: none;
@@ -403,15 +410,25 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 224px;
-	left: 400px;
+	margin-top: 241px;
+	left: 138px;
+}
+
+#u1850
+{
+	z-index: 99;
+	width: 107px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 351px;
+	left: 138px;
 }
 
 #u1125
 {
 	z-index: 50;
 	width: 943px;
-	margin-top: 110px;
 }
 
 #u1125_position_content

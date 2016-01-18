@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1453084400026">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1453085190201">
   <folder name="css">
     <file name="site_global.css" crc="4157308636"/>
     <file name="master_main.css" crc="3800039760" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
     <file name="resume.css" crc="405483553" ref="resume"/>
-    <file name="donate.css" crc="3902676127" ref="donate"/>
+    <file name="donate.css" crc="160980833" ref="donate"/>
     <file name="index.css" crc="3989097784" ref="index"/>
     <file name="about-me.css" crc="482573304" ref="about-me"/>
     <file name="portfolio.css" crc="516293973" ref="portfolio"/>
@@ -91,13 +91,14 @@
     <file name="karolinaray copy.jpg" crc="378085587" ref="website-karolinaray"/>
     <file name="screenshot.png" crc="437435627" seo="true" ref="theme-white-knight"/>
     <file name="oneberserkr.jpg" crc="3762868153" ref="portfolio"/>
+    <file name="qr-bitcoin.jpg" crc="404725312" seo="true" ref="donate"/>
   </folder>
   <file name="index.html" crc="3946268414" seo="true" mt="1453002206875" redirect="true"/>
   <file name="contact.html" crc="4125267212" seo="true" mt="1453002206875" redirect="true"/>
   <file name="resume.html" crc="439363085" seo="true" mt="1453002206875" redirect="true"/>
   <file name="portfolio.html" crc="308974989" seo="true" mt="1453002206875" redirect="true"/>
   <file name="about-me.html" crc="3899806965" seo="true" mt="1453002206875" redirect="true"/>
-  <file name="donate.html" crc="534790503" seo="true" mt="1453084264614" redirect="true"/>
+  <file name="donate.html" crc="229535973" seo="true" mt="1453085180340" redirect="true"/>
   <file name="privacy-policy.html" crc="3980353868" seo="true" mt="1453002206875" redirect="true"/>
   <file name="contact-thanks.html" crc="3778977828" seo="true" mt="1453002206875" redirect="true"/>
   <file name="404.html" crc="3784501357" seo="true" mt="1453002206875" redirect="true"/>
