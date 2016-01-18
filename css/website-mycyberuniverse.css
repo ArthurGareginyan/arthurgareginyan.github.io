@@ -1,7 +1,7 @@
 .version.website_mycyberuniverse /* version checker */
 {
-	color: #0000F6;
-	background-color: #8B480A;
+	color: #00000E;
+	background-color: #B3E806;
 }
 
 .html
@@ -59,8 +59,8 @@
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -73,7 +73,7 @@
 	height: 322px;
 	position: relative;
 	background: transparent url("../images/mycyberuniverse.jpg") no-repeat left top;
-	background-size: contain;
+	background-size: cover;
 }
 
 #u1713-10
@@ -82,8 +82,8 @@
 	width: 600px;
 	min-height: 42px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
