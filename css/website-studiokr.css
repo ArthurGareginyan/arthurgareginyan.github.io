@@ -1,7 +1,7 @@
 .version.website_studiokr /* version checker */
 {
-	color: #00001E;
-	background-color: #65F049;
+	color: #0000ED;
+	background-color: #D4F257;
 }
 
 .html
@@ -59,8 +59,8 @@
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -82,8 +82,8 @@
 	width: 600px;
 	min-height: 52px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

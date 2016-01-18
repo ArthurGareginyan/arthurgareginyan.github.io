@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000EC;
-	background-color: #AE6EBF;
+	color: #00000B;
+	background-color: #609D5A;
 }
 
 .html
@@ -836,7 +836,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
-	background: #7F7F7F url("../images/oneberserkr.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/oneberserkr-u1309-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 

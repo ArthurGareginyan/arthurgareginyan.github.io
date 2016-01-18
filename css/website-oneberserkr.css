@@ -1,7 +1,7 @@
 .version.website_oneberserkr /* version checker */
 {
-	color: #0000FC;
-	background-color: #5639BB;
+	color: #0000EE;
+	background-color: #0BD08C;
 }
 
 .html
@@ -59,8 +59,8 @@
 	width: 600px;
 	min-height: 60px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -72,8 +72,8 @@
 	width: 600px;
 	height: 305px;
 	position: relative;
-	background: transparent url("../images/oneberserkblogspotcom.jpg") no-repeat left top;
-	background-size: contain;
+	background: transparent url("../images/oneberserkr.jpg") no-repeat left top;
+	background-size: cover;
 }
 
 #u1703-9
@@ -82,8 +82,8 @@
 	width: 600px;
 	min-height: 110px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
