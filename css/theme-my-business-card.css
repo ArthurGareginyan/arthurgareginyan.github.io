@@ -1,7 +1,7 @@
-.version.theme_fashion_style /* version checker */
+.version.theme_my_business_card /* version checker */
 {
-	color: #00000A;
-	background-color: #BA4444;
+	color: #0000FD;
+	background-color: #AE2988;
 }
 
 .html
@@ -28,7 +28,7 @@
 	width: 0.01px;
 }
 
-#u1457-6
+#u1881-6
 {
 	z-index: 4;
 	width: 657px;
@@ -41,20 +41,20 @@
 	position: relative;
 }
 
-#u1457-2
+#u1881-2
 {
 	font-size: 30px;
 	line-height: 36px;
 }
 
-#u1457-4
+#u1881-4
 {
 	font-size: 22px;
 	line-height: 26px;
 	color: #FFFFFF;
 }
 
-#u1454
+#u1879
 {
 	z-index: 2;
 	width: 657px;
@@ -64,14 +64,14 @@
 	position: relative;
 }
 
-#pu1460-3
+#pu1878-3
 {
 	width: 0.01px;
 	margin-left: -29px;
 	margin-top: 18px;
 }
 
-#u1460-3
+#u1878-3
 {
 	z-index: 10;
 	width: 656px;
@@ -87,7 +87,7 @@
 	left: 1px;
 }
 
-#u1835-35
+#u1882-36
 {
 	z-index: 13;
 	width: 656px;
@@ -100,42 +100,42 @@
 	left: 1px;
 }
 
-#u1835-21
+#u1882-21
 {
 	font-size: 16px;
 	line-height: 19px;
 	font-weight: 700;
 }
 
-#u1835-2,#u1835-8,#u1835-20,#u1835-27
+#u1882-2,#u1882-8,#u1882-20,#u1882-27
 {
 	font-size: 20px;
 	line-height: 24px;
 	font-weight: 700;
 }
 
-#u1835-9,#u1835-28
+#u1882-9,#u1882-28
 {
 	font-size: 20px;
 	line-height: 24px;
 	font-weight: 400;
 }
 
-#u1835-3,#u1835-5,#u1835-6,#u1835-11,#u1835-12,#u1835-13,#u1835-14,#u1835-16,#u1835-17,#u1835-18,#u1835-23,#u1835-24,#u1835-25,#u1835-30,#u1835-31,#u1835-33
+#u1882-29,#u1882-32
+{
+	font-size: 16px;
+}
+
+#u1882-3,#u1882-5,#u1882-6,#u1882-11,#u1882-12,#u1882-13,#u1882-14,#u1882-16,#u1882-17,#u1882-18,#u1882-23,#u1882-24,#u1882-25,#u1882-30,#u1882-31,#u1882-33,#u1882-34
 {
 	font-size: 16px;
 	line-height: 19px;
 	font-weight: 400;
 }
 
-#u1835-29,#u1835-32
+#u1876
 {
-	font-size: 16px;
-}
-
-#u1836
-{
-	z-index: 48;
+	z-index: 49;
 	width: 155px;
 	min-height: 54px;
 	border-style: none;
