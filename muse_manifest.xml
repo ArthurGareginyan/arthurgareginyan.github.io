@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1453232266349">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1453246745321">
   <folder name="css">
     <file name="site_global.css" crc="4157308636"/>
     <file name="master_main.css" crc="3800039760" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
@@ -56,8 +56,8 @@
     <file name="avatar-1.jpg" crc="35660737" ref="index"/>
     <file name="avatar-2.jpg" crc="3933992100" ref="about-me"/>
     <file name="404.png" crc="3823096910" seo="true" ref="404"/>
-    <file name="screenshot.jpg" crc="523739691" ref="portfolio:theme-fashion-style:theme-my-business-card" seo="true"/>
-    <file name="screenshot2.jpg" crc="492910818" ref="portfolio:theme-authors-notepad" seo="true"/>
+    <file name="screenshot.jpg" crc="3831060545" ref="portfolio:theme-fashion-style:theme-my-business-card"/>
+    <file name="screenshot2.jpg" crc="82349711" ref="portfolio:theme-authors-notepad"/>
     <file name="mycyberuniverse.jpg" crc="4237882221" ref="website-mycyberuniverse"/>
     <file name="anarcho-hosting.jpg" crc="3840658910" ref="website-anarchohosting"/>
     <file name="karolinaray.jpg" crc="41751633" ref="portfolio"/>
@@ -98,7 +98,7 @@
   <file name="index.html" crc="3946268414" seo="true" mt="1453002206875" redirect="true"/>
   <file name="contact.html" crc="4125267212" seo="true" mt="1453002206875" redirect="true"/>
   <file name="resume.html" crc="439363085" seo="true" mt="1453002206875" redirect="true"/>
-  <file name="portfolio.html" crc="4106572516" seo="true" mt="1453143076832" redirect="true"/>
+  <file name="portfolio.html" crc="4106572516" seo="true" mt="1453246733944" redirect="true"/>
   <file name="about-me.html" crc="3899806965" seo="true" mt="1453002206875" redirect="true"/>
   <file name="donate.html" crc="229535973" seo="true" mt="1453085180340" redirect="true"/>
   <file name="privacy-policy.html" crc="3980353868" seo="true" mt="1453002206875" redirect="true"/>
