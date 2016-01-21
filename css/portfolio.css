@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000002;
-	background-color: #4F18FA;
+	color: #0000FC;
+	background-color: #199FCF;
 }
 
 .html
@@ -1107,7 +1107,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 16px;
+	margin-bottom: -10px;
 }
 
 #u1126
@@ -1130,7 +1130,7 @@
 	z-index: 54;
 	width: 943px;
 	min-height: 59px;
-	margin-top: 31px;
+	margin-top: 57px;
 }
 
 #u109

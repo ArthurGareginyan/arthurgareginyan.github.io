@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #000005;
-	background-color: #EDBF48;
+	color: #000008;
+	background-color: #A2CF79;
 }
 
 .html
@@ -378,9 +378,9 @@
 	width: 898px;
 	min-height: 56px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -392,12 +392,12 @@
 {
 	z-index: 50;
 	width: 943px;
-	margin-top: 262px;
+	margin-top: 288px;
 }
 
 #u1125_position_content
 {
-	padding-bottom: 16px;
+	margin-bottom: -10px;
 }
 
 #u1126
@@ -420,7 +420,7 @@
 	z-index: 54;
 	width: 943px;
 	min-height: 59px;
-	margin-top: 31px;
+	margin-top: 57px;
 }
 
 #u109

@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #000018;
-	background-color: #2B3021;
+	color: #0000E6;
+	background-color: #7DB714;
 }
 
 .html
@@ -534,7 +534,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 16px;
+	margin-bottom: -10px;
 }
 
 #u1126
@@ -557,7 +557,7 @@
 	z-index: 54;
 	width: 943px;
 	min-height: 59px;
-	margin-top: 31px;
+	margin-top: 57px;
 }
 
 #u109

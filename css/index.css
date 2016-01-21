@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000ED;
-	background-color: #C4CD38;
+	color: #000015;
+	background-color: #8ED17B;
 }
 
 .html
@@ -407,10 +407,10 @@
 	width: 662px;
 	min-height: 143px;
 	background-color: transparent;
-	color: #0092C4;
+	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
-	line-height: 46px;
+	color: #0092C4;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -635,12 +635,12 @@
 {
 	z-index: 50;
 	width: 943px;
-	margin-top: 91px;
+	margin-top: 117px;
 }
 
 #u1125_position_content
 {
-	padding-bottom: 16px;
+	margin-bottom: -10px;
 }
 
 #u1126
@@ -663,7 +663,7 @@
 	z-index: 54;
 	width: 943px;
 	min-height: 59px;
-	margin-top: 31px;
+	margin-top: 57px;
 }
 
 #u109

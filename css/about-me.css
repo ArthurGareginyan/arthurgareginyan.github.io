@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #00001C;
-	background-color: #C37BF8;
+	color: #0000F1;
+	background-color: #5BB995;
 }
 
 .html
@@ -406,8 +406,8 @@
 	width: 508px;
 	min-height: 123px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -522,7 +522,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 16px;
+	margin-bottom: -10px;
 }
 
 #u1126
@@ -545,7 +545,7 @@
 	z-index: 54;
 	width: 943px;
 	min-height: 59px;
-	margin-top: 31px;
+	margin-top: 57px;
 }
 
 #u109
