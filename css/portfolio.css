@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00000B;
-	background-color: #609D5A;
+	color: #000002;
+	background-color: #4F18FA;
 }
 
 .html
@@ -616,9 +616,9 @@
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -631,9 +631,9 @@
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -647,9 +647,9 @@
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -711,9 +711,9 @@
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -726,9 +726,9 @@
 	width: 245px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
