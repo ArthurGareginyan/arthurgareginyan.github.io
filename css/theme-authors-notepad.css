@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
-	color: #00001B;
-	background-color: #797B5C;
+	color: #0000FF;
+	background-color: #FCC7CE;
 }
 
 .html
@@ -60,7 +60,7 @@
 	z-index: 124;
 	width: 625px;
 	background-color: transparent;
-	left: -17px;
+	left: -13px;
 	margin-top: 18px;
 	position: relative;
 }

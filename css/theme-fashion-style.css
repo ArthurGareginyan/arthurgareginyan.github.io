@@ -1,7 +1,7 @@
 .version.theme_fashion_style /* version checker */
 {
-	color: #00000A;
-	background-color: #BA4444;
+	color: #000019;
+	background-color: #F4B799;
 }
 
 .html
@@ -77,9 +77,9 @@
 	width: 656px;
 	min-height: 94px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: justify;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
