@@ -1,7 +1,7 @@
 .version.website_studiokr /* version checker */
 {
-	color: #0000ED;
-	background-color: #D4F257;
+	color: #000009;
+	background-color: #35B04F;
 }
 
 .html
@@ -22,15 +22,23 @@
 	margin-right: auto;
 }
 
-#page_position_content
+#page_position_content,#pu1892
 {
-	padding-top: 13px;
 	width: 0.01px;
+}
+
+#u1892
+{
+	z-index: 2;
+	width: 200px;
+	min-height: 35px;
+	margin-right: -10000px;
+	left: 500px;
 }
 
 #u1739-7
 {
-	z-index: 15;
+	z-index: 16;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -38,6 +46,8 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
 }
 
 #u1739-2
@@ -55,7 +65,7 @@
 
 #u1792-6
 {
-	z-index: 23;
+	z-index: 24;
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
@@ -68,7 +78,7 @@
 
 #u1740
 {
-	z-index: 22;
+	z-index: 23;
 	width: 600px;
 	height: 348px;
 	position: relative;
@@ -78,7 +88,7 @@
 
 #u1741-13
 {
-	z-index: 2;
+	z-index: 3;
 	width: 600px;
 	min-height: 52px;
 	background-color: transparent;

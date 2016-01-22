@@ -1,7 +1,7 @@
 .version.website_milenakiseleva /* version checker */
 {
-	color: #0000FB;
-	background-color: #CAC770;
+	color: #000007;
+	background-color: #214525;
 }
 
 .html
@@ -22,15 +22,23 @@
 	margin-right: auto;
 }
 
-#page_position_content
+#page_position_content,#pu1892
 {
-	padding-top: 13px;
 	width: 0.01px;
+}
+
+#u1892
+{
+	z-index: 2;
+	width: 200px;
+	min-height: 35px;
+	margin-right: -10000px;
+	left: 500px;
 }
 
 #u1684-7
 {
-	z-index: 15;
+	z-index: 16;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -38,6 +46,8 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
 }
 
 #u1684-2
@@ -55,12 +65,12 @@
 
 #u1777-6
 {
-	z-index: 23;
+	z-index: 24;
 	width: 600px;
 	min-height: 44px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -68,7 +78,7 @@
 
 #u1686
 {
-	z-index: 22;
+	z-index: 23;
 	width: 600px;
 	height: 305px;
 	position: relative;
@@ -78,12 +88,12 @@
 
 #u1685-13
 {
-	z-index: 2;
+	z-index: 3;
 	width: 600px;
 	min-height: 95px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.theme_anarcho_notepad /* version checker */
 {
-	color: #000015;
-	background-color: #157636;
+	color: #0000F4;
+	background-color: #4B8380;
 }
 
 .html
@@ -24,21 +24,36 @@
 
 #page_position_content
 {
-	padding-top: 13px;
 	width: 0.01px;
+}
+
+#pu1892
+{
+	width: 0.01px;
+	margin-left: -29px;
+}
+
+#u1892
+{
+	z-index: 2;
+	width: 200px;
+	min-height: 35px;
+	margin-right: -10000px;
+	left: 529px;
 }
 
 #u1580-6
 {
-	z-index: 2;
+	z-index: 3;
 	width: 657px;
 	min-height: 63px;
 	background-color: transparent;
 	text-align: center;
 	font-family: bitter, serif;
 	font-weight: 400;
-	left: -29px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
 }
 
 #u1580-2
@@ -56,7 +71,7 @@
 
 #u1586
 {
-	z-index: 122;
+	z-index: 123;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 17px;
@@ -71,7 +86,7 @@
 
 #u1579-114
 {
-	z-index: 8;
+	z-index: 9;
 	width: 600px;
 	min-height: 168px;
 	background-color: transparent;
@@ -111,7 +126,7 @@
 
 #u1833
 {
-	z-index: 124;
+	z-index: 125;
 	width: 212px;
 	min-height: 68px;
 	border-style: none;

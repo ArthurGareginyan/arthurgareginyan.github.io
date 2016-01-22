@@ -1,7 +1,7 @@
 .version.theme_white_knight /* version checker */
 {
-	color: #000003;
-	background-color: #0D7B82;
+	color: #0000E4;
+	background-color: #AC1DAB;
 }
 
 .html
@@ -13,32 +13,42 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 500px;
+	min-height: 499.5px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	padding-top: 13px;
 	width: 0.01px;
+}
+
+#u1892
+{
+	z-index: 2;
+	width: 200px;
+	min-height: 35px;
+	margin-right: -10000px;
+	left: 529px;
 }
 
 #u1815-6
 {
-	z-index: 2;
+	z-index: 3;
 	width: 657px;
 	min-height: 63px;
 	background-color: transparent;
 	text-align: center;
 	font-family: bitter, serif;
 	font-weight: 400;
-	left: -29px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
 }
 
 #u1815-2
@@ -56,23 +66,22 @@
 
 #u1818
 {
-	z-index: 45;
+	z-index: 46;
 	width: 629px;
 	background-color: transparent;
 	left: -29px;
 	position: relative;
 }
 
-#pu1814-37
+#pu1892,#pu1814-37
 {
 	width: 0.01px;
 	margin-left: -29px;
-	margin-top: 1px;
 }
 
 #u1814-37
 {
-	z-index: 8;
+	z-index: 9;
 	width: 656px;
 	min-height: 94px;
 	background-color: transparent;
@@ -122,7 +131,7 @@
 
 #u1829
 {
-	z-index: 47;
+	z-index: 48;
 	width: 155px;
 	min-height: 54px;
 	border-style: none;
