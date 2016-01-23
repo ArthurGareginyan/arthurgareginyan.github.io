@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #000015;
-	background-color: #1608C3;
+	color: #0000EA;
+	background-color: #5C5C48;
 }
 
 .html
@@ -13,10 +13,9 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 675.9504757464335px;
+	min-height: 676px;
 	border-style: none;
 	border-color: #000000;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
@@ -24,7 +23,6 @@
 
 #page_position_content
 {
-	margin-bottom: -39px;
 	width: 0.01px;
 }
 
@@ -437,21 +435,22 @@
 #u109
 {
 	z-index: 55;
-	height: 57px;
+	min-height: 47px;
+	padding-bottom: 10px;
 }
 
 #u109:active
 {
-	height: 57px;
-	min-height: 0px;
+	min-height: 47px;
 	margin: 0px;
 }
 
-#u109-bw
+#u109_align_to_page
 {
-	z-index: 55;
-	margin-top: 137px;
-	height: 57px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 942px;
+	left: -100px;
 }
 
 #u199-4
@@ -459,8 +458,9 @@
 	z-index: 56;
 	width: 278px;
 	min-height: 19px;
-	margin-left: 332px;
-	margin-top: 20px;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 432px;
 }
 
 #u199-4:hover
@@ -469,7 +469,14 @@
 	padding-bottom: 0px;
 	min-height: 19px;
 	width: 278px;
-	margin: 20px 0px 0px 332px;
+	margin: 28px -10000px 0px 0px;
+}
+
+#u109-bw
+{
+	z-index: 55;
+	min-height: 47px;
+	margin-top: 137px;
 }
 
 body
