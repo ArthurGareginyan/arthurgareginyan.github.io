@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
-	color: #00001E;
-	background-color: #53F31C;
+	color: #0000ED;
+	background-color: #4E3AE3;
 }
 
 .html
@@ -25,22 +25,23 @@
 
 #page_position_content
 {
+	padding-top: 13px;
 	width: 0.01px;
 }
 
-#pu1892
+#pu1955
 {
 	width: 0.01px;
 	margin-left: -29px;
 }
 
-#u1892
+#u1955
 {
 	z-index: 2;
-	width: 200px;
-	min-height: 35px;
+	width: 50px;
+	min-height: 25px;
 	margin-right: -10000px;
-	left: 529px;
+	left: 653px;
 }
 
 #u1609-6
@@ -54,7 +55,6 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
 }
 
 #u1609-2

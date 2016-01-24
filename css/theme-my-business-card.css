@@ -1,7 +1,7 @@
 .version.theme_my_business_card /* version checker */
 {
-	color: #00000E;
-	background-color: #E0D9BC;
+	color: #0000F5;
+	background-color: #5DF967;
 }
 
 .html
@@ -13,34 +13,34 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.5px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
+	padding-top: 13px;
 	width: 0.01px;
 }
 
-#pu1892
+#pu1955
 {
 	width: 0.01px;
 	margin-left: -29px;
 }
 
-#u1892
+#u1955
 {
 	z-index: 2;
-	width: 200px;
-	min-height: 35px;
+	width: 50px;
+	min-height: 25px;
 	margin-right: -10000px;
-	left: 529px;
+	left: 653px;
 }
 
 #u1881-6
@@ -54,7 +54,6 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
 }
 
 #u1881-2
@@ -84,7 +83,7 @@
 {
 	width: 0.01px;
 	margin-left: -29px;
-	margin-top: 17px;
+	margin-top: 18px;
 }
 
 #u1878-3

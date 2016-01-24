@@ -1,7 +1,7 @@
 .version.website_vipmegastar /* version checker */
 {
-	color: #0000F9;
-	background-color: #6402DC;
+	color: #0000E3;
+	background-color: #470C7C;
 }
 
 .html
@@ -23,18 +23,15 @@
 	margin-right: auto;
 }
 
-#page_position_content,#pu1892
+#page_position_content
 {
+	padding-top: 13px;
 	width: 0.01px;
 }
 
-#u1892
+#pu1747-7
 {
-	z-index: 2;
-	width: 200px;
-	min-height: 35px;
-	margin-right: -10000px;
-	left: 500px;
+	width: 0.01px;
 }
 
 #u1747-7
@@ -48,7 +45,6 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
 }
 
 #u1747-2
@@ -62,6 +58,15 @@
 	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
+}
+
+#u1955
+{
+	z-index: 2;
+	width: 50px;
+	min-height: 25px;
+	margin-right: -10000px;
+	left: 624px;
 }
 
 #u1796-6
