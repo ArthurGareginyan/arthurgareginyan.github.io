@@ -11,10 +11,10 @@
   <title>RESUME</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4189136300"/>
-  <link rel="stylesheet" type="text/css" href="css/master_main.css?346116985"/>
-  <link rel="stylesheet" type="text/css" href="css/resume.css?124790902" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_main.css?403032703"/>
+  <link rel="stylesheet" type="text/css" href="css/resume.css?442742872" id="pagesheet"/>
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_resume.css?397906409"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_resume.css?261955051"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -43,6 +43,252 @@ var __adobewebfontsappname__ = "muse";
 <meta name='contact' content='arthurgareginyan@gmail.com' />
 <meta name='copyright' content='Copyright (c) 2015-2016 Arthur Gareginyan. All Rights Reserved.' />
 <meta name='keywords' content='Артур Гарегинян, Артур Берсеркр Гарегинян, Берсеркр, Украинский Берсеркр, Артур Берсеркр, Arthur Berserkr, Arthur Berserkr Gareginyan, Arthur Gareginyan, Berserkr,' />
+  <!--HTML Widget code-->
+  
+       <style>
+        body {
+    overflow: hidden;
+}
+
+
+#preloader {
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:#222222; /* change if the mask should have another color then white */
+    opacity:0.8;
+    //z-index:99; /* makes sure it stays on top */
+}
+
+#status {
+    width:200px;
+    height:50px;
+    position:absolute;
+    left:50%; /* centers the loading animation horizontally one the screen */
+    top:50%; /* centers the loading animation vertically one the screen */
+    margin-left:-100px;
+    margin-top:55px;
+    font-size:12px;
+    color:#DDDDDD;
+    text-align:center;
+    font-family:Verdana;
+}
+       </style>
+       <style>
+#floatingBarsG{
+position:absolute;
+    left:50%; /* centers the loading animation horizontally one the screen */
+    top:50%; /* centers the loading animation vertically one the screen */
+width:50px;
+margin-left:-25px;
+height:62px}
+
+.blockG{
+position:absolute;
+background-color:#222222;
+width:8px;
+height:19px;
+-moz-border-radius:7px 7px 0 0;
+-moz-transform:scale(0.4);
+-moz-animation-name:fadeG;
+-moz-animation-duration:1.28s;
+-moz-animation-iteration-count:infinite;
+-moz-animation-direction:linear;
+-webkit-border-radius:7px 7px 0 0;
+-webkit-transform:scale(0.4);
+-webkit-animation-name:fadeG;
+-webkit-animation-duration:1.28s;
+-webkit-animation-iteration-count:infinite;
+-webkit-animation-direction:linear;
+-ms-border-radius:7px 7px 0 0;
+-ms-transform:scale(0.4);
+-ms-animation-name:fadeG;
+-ms-animation-duration:1.28s;
+-ms-animation-iteration-count:infinite;
+-ms-animation-direction:linear;
+-o-border-radius:7px 7px 0 0;
+-o-transform:scale(0.4);
+-o-animation-name:fadeG;
+-o-animation-duration:1.28s;
+-o-animation-iteration-count:infinite;
+-o-animation-direction:linear;
+border-radius:7px 7px 0 0;
+transform:scale(0.4);
+animation-name:fadeG;
+animation-duration:1.28s;
+animation-iteration-count:infinite;
+animation-direction:linear;
+}
+
+#rotateG_01{
+left:0;
+top:23px;
+-moz-animation-delay:0.4800000000000001s;
+-moz-transform:rotate(-90deg);
+-webkit-animation-delay:0.4800000000000001s;
+-webkit-transform:rotate(-90deg);
+-ms-animation-delay:0.4800000000000001s;
+-ms-transform:rotate(-90deg);
+-o-animation-delay:0.4800000000000001s;
+-o-transform:rotate(-90deg);
+animation-delay:0.4800000000000001s;
+transform:rotate(-90deg);
+}
+
+#rotateG_02{
+left:6px;
+top:8px;
+-moz-animation-delay:0.64s;
+-moz-transform:rotate(-45deg);
+-webkit-animation-delay:0.64s;
+-webkit-transform:rotate(-45deg);
+-ms-animation-delay:0.64s;
+-ms-transform:rotate(-45deg);
+-o-animation-delay:0.64s;
+-o-transform:rotate(-45deg);
+animation-delay:0.64s;
+transform:rotate(-45deg);
+}
+
+#rotateG_03{
+left:21px;
+top:2px;
+-moz-animation-delay:0.8s;
+-moz-transform:rotate(0deg);
+-webkit-animation-delay:0.8s;
+-webkit-transform:rotate(0deg);
+-ms-animation-delay:0.8s;
+-ms-transform:rotate(0deg);
+-o-animation-delay:0.8s;
+-o-transform:rotate(0deg);
+animation-delay:0.8s;
+transform:rotate(0deg);
+}
+
+#rotateG_04{
+right:6px;
+top:8px;
+-moz-animation-delay:0.9600000000000002s;
+-moz-transform:rotate(45deg);
+-webkit-animation-delay:0.9600000000000002s;
+-webkit-transform:rotate(45deg);
+-ms-animation-delay:0.9600000000000002s;
+-ms-transform:rotate(45deg);
+-o-animation-delay:0.9600000000000002s;
+-o-transform:rotate(45deg);
+animation-delay:0.9600000000000002s;
+transform:rotate(45deg);
+}
+
+#rotateG_05{
+right:0;
+top:23px;
+-moz-animation-delay:1.12s;
+-moz-transform:rotate(90deg);
+-webkit-animation-delay:1.12s;
+-webkit-transform:rotate(90deg);
+-ms-animation-delay:1.12s;
+-ms-transform:rotate(90deg);
+-o-animation-delay:1.12s;
+-o-transform:rotate(90deg);
+animation-delay:1.12s;
+transform:rotate(90deg);
+}
+
+#rotateG_06{
+right:6px;
+bottom:6px;
+-moz-animation-delay:1.28s;
+-moz-transform:rotate(135deg);
+-webkit-animation-delay:1.28s;
+-webkit-transform:rotate(135deg);
+-ms-animation-delay:1.28s;
+-ms-transform:rotate(135deg);
+-o-animation-delay:1.28s;
+-o-transform:rotate(135deg);
+animation-delay:1.28s;
+transform:rotate(135deg);
+}
+
+#rotateG_07{
+bottom:0;
+left:21px;
+-moz-animation-delay:1.44s;
+-moz-transform:rotate(180deg);
+-webkit-animation-delay:1.44s;
+-webkit-transform:rotate(180deg);
+-ms-animation-delay:1.44s;
+-ms-transform:rotate(180deg);
+-o-animation-delay:1.44s;
+-o-transform:rotate(180deg);
+animation-delay:1.44s;
+transform:rotate(180deg);
+}
+
+#rotateG_08{
+left:6px;
+bottom:6px;
+-moz-animation-delay:1.6s;
+-moz-transform:rotate(-135deg);
+-webkit-animation-delay:1.6s;
+-webkit-transform:rotate(-135deg);
+-ms-animation-delay:1.6s;
+-ms-transform:rotate(-135deg);
+-o-animation-delay:1.6s;
+-o-transform:rotate(-135deg);
+animation-delay:1.6s;
+transform:rotate(-135deg);
+}
+
+@-moz-keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#FFFFFF}
+
+}
+
+@-webkit-keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#222222}
+
+}
+
+@-ms-keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#222222}
+
+}
+
+@-o-keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#222222}
+
+}
+
+@keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#222222}
+
+}
+
+</style>
+
  </head>
  <body>
 
@@ -51,7 +297,7 @@ var __adobewebfontsappname__ = "muse";
     <div class="clearfix colelem" id="u1070"><!-- column -->
      <div class="position_content" id="u1070_position_content">
       <a class="nonblock nontext clearfix colelem" id="u1074-4" href="index.html"><!-- content --><p>Arthur Gareginyan</p></a>
-      <div class="shadow rounded-corners clearfix colelem" id="u1075"><!-- group -->
+      <div class="clearfix colelem" id="u1075"><!-- group -->
        <nav class="MenuBar clearfix grpelem" id="menuu1082"><!-- horizontal box -->
         <div class="MenuItemContainer clearfix grpelem" id="u1111"><!-- vertical box -->
          <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1114" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1115-4"><!-- content --><p>HOME</p></div></a>
@@ -75,13 +321,41 @@ var __adobewebfontsappname__ = "muse";
       </div>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu425"><!-- group -->
-     <div class="shadow rounded-corners grpelem" id="u425"><!-- simple frame --></div>
-     <a class="nonblock nontext clearfix grpelem" id="u426-4" href="assets/arthur_gareginyan.vcf" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="47" data-mu-ie-matrix-dy="-47"><!-- content --><p>Download vCard</p></a>
-     <div class="clip_frame grpelem" id="u1361" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="1" data-mu-ie-matrix-dy="-1"><!-- image -->
-      <img class="block" id="u1361_img" src="images/arrow_down.png" alt="" width="13" height="12"/>
+    <div class="clearfix colelem" id="ppu425"><!-- group -->
+     <div class="clearfix grpelem" id="pu425"><!-- group -->
+      <div class="grpelem" id="u425"><!-- simple frame --></div>
+      <a class="nonblock nontext clearfix grpelem" id="u426-4" href="assets/arthur_gareginyan.vcf" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="47" data-mu-ie-matrix-dy="-47"><!-- content --><p>Download vCard</p></a>
+      <div class="clip_frame grpelem" id="u1361" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="1" data-mu-ie-matrix-dy="-1"><!-- image -->
+       <img class="block" id="u1361_img" src="images/arrow_down.png" alt="" width="13" height="12"/>
+      </div>
      </div>
-     <div class="clearfix grpelem" id="u1253-90"><!-- content -->
+     <div class="grpelem" id="u1897"><!-- custom html -->
+      
+      
+<div id="preloader">
+    <div id="floatingBarsG">
+    <div class="blockG" id="rotateG_01">
+    </div>
+    <div class="blockG" id="rotateG_02">
+    </div>
+    <div class="blockG" id="rotateG_03">
+    </div>
+    <div class="blockG" id="rotateG_04">
+    </div>
+    <div class="blockG" id="rotateG_05">
+    </div>
+    <div class="blockG" id="rotateG_06">
+    </div>
+    <div class="blockG" id="rotateG_07">
+    </div>
+    <div class="blockG" id="rotateG_08">
+    </div>
+    </div>
+    <div id="status">Loading the page...</div>
+</div>
+
+</div>
+     <div class="clearfix grpelem" id="u1253-88"><!-- content -->
       <p id="u1253-2">ARTHUR GAREGINYAN</p>
       <p id="u1253-4">Moscow, Russia, 141033</p>
       <p id="u1253-6">arthurgareginyan@gmail.com</p>
@@ -98,51 +372,51 @@ var __adobewebfontsappname__ = "muse";
       <p id="u1253-22">&nbsp;</p>
       <p id="u1253-24">Professional Experience</p>
       <p id="u1253-25">&nbsp;</p>
-      <p id="u1253-29">&nbsp;&quot;<span id="u1253-27">ИП Мкртумян Т.Е.</span><span id="u1253-28">&quot;, Moscow, Russia</span></p>
-      <p id="u1253-31">&nbsp;Administrator,&nbsp; July 2012 – September 2012</p>
-      <p id="u1253-33">&nbsp;Employers name - Мкртумян Тамара Егишевна</p>
-      <p id="u1253-34">&nbsp;</p>
-      <ul class="list0 nls-None" id="u1253-43">
-       <li id="u1253-36">Typed documents such as correspondence, drafts, memos, and emails, and prepared reports for management</li>
-       <li id="u1253-38">Opened, sorted, and distributed incoming messages and correspondence</li>
-       <li id="u1253-40">Purchased and maintained office supply inventories, and being careful to adhere to budgeting practices</li>
-       <li id="u1253-42">Responsible for handling the day-to-day administrative tasks of the office and making sure that everything runs smoothly.</li>
+      <p id="u1253-28"><span id="u1253-26">ADMINISTRATOR</span>,&nbsp; July 2012 – September 2012</p>
+      <p id="u1253-30">&quot;ИП Мкртумян Т.Е.&quot;, Moscow, Russia</p>
+      <p id="u1253-32">Employers name - Мкртумян Тамара Егишевна</p>
+      <p id="u1253-33">&nbsp;</p>
+      <ul class="list0 nls-None" id="u1253-42">
+       <li id="u1253-35">Typed documents such as correspondence, drafts, memos, and emails, and prepared reports for management</li>
+       <li id="u1253-37">Opened, sorted, and distributed incoming messages and correspondence</li>
+       <li id="u1253-39">Purchased and maintained office supply inventories, and being careful to adhere to budgeting practices</li>
+       <li id="u1253-41">Responsible for handling the day-to-day administrative tasks of the office and making sure that everything runs smoothly.</li>
       </ul>
+      <p id="u1253-43">&nbsp;</p>
       <p id="u1253-44">&nbsp;</p>
-      <p id="u1253-45">&nbsp;</p>
-      <p id="u1253-49">&nbsp;&quot;<span id="u1253-47">ИП Гарегинян А.Н.</span>&quot;, Moscow, Russia</p>
-      <p id="u1253-51">&nbsp;Chief Director,&nbsp; June 2010 – August 2012</p>
-      <p id="u1253-53">&nbsp;Employers name - Гарегинян Аркадий Николаевич</p>
-      <p id="u1253-54">&nbsp;</p>
-      <ul class="list0 nls-None" id="u1253-61">
-       <li id="u1253-56">Schedule and coordinate meetings, appointments, and travel arrangements</li>
-       <li id="u1253-58">Maintain utmost discretion when dealing with sensitive topics</li>
-       <li id="u1253-60">Manage travel and expense reports</li>
+      <p id="u1253-47"><span id="u1253-45">CHIEF DIRECTOR</span>,&nbsp; June 2010 – August 2012</p>
+      <p id="u1253-49">&quot;ИП Гарегинян А.Н.&quot;, Moscow, Russia</p>
+      <p id="u1253-51">Employers name - Гарегинян Аркадий Николаевич</p>
+      <p id="u1253-52">&nbsp;</p>
+      <ul class="list0 nls-None" id="u1253-59">
+       <li id="u1253-54">Schedule and coordinate meetings, appointments, and travel arrangements</li>
+       <li id="u1253-56">Maintain utmost discretion when dealing with sensitive topics</li>
+       <li id="u1253-58">Manage travel and expense reports</li>
       </ul>
+      <p id="u1253-60">&nbsp;</p>
+      <p id="u1253-61">&nbsp;</p>
       <p id="u1253-62">&nbsp;</p>
-      <p id="u1253-63">&nbsp;</p>
-      <p id="u1253-64">&nbsp;</p>
-      <p id="u1253-66">&nbsp;&nbsp; ____________________________________________________________________________________________________________</p>
-      <p id="u1253-67">&nbsp;</p>
-      <p id="u1253-69">Education</p>
-      <p id="u1253-70">&nbsp;</p>
-      <p id="u1253-74">&nbsp;<span id="u1253-72">Lomonosov Moscow State University (MSU)</span>, Moscow, Russia</p>
-      <p id="u1253-77">&nbsp;<span id="u1253-76">The Faculty of History, (2003 – 2005 year)</span></p>
+      <p id="u1253-64">&nbsp;&nbsp; ____________________________________________________________________________________________________________</p>
+      <p id="u1253-65">&nbsp;</p>
+      <p id="u1253-67">Education</p>
+      <p id="u1253-68">&nbsp;</p>
+      <p id="u1253-72">&nbsp;<span id="u1253-70">Lomonosov Moscow State University (MSU)</span>, Moscow, Russia</p>
+      <p id="u1253-75">&nbsp;<span id="u1253-74">The Faculty of History, (2003 – 2005 year)</span></p>
+      <p id="u1253-76">&nbsp;</p>
+      <p id="u1253-77">&nbsp;</p>
       <p id="u1253-78">&nbsp;</p>
-      <p id="u1253-79">&nbsp;</p>
-      <p id="u1253-80">&nbsp;</p>
-      <p id="u1253-83"><span id="u1253-81">&nbsp;&nbsp; </span><span id="u1253-82">____________________________________________________________________________________________________________</span></p>
-      <p id="u1253-84">&nbsp;</p>
-      <p id="u1253-86">Additional Skills</p>
-      <p id="u1253-87">&nbsp;</p>
-      <p id="u1253-88">&nbsp;</p>
+      <p id="u1253-81"><span id="u1253-79">&nbsp;&nbsp; </span><span id="u1253-80">____________________________________________________________________________________________________________</span></p>
+      <p id="u1253-82">&nbsp;</p>
+      <p id="u1253-84">Additional Skills</p>
+      <p id="u1253-85">&nbsp;</p>
+      <p id="u1253-86">&nbsp;</p>
      </div>
     </div>
     <div class="verticalspacer"></div>
     <div class="clearfix colelem" id="pu1125"><!-- group -->
      <div class="clearfix grpelem" id="u1125"><!-- column -->
       <div class="position_content" id="u1125_position_content">
-       <div class="shadow rounded-corners colelem" id="u1126"><!-- simple frame --></div>
+       <div class="colelem" id="u1126"><!-- simple frame --></div>
        <div class="colelem" id="u1842"><!-- custom html -->
         <ul class="social-icons">
 	<li>
@@ -273,5 +547,18 @@ Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
 </script>
+  
+  <!--HTML Widget code-->
+  
+       <script type="text/javascript">
+    
+        $(window).load(function() { // makes sure the whole site is loaded
+            $('#status').fadeOut(); // will first fade out the loading animation
+            $('#preloader').delay(200).fadeOut('slow'); // will fade out the white DIV that covers the website.
+            $('body').delay(200).css({'overflow':'visible'});
+        })
+    
+    </script>
+    
    </body>
 </html>

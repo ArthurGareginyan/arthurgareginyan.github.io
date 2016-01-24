@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #000015;
-	background-color: #19E83E;
+	color: #00000B;
+	background-color: #511E26;
 }
 
 .html
@@ -379,9 +379,19 @@
 	left: 3px;
 }
 
-#u1225-38
+#u1897
 {
 	z-index: 60;
+	width: 200px;
+	min-height: 200px;
+	margin-right: -10000px;
+	margin-top: 117px;
+	left: 348px;
+}
+
+#u1225-38
+{
+	z-index: 61;
 	width: 898px;
 	min-height: 323px;
 	background-color: transparent;
@@ -402,7 +412,7 @@
 
 #u1235
 {
-	z-index: 98;
+	z-index: 99;
 	width: 118px;
 	min-height: 33px;
 	border-style: none;
@@ -416,7 +426,7 @@
 
 #u1850
 {
-	z-index: 99;
+	z-index: 100;
 	width: 107px;
 	background-color: transparent;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #0000E5;
-	background-color: #6EEDA3;
+	color: #0000E7;
+	background-color: #0A649D;
 }
 
 .html
@@ -359,7 +359,7 @@
 
 #u1251-4
 {
-	z-index: 97;
+	z-index: 98;
 	width: 216px;
 	min-height: 34px;
 	background-color: transparent;
@@ -376,7 +376,7 @@
 
 #u1252
 {
-	z-index: 101;
+	z-index: 102;
 	width: 868px;
 	height: 16px;
 	border-style: solid;
@@ -389,16 +389,32 @@
 	border-width: 0px 0px 1px;
 }
 
-#u1250-37
+#pu1897
+{
+	width: 0.01px;
+	margin-top: 23px;
+}
+
+#u1897
 {
 	z-index: 60;
+	width: 200px;
+	min-height: 200px;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 348px;
+}
+
+#u1250-37
+{
+	z-index: 61;
 	width: 898px;
 	min-height: 695px;
 	background-color: transparent;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-top: 23px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u1250-5,#u1250-11,#u1250-20,#u1250-26,#u1250-32

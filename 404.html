@@ -10,11 +10,11 @@
   <meta name="generator" content="2015.0.2.310"/>
   <title>404</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?4157308636"/>
-  <link rel="stylesheet" type="text/css" href="css/master_main.css?346116985"/>
-  <link rel="stylesheet" type="text/css" href="css/404.css?146974331" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?4189136300"/>
+  <link rel="stylesheet" type="text/css" href="css/master_main.css?403032703"/>
+  <link rel="stylesheet" type="text/css" href="css/404.css?312940360" id="pagesheet"/>
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_404.css?460104520"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_404.css?161502636"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -23,7 +23,7 @@ var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/alegreya-sc:n4:default;bitter:n4,n7:default.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/bitter:n4,n7:default;alegreya-sc:n4:default.js" type="text/javascript">\x3C/script>');
 </script>
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script>
@@ -43,6 +43,252 @@ var __adobewebfontsappname__ = "muse";
 <meta name='contact' content='arthurgareginyan@gmail.com' />
 <meta name='copyright' content='Copyright (c) 2015-2016 Arthur Gareginyan. All Rights Reserved.' />
 <meta name='keywords' content='Артур Гарегинян, Артур Берсеркр Гарегинян, Берсеркр, Украинский Берсеркр, Артур Берсеркр, Arthur Berserkr, Arthur Berserkr Gareginyan, Arthur Gareginyan, Berserkr,' />
+  <!--HTML Widget code-->
+  
+       <style>
+        body {
+    overflow: hidden;
+}
+
+
+#preloader {
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:#222222; /* change if the mask should have another color then white */
+    opacity:0.8;
+    //z-index:99; /* makes sure it stays on top */
+}
+
+#status {
+    width:200px;
+    height:50px;
+    position:absolute;
+    left:50%; /* centers the loading animation horizontally one the screen */
+    top:50%; /* centers the loading animation vertically one the screen */
+    margin-left:-100px;
+    margin-top:55px;
+    font-size:12px;
+    color:#DDDDDD;
+    text-align:center;
+    font-family:Verdana;
+}
+       </style>
+       <style>
+#floatingBarsG{
+position:absolute;
+    left:50%; /* centers the loading animation horizontally one the screen */
+    top:50%; /* centers the loading animation vertically one the screen */
+width:50px;
+margin-left:-25px;
+height:62px}
+
+.blockG{
+position:absolute;
+background-color:#222222;
+width:8px;
+height:19px;
+-moz-border-radius:7px 7px 0 0;
+-moz-transform:scale(0.4);
+-moz-animation-name:fadeG;
+-moz-animation-duration:1.28s;
+-moz-animation-iteration-count:infinite;
+-moz-animation-direction:linear;
+-webkit-border-radius:7px 7px 0 0;
+-webkit-transform:scale(0.4);
+-webkit-animation-name:fadeG;
+-webkit-animation-duration:1.28s;
+-webkit-animation-iteration-count:infinite;
+-webkit-animation-direction:linear;
+-ms-border-radius:7px 7px 0 0;
+-ms-transform:scale(0.4);
+-ms-animation-name:fadeG;
+-ms-animation-duration:1.28s;
+-ms-animation-iteration-count:infinite;
+-ms-animation-direction:linear;
+-o-border-radius:7px 7px 0 0;
+-o-transform:scale(0.4);
+-o-animation-name:fadeG;
+-o-animation-duration:1.28s;
+-o-animation-iteration-count:infinite;
+-o-animation-direction:linear;
+border-radius:7px 7px 0 0;
+transform:scale(0.4);
+animation-name:fadeG;
+animation-duration:1.28s;
+animation-iteration-count:infinite;
+animation-direction:linear;
+}
+
+#rotateG_01{
+left:0;
+top:23px;
+-moz-animation-delay:0.4800000000000001s;
+-moz-transform:rotate(-90deg);
+-webkit-animation-delay:0.4800000000000001s;
+-webkit-transform:rotate(-90deg);
+-ms-animation-delay:0.4800000000000001s;
+-ms-transform:rotate(-90deg);
+-o-animation-delay:0.4800000000000001s;
+-o-transform:rotate(-90deg);
+animation-delay:0.4800000000000001s;
+transform:rotate(-90deg);
+}
+
+#rotateG_02{
+left:6px;
+top:8px;
+-moz-animation-delay:0.64s;
+-moz-transform:rotate(-45deg);
+-webkit-animation-delay:0.64s;
+-webkit-transform:rotate(-45deg);
+-ms-animation-delay:0.64s;
+-ms-transform:rotate(-45deg);
+-o-animation-delay:0.64s;
+-o-transform:rotate(-45deg);
+animation-delay:0.64s;
+transform:rotate(-45deg);
+}
+
+#rotateG_03{
+left:21px;
+top:2px;
+-moz-animation-delay:0.8s;
+-moz-transform:rotate(0deg);
+-webkit-animation-delay:0.8s;
+-webkit-transform:rotate(0deg);
+-ms-animation-delay:0.8s;
+-ms-transform:rotate(0deg);
+-o-animation-delay:0.8s;
+-o-transform:rotate(0deg);
+animation-delay:0.8s;
+transform:rotate(0deg);
+}
+
+#rotateG_04{
+right:6px;
+top:8px;
+-moz-animation-delay:0.9600000000000002s;
+-moz-transform:rotate(45deg);
+-webkit-animation-delay:0.9600000000000002s;
+-webkit-transform:rotate(45deg);
+-ms-animation-delay:0.9600000000000002s;
+-ms-transform:rotate(45deg);
+-o-animation-delay:0.9600000000000002s;
+-o-transform:rotate(45deg);
+animation-delay:0.9600000000000002s;
+transform:rotate(45deg);
+}
+
+#rotateG_05{
+right:0;
+top:23px;
+-moz-animation-delay:1.12s;
+-moz-transform:rotate(90deg);
+-webkit-animation-delay:1.12s;
+-webkit-transform:rotate(90deg);
+-ms-animation-delay:1.12s;
+-ms-transform:rotate(90deg);
+-o-animation-delay:1.12s;
+-o-transform:rotate(90deg);
+animation-delay:1.12s;
+transform:rotate(90deg);
+}
+
+#rotateG_06{
+right:6px;
+bottom:6px;
+-moz-animation-delay:1.28s;
+-moz-transform:rotate(135deg);
+-webkit-animation-delay:1.28s;
+-webkit-transform:rotate(135deg);
+-ms-animation-delay:1.28s;
+-ms-transform:rotate(135deg);
+-o-animation-delay:1.28s;
+-o-transform:rotate(135deg);
+animation-delay:1.28s;
+transform:rotate(135deg);
+}
+
+#rotateG_07{
+bottom:0;
+left:21px;
+-moz-animation-delay:1.44s;
+-moz-transform:rotate(180deg);
+-webkit-animation-delay:1.44s;
+-webkit-transform:rotate(180deg);
+-ms-animation-delay:1.44s;
+-ms-transform:rotate(180deg);
+-o-animation-delay:1.44s;
+-o-transform:rotate(180deg);
+animation-delay:1.44s;
+transform:rotate(180deg);
+}
+
+#rotateG_08{
+left:6px;
+bottom:6px;
+-moz-animation-delay:1.6s;
+-moz-transform:rotate(-135deg);
+-webkit-animation-delay:1.6s;
+-webkit-transform:rotate(-135deg);
+-ms-animation-delay:1.6s;
+-ms-transform:rotate(-135deg);
+-o-animation-delay:1.6s;
+-o-transform:rotate(-135deg);
+animation-delay:1.6s;
+transform:rotate(-135deg);
+}
+
+@-moz-keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#FFFFFF}
+
+}
+
+@-webkit-keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#222222}
+
+}
+
+@-ms-keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#222222}
+
+}
+
+@-o-keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#222222}
+
+}
+
+@keyframes fadeG{
+0%{
+background-color:#E8FF00}
+
+100%{
+background-color:#222222}
+
+}
+
+</style>
+
  </head>
  <body>
 
@@ -81,6 +327,32 @@ var __adobewebfontsappname__ = "muse";
      <div class="clip_frame grpelem" id="u1361" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="1" data-mu-ie-matrix-dy="-1"><!-- image -->
       <img class="block" id="u1361_img" src="images/arrow_down.png" alt="" width="13" height="12"/>
      </div>
+     <div class="grpelem" id="u1897"><!-- custom html -->
+      
+      
+<div id="preloader">
+    <div id="floatingBarsG">
+    <div class="blockG" id="rotateG_01">
+    </div>
+    <div class="blockG" id="rotateG_02">
+    </div>
+    <div class="blockG" id="rotateG_03">
+    </div>
+    <div class="blockG" id="rotateG_04">
+    </div>
+    <div class="blockG" id="rotateG_05">
+    </div>
+    <div class="blockG" id="rotateG_06">
+    </div>
+    <div class="blockG" id="rotateG_07">
+    </div>
+    <div class="blockG" id="rotateG_08">
+    </div>
+    </div>
+    <div id="status">Loading the page...</div>
+</div>
+
+</div>
      <div class="clearfix grpelem" id="u1380-11"><!-- content -->
       <p id="u1380-2">Oops!</p>
       <p id="u1380-4">This is awkward.</p>
@@ -230,5 +502,18 @@ Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
 </script>
+  
+  <!--HTML Widget code-->
+  
+       <script type="text/javascript">
+    
+        $(window).load(function() { // makes sure the whole site is loaded
+            $('#status').fadeOut(); // will first fade out the loading animation
+            $('#preloader').delay(200).fadeOut('slow'); // will fade out the white DIV that covers the website.
+            $('body').delay(200).css({'overflow':'visible'});
+        })
+    
+    </script>
+    
    </body>
 </html>
