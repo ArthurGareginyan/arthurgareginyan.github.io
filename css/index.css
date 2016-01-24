@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #00472C;
+	color: #0000F5;
+	background-color: #B46227;
 }
 
 .html
@@ -337,11 +337,18 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#ppu425
+{
+	width: 0.01px;
+	margin-left: 47px;
+	margin-top: 16px;
+}
+
 #pu425
 {
 	width: 0.01px;
-	margin-left: 41px;
-	margin-top: 16px;
+	margin-right: -10000px;
+	margin-left: 896px;
 }
 
 #u425
@@ -350,7 +357,6 @@
 	width: 19px;
 	height: 137px;
 	margin-right: -10000px;
-	left: 902px;
 }
 
 #u426-4
@@ -360,7 +366,7 @@
 	min-height: 19px;
 	margin-right: -10000px;
 	margin-top: 64px;
-	left: 856px;
+	left: -47px;
 }
 
 #u1361
@@ -369,39 +375,10 @@
 	width: 13px;
 	margin-right: -10000px;
 	margin-top: 5px;
-	left: 905px;
+	left: 3px;
 }
 
-#u435
-{
-	z-index: 109;
-	width: 210px;
-	border-color: #7F7F7F;
-	background-color: #FFFFFF;
-	border-radius: 104px;
-	padding-bottom: 10px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 19px;
-}
-
-#u437
-{
-	z-index: 110;
-	width: 189px;
-	height: 189px;
-	border-radius: 104px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 10px;
-	background: transparent url("../images/avatar-1-ieu437-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/avatar-1.jpg") no-repeat center center;
-	background-color: transparent;
-	background-size: cover;
-}
-
-#u410-8
+#u410-10
 {
 	z-index: 60;
 	width: 662px;
@@ -410,25 +387,69 @@
 	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
-	color: #0092C4;
+	color: #736357;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 52px;
-	left: 217px;
+	left: 211px;
+}
+
+#u1894
+{
+	z-index: 111;
+	width: 20px;
+	height: 20px;
+	background-color: #FFFFFF;
+	-webkit-transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,10);
+	-ms-transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,10);
+	transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,10);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 114px;
+	left: 188px;
+}
+
+#u435
+{
+	z-index: 112;
+	width: 199px;
+	border-color: #7F7F7F;
+	background-color: #FFFFFF;
+	border-radius: 104px;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+}
+
+#u437
+{
+	z-index: 113;
+	width: 189px;
+	height: 189px;
+	border-radius: 104px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 5px;
+	background: transparent url("../images/avatar-1-ieu437-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/avatar-1.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
 }
 
 #ppu416
 {
 	width: 0.01px;
 	margin-left: 87px;
-	margin-top: 17px;
+	margin-top: 63px;
 }
 
 #u416
 {
-	z-index: 71;
+	z-index: 73;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -443,7 +464,7 @@
 
 #u422-5
 {
-	z-index: 89;
+	z-index: 91;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -458,7 +479,7 @@
 
 #u412
 {
-	z-index: 68;
+	z-index: 70;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -473,7 +494,7 @@
 
 #u419-5
 {
-	z-index: 74;
+	z-index: 76;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -488,7 +509,7 @@
 
 #u417
 {
-	z-index: 72;
+	z-index: 74;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -503,7 +524,7 @@
 
 #u423-7
 {
-	z-index: 94;
+	z-index: 96;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -518,7 +539,7 @@
 
 #u415
 {
-	z-index: 70;
+	z-index: 72;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -533,7 +554,7 @@
 
 #u420-5
 {
-	z-index: 79;
+	z-index: 81;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -563,7 +584,7 @@
 
 #u418
 {
-	z-index: 73;
+	z-index: 75;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -578,7 +599,7 @@
 
 #u424-8
 {
-	z-index: 101;
+	z-index: 103;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -591,14 +612,14 @@
 	left: 10px;
 }
 
-#u424-2,#u424-5
+#u410-2,#u410-6,#u424-2,#u424-5
 {
 	color: #534741;
 }
 
 #u414
 {
-	z-index: 69;
+	z-index: 71;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -613,7 +634,7 @@
 
 #u421-5
 {
-	z-index: 84;
+	z-index: 86;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -635,7 +656,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 127px;
+	margin-top: 86px;
 }
 
 #u1125

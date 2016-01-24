@@ -1,4 +1,4 @@
-.White-Link
+.White-Link,.Grey-Link
 {
 	font-family: bitter-n4, serif;
 }
@@ -38,12 +38,12 @@
 	font-family: bitter-n4, serif;
 }
 
-#u1253-69,#u1253-14,#u1253-15
+#u1253-79,#u1253-16,#u1253-17
 {
 	font-family: bitter-n4, serif;
 }
 
-#u1253-30 > #u1253-23:before,#u1253-30 > #u1253-25:before,#u1253-30 > #u1253-27:before,#u1253-30 > #u1253-29:before,#u1253-48 > #u1253-43:before,#u1253-48 > #u1253-45:before,#u1253-48 > #u1253-47:before
+#u1253-32 > #u1253-25:before,#u1253-32 > #u1253-27:before,#u1253-32 > #u1253-29:before,#u1253-32 > #u1253-31:before,#u1253-50 > #u1253-45:before,#u1253-50 > #u1253-47:before,#u1253-50 > #u1253-49:before
 {
 	font-family: bitter-n4, Georgia;
 }
