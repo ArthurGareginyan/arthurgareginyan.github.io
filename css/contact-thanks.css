@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #000006;
-	background-color: #928127;
+	color: #00000F;
+	background-color: #C7FE2A;
 }
 
 .html
@@ -378,14 +378,14 @@
 	left: 3px;
 }
 
-#u1897
+#u1907
 {
 	z-index: 60;
-	width: 200px;
-	min-height: 200px;
+	width: 50px;
+	min-height: 25px;
 	margin-right: -10000px;
-	margin-top: 117px;
-	left: 348px;
+	margin-top: 137px;
+	left: 423px;
 }
 
 #u1289-10
@@ -408,7 +408,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 199px;
+	margin-top: 298px;
 }
 
 #u1125

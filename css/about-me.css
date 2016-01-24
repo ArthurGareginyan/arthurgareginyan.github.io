@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000F9;
-	background-color: #662434;
+	color: #00000C;
+	background-color: #81853F;
 }
 
 .html
@@ -338,18 +338,11 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#ppu425
-{
-	width: 0.01px;
-	margin-left: 22px;
-	margin-top: 16px;
-}
-
 #pu425
 {
 	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 921px;
+	margin-left: 97px;
+	margin-top: 16px;
 }
 
 #u425
@@ -358,6 +351,7 @@
 	width: 19px;
 	height: 137px;
 	margin-right: -10000px;
+	left: 846px;
 }
 
 #u426-4
@@ -367,7 +361,7 @@
 	min-height: 19px;
 	margin-right: -10000px;
 	margin-top: 64px;
-	left: -47px;
+	left: 799px;
 }
 
 #u1361
@@ -376,17 +370,67 @@
 	width: 13px;
 	margin-right: -10000px;
 	margin-top: 5px;
-	left: 3px;
+	left: 849px;
 }
 
-#u1897
+#u1907
 {
 	z-index: 60;
-	width: 200px;
-	min-height: 200px;
+	width: 50px;
+	min-height: 25px;
 	margin-right: -10000px;
-	margin-top: 117px;
+	margin-top: 137px;
 	left: 348px;
+}
+
+#u1290-7
+{
+	z-index: 98;
+	width: 508px;
+	min-height: 123px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 84px;
+	left: 266px;
+}
+
+#u1896
+{
+	z-index: 111;
+	width: 199px;
+	border-color: #7F7F7F;
+	background-color: #FFFFFF;
+	border-radius: 104px;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+}
+
+#u1292
+{
+	z-index: 112;
+	width: 189px;
+	height: 189px;
+	border-radius: 104px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 5px;
+	background: transparent url("../images/avatar-2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1254-35
+{
+	width: 0.01px;
+	margin-left: 22px;
+	margin-top: 9px;
 }
 
 #u1254-35
@@ -398,7 +442,6 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 232px;
 }
 
 #u1254-3,#u1254-5,#u1254-6,#u1254-8
@@ -443,52 +486,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 420px;
+	margin-top: 188px;
 	left: 472px;
-}
-
-#u1290-7
-{
-	z-index: 98;
-	width: 508px;
-	min-height: 123px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 84px;
-	left: 341px;
-}
-
-#u1896
-{
-	z-index: 111;
-	width: 199px;
-	border-color: #7F7F7F;
-	background-color: #FFFFFF;
-	border-radius: 104px;
-	padding-bottom: 5px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 23px;
-	left: 75px;
-}
-
-#u1292
-{
-	z-index: 112;
-	width: 189px;
-	height: 189px;
-	border-radius: 104px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-	left: 5px;
-	background: transparent url("../images/avatar-2.jpg") no-repeat center center;
-	background-size: cover;
 }
 
 #u1351-6

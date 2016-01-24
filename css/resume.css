@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #00001A;
-	background-color: #63B858;
+	color: #000018;
+	background-color: #EB97CF;
 }
 
 .html
@@ -379,14 +379,14 @@
 	left: 3px;
 }
 
-#u1897
+#u1907
 {
 	z-index: 60;
-	width: 200px;
-	min-height: 200px;
+	width: 50px;
+	min-height: 25px;
 	margin-right: -10000px;
-	margin-top: 117px;
-	left: 348px;
+	margin-top: 137px;
+	left: 423px;
 }
 
 #u1253-88

@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #0000E7;
-	background-color: #0A649D;
+	color: #0000F3;
+	background-color: #D450AD;
 }
 
 .html
@@ -389,20 +389,20 @@
 	border-width: 0px 0px 1px;
 }
 
-#pu1897
+#pu1907
 {
 	width: 0.01px;
 	margin-top: 23px;
 }
 
-#u1897
+#u1907
 {
 	z-index: 60;
-	width: 200px;
-	min-height: 200px;
+	width: 50px;
+	min-height: 25px;
 	margin-right: -10000px;
-	margin-top: 66px;
-	left: 348px;
+	margin-top: 86px;
+	left: 423px;
 }
 
 #u1250-37
