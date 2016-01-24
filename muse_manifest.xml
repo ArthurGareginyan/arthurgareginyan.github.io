@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1453616968002">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1453625063555">
   <folder name="css">
     <file name="site_global.css" crc="4189136300"/>
     <file name="master_main.css" crc="3819016110" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
     <file name="resume.css" crc="418093007" ref="resume"/>
     <file name="donate.css" crc="3785442961" ref="donate"/>
-    <file name="index.css" crc="3940674045" ref="index"/>
+    <file name="index.css" crc="232454115" ref="index"/>
     <file name="about-me.css" crc="209814847" ref="about-me"/>
     <file name="portfolio.css" crc="3760288744" ref="portfolio"/>
     <file name="contact.css" crc="4053113692" ref="contact"/>
@@ -54,9 +54,8 @@
     <file name="smiling_face.png" crc="3841365763" seo="true" ref="about-me"/>
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404"/>
     <file name="pattern-dark-grey.jpg" crc="338499582" ref="index"/>
-    <file name="avatar-1-ieu437-fr.png" crc="30896931" ref="index"/>
-    <file name="avatar-1.jpg" crc="35660737" ref="index"/>
-    <file name="avatar-2.jpg" crc="3933992100" ref="about-me"/>
+    <file name="avatar-1.jpg" crc="492004846" ref="index"/>
+    <file name="avatar-2.jpg" crc="257271901" ref="about-me"/>
     <file name="404.png" crc="3823096910" seo="true" ref="404"/>
     <file name="screenshot.jpg" crc="3831060545" ref="portfolio"/>
     <file name="screenshot2.jpg" crc="82349711" ref="portfolio"/>
@@ -99,11 +98,11 @@
     <file name="screenshot3.jpg" crc="523739691" seo="true" ref="theme-fashion-style:theme-my-business-card"/>
     <file name="screenshot4.jpg" crc="492910818" seo="true" ref="theme-authors-notepad"/>
   </folder>
-  <file name="index.html" crc="3955655218" seo="true" mt="1453616953587" redirect="true"/>
+  <file name="index.html" crc="44289573" seo="true" mt="1453625062696" redirect="true"/>
   <file name="contact.html" crc="3874782969" seo="true" mt="1453616953587" redirect="true"/>
   <file name="resume.html" crc="464267200" seo="true" mt="1453616953587" redirect="true"/>
   <file name="portfolio.html" crc="4016310000" seo="true" mt="1453616953587" redirect="true"/>
-  <file name="about-me.html" crc="3814311776" seo="true" mt="1453616953587" redirect="true"/>
+  <file name="about-me.html" crc="3916214127" seo="true" mt="1453625062804" redirect="true"/>
   <file name="donate.html" crc="4285854517" seo="true" mt="1453616953587" redirect="true"/>
   <file name="privacy-policy.html" crc="4073272553" seo="true" mt="1453616953587" redirect="true"/>
   <file name="contact-thanks.html" crc="4045713636" seo="true" mt="1453616953587" redirect="true"/>

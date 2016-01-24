@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EA;
-	background-color: #E1E9FD;
+	color: #00000D;
+	background-color: #DAF7E3;
 }
 
 .html
@@ -444,9 +444,7 @@
 	margin-right: -10000px;
 	margin-top: 5px;
 	left: 5px;
-	background: transparent url("../images/avatar-1-ieu437-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/avatar-1.jpg") no-repeat center center;
-	background-color: transparent;
+	background: transparent url("../images/avatar-1.jpg") no-repeat center center;
 	background-size: cover;
 }
 
