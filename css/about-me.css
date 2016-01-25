@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000E1;
-	background-color: #40164F;
+	color: #0000FC;
+	background-color: #5925AD;
 }
 
 .html
@@ -505,16 +505,16 @@
 	color: #0093C4;
 }
 
-#u1351-3,#u1351-5,#u1351-6,#u1351-8,#u1351-10,#u1351-12,#u1351-14,#u1351-16,#u1351-18,#u1351-20,#u1351-22,#u1351-24,#u1351-26
-{
-	font-size: 16px;
-	line-height: 19px;
-}
-
-#u1351-27 > #u1351-10:before,#u1351-27 > #u1351-12:before,#u1351-27 > #u1351-14:before,#u1351-27 > #u1351-16:before,#u1351-27 > #u1351-18:before,#u1351-27 > #u1351-20:before,#u1351-27 > #u1351-22:before,#u1351-27 > #u1351-24:before,#u1351-27 > #u1351-26:before
+#u1351-25 > #u1351-10:before,#u1351-25 > #u1351-12:before,#u1351-25 > #u1351-14:before,#u1351-25 > #u1351-16:before,#u1351-25 > #u1351-18:before,#u1351-25 > #u1351-20:before,#u1351-25 > #u1351-22:before,#u1351-25 > #u1351-24:before
 {
 	font-family: bitter, Georgia;
 	font-weight: 400;
+}
+
+#u1351-3,#u1351-5,#u1351-6,#u1351-8,#u1351-10,#u1351-12,#u1351-14,#u1351-16,#u1351-18,#u1351-20,#u1351-22,#u1351-24,#u1351-27
+{
+	font-size: 16px;
+	line-height: 19px;
 }
 
 #u1961-28
