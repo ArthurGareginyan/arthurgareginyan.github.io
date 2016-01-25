@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000FC;
-	background-color: #5925AD;
+	color: #00000B;
+	background-color: #9B466A;
 }
 
 .html
@@ -401,7 +401,7 @@
 
 #u1896
 {
-	z-index: 115;
+	z-index: 127;
 	width: 248px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -414,7 +414,7 @@
 
 #u1292
 {
-	z-index: 116;
+	z-index: 128;
 	width: 236px;
 	height: 225px;
 	border-radius: 125px;
@@ -484,7 +484,7 @@
 	left: 471px;
 }
 
-#u1351-29
+#u1351-41
 {
 	z-index: 86;
 	width: 898px;
@@ -505,13 +505,13 @@
 	color: #0093C4;
 }
 
-#u1351-25 > #u1351-10:before,#u1351-25 > #u1351-12:before,#u1351-25 > #u1351-14:before,#u1351-25 > #u1351-16:before,#u1351-25 > #u1351-18:before,#u1351-25 > #u1351-20:before,#u1351-25 > #u1351-22:before,#u1351-25 > #u1351-24:before
+#u1351-37 > #u1351-22:before,#u1351-37 > #u1351-24:before,#u1351-37 > #u1351-26:before,#u1351-37 > #u1351-28:before,#u1351-37 > #u1351-30:before,#u1351-37 > #u1351-32:before,#u1351-37 > #u1351-34:before,#u1351-37 > #u1351-36:before
 {
 	font-family: bitter, Georgia;
 	font-weight: 400;
 }
 
-#u1351-3,#u1351-5,#u1351-6,#u1351-8,#u1351-10,#u1351-12,#u1351-14,#u1351-16,#u1351-18,#u1351-20,#u1351-22,#u1351-24,#u1351-27
+#u1351-3,#u1351-5,#u1351-6,#u1351-8,#u1351-9,#u1351-11,#u1351-12,#u1351-14,#u1351-15,#u1351-17,#u1351-18,#u1351-20,#u1351-22,#u1351-24,#u1351-26,#u1351-28,#u1351-30,#u1351-32,#u1351-34,#u1351-36,#u1351-39
 {
 	font-size: 16px;
 	line-height: 19px;
@@ -519,7 +519,7 @@
 
 #u1961-28
 {
-	z-index: 117;
+	z-index: 129;
 	width: 898px;
 	min-height: 81px;
 	background-color: transparent;
