@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000F1;
-	background-color: #959B5C;
+	color: #0000ED;
+	background-color: #0AE534;
 }
 
 .html
@@ -373,7 +373,7 @@
 	left: 924px;
 }
 
-#u1223-4
+#u1223-7
 {
 	z-index: 62;
 	width: 898px;
@@ -388,21 +388,21 @@
 	margin-top: 26px;
 }
 
-#pu1907
+#pu2571
 {
 	width: 0.01px;
 	margin-left: 55px;
-	margin-top: -7px;
+	margin-top: 32px;
 }
 
-#u1907
+#u2571
 {
 	z-index: 60;
-	width: 50px;
-	min-height: 25px;
+	width: 210px;
+	min-height: 98px;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: 390px;
+	margin-top: 88px;
+	left: 777px;
 }
 
 #u1221
