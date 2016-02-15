@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1455140915923">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1455555998102">
   <folder name="css">
     <file name="site_global.css" crc="4189136300"/>
-    <file name="master_main.css" crc="3906541263" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
+    <file name="master_main.css" crc="4252215208" ref="resume:donate:index:about-me:portfolio:contact:privacy-policy:contact-thanks:404"/>
     <file name="resume.css" crc="141464307" ref="resume"/>
-    <file name="donate.css" crc="475601771" ref="donate"/>
+    <file name="donate.css" crc="4256843260" ref="donate"/>
     <file name="index.css" crc="3811881171" ref="index"/>
     <file name="about-me.css" crc="414584091" ref="about-me"/>
     <file name="portfolio.css" crc="479302461" ref="portfolio"/>
@@ -41,7 +41,7 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight:theme-my-business-card"/>
     <file name="museutils.js" crc="275725342" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight:theme-my-business-card"/>
-    <file name="pie.js" crc="3827607177" ref="index:about-me:portfolio:resume"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-me:portfolio:resume:donate"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:website-bmwz3brutality:website-mycyberuniverse:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight:theme-my-business-card"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:about-me:donate:privacy-policy:contact-thanks:404:website-mycyberuniverse:website-arthurgareginyan:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight:theme-my-business-card"/>
@@ -52,7 +52,7 @@
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404"/>
     <file name="smiling_face.png" crc="3841365763" seo="true" ref="about-me"/>
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:resume"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:resume:donate"/>
     <file name="avatar-1.jpg" crc="492004846" ref="index"/>
     <file name="avatar-2.jpg" crc="4191825229" ref="about-me"/>
     <file name="404.png" crc="3823096910" seo="true" ref="404"/>
@@ -90,7 +90,6 @@
     <file name="karolinaray copy.jpg" crc="378085587" ref="website-karolinaray"/>
     <file name="screenshot.png" crc="437435627" seo="true" ref="theme-white-knight"/>
     <file name="oneberserkr.jpg" crc="197038742" ref="website-oneberserkr"/>
-    <file name="qr-bitcoin.jpg" crc="404725312" seo="true" ref="donate"/>
     <file name="oneberserkr-u1309-fr.jpg" crc="3860452603" ref="portfolio"/>
     <file name="avatar-2-ieu1292-fr.png" crc="172208141" ref="about-me"/>
     <file name="screenshot3.jpg" crc="523739691" seo="true" ref="theme-fashion-style:theme-my-business-card"/>
@@ -104,7 +103,7 @@
   <file name="resume.html" crc="4121536884" seo="true" mt="1455140877225" redirect="true"/>
   <file name="portfolio.html" crc="416174605" seo="true" mt="1454526572857" redirect="true"/>
   <file name="about-me.html" crc="533170213" seo="true" mt="1454526572857" redirect="true"/>
-  <file name="donate.html" crc="3865024742" seo="true" mt="1454526572857" redirect="true"/>
+  <file name="donate.html" crc="3869356862" seo="true" mt="1455555957216" redirect="true"/>
   <file name="privacy-policy.html" crc="333634965" seo="true" mt="1454526572857" redirect="true"/>
   <file name="contact-thanks.html" crc="4003731389" seo="true" mt="1454526572857" redirect="true"/>
   <file name="404.html" crc="189970383" seo="true" mt="1454526572857" redirect="true"/>
