@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000013;
-	background-color: #C0161B;
+	color: #000007;
+	background-color: #16BA2A;
 }
 
 #muse_css_mq
@@ -36,7 +36,7 @@
 
 #u1070_position_content
 {
-	margin-bottom: -1px;
+	margin-bottom: -3px;
 	padding-top: 14px;
 	width: 100%;
 }
@@ -54,15 +54,14 @@
 {
 	z-index: 12;
 	width: 943px;
-	padding-bottom: 1px;
 	position: relative;
 }
 
 #u1075:hover
 {
 	width: 943px;
-	min-height: 0px;
-	margin: 0px;
+	min-height: 2px;
+	margin: 0px 0px 2px;
 }
 
 #menuu1082
@@ -423,7 +422,7 @@
 	margin-top: 7px;
 	left: 6px;
 	background: transparent url("../images/avatar-2-ieu1292-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/avatar-2.jpg") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/avatar-2.png") no-repeat center center;
 	background-color: transparent;
 	background-size: cover;
 }

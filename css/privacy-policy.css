@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #0000F5;
-	background-color: #5AAB8F;
+	color: #0000EB;
+	background-color: #C88F08;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 
 #u1070_position_content
 {
-	margin-bottom: -1px;
+	margin-bottom: -3px;
 	padding-top: 14px;
 	width: 100%;
 }
@@ -55,15 +55,14 @@
 {
 	z-index: 12;
 	width: 943px;
-	padding-bottom: 1px;
 	position: relative;
 }
 
 #u1075:hover
 {
 	width: 943px;
-	min-height: 0px;
-	margin: 0px;
+	min-height: 2px;
+	margin: 0px 0px 2px;
 }
 
 #menuu1082

@@ -11,11 +11,19 @@
 
 #u1075
 {
-	-pie-box-shadow: none;
-	box-shadow: 0px 8px 6px rgba(0,0,0,0.5);
-	border-width: 0px;
+	border-style: solid;
+	border-color: #534741;
 	border-radius: 10px 10px 0px 0px ;
+	border-width: 0px 0px 3px;
 	background: transparent url("../images/pattern-dark-grey.jpg") repeat left top;
+}
+
+#u1075:hover
+{
+	background-repeat: repeat;
+	background-position: left top;
+	border-width: 0px;
+	background-color: transparent;
 }
 
 #u1111,#u1114
@@ -252,7 +260,7 @@
 	background: transparent url("../images/leather.jpg") repeat left top;
 }
 
-#u1075:hover,#u1126:hover
+#u1126:hover
 {
 	background-repeat: repeat;
 	background-position: left top;

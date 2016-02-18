@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #000001;
-	background-color: #15A28E;
+	color: #000010;
+	background-color: #25EF23;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 
 #u1070_position_content
 {
-	margin-bottom: -1px;
+	margin-bottom: -3px;
 	padding-top: 14px;
 	width: 100%;
 }
@@ -55,15 +55,14 @@
 {
 	z-index: 12;
 	width: 943px;
-	padding-bottom: 1px;
 	position: relative;
 }
 
 #u1075:hover
 {
 	width: 943px;
-	min-height: 0px;
-	margin: 0px;
+	min-height: 2px;
+	margin: 0px 0px 2px;
 }
 
 #menuu1082
