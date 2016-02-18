@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #0000E2;
-	background-color: #C660D5;
+	color: #000015;
+	background-color: #D09CA2;
 }
 
 #muse_css_mq
@@ -60,8 +60,8 @@
 #u1075:hover
 {
 	width: 943px;
-	min-height: 2px;
-	margin: 0px 0px 2px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #menuu1082

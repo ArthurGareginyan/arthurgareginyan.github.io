@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #0000EB;
-	background-color: #C88F08;
+	color: #0000EE;
+	background-color: #559042;
 }
 
 #muse_css_mq
@@ -61,8 +61,8 @@
 #u1075:hover
 {
 	width: 943px;
-	min-height: 2px;
-	margin: 0px 0px 2px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #menuu1082

@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000F6;
-	background-color: #D6B004;
+	color: #00001E;
+	background-color: #BEBAEE;
 }
 
 #muse_css_mq
@@ -61,8 +61,8 @@
 #u1075:hover
 {
 	width: 943px;
-	min-height: 2px;
-	margin: 0px 0px 2px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #menuu1082
