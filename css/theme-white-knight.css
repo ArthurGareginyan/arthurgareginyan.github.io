@@ -1,12 +1,12 @@
 .version.theme_white_knight /* version checker */
 {
-	color: #0000E3;
-	background-color: #ED77E8;
+	color: #000003;
+	background-color: #F14F56;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #5FBDE2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 600px;
 	min-height: 500px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	padding-top: 13px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #pu1955
@@ -39,6 +39,7 @@
 	z-index: 2;
 	width: 50px;
 	min-height: 25px;
+	position: relative;
 	margin-right: -10000px;
 	left: 653px;
 }
@@ -140,7 +141,7 @@
 	z-index: 48;
 	width: 155px;
 	min-height: 54px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -148,14 +149,14 @@
 	margin-top: 191px;
 }
 
+.html
+{
+	background-color: #5FBDE2;
+}
+
 body
 {
 	position: relative;
 	min-width: 600px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

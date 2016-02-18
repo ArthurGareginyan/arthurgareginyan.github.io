@@ -1,43 +1,39 @@
 #u1074-4
 {
 	background-color: transparent;
-	line-height: 35px;
+	color: #0092C4;
 	text-align: center;
 	font-size: 29px;
-	color: #0092C4;
+	line-height: 35px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u1075
 {
 	-pie-box-shadow: none;
 	box-shadow: 0px 8px 6px rgba(0,0,0,0.5);
-	border-style: none;
+	border-width: 0px;
 	border-radius: 10px 10px 0px 0px ;
-	position: relative;
 	background: transparent url("../images/pattern-dark-grey.jpg") repeat left top;
 }
 
 #u1111,#u1114
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u1115-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
+	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
-	color: #7F7F7F;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u1114:hover #u1115-4 p
@@ -55,21 +51,19 @@
 #u1104,#u1105
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u1106-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
+	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
-	color: #7F7F7F;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u1105:hover #u1106-4 p
@@ -87,21 +81,19 @@
 #u1083,#u1086
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u1087-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
+	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
-	color: #7F7F7F;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u1086:hover #u1087-4 p
@@ -119,21 +111,19 @@
 #u1090,#u1093
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u1095-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
+	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
-	color: #7F7F7F;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u1093:hover #u1095-4 p
@@ -151,21 +141,19 @@
 #u1194,#u1195
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u1196-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
+	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
-	color: #7F7F7F;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u1195:hover #u1196-4 p
@@ -183,21 +171,19 @@
 #u1097,#u1100
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u1101-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
+	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
-	color: #7F7F7F;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u1100:hover #u1101-4 p
@@ -231,7 +217,6 @@
 	border-color: #000000;
 	background-color: #FFFFFF;
 	border-radius: 0px 5px 5px 0px ;
-	position: relative;
 	border-width: 0px 0px 0px 1px;
 }
 
@@ -243,7 +228,6 @@
 	-webkit-transform: matrix(0,-1,1,0,48,67);
 	-ms-transform: matrix(0,-1,1,0,48,67);
 	transform: matrix(0,-1,1,0,48,67);
-	position: relative;
 }
 
 #u1361
@@ -252,12 +236,10 @@
 	-webkit-transform: matrix(0,-1,1,0,1,13);
 	-ms-transform: matrix(0,-1,1,0,1,13);
 	transform: matrix(0,-1,1,0,1,13);
-	position: relative;
 }
 
 #u1070,#u1125
 {
-	position: relative;
 	background: #000000 url("../images/black_denim.jpg") repeat center top;
 }
 
@@ -265,9 +247,8 @@
 {
 	-pie-box-shadow: none;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	border-style: none;
+	border-width: 0px;
 	border-radius: 0px 0px 10px 10px ;
-	position: relative;
 	background: transparent url("../images/leather.jpg") repeat left top;
 }
 
@@ -280,10 +261,9 @@
 
 #menuu1082,#u2571,#u1842
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
 }
 
 #u109
@@ -301,21 +281,15 @@
 	border-color: #000000;
 }
 
-#u109_align_to_page
-{
-	position: relative;
-}
-
 #u199-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #777777;
 	text-align: center;
 	font-size: 11px;
-	color: #777777;
+	line-height: 13px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u199-4:hover p
@@ -324,4 +298,5 @@
 	visibility: inherit;
 	font-size: 11px;
 }
+
 

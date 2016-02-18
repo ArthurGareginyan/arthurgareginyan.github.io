@@ -1,12 +1,12 @@
 .version.website_oneberserkr /* version checker */
 {
-	color: #0000F4;
-	background-color: #989185;
+	color: #0000F2;
+	background-color: #4C9B8B;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #5FBDE2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 600px;
 	min-height: 500px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	padding-top: 13px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #pu1704-7
@@ -64,6 +64,7 @@
 	z-index: 2;
 	width: 50px;
 	min-height: 25px;
+	position: relative;
 	margin-right: -10000px;
 	left: 624px;
 }
@@ -74,8 +75,8 @@
 	width: 600px;
 	min-height: 60px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -97,8 +98,8 @@
 	width: 600px;
 	min-height: 110px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -109,14 +110,14 @@
 	color: #FFFFFF;
 }
 
+.html
+{
+	background-color: #5FBDE2;
+}
+
 body
 {
 	position: relative;
 	min-width: 600px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

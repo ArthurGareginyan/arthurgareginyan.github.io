@@ -1,12 +1,12 @@
 .version.theme_my_business_card /* version checker */
 {
-	color: #0000F5;
-	background-color: #5DF967;
+	color: #000008;
+	background-color: #55FCC0;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #5FBDE2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 600px;
 	min-height: 500px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	padding-top: 13px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #pu1955
@@ -39,6 +39,7 @@
 	z-index: 2;
 	width: 50px;
 	min-height: 25px;
+	position: relative;
 	margin-right: -10000px;
 	left: 653px;
 }
@@ -92,9 +93,9 @@
 	width: 656px;
 	min-height: 94px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: justify;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -153,7 +154,7 @@
 	z-index: 50;
 	width: 155px;
 	min-height: 54px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -161,14 +162,14 @@
 	margin-top: 169px;
 }
 
+.html
+{
+	background-color: #5FBDE2;
+}
+
 body
 {
 	position: relative;
 	min-width: 600px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

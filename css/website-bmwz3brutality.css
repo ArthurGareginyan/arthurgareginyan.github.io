@@ -1,12 +1,12 @@
 .version.website_bmwz3brutality /* version checker */
 {
-	color: #0000FF;
-	background-color: #FB8406;
+	color: #0000FA;
+	background-color: #70CE90;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #5FBDE2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 600px;
 	min-height: 499.79999999999995px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	padding-bottom: 0px;
@@ -26,7 +26,7 @@
 #page_position_content
 {
 	padding-top: 13px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #pu1678-7
@@ -65,6 +65,7 @@
 	z-index: 2;
 	width: 50px;
 	min-height: 25px;
+	position: relative;
 	margin-right: -10000px;
 	left: 624px;
 }
@@ -75,8 +76,8 @@
 	width: 600px;
 	min-height: 60px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -99,8 +100,8 @@
 	width: 600px;
 	min-height: 95px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -111,14 +112,14 @@
 	color: #FFFFFF;
 }
 
+.html
+{
+	background-color: #5FBDE2;
+}
+
 body
 {
 	position: relative;
 	min-width: 600px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

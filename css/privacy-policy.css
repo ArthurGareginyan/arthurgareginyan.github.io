@@ -1,12 +1,12 @@
 .version.privacy_policy /* version checker */
 {
-	color: #0000E5;
-	background-color: #DC533B;
+	color: #0000F5;
+	background-color: #5AAB8F;
 }
 
-.html
+#muse_css_mq
 {
-	background: #000000 url("../images/black_denim.jpg") repeat center top scroll;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -14,7 +14,7 @@
 	z-index: 1;
 	width: 942px;
 	min-height: 675.9932995944539px;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	padding-bottom: 0px;
 	margin-left: auto;
@@ -24,19 +24,22 @@
 
 #page_position_content
 {
-	width: 0.01px;
+	margin-bottom: -7px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u1070
 {
 	z-index: 7;
 	width: 944px;
+	position: relative;
 }
 
 #u1070_position_content
 {
 	margin-bottom: -1px;
 	padding-top: 14px;
+	width: 100%;
 }
 
 #u1074-4
@@ -45,6 +48,7 @@
 	width: 298px;
 	min-height: 41px;
 	margin-left: 11px;
+	position: relative;
 }
 
 #u1075
@@ -52,6 +56,7 @@
 	z-index: 12;
 	width: 943px;
 	padding-bottom: 1px;
+	position: relative;
 }
 
 #u1075:hover
@@ -65,6 +70,7 @@
 {
 	z-index: 13;
 	width: 940px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
 }
@@ -73,6 +79,7 @@
 {
 	width: 155px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -80,6 +87,7 @@
 {
 	width: 155px;
 	padding-bottom: 27px;
+	position: relative;
 }
 
 #u1114:hover
@@ -100,6 +108,7 @@
 {
 	width: 155px;
 	min-height: 19px;
+	position: relative;
 	margin-right: -10000px;
 	top: 13px;
 }
@@ -126,6 +135,7 @@
 {
 	width: 155px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 157px;
 }
@@ -134,12 +144,14 @@
 {
 	width: 155px;
 	padding-bottom: 27px;
+	position: relative;
 }
 
 #u1106-4
 {
 	width: 155px;
 	min-height: 19px;
+	position: relative;
 	margin-right: -10000px;
 	top: 13px;
 }
@@ -166,6 +178,7 @@
 {
 	width: 155px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 314px;
 }
@@ -174,12 +187,14 @@
 {
 	width: 155px;
 	padding-bottom: 27px;
+	position: relative;
 }
 
 #u1087-4
 {
 	width: 155px;
 	min-height: 19px;
+	position: relative;
 	margin-right: -10000px;
 	top: 13px;
 }
@@ -206,6 +221,7 @@
 {
 	width: 155px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 471px;
 }
@@ -214,12 +230,14 @@
 {
 	width: 155px;
 	padding-bottom: 27px;
+	position: relative;
 }
 
 #u1095-4
 {
 	width: 155px;
 	min-height: 19px;
+	position: relative;
 	margin-right: -10000px;
 	top: 13px;
 }
@@ -246,6 +264,7 @@
 {
 	width: 155px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 628px;
 }
@@ -254,12 +273,14 @@
 {
 	width: 155px;
 	padding-bottom: 27px;
+	position: relative;
 }
 
 #u1196-4
 {
 	width: 155px;
 	min-height: 19px;
+	position: relative;
 	margin-right: -10000px;
 	top: 13px;
 }
@@ -286,6 +307,7 @@
 {
 	width: 155px;
 	min-height: 46px;
+	position: relative;
 	margin-right: -10000px;
 	left: 785px;
 }
@@ -294,6 +316,7 @@
 {
 	width: 155px;
 	padding-bottom: 27px;
+	position: relative;
 }
 
 #u1114.MuseMenuActive,#u1105.MuseMenuActive,#u1086.MuseMenuActive,#u1093.MuseMenuActive,#u1195.MuseMenuActive,#u1100.MuseMenuActive
@@ -307,6 +330,7 @@
 {
 	width: 155px;
 	min-height: 19px;
+	position: relative;
 	margin-right: -10000px;
 	top: 13px;
 }
@@ -350,6 +374,7 @@
 	z-index: 2;
 	width: 19px;
 	height: 137px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
 	left: 921px;
@@ -360,6 +385,7 @@
 	z-index: 3;
 	width: 114px;
 	min-height: 19px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 72px;
 	left: 875px;
@@ -369,6 +395,7 @@
 {
 	z-index: 52;
 	width: 13px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
 	left: 924px;
@@ -379,6 +406,7 @@
 	z-index: 60;
 	width: 210px;
 	min-height: 98px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 265px;
 	left: 810px;
@@ -424,10 +452,10 @@
 	width: 216px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 36px;
+	color: #0092C4;
 	text-align: center;
 	font-size: 30px;
-	color: #0092C4;
+	line-height: 36px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -460,6 +488,7 @@
 {
 	z-index: 50;
 	width: 943px;
+	position: relative;
 	margin-right: -10000px;
 	left: 100px;
 }
@@ -467,6 +496,7 @@
 #u1125_position_content
 {
 	padding-bottom: 29px;
+	width: 100%;
 }
 
 #u1126
@@ -474,6 +504,7 @@
 	z-index: 51;
 	width: 942px;
 	height: 35px;
+	position: relative;
 }
 
 #u1126:hover
@@ -491,18 +522,19 @@
 	min-height: 67px;
 	left: -16px;
 	margin-top: 59px;
+	position: relative;
 }
 
 #u109
 {
 	z-index: 55;
-	min-height: 47px;
-	padding-bottom: 10px;
+	min-height: 51px;
+	padding-bottom: 13px;
 }
 
 #u109:active
 {
-	min-height: 47px;
+	min-height: 51px;
 	margin: 0px;
 }
 
@@ -510,6 +542,7 @@
 {
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 	width: 942px;
 	left: -100px;
 }
@@ -517,11 +550,12 @@
 #u199-4
 {
 	z-index: 56;
-	width: 278px;
+	width: 424px;
 	min-height: 19px;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 28px;
-	left: 432px;
+	margin-top: 32px;
+	left: 369px;
 }
 
 #u199-4:hover
@@ -529,25 +563,35 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 278px;
-	margin: 28px -10000px 0px 0px;
+	width: 424px;
+	margin: 32px -10000px 0px 0px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #u109-bw
 {
 	z-index: 55;
-	min-height: 47px;
+	min-height: 51px;
 	margin-top: 137px;
+}
+
+.html
+{
+	background: #000000 url("../images/black_denim.jpg") repeat center top scroll;
 }
 
 body
 {
 	position: relative;
 	min-width: 942px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 
