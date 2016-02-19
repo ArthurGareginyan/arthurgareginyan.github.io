@@ -1,10 +1,10 @@
 #u1074-4
 {
 	background-color: transparent;
-	line-height: 35px;
 	color: #0092C4;
 	text-align: center;
 	font-size: 29px;
+	line-height: 35px;
 	font-family: bitter, serif;
 	font-weight: 400;
 }
@@ -38,10 +38,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
 }
@@ -68,10 +68,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
 }
@@ -98,10 +98,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
 }
@@ -128,10 +128,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
 }
@@ -158,10 +158,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
 }
@@ -188,10 +188,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
 }
@@ -230,22 +230,17 @@
 	border-width: 0px 0px 0px 1px;
 }
 
-#u426-4
+#u426-5
 {
-	background-color: transparent;
-	font-family: bitter, serif;
-	font-weight: 400;
-	-webkit-transform: matrix(0,-1,1,0,48,67);
-	-ms-transform: matrix(0,-1,1,0,48,67);
-	transform: matrix(0,-1,1,0,48,67);
+	-webkit-transform: matrix(0,-1,1,0,55,75);
+	-ms-transform: matrix(0,-1,1,0,55,75);
+	transform: matrix(0,-1,1,0,55,75);
 }
 
-#u1361
+#u426-5_img
 {
-	background-color: transparent;
-	-webkit-transform: matrix(0,-1,1,0,1,13);
-	-ms-transform: matrix(0,-1,1,0,1,13);
-	transform: matrix(0,-1,1,0,1,13);
+	display: block;
+	vertical-align: top;
 }
 
 #u1070,#u1125
@@ -294,10 +289,10 @@
 #u199-4
 {
 	background-color: transparent;
-	line-height: 13px;
 	color: #777777;
 	text-align: center;
 	font-size: 11px;
+	line-height: 13px;
 	font-family: bitter, serif;
 	font-weight: 400;
 }
