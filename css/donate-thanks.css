@@ -1,7 +1,7 @@
-.version._404 /* version checker */
+.version.donate_thanks /* version checker */
 {
-	color: #000007;
-	background-color: #42CE3F;
+	color: #0000FB;
+	background-color: #8BF867;
 }
 
 #muse_css_mq
@@ -13,10 +13,9 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 675.9932995944539px;
+	min-height: 676px;
 	border-width: 0px;
 	border-color: #000000;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
@@ -361,24 +360,11 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pppu425
-{
-	width: 0.01px;
-	margin-left: 72px;
-	margin-top: 16px;
-}
-
-#ppu425
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 747px;
-}
-
 #pu425
 {
 	width: 0.01px;
-	margin-left: 124px;
+	margin-left: 22px;
+	margin-top: 16px;
 }
 
 #u425
@@ -388,6 +374,7 @@
 	height: 137px;
 	position: relative;
 	margin-right: -10000px;
+	left: 921px;
 }
 
 #u426-4
@@ -398,7 +385,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 64px;
-	left: -47px;
+	left: 875px;
 }
 
 #u1361
@@ -408,7 +395,23 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
-	left: 3px;
+	left: 924px;
+}
+
+#u5355-10
+{
+	z-index: 61;
+	width: 898px;
+	min-height: 56px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 125px;
 }
 
 #u2571
@@ -416,73 +419,16 @@
 	z-index: 60;
 	width: 210px;
 	min-height: 98px;
-	margin-left: 13px;
-	margin-top: 120px;
+	margin-left: 832px;
+	margin-top: 37px;
 	position: relative;
-}
-
-#u1423-4
-{
-	z-index: 74;
-	width: 101px;
-	min-height: 27px;
-	background-color: transparent;
-	line-height: 24px;
-	font-size: 20px;
-	font-family: bitter, serif;
-	font-weight: 700;
-	margin-top: 173px;
-	position: relative;
-}
-
-#u1380-11
-{
-	z-index: 61;
-	width: 272px;
-	min-height: 126px;
-	background-color: transparent;
-	font-family: bitter, serif;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 39px;
-}
-
-#u1380-2
-{
-	font-size: 25px;
-	line-height: 30px;
-	font-weight: 700;
-}
-
-#u1380-4
-{
-	font-size: 20px;
-	line-height: 24px;
-	font-weight: 700;
-}
-
-#u1380-5,#u1380-7,#u1380-9
-{
-	font-size: 16px;
-	line-height: 19px;
-	font-weight: 400;
-}
-
-#u1417
-{
-	z-index: 72;
-	width: 664px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 65px;
-	left: 67px;
 }
 
 #pu1125
 {
 	width: 0.01px;
 	margin-left: -100px;
+	margin-top: 161px;
 }
 
 #u1125
