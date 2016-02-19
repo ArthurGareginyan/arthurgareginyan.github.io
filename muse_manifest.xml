@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1455849417048">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1455849680368">
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
   </folder>
@@ -17,7 +17,7 @@
     <file name="about-me.css" crc="4056194768" ref="about-me"/>
     <file name="theme-my-business-card.css" crc="139852992" ref="theme-my-business-card"/>
     <file name="iefonts_theme-my-business-card.css" crc="73374716" ref="theme-my-business-card"/>
-    <file name="portfolio.css" crc="3767895724" ref="portfolio"/>
+    <file name="portfolio.css" crc="1292173" ref="portfolio"/>
     <file name="resume.css" crc="515816174" ref="resume"/>
     <file name="iefonts_resume.css" crc="4050160677" ref="resume"/>
     <file name="contact.css" crc="4045025673" ref="contact"/>
@@ -52,7 +52,7 @@
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:portfolio"/>
     <file name="arrow_down.png" crc="3874046791" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="avatar-1.jpg" crc="492004846" ref="index"/>
     <file name="screenshot.jpg" crc="3831060545" ref="portfolio"/>
@@ -87,7 +87,7 @@
   </folder>
   <file name="index.html" crc="4078061940" seo="true" mt="1455847448112" redirect="true"/>
   <file name="resume.html" crc="3982149108" seo="true" mt="1455847448112" redirect="true"/>
-  <file name="portfolio.html" crc="414984330" seo="true" mt="1455848940705" redirect="true"/>
+  <file name="portfolio.html" crc="502889507" seo="true" mt="1455849637471" redirect="true"/>
   <file name="about-me.html" crc="19514050" seo="true" mt="1455849006854" redirect="true"/>
   <file name="donate.html" crc="338395365" seo="true" mt="1455847448112" redirect="true"/>
   <file name="contact.html" crc="4008539165" seo="true" mt="1455847448112" redirect="true"/>
