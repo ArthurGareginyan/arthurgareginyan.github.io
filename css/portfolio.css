@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00000F;
-	background-color: #319724;
+	color: #0000F8;
+	background-color: #E418BF;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 676px;
+	min-height: 683px;
 	border-width: 0px;
 	border-color: #000000;
 	margin-left: auto;
@@ -23,7 +23,6 @@
 
 #page_position_content
 {
-	margin-bottom: -7px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -392,8 +391,8 @@
 	width: 898px;
 	min-height: 69px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-top: 6px;
@@ -1837,7 +1836,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 29px;
+	padding-bottom: 41px;
 	width: 100%;
 }
 

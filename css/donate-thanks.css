@@ -1,7 +1,7 @@
 .version.donate_thanks /* version checker */
 {
-	color: #0000E9;
-	background-color: #1B7401;
+	color: #00001E;
+	background-color: #09C271;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 676px;
+	min-height: 683px;
 	border-width: 0px;
 	border-color: #000000;
 	margin-left: auto;
@@ -23,7 +23,6 @@
 
 #page_position_content
 {
-	margin-bottom: -7px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -431,7 +430,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 29px;
+	padding-bottom: 41px;
 	width: 100%;
 }
 

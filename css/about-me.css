@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000E0;
-	background-color: #692DF6;
+	color: #0000F9;
+	background-color: #3FC04A;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 676px;
+	min-height: 683px;
 	border-width: 0px;
 	border-color: #000000;
 	margin-left: auto;
@@ -23,7 +23,6 @@
 
 #page_position_content
 {
-	margin-bottom: -6px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -402,8 +401,8 @@
 	width: 529px;
 	min-height: 123px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -633,7 +632,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 29px;
+	padding-bottom: 41px;
 	width: 100%;
 }
 
