@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000F8;
-	background-color: #E418BF;
+	color: #0000E0;
+	background-color: #D1E572;
 }
 
 #muse_css_mq
@@ -1119,6 +1119,36 @@
 	background-size: contain;
 }
 
+#u5410
+{
+	z-index: 217;
+	width: 198px;
+	height: 151px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FFFFFF;
+	margin-bottom: -3px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: 655px;
+	background: #FFFFFF url("../images/icon-512x512.png") no-repeat center top;
+	background-size: contain;
+}
+
+#u5410:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 198px;
+	height: 151px;
+	min-height: 0px;
+	margin: -2px -10000px -3px 0px;
+	background-size: contain;
+}
+
 #pu1602-4,#pu1603-6
 {
 	width: 0.01px;
@@ -1197,6 +1227,29 @@
 #u1600-2,#u1601-2,#u1599-2,#u5247-2
 {
 	padding-top: 10px;
+}
+
+#u5411-4
+{
+	z-index: 218;
+	width: 198px;
+	min-height: 37px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-bottom: -3px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: 655px;
 }
 
 #pu1301-8
@@ -1766,7 +1819,7 @@
 	background-size: cover;
 }
 
-#u1302:hover::before,#u1304:hover::before,#u1592:hover::before,#u1303:hover::before,#u1314:hover::before,#u1307:hover::before,#u1306:hover::before,#u1305:hover::before,#u1316:hover::before,#u2547:hover::before,#u5246:hover::before,#u1308:hover::before,#u1309:hover::before,#u1560:hover::before,#u1310:hover::before,#u1311:hover::before,#u1539:hover::before,#u1313:hover::before,#u1312:hover::before,#u1541:hover::before,#u1540:hover::before
+#u1302:hover::before,#u1304:hover::before,#u1592:hover::before,#u1303:hover::before,#u1314:hover::before,#u1307:hover::before,#u1306:hover::before,#u1305:hover::before,#u1316:hover::before,#u2547:hover::before,#u5246:hover::before,#u5410:hover::before,#u1308:hover::before,#u1309:hover::before,#u1560:hover::before,#u1310:hover::before,#u1311:hover::before,#u1539:hover::before,#u1313:hover::before,#u1312:hover::before,#u1541:hover::before,#u1540:hover::before
 {
 	content: "";
 	position: absolute;
