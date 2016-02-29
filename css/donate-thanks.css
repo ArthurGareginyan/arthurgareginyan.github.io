@@ -1,7 +1,7 @@
 .version.donate_thanks /* version checker */
 {
-	color: #00001E;
-	background-color: #09C271;
+	color: #000000;
+	background-color: #1F2D4D;
 }
 
 #muse_css_mq
@@ -359,22 +359,22 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu5355-10
+#pu5355-7
 {
 	width: 0.01px;
 	margin-left: 22px;
 	margin-top: 16px;
 }
 
-#u5355-10
+#u5355-7
 {
 	z-index: 60;
 	width: 898px;
 	min-height: 56px;
 	background-color: transparent;
 	text-align: center;
-	font-size: 16px;
-	line-height: 19px;
+	font-size: 22px;
+	line-height: 26px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -408,7 +408,7 @@
 	width: 210px;
 	min-height: 98px;
 	margin-left: 832px;
-	margin-top: 37px;
+	margin-top: 54px;
 	position: relative;
 }
 
