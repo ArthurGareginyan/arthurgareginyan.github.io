@@ -1,7 +1,7 @@
 .version.website_anarchohosting /* version checker */
 {
-	color: #0000FA;
-	background-color: #66FE1E;
+	color: #0000E4;
+	background-color: #957F65;
 }
 
 #muse_css_mq
@@ -59,6 +59,11 @@
 	color: #FFFFFF;
 }
 
+#u1696-3
+{
+	text-decoration: none;
+}
+
 #u1955
 {
 	z-index: 2;
@@ -75,8 +80,8 @@
 	width: 600px;
 	min-height: 66px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -98,8 +103,8 @@
 	width: 600px;
 	min-height: 71px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

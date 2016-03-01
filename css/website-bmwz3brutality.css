@@ -1,7 +1,7 @@
 .version.website_bmwz3brutality /* version checker */
 {
-	color: #0000FA;
-	background-color: #70CE90;
+	color: #0000F7;
+	background-color: #8071F9;
 }
 
 #muse_css_mq
@@ -60,6 +60,11 @@
 	color: #FFFFFF;
 }
 
+#u1678-3
+{
+	text-decoration: none;
+}
+
 #u1955
 {
 	z-index: 2;
@@ -76,8 +81,8 @@
 	width: 600px;
 	min-height: 60px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -100,8 +105,8 @@
 	width: 600px;
 	min-height: 95px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
