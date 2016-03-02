@@ -1,7 +1,7 @@
 .version.website_milenakiseleva /* version checker */
 {
-	color: #000017;
-	background-color: #601EBA;
+	color: #0000FB;
+	background-color: #7E23E2;
 }
 
 #muse_css_mq
@@ -35,7 +35,7 @@
 
 #u1684-7
 {
-	z-index: 22;
+	z-index: 19;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -76,7 +76,7 @@
 
 #u1777-6
 {
-	z-index: 30;
+	z-index: 27;
 	width: 600px;
 	min-height: 44px;
 	background-color: transparent;
@@ -89,7 +89,7 @@
 
 #u1686
 {
-	z-index: 29;
+	z-index: 26;
 	width: 600px;
 	height: 305px;
 	position: relative;
@@ -97,7 +97,7 @@
 	background-size: contain;
 }
 
-#u1685-19
+#u1685-16
 {
 	z-index: 3;
 	width: 600px;
@@ -110,12 +110,12 @@
 	position: relative;
 }
 
-#u1685-2,#u1685-5,#u1685-8
+#u1685-2,#u1685-5
 {
 	color: #FFFFFF;
 }
 
-#u1685-13
+#u1685-10
 {
 	font-size: 16px;
 	text-decoration: none;

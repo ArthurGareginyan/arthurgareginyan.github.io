@@ -1,7 +1,7 @@
 .version.website_vipmegastar /* version checker */
 {
-	color: #000012;
-	background-color: #866582;
+	color: #00001A;
+	background-color: #886B9A;
 }
 
 #muse_css_mq
@@ -81,8 +81,8 @@
 	width: 600px;
 	min-height: 43px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -104,8 +104,8 @@
 	width: 600px;
 	min-height: 59px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	top: -2px;
