@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.arthurgareginyan.com/images/screenshot.png</loc>
-    <lastmod>2016-03-10</lastmod>
+    <loc>http://www.arthurgareginyan.com/assets/arthur_gareginyan.vcf</loc>
+    <lastmod>2015-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,18 +20,6 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/images/screenshot3.jpg</loc>
-    <lastmod>2016-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-designe-v3.png</loc>
-    <lastmod>2016-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.arthurgareginyan.com/images/screenshot4.jpg</loc>
     <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -55,14 +43,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-designe(old-notepad).png</loc>
+    <lastmod>2016-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.arthurgareginyan.com/index.html</loc>
-    <lastmod>2016-02-24</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/resume.html</loc>
-    <lastmod>2016-02-24</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -74,37 +68,37 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/about-me.html</loc>
-    <lastmod>2016-02-24</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/donate.html</loc>
-    <lastmod>2016-02-24</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/contact.html</loc>
-    <lastmod>2016-02-24</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/privacy-policy.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/contact-thanks.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/404.html</loc>
-    <lastmod>2016-02-24</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -116,13 +110,13 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/theme-anarcho-notepad.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/theme-authors-notepad.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -164,7 +158,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/website-karolinaray.html</loc>
-    <lastmod>2016-03-02</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -200,7 +194,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/donate-thanks.html</loc>
-    <lastmod>2016-02-29</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
