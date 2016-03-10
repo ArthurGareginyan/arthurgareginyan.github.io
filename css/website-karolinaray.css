@@ -1,7 +1,7 @@
 .version.website_karolinaray /* version checker */
 {
-	color: #0000E4;
-	background-color: #2EA9D2;
+	color: #0000E2;
+	background-color: #B49CD5;
 }
 
 #muse_css_mq
@@ -80,8 +80,8 @@
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -103,8 +103,8 @@
 	width: 600px;
 	min-height: 56px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

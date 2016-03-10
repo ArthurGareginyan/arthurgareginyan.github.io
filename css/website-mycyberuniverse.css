@@ -1,7 +1,7 @@
 .version.website_mycyberuniverse /* version checker */
 {
-	color: #000001;
-	background-color: #745E1E;
+	color: #0000F5;
+	background-color: #830967;
 }
 
 #muse_css_mq
@@ -80,8 +80,8 @@
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -103,8 +103,8 @@
 	width: 600px;
 	min-height: 42px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

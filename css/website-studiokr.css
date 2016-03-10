@@ -1,7 +1,7 @@
 .version.website_studiokr /* version checker */
 {
-	color: #000019;
-	background-color: #05584D;
+	color: #00000E;
+	background-color: #49FF10;
 }
 
 #muse_css_mq
@@ -80,8 +80,8 @@
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -103,8 +103,8 @@
 	width: 600px;
 	min-height: 52px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

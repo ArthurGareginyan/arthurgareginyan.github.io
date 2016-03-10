@@ -1,32 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.arthurgareginyan.com/assets/arthur_gareginyan.vcf</loc>
-    <lastmod>2015-12-04</lastmod>
+    <loc>http://www.arthurgareginyan.com/images/screenshot.png</loc>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/images/smiling_face.png</loc>
-    <lastmod>2016-03-02</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/images/404.png</loc>
-    <lastmod>2016-03-02</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/images/screenshot3.jpg</loc>
-    <lastmod>2016-03-02</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-designe-v3.png</loc>
-    <lastmod>2016-03-02</lastmod>
+    <lastmod>2016-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/images/screenshot4.jpg</loc>
+    <lastmod>2016-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/images/design-circus-1.jpg</loc>
+    <lastmod>2016-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/images/design-circus-2.jpg</loc>
+    <lastmod>2016-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/images/design-circus-3657x314.jpg</loc>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,7 +68,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/portfolio.html</loc>
-    <lastmod>2016-03-01</lastmod>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -183,6 +207,12 @@
   <url>
     <loc>http://www.arthurgareginyan.com/website-milenakiseleva.github.io.html</loc>
     <lastmod>2016-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/theme-circus.html</loc>
+    <lastmod>2016-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
