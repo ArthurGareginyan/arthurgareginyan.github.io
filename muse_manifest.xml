@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1458392067948">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1458399464041">
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
   </folder>
@@ -7,8 +7,8 @@
     <file name="master_main.css" crc="4153594402" ref="donate:resume:contact-thanks:portfolio:donate-thanks:index:404:about-me:contact:privacy-policy"/>
     <file name="master_project-page.css" crc="4025337721" ref="website-oneberserkr:website-milenakiseleva.github.io:website-studiokr:website-circuscostume:website-karolinaray:website-milenakiseleva:theme-circus:website-bmwz3brutality:theme-fashion-style:website-mycyberuniverse:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:theme-white-knight:website-vipmegastar:website-anarchohosting:theme-my-business-card"/>
     <file name="donate.css" crc="449315888" ref="donate"/>
-    <file name="resume.css" crc="524734726" ref="resume"/>
-    <file name="iefonts_resume.css" crc="4066779171" ref="resume"/>
+    <file name="resume.css" crc="205397558" ref="resume"/>
+    <file name="iefonts_resume.css" crc="56899446" ref="resume"/>
     <file name="website-oneberserkr.css" crc="166765682" ref="website-oneberserkr"/>
     <file name="website-milenakiseleva_github_io.css" crc="4095914002" ref="website-milenakiseleva.github.io"/>
     <file name="website-studiokr.css" crc="239730448" ref="website-studiokr"/>
@@ -59,7 +59,7 @@
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:portfolio"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:portfolio:resume"/>
     <file name="u426-5.png" crc="161042972" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="avatar-1.jpg" crc="492004846" ref="index"/>
     <file name="screenshot.jpg" crc="3831060545" ref="portfolio"/>
@@ -108,7 +108,7 @@
     <file name="circus (master-3).jpg" crc="4006151272" seo="true" ref="theme-circus"/>
   </folder>
   <file name="index.html" crc="212641989" seo="true" mt="1458390614325" redirect="true"/>
-  <file name="resume.html" crc="3880709521" seo="true" mt="1458390614325" redirect="true"/>
+  <file name="resume.html" crc="3985674794" seo="true" mt="1458399436602" redirect="true"/>
   <file name="portfolio.html" crc="3933295498" seo="true" mt="1458392065557" redirect="true"/>
   <file name="about-me.html" crc="3935924578" seo="true" mt="1458390614325" redirect="true"/>
   <file name="donate.html" crc="3925453182" seo="true" mt="1458390614325" redirect="true"/>
@@ -133,5 +133,5 @@
   <file name="theme-my-business-card.html" crc="86860756" seo="true" mt="1454272160496" redirect="true"/>
   <file name="donate-thanks.html" crc="375874232" seo="true" mt="1458390614325" redirect="true"/>
   <file name="website-milenakiseleva.github.io.html" crc="415116863" seo="true" mt="1456908877446" redirect="true"/>
-  <file name="theme-circus.html" crc="4246152438" seo="true" mt="1458392005378" redirect="true"/>
+  <file name="theme-circus.html" crc="323455336" seo="true" mt="1458392351089" redirect="true"/>
 </manifest>
