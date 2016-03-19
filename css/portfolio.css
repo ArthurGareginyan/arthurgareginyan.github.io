@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000EE;
-	background-color: #1F51C1;
+	color: #0000E0;
+	background-color: #AB27FD;
 }
 
 #muse_css_mq
@@ -766,7 +766,7 @@
 	margin-right: -10000px;
 	margin-top: -2px;
 	left: 310px;
-	background: #FFFFFF url("../images/design-circus-3.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/circus%20(master-1).jpg") no-repeat center center;
 	background-size: cover;
 }
 

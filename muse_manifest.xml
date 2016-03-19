@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1458391408844">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1458392067948">
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
   </folder>
@@ -15,11 +15,11 @@
     <file name="website-circuscostume.css" crc="359363631" ref="website-circuscostume"/>
     <file name="contact-thanks.css" crc="3859147180" ref="contact-thanks"/>
     <file name="website-karolinaray.css" crc="4045978760" ref="website-karolinaray"/>
-    <file name="portfolio.css" crc="3995029953" ref="portfolio"/>
+    <file name="portfolio.css" crc="3769313277" ref="portfolio"/>
     <file name="website-milenakiseleva.css" crc="465795799" ref="website-milenakiseleva"/>
     <file name="donate-thanks.css" crc="2043213" ref="donate-thanks"/>
-    <file name="theme-circus.css" crc="297631659" ref="theme-circus"/>
-    <file name="iefonts_theme-circus.css" crc="4011521054" ref="theme-circus"/>
+    <file name="theme-circus.css" crc="315826250" ref="theme-circus"/>
+    <file name="iefonts_theme-circus.css" crc="149952713" ref="theme-circus"/>
     <file name="index.css" crc="248235657" ref="index"/>
     <file name="website-bmwz3brutality.css" crc="4152390137" ref="website-bmwz3brutality"/>
     <file name="theme-fashion-style.css" crc="4000925391" ref="theme-fashion-style"/>
@@ -59,14 +59,13 @@
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:portfolio"/>
     <file name="u426-5.png" crc="161042972" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="avatar-1.jpg" crc="492004846" ref="index"/>
     <file name="screenshot.jpg" crc="3831060545" ref="portfolio"/>
     <file name="screenshot2.jpg" crc="82349711" ref="portfolio"/>
     <file name="screenshot.png" crc="437435627" ref="portfolio:theme-white-knight"/>
     <file name="screenshot-u1303-fr.jpg" crc="4101786434" ref="portfolio"/>
-    <file name="design-circus-3.jpg" crc="3760725895" ref="portfolio"/>
     <file name="icon-256x256.png" crc="312516791" ref="portfolio"/>
     <file name="icon-256x256-u1307-fr.png" crc="4069716506" ref="portfolio"/>
     <file name="icon-256x256-u1306-fr.png" crc="4085080279" ref="portfolio"/>
@@ -91,9 +90,6 @@
     <file name="smiling_face.png" crc="3841365763" seo="true" ref="about-me"/>
     <file name="404.png" crc="3823096910" seo="true" ref="404"/>
     <file name="screenshot3.jpg" crc="492910818" seo="true" ref="theme-fashion-style:theme-my-business-card:theme-authors-notepad"/>
-    <file name="design-circus-1.jpg" crc="18868230" seo="true" ref="theme-circus"/>
-    <file name="design-circus-2.jpg" crc="3918551425" seo="true" ref="theme-circus"/>
-    <file name="design-circus-3657x314.jpg" crc="3760725895" seo="true" ref="theme-circus"/>
     <file name="anarcho-notepad-designe(old-notepad).png" crc="271019185" seo="true" ref="theme-anarcho-notepad"/>
     <file name="scan 1.jpg" crc="4098728078" seo="true" ref="resume"/>
     <file name="blank.gif" crc="4208392903" ref="resume"/>
@@ -107,10 +103,13 @@
     <file name="scan 4178x251.jpg" crc="3773730251" seo="true" ref="resume"/>
     <file name="scan 5178x251.jpg" crc="4157742973" seo="true" ref="resume"/>
     <file name="loading.gif" crc="3815509949" ref="resume"/>
+    <file name="circus (master-1).jpg" crc="3996165462" seo="true" ref="portfolio:theme-circus"/>
+    <file name="circus (master-2).jpg" crc="3883054578" seo="true" ref="theme-circus"/>
+    <file name="circus (master-3).jpg" crc="4006151272" seo="true" ref="theme-circus"/>
   </folder>
   <file name="index.html" crc="212641989" seo="true" mt="1458390614325" redirect="true"/>
   <file name="resume.html" crc="3880709521" seo="true" mt="1458390614325" redirect="true"/>
-  <file name="portfolio.html" crc="504111602" seo="true" mt="1458390614325" redirect="true"/>
+  <file name="portfolio.html" crc="3933295498" seo="true" mt="1458392065557" redirect="true"/>
   <file name="about-me.html" crc="3935924578" seo="true" mt="1458390614325" redirect="true"/>
   <file name="donate.html" crc="3925453182" seo="true" mt="1458390614325" redirect="true"/>
   <file name="contact.html" crc="58944175" seo="true" mt="1458390614325" redirect="true"/>
@@ -134,5 +133,5 @@
   <file name="theme-my-business-card.html" crc="86860756" seo="true" mt="1454272160496" redirect="true"/>
   <file name="donate-thanks.html" crc="375874232" seo="true" mt="1458390614325" redirect="true"/>
   <file name="website-milenakiseleva.github.io.html" crc="415116863" seo="true" mt="1456908877446" redirect="true"/>
-  <file name="theme-circus.html" crc="314887618" seo="true" mt="1457620994687" redirect="true"/>
+  <file name="theme-circus.html" crc="4246152438" seo="true" mt="1458392005378" redirect="true"/>
 </manifest>
