@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1457623068088">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1458389357797">
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
   </folder>
@@ -7,8 +7,8 @@
     <file name="master_main.css" crc="4153594402" ref="donate:resume:contact-thanks:portfolio:donate-thanks:index:404:about-me:contact:privacy-policy"/>
     <file name="master_project-page.css" crc="4025337721" ref="website-oneberserkr:website-milenakiseleva.github.io:website-studiokr:website-circuscostume:website-karolinaray:website-milenakiseleva:theme-circus:website-bmwz3brutality:theme-fashion-style:website-mycyberuniverse:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:theme-white-knight:website-vipmegastar:website-anarchohosting:theme-my-business-card"/>
     <file name="donate.css" crc="3780438737" ref="donate"/>
-    <file name="resume.css" crc="3856616249" ref="resume"/>
-    <file name="iefonts_resume.css" crc="143540018" ref="resume"/>
+    <file name="resume.css" crc="524734726" ref="resume"/>
+    <file name="iefonts_resume.css" crc="4066779171" ref="resume"/>
     <file name="website-oneberserkr.css" crc="166765682" ref="website-oneberserkr"/>
     <file name="website-milenakiseleva_github_io.css" crc="4095914002" ref="website-milenakiseleva.github.io"/>
     <file name="website-studiokr.css" crc="239730448" ref="website-studiokr"/>
@@ -46,16 +46,20 @@
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight:theme-my-business-card:donate-thanks:website-milenakiseleva.github.io:theme-circus"/>
     <file name="museutils.js" crc="531812214" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight:theme-my-business-card:donate-thanks:website-milenakiseleva.github.io:theme-circus"/>
     <file name="whatinput.js" crc="84559013" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight:theme-my-business-card:donate-thanks:website-milenakiseleva.github.io:theme-circus"/>
-    <file name="pie.js" crc="3827607177" ref="index:portfolio:about-me"/>
+    <file name="pie.js" crc="3827607177" ref="index:portfolio:about-me:resume"/>
     <file name="jquery.musemenu.js" crc="3902934130" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="jquery.watch.js" crc="3866665977" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight:theme-my-business-card:donate-thanks:website-milenakiseleva.github.io:theme-circus"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:theme-fashion-style:theme-anarcho-notepad:theme-authors-notepad:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:theme-white-knight:theme-my-business-card:donate-thanks:website-milenakiseleva.github.io:theme-circus"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="portfolio:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:website-milenakiseleva.github.io"/>
+    <file name="webpro.js" crc="4156477058" ref="resume"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="resume"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="resume"/>
+    <file name="touchswipe.js" crc="4174436727" ref="resume"/>
   </folder>
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:resume"/>
     <file name="u426-5.png" crc="161042972" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="avatar-1.jpg" crc="492004846" ref="index"/>
     <file name="screenshot.jpg" crc="3831060545" ref="portfolio"/>
@@ -91,9 +95,21 @@
     <file name="design-circus-2.jpg" crc="3918551425" seo="true" ref="theme-circus"/>
     <file name="design-circus-3657x314.jpg" crc="3760725895" seo="true" ref="theme-circus"/>
     <file name="anarcho-notepad-designe(old-notepad).png" crc="271019185" seo="true" ref="theme-anarcho-notepad"/>
+    <file name="scan 1.jpg" crc="4098728078" seo="true" ref="resume"/>
+    <file name="blank.gif" crc="4208392903" ref="resume"/>
+    <file name="scan 2.jpg" crc="4186395706" seo="true" ref="resume"/>
+    <file name="scan 3.jpg" crc="3876463889" seo="true" ref="resume"/>
+    <file name="scan 4.jpg" crc="3827802866" seo="true" ref="resume"/>
+    <file name="scan 5.jpg" crc="317631749" seo="true" ref="resume"/>
+    <file name="scan 1178x251.jpg" crc="4212406320" seo="true" ref="resume"/>
+    <file name="scan 2178x251.jpg" crc="481167685" seo="true" ref="resume"/>
+    <file name="scan 3178x251.jpg" crc="158792887" seo="true" ref="resume"/>
+    <file name="scan 4178x251.jpg" crc="3773730251" seo="true" ref="resume"/>
+    <file name="scan 5178x251.jpg" crc="4157742973" seo="true" ref="resume"/>
+    <file name="loading.gif" crc="3815509949" ref="resume"/>
   </folder>
   <file name="index.html" crc="3978279810" seo="true" mt="1457623050147" redirect="true"/>
-  <file name="resume.html" crc="505483364" seo="true" mt="1457623050147" redirect="true"/>
+  <file name="resume.html" crc="4004259952" seo="true" mt="1458389307212" redirect="true"/>
   <file name="portfolio.html" crc="4085612052" seo="true" mt="1457623061802" redirect="true"/>
   <file name="about-me.html" crc="19458034" seo="true" mt="1457623050147" redirect="true"/>
   <file name="donate.html" crc="4232115130" seo="true" mt="1457623050147" redirect="true"/>
