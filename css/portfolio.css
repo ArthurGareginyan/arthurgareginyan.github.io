@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000014;
-	background-color: #060807;
+	color: #0000EE;
+	background-color: #1F51C1;
 }
 
 #muse_css_mq
@@ -391,8 +391,8 @@
 	width: 898px;
 	min-height: 69px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-top: 6px;
