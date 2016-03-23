@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000F9;
-	background-color: #3FC04A;
+	color: #000004;
+	background-color: #D6E4AE;
 }
 
 #muse_css_mq
@@ -362,33 +362,33 @@
 #pu1896
 {
 	width: 0.01px;
-	margin-left: 69px;
+	margin-left: 89px;
 	margin-top: 16px;
 }
 
 #u1896
 {
 	z-index: 126;
-	width: 248px;
+	width: 190px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
 	border-radius: 125px;
-	padding-bottom: 7px;
+	padding-bottom: 5px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 27px;
+	margin-top: 50px;
 }
 
 #u1292
 {
 	z-index: 127;
-	width: 236px;
-	height: 225px;
+	width: 181px;
+	height: 180px;
 	border-radius: 125px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: 6px;
+	margin-top: 5px;
+	left: 5px;
 	background: transparent url("../images/avatar-2-ieu1292-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/avatar-2.png") no-repeat center center;
 	background-color: transparent;
@@ -398,17 +398,17 @@
 #u1290-7
 {
 	z-index: 78;
-	width: 529px;
+	width: 580px;
 	min-height: 123px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 84px;
-	left: 273px;
+	left: 213px;
 }
 
 #u425
@@ -418,7 +418,7 @@
 	padding-bottom: 58px;
 	position: relative;
 	margin-right: -10000px;
-	left: 874px;
+	left: 854px;
 }
 
 #u426-5
@@ -435,7 +435,7 @@
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: -7px;
+	margin-top: 16px;
 }
 
 #u2571
