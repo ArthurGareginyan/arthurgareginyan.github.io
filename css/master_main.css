@@ -33,6 +33,18 @@
 	background-color: transparent;
 }
 
+#u1114:hover
+{
+	border-width: 0px;
+	border-color: #000000;
+}
+
+#u1114:active
+{
+	border-width: 0px;
+	border-color: #000000;
+}
+
 #u1115-4
 {
 	border-width: 0px;
@@ -181,6 +193,13 @@
 #u1097,#u1100
 {
 	background-color: transparent;
+}
+
+#u1114.MuseMenuActive,#u1105.MuseMenuActive,#u1086.MuseMenuActive,#u1093.MuseMenuActive,#u1195.MuseMenuActive,#u1100.MuseMenuActive
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 0px 0px 2px;
 }
 
 #u1101-4
