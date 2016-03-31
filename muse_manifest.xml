@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1459397591561">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1459399251870">
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
   </folder>
@@ -59,7 +59,7 @@
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:portfolio"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:portfolio:about-me"/>
     <file name="u426-5.png" crc="161042972" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks"/>
     <file name="avatar-1.jpg" crc="492004846" ref="index"/>
     <file name="screenshot.jpg" crc="3831060545" ref="portfolio"/>
@@ -112,7 +112,7 @@
   <file name="index.html" crc="212641989" seo="true" mt="1459203631841" redirect="true"/>
   <file name="resume.html" crc="193869413" seo="true" mt="1459203631841" redirect="true"/>
   <file name="portfolio.html" crc="3897007955" seo="true" mt="1459397553833" redirect="true"/>
-  <file name="about-me.html" crc="298992412" seo="true" mt="1459203631841" redirect="true"/>
+  <file name="about-me.html" crc="5925629" seo="true" mt="1459398908630" redirect="true"/>
   <file name="donate.html" crc="3925453182" seo="true" mt="1459203631841" redirect="true"/>
   <file name="contact.html" crc="58944175" seo="true" mt="1459203631841" redirect="true"/>
   <file name="privacy-policy.html" crc="295070912" seo="true" mt="1459203631841" redirect="true"/>
