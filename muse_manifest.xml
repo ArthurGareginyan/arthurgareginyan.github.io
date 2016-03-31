@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1459439301638">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1459439518064">
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
   </folder>
@@ -22,7 +22,7 @@
     <file name="iefonts_theme-circus.css" crc="149952713" ref="theme-circus"/>
     <file name="index.css" crc="3795904129" ref="index"/>
     <file name="website-bmwz3brutality.css" crc="4152390137" ref="website-bmwz3brutality"/>
-    <file name="theme-fashion-style.css" crc="4000925391" ref="theme-fashion-style"/>
+    <file name="theme-fashion-style.css" crc="3933531960" ref="theme-fashion-style"/>
     <file name="iefonts_theme-fashion-style.css" crc="81392178" ref="theme-fashion-style"/>
     <file name="website-mycyberuniverse.css" crc="4119005543" ref="website-mycyberuniverse"/>
     <file name="theme-anarcho-notepad.css" crc="3929527031" ref="theme-anarcho-notepad"/>
@@ -87,7 +87,7 @@
     <file name="avatar-2.png" crc="4055024997" ref="about-me"/>
     <file name="smiling_face.png" crc="3841365763" seo="true" ref="about-me"/>
     <file name="404.png" crc="3823096910" seo="true" ref="404"/>
-    <file name="screenshot3.jpg" crc="492910818" seo="true" ref="theme-fashion-style:theme-my-business-card"/>
+    <file name="screenshot3.jpg" crc="492910818" seo="true" ref="theme-my-business-card"/>
     <file name="anarcho-notepad-designe(old-notepad).png" crc="271019185" seo="true" ref="theme-anarcho-notepad"/>
     <file name="scan 1.jpg" crc="4098728078" seo="true" ref="resume"/>
     <file name="blank.gif" crc="4208392903" ref="resume"/>
@@ -109,17 +109,18 @@
     <file name="authors-notepad-designe.jpg" crc="4280122262" ref="portfolio:theme-authors-notepad"/>
     <file name="icon-256x256-u6240-fr.png" crc="4081675746" ref="portfolio"/>
     <file name="simple-notepad-designe.jpg" crc="19878475" ref="portfolio"/>
+    <file name="screenshot2.jpg" crc="523739691" seo="true" ref="theme-fashion-style"/>
   </folder>
   <file name="index.html" crc="212641989" seo="true" mt="1459203631841" redirect="true"/>
   <file name="resume.html" crc="193869413" seo="true" mt="1459203631841" redirect="true"/>
-  <file name="portfolio.html" crc="510009373" seo="true" mt="1459439299439" redirect="true"/>
+  <file name="portfolio.html" crc="300580794" seo="true" mt="1459439475209" redirect="true"/>
   <file name="about-me.html" crc="5925629" seo="true" mt="1459398908630" redirect="true"/>
   <file name="donate.html" crc="3925453182" seo="true" mt="1459203631841" redirect="true"/>
   <file name="contact.html" crc="58944175" seo="true" mt="1459203631841" redirect="true"/>
   <file name="privacy-policy.html" crc="295070912" seo="true" mt="1459203631841" redirect="true"/>
   <file name="contact-thanks.html" crc="4136295428" seo="true" mt="1459203631841" redirect="true"/>
   <file name="404.html" crc="3987568291" seo="true" mt="1459203631841" redirect="true"/>
-  <file name="theme-fashion-style.html" crc="4253132954" seo="true" mt="1455784811078" redirect="true"/>
+  <file name="theme-fashion-style.html" crc="3972045620" seo="true" mt="1459439494579" redirect="true"/>
   <file name="theme-anarcho-notepad.html" crc="3957440717" seo="true" mt="1457622892878" redirect="true"/>
   <file name="theme-authors-notepad.html" crc="29684842" seo="true" mt="1459156301342" redirect="true"/>
   <file name="website-arthurgareginyan.html" crc="311866831" seo="true" mt="1456908887324" redirect="true"/>
