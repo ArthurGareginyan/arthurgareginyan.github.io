@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1459397320618">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1459397591561">
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
   </folder>
@@ -111,7 +111,7 @@
   </folder>
   <file name="index.html" crc="212641989" seo="true" mt="1459203631841" redirect="true"/>
   <file name="resume.html" crc="193869413" seo="true" mt="1459203631841" redirect="true"/>
-  <file name="portfolio.html" crc="304128806" seo="true" mt="1459397304004" redirect="true"/>
+  <file name="portfolio.html" crc="3897007955" seo="true" mt="1459397553833" redirect="true"/>
   <file name="about-me.html" crc="298992412" seo="true" mt="1459203631841" redirect="true"/>
   <file name="donate.html" crc="3925453182" seo="true" mt="1459203631841" redirect="true"/>
   <file name="contact.html" crc="58944175" seo="true" mt="1459203631841" redirect="true"/>
