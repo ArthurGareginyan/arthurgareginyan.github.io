@@ -1,7 +1,7 @@
 .version.theme_fashion_style /* version checker */
 {
-	color: #0000EA;
-	background-color: #74EF38;
+	color: #000003;
+	background-color: #6D28F3;
 }
 
 #muse_css_mq
@@ -28,26 +28,15 @@
 	width: 0.01px;/* should not cover content below */
 }
 
-#pu1955
+#pu1457-6
 {
 	width: 0.01px;
-	margin-left: -29px;
-}
-
-#u1955
-{
-	z-index: 2;
-	width: 50px;
-	min-height: 25px;
-	position: relative;
-	margin-right: -10000px;
-	left: 653px;
 }
 
 #u1457-6
 {
 	z-index: 5;
-	width: 657px;
+	width: 600px;
 	min-height: 63px;
 	background-color: transparent;
 	text-align: center;
@@ -70,50 +59,41 @@
 	color: #FFFFFF;
 }
 
+#u1955
+{
+	z-index: 2;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	left: 624px;
+}
+
 #u1454
 {
 	z-index: 3;
-	width: 657px;
+	width: 600px;
 	background-color: transparent;
-	left: -29px;
-	margin-top: 21px;
+	margin-top: 39px;
 	position: relative;
 }
 
-#pu1460-3
+#pu1835-35
 {
 	width: 0.01px;
-	margin-left: -29px;
-	margin-top: 14px;
-}
-
-#u1460-3
-{
-	z-index: 11;
-	width: 656px;
-	min-height: 94px;
-	background-color: transparent;
-	line-height: 19px;
-	text-align: justify;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	left: 1px;
+	margin-top: 31px;
 }
 
 #u1835-35
 {
-	z-index: 14;
-	width: 656px;
+	z-index: 11;
+	width: 599px;
 	min-height: 94px;
 	background-color: transparent;
 	text-align: justify;
 	font-family: bitter, serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 1px;
 }
 
 #u1835-21
@@ -151,7 +131,7 @@
 
 #u1836
 {
-	z-index: 49;
+	z-index: 46;
 	width: 155px;
 	min-height: 54px;
 	border-width: 0px;

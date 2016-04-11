@@ -1,7 +1,7 @@
 .version.theme_anarcho_notepad /* version checker */
 {
-	color: #0000EA;
-	background-color: #37D2F7;
+	color: #0000F2;
+	background-color: #AD433F;
 }
 
 #muse_css_mq
@@ -29,26 +29,15 @@
 	width: 0.01px;/* should not cover content below */
 }
 
-#pu1955
+#pu1580-6
 {
 	width: 0.01px;
-	margin-left: -29px;
-}
-
-#u1955
-{
-	z-index: 2;
-	width: 50px;
-	min-height: 25px;
-	position: relative;
-	margin-right: -10000px;
-	left: 653px;
 }
 
 #u1580-6
 {
 	z-index: 3;
-	width: 657px;
+	width: 599px;
 	min-height: 63px;
 	background-color: transparent;
 	text-align: center;
@@ -71,55 +60,65 @@
 	color: #FFFFFF;
 }
 
+#u1955
+{
+	z-index: 2;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	left: 624px;
+}
+
 #u5424
 {
-	z-index: 124;
+	z-index: 114;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 34px;
 	position: relative;
 }
 
-#pu1579-114
+#pu1579-104
 {
 	width: 0.01px;
 	margin-top: 17px;
 }
 
-#u1579-114
+#u1579-104
 {
 	z-index: 9;
 	width: 600px;
 	min-height: 168px;
 	background-color: transparent;
-	text-align: justify;
 	text-indent: 5px;
+	text-align: justify;
 	font-family: bitter, serif;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u1579-12,#u1579-56
+#u1579-12
 {
 	font-size: 16px;
 	line-height: 21px;
 	font-weight: 700;
 }
 
-#u1579-53 > #u1579-14:before,#u1579-53 > #u1579-16:before,#u1579-53 > #u1579-18:before,#u1579-53 > #u1579-20:before,#u1579-53 > #u1579-22:before,#u1579-53 > #u1579-24:before,#u1579-53 > #u1579-26:before,#u1579-53 > #u1579-28:before,#u1579-53 > #u1579-30:before,#u1579-53 > #u1579-32:before,#u1579-53 > #u1579-34:before,#u1579-53 > #u1579-36:before,#u1579-53 > #u1579-38:before,#u1579-53 > #u1579-40:before,#u1579-53 > #u1579-42:before,#u1579-53 > #u1579-44:before,#u1579-53 > #u1579-46:before,#u1579-53 > #u1579-48:before,#u1579-53 > #u1579-50:before,#u1579-53 > #u1579-52:before,#u1579-63 > #u1579-58:before,#u1579-63 > #u1579-60:before,#u1579-63 > #u1579-62:before
+#u1579-53 > #u1579-14:before,#u1579-53 > #u1579-16:before,#u1579-53 > #u1579-18:before,#u1579-53 > #u1579-20:before,#u1579-53 > #u1579-22:before,#u1579-53 > #u1579-24:before,#u1579-53 > #u1579-26:before,#u1579-53 > #u1579-28:before,#u1579-53 > #u1579-30:before,#u1579-53 > #u1579-32:before,#u1579-53 > #u1579-34:before,#u1579-53 > #u1579-36:before,#u1579-53 > #u1579-38:before,#u1579-53 > #u1579-40:before,#u1579-53 > #u1579-42:before,#u1579-53 > #u1579-44:before,#u1579-53 > #u1579-46:before,#u1579-53 > #u1579-48:before,#u1579-53 > #u1579-50:before,#u1579-53 > #u1579-52:before
 {
 	font-family: bitter, Georgia;
 	font-weight: 400;
 }
 
-#u1579-2,#u1579-3,#u1579-9,#u1579-67,#u1579-77,#u1579-87,#u1579-88
+#u1579-2,#u1579-3,#u1579-9,#u1579-57,#u1579-67,#u1579-77,#u1579-78
 {
 	font-size: 20px;
 	line-height: 26px;
 	font-weight: 700;
 }
 
-#u1579-101,#u1579-103,#u1579-105,#u1579-107,#u1579-109,#u1579-111
+#u1579-91,#u1579-93,#u1579-95,#u1579-97,#u1579-99,#u1579-101
 {
 	font-size: 16px;
 	line-height: 21px;
@@ -127,7 +126,7 @@
 	font-weight: 400;
 }
 
-#u1579-5,#u1579-6,#u1579-7,#u1579-10,#u1579-14,#u1579-16,#u1579-18,#u1579-20,#u1579-22,#u1579-24,#u1579-26,#u1579-28,#u1579-30,#u1579-32,#u1579-34,#u1579-36,#u1579-38,#u1579-40,#u1579-42,#u1579-44,#u1579-46,#u1579-48,#u1579-50,#u1579-52,#u1579-54,#u1579-58,#u1579-60,#u1579-62,#u1579-64,#u1579-65,#u1579-68,#u1579-70,#u1579-71,#u1579-72,#u1579-73,#u1579-74,#u1579-75,#u1579-78,#u1579-80,#u1579-81,#u1579-83,#u1579-84,#u1579-85,#u1579-96,#u1579-97,#u1579-99,#u1579-112
+#u1579-5,#u1579-6,#u1579-7,#u1579-10,#u1579-14,#u1579-16,#u1579-18,#u1579-20,#u1579-22,#u1579-24,#u1579-26,#u1579-28,#u1579-30,#u1579-32,#u1579-34,#u1579-36,#u1579-38,#u1579-40,#u1579-42,#u1579-44,#u1579-46,#u1579-48,#u1579-50,#u1579-52,#u1579-54,#u1579-55,#u1579-58,#u1579-60,#u1579-61,#u1579-62,#u1579-63,#u1579-64,#u1579-65,#u1579-68,#u1579-70,#u1579-71,#u1579-73,#u1579-74,#u1579-75,#u1579-86,#u1579-87,#u1579-89,#u1579-102
 {
 	font-size: 16px;
 	line-height: 21px;
@@ -136,7 +135,7 @@
 
 #u1833
 {
-	z-index: 123;
+	z-index: 113;
 	width: 212px;
 	min-height: 68px;
 	border-width: 0px;
@@ -144,7 +143,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 992px;
+	margin-top: 889px;
+	left: 194px;
 }
 
 .html

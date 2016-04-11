@@ -1,7 +1,7 @@
 .version.theme_white_knight /* version checker */
 {
-	color: #000003;
-	background-color: #F14F56;
+	color: #0000FB;
+	background-color: #24E43D;
 }
 
 #muse_css_mq
@@ -28,26 +28,15 @@
 	width: 0.01px;/* should not cover content below */
 }
 
-#pu1955
+#pu1815-6
 {
 	width: 0.01px;
-	margin-left: -29px;
-}
-
-#u1955
-{
-	z-index: 2;
-	width: 50px;
-	min-height: 25px;
-	position: relative;
-	margin-right: -10000px;
-	left: 653px;
 }
 
 #u1815-6
 {
 	z-index: 3;
-	width: 657px;
+	width: 600px;
 	min-height: 63px;
 	background-color: transparent;
 	text-align: center;
@@ -70,26 +59,35 @@
 	color: #FFFFFF;
 }
 
+#u1955
+{
+	z-index: 2;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	left: 624px;
+}
+
 #u1818
 {
 	z-index: 46;
-	width: 629px;
+	width: 600px;
 	background-color: transparent;
-	left: -29px;
+	margin-top: 10px;
 	position: relative;
 }
 
 #pu1814-37
 {
 	width: 0.01px;
-	margin-left: -29px;
-	margin-top: 1px;
+	margin-top: 12px;
 }
 
 #u1814-37
 {
 	z-index: 9;
-	width: 656px;
+	width: 600px;
 	min-height: 94px;
 	background-color: transparent;
 	text-align: justify;
@@ -146,7 +144,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 191px;
+	margin-top: 209px;
 }
 
 .html

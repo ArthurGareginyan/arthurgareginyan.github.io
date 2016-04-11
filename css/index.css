@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #40E681;
+	color: #00001B;
+	background-color: #4CA55E;
 }
 
 #muse_css_mq
@@ -388,8 +388,8 @@
 	width: 662px;
 	min-height: 143px;
 	background-color: transparent;
-	color: #736357;
 	line-height: 46px;
+	color: #736357;
 	text-align: center;
 	font-size: 38px;
 	font-family: bitter, serif;
@@ -482,8 +482,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	text-align: left;
 	color: #534741;
+	text-align: left;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -518,8 +518,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	text-align: left;
 	color: #534741;
+	text-align: left;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -573,8 +573,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	text-align: left;
 	color: #534741;
+	text-align: left;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -589,8 +589,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	text-align: left;
 	color: #534741;
+	text-align: left;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -634,8 +634,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	text-align: left;
 	color: #777777;
+	text-align: left;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -669,8 +669,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	text-align: left;
 	color: #534741;
+	text-align: left;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
