@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1460408527905">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1460409664466">
   <folder name="css">
     <file name="site_global.css" crc="4217990463"/>
     <file name="master_main.css" crc="4286540541" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:donate-thanks:portfolio"/>
@@ -36,7 +36,7 @@
     <file name="donate-thanks.css" crc="3978677620" ref="donate-thanks"/>
     <file name="website-arthurgareginyan.css" crc="210247990" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="4095914002" ref="website-milenakiseleva.github.io"/>
-    <file name="portfolio.css" crc="32351142" ref="portfolio"/>
+    <file name="portfolio.css" crc="3860416789" ref="portfolio"/>
     <file name="website-bmwz3brutality.css" crc="4152390137" ref="website-bmwz3brutality"/>
     <file name="theme-circus.css" crc="4115873088" ref="theme-circus"/>
     <file name="iefonts_theme-circus.css" crc="129439004" ref="theme-circus"/>
@@ -115,7 +115,7 @@
   </folder>
   <file name="index.html" crc="3969753160" seo="true" mt="1460369516862" redirect="true"/>
   <file name="resume.html" crc="4272022294" seo="true" mt="1460369516862" redirect="true"/>
-  <file name="portfolio.html" crc="3922554517" seo="true" mt="1460408347995" redirect="true"/>
+  <file name="portfolio.html" crc="3842264822" seo="true" mt="1460409632041" redirect="true"/>
   <file name="about-me.html" crc="231088956" seo="true" mt="1460373315149" redirect="true"/>
   <file name="donate.html" crc="194139760" seo="true" mt="1460369516862" redirect="true"/>
   <file name="contact.html" crc="3864827631" seo="true" mt="1460369516862" redirect="true"/>
