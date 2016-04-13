@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1460584701043">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1460584836380">
   <folder name="css">
     <file name="site_global.css" crc="4217990463"/>
     <file name="master_main.css" crc="4124882301" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:donate-thanks:portfolio:drawings"/>
@@ -40,7 +40,7 @@
     <file name="website-bmwz3brutality.css" crc="4152390137" ref="website-bmwz3brutality"/>
     <file name="theme-circus.css" crc="4115873088" ref="theme-circus"/>
     <file name="iefonts_theme-circus.css" crc="129439004" ref="theme-circus"/>
-    <file name="drawings.css" crc="170022688" ref="drawings"/>
+    <file name="drawings.css" crc="3910305571" ref="drawings"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
@@ -62,7 +62,7 @@
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks:drawings"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks:drawings"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:about-me"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:about-me:drawings"/>
     <file name="u426-5.png" crc="161042972" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-thanks:drawings"/>
     <file name="avatar-1.jpg" crc="492004846" ref="index"/>
     <file name="scan 1.jpg" crc="4070527474" seo="true" ref="resume:drawings"/>
@@ -229,5 +229,5 @@
   <file name="website-milenakiseleva.github.io.html" crc="283298086" seo="true" mt="1456908877446" redirect="true"/>
   <file name="theme-circus.html" crc="173369672" seo="true" mt="1460372725342" redirect="true"/>
   <file name="theme-simple-notepad.html" crc="271657728" seo="true" mt="1460477125487" redirect="true"/>
-  <file name="drawings.html" crc="4258473768" seo="true" mt="1460584576998" redirect="true"/>
+  <file name="drawings.html" crc="232647407" seo="true" mt="1460584819113" redirect="true"/>
 </manifest>
