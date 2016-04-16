@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #00001E;
-	background-color: #D3402A;
+	color: #0000ED;
+	background-color: #6A1CB1;
 }
 
 #muse_css_mq
@@ -461,8 +461,8 @@
 	width: 580px;
 	min-height: 123px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -523,7 +523,7 @@
 #u1254-2
 {
 	font-size: 20px;
-	text-align: center;
+	text-align: left;
 	line-height: 30px;
 	color: #0093C4;
 }
@@ -564,20 +564,6 @@
 	left: 513px;
 }
 
-#u5334
-{
-	z-index: 175;
-	width: 898px;
-	height: 8px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 24px;
-	border-width: 0px 0px 2px;
-}
-
 #u1351-51
 {
 	z-index: 94;
@@ -586,8 +572,9 @@
 	background-color: transparent;
 	font-family: bitter, serif;
 	font-weight: 400;
+	margin-left: 22px;
+	margin-top: 51px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u1351-2
@@ -610,48 +597,21 @@
 	line-height: 19px;
 }
 
-#u5337
-{
-	z-index: 176;
-	width: 898px;
-	height: 8px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 20px;
-	border-width: 0px 0px 2px;
-}
-
-#pu1351-51,#pu1961-28
-{
-	width: 0.01px;
-	margin-left: 22px;
-	margin-top: 51px;
-}
-
 #u1961-28
 {
 	z-index: 147;
 	width: 898px;
 	min-height: 81px;
 	background-color: transparent;
+	margin-left: 22px;
+	margin-top: 51px;
 	position: relative;
-	margin-right: -10000px;
 }
 
-#u1961-2
+#u1961-2,#u1961-3
 {
 	font-size: 20px;
-	text-align: center;
-	line-height: 25px;
-	color: #0093C4;
-}
-
-#u1961-3
-{
-	font-size: 20px;
+	text-align: left;
 	line-height: 25px;
 	color: #0093C4;
 }
@@ -665,20 +625,6 @@
 {
 	font-size: 16px;
 	line-height: 20px;
-}
-
-#u5340
-{
-	z-index: 177;
-	width: 898px;
-	height: 8px;
-	border-style: solid;
-	border-color: #0093C4;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 20px;
-	border-width: 0px 0px 2px;
 }
 
 #pu1125
