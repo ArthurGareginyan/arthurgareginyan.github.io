@@ -1,7 +1,7 @@
 .version.website_bizconsultinghub_com /* version checker */
 {
-	color: #0000EA;
-	background-color: #8E4444;
+	color: #00000E;
+	background-color: #BEB7C0;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.862402343751px;
+	min-height: 499.8624023437508px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -36,7 +36,7 @@
 
 #u9502-7
 {
-	z-index: 27;
+	z-index: 21;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -72,7 +72,7 @@
 
 #u9503-6
 {
-	z-index: 34;
+	z-index: 28;
 	width: 600px;
 	min-height: 43px;
 	background-color: transparent;
@@ -83,16 +83,17 @@
 	position: relative;
 }
 
-#u9507
+#u9567
 {
-	z-index: 40;
+	z-index: 42;
 	width: 600px;
 	background-color: transparent;
-	margin-top: 15px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
 }
 
-#u9501-24
+#u9501-18
 {
 	z-index: 3;
 	width: 600px;
@@ -102,6 +103,7 @@
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
+	margin-top: 1px;
 	position: relative;
 }
 
@@ -115,24 +117,18 @@
 	color: #FFFFFF;
 }
 
-#u9501-18
-{
-	font-size: 16px;
-	text-decoration: none;
-}
-
 #u9514
 {
-	z-index: 42;
+	z-index: 34;
 	width: 600px;
 	background-color: transparent;
-	margin-top: 40px;
+	margin-top: 13px;
 	position: relative;
 }
 
 #u9544-4
 {
-	z-index: 46;
+	z-index: 38;
 	width: 600px;
 	min-height: 27px;
 	background-color: transparent;
@@ -141,13 +137,13 @@
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-top: 39px;
+	margin-top: 25px;
 	position: relative;
 }
 
 #u9524
 {
-	z-index: 44;
+	z-index: 36;
 	width: 600px;
 	background-color: transparent;
 	position: relative;
