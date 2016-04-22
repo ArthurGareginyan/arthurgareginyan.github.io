@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000E9;
-	background-color: #935792;
+	color: #00001A;
+	background-color: #1ECE57;
 }
 
 #muse_css_mq
@@ -650,7 +650,7 @@
 	color: #0093C4;
 }
 
-#u1253-104,#u1253-107,#u1253-109,#u1253-111,#u1253-114,#u1253-116,#u1253-118,#u1253-121,#u1253-124,#u1253-126,#u1253-128,#u1253-131,#u1253-134,#u1253-136,#u1253-138,#u1253-140,#u1253-142
+#u1253-104,#u1253-107,#u1253-109,#u1253-111,#u1253-114,#u1253-116,#u1253-118,#u1253-121,#u1253-124,#u1253-126,#u1253-128,#u1253-130,#u1253-133,#u1253-136,#u1253-138,#u1253-140,#u1253-142
 {
 	font-size: 16px;
 	line-height: 19px;
@@ -658,14 +658,14 @@
 	padding-bottom: 1px;
 }
 
-#u1253-94 > #u1253-88:before,#u1253-94 > #u1253-91:before,#u1253-94 > #u1253-93:before,#u1253-143 > #u1253-104:before,#u1253-143 > #u1253-107:before,#u1253-143 > #u1253-109:before,#u1253-143 > #u1253-111:before,#u1253-143 > #u1253-114:before,#u1253-143 > #u1253-116:before,#u1253-143 > #u1253-118:before,#u1253-143 > #u1253-121:before,#u1253-143 > #u1253-124:before,#u1253-143 > #u1253-126:before,#u1253-143 > #u1253-128:before,#u1253-143 > #u1253-131:before,#u1253-143 > #u1253-134:before,#u1253-143 > #u1253-136:before,#u1253-143 > #u1253-138:before,#u1253-143 > #u1253-140:before,#u1253-143 > #u1253-142:before
+#u1253-94 > #u1253-88:before,#u1253-94 > #u1253-91:before,#u1253-94 > #u1253-93:before,#u1253-143 > #u1253-104:before,#u1253-143 > #u1253-107:before,#u1253-143 > #u1253-109:before,#u1253-143 > #u1253-111:before,#u1253-143 > #u1253-114:before,#u1253-143 > #u1253-116:before,#u1253-143 > #u1253-118:before,#u1253-143 > #u1253-121:before,#u1253-143 > #u1253-124:before,#u1253-143 > #u1253-126:before,#u1253-143 > #u1253-128:before,#u1253-143 > #u1253-130:before,#u1253-143 > #u1253-133:before,#u1253-143 > #u1253-136:before,#u1253-143 > #u1253-138:before,#u1253-143 > #u1253-140:before,#u1253-143 > #u1253-142:before
 {
 	font-family: bitter, Georgia;
 	font-weight: 400;
 	margin-right: -24px;
 }
 
-#u1253-94.rtl-list > #u1253-88:before,#u1253-94.rtl-list > #u1253-91:before,#u1253-94.rtl-list > #u1253-93:before,#u1253-143.rtl-list > #u1253-104:before,#u1253-143.rtl-list > #u1253-107:before,#u1253-143.rtl-list > #u1253-109:before,#u1253-143.rtl-list > #u1253-111:before,#u1253-143.rtl-list > #u1253-114:before,#u1253-143.rtl-list > #u1253-116:before,#u1253-143.rtl-list > #u1253-118:before,#u1253-143.rtl-list > #u1253-121:before,#u1253-143.rtl-list > #u1253-124:before,#u1253-143.rtl-list > #u1253-126:before,#u1253-143.rtl-list > #u1253-128:before,#u1253-143.rtl-list > #u1253-131:before,#u1253-143.rtl-list > #u1253-134:before,#u1253-143.rtl-list > #u1253-136:before,#u1253-143.rtl-list > #u1253-138:before,#u1253-143.rtl-list > #u1253-140:before,#u1253-143.rtl-list > #u1253-142:before
+#u1253-94.rtl-list > #u1253-88:before,#u1253-94.rtl-list > #u1253-91:before,#u1253-94.rtl-list > #u1253-93:before,#u1253-143.rtl-list > #u1253-104:before,#u1253-143.rtl-list > #u1253-107:before,#u1253-143.rtl-list > #u1253-109:before,#u1253-143.rtl-list > #u1253-111:before,#u1253-143.rtl-list > #u1253-114:before,#u1253-143.rtl-list > #u1253-116:before,#u1253-143.rtl-list > #u1253-118:before,#u1253-143.rtl-list > #u1253-121:before,#u1253-143.rtl-list > #u1253-124:before,#u1253-143.rtl-list > #u1253-126:before,#u1253-143.rtl-list > #u1253-128:before,#u1253-143.rtl-list > #u1253-130:before,#u1253-143.rtl-list > #u1253-133:before,#u1253-143.rtl-list > #u1253-136:before,#u1253-143.rtl-list > #u1253-138:before,#u1253-143.rtl-list > #u1253-140:before,#u1253-143.rtl-list > #u1253-142:before
 {
 	margin-right: 0px;
 	margin-left: -24px;
@@ -750,7 +750,7 @@
 	color: #534741;
 }
 
-#u1253-23,#u1253-74,#u1253-87,#u1253-90,#u1253-103,#u1253-106,#u1253-113,#u1253-120,#u1253-123,#u1253-130,#u1253-133,#u1253-223
+#u1253-23,#u1253-74,#u1253-87,#u1253-90,#u1253-103,#u1253-106,#u1253-113,#u1253-120,#u1253-123,#u1253-132,#u1253-135,#u1253-223
 {
 	color: #544842;
 }
@@ -849,6 +849,7 @@
 	width: 0.01px;
 	height: 520px;
 	margin-left: 96px;
+	margin-top: 165px;
 	position: relative;
 }
 
@@ -1123,9 +1124,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
 	left: -45px;
@@ -1142,9 +1143,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
 	left: 1160px;
@@ -1191,9 +1192,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 20px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;

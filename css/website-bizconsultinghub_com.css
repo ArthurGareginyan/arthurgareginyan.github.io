@@ -1,0 +1,166 @@
+.version.website_bizconsultinghub_com /* version checker */
+{
+	color: #0000EA;
+	background-color: #8E4444;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 600px;
+	min-height: 499.862402343751px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 13px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#pu9502-7
+{
+	width: 0.01px;
+}
+
+#u9502-7
+{
+	z-index: 27;
+	width: 600px;
+	min-height: 64px;
+	background-color: transparent;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9502-2
+{
+	font-size: 25px;
+	line-height: 30px;
+}
+
+#u9502-5
+{
+	font-size: 20px;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+#u1955
+{
+	z-index: 2;
+	width: 50px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	left: 624px;
+}
+
+#u9503-6
+{
+	z-index: 34;
+	width: 600px;
+	min-height: 43px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u9507
+{
+	z-index: 40;
+	width: 600px;
+	background-color: transparent;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u9501-24
+{
+	z-index: 3;
+	width: 600px;
+	min-height: 59px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u9501,#u9501-3,#u9501-4,#u9501-9,#u9501-12
+{
+	color: #000000;
+}
+
+#u9501-5,#u9501-8,#u9501-13
+{
+	color: #FFFFFF;
+}
+
+#u9501-18
+{
+	font-size: 16px;
+	text-decoration: none;
+}
+
+#u9514
+{
+	z-index: 42;
+	width: 600px;
+	background-color: transparent;
+	margin-top: 40px;
+	position: relative;
+}
+
+#u9544-4
+{
+	z-index: 46;
+	width: 600px;
+	min-height: 27px;
+	background-color: transparent;
+	line-height: 19px;
+	color: #000000;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-top: 39px;
+	position: relative;
+}
+
+#u9524
+{
+	z-index: 44;
+	width: 600px;
+	background-color: transparent;
+	position: relative;
+}
+
+.html
+{
+	background-color: #5FBDE2;
+}
+
+body
+{
+	position: relative;
+	min-width: 600px;
+}
+
