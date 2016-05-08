@@ -1,7 +1,7 @@
 .version.website_vipmegastar /* version checker */
 {
-	color: #000012;
-	background-color: #866582;
+	color: #000018;
+	background-color: #D8F488;
 }
 
 #muse_css_mq
@@ -29,20 +29,17 @@
 	width: 0.01px;/* should not cover content below */
 }
 
-#pu1747-7
+#pu1747-6
 {
 	width: 0.01px;
 }
 
-#u1747-7
+#u1747-6
 {
 	z-index: 13;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
-	text-align: center;
-	font-family: bitter, serif;
-	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -50,19 +47,15 @@
 #u1747-2
 {
 	font-size: 25px;
+	text-align: center;
 	line-height: 30px;
+	font-family: bitter, serif;
+	font-weight: 400;
 }
 
-#u1747-5
+#u1747-4
 {
-	font-size: 20px;
 	line-height: 24px;
-	color: #FFFFFF;
-}
-
-#u1747-3
-{
-	text-decoration: none;
 }
 
 #u1955
@@ -77,12 +70,12 @@
 
 #u1796-6
 {
-	z-index: 21;
+	z-index: 20;
 	width: 600px;
 	min-height: 43px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -90,7 +83,7 @@
 
 #u1749
 {
-	z-index: 20;
+	z-index: 19;
 	width: 600px;
 	height: 320px;
 	position: relative;
@@ -104,8 +97,8 @@
 	width: 600px;
 	min-height: 59px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	top: -2px;

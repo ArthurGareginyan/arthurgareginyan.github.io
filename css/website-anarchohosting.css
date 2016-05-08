@@ -1,7 +1,7 @@
 .version.website_anarchohosting /* version checker */
 {
-	color: #0000E4;
-	background-color: #957F65;
+	color: #0000FD;
+	background-color: #ED318C;
 }
 
 #muse_css_mq
@@ -28,12 +28,12 @@
 	width: 0.01px;/* should not cover content below */
 }
 
-#pu1696-7
+#pu1696-6
 {
 	width: 0.01px;
 }
 
-#u1696-7
+#u1696-6
 {
 	z-index: 12;
 	width: 600px;
@@ -52,16 +52,11 @@
 	line-height: 30px;
 }
 
-#u1696-5
+#u1696-4
 {
 	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
-}
-
-#u1696-3
-{
-	text-decoration: none;
 }
 
 #u1955
@@ -76,12 +71,12 @@
 
 #u1768-6
 {
-	z-index: 20;
+	z-index: 19;
 	width: 600px;
 	min-height: 66px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -89,7 +84,7 @@
 
 #u1697
 {
-	z-index: 19;
+	z-index: 18;
 	width: 600px;
 	height: 325px;
 	position: relative;
@@ -103,8 +98,8 @@
 	width: 600px;
 	min-height: 71px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
