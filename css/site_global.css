@@ -171,6 +171,15 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: 400;
 }
 
+.Strike-through
+{
+	color: #FFFFFF;
+	font-family: bitter, serif;
+	font-size: 20px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
 .list0 li:before
 {
 	position: absolute;
