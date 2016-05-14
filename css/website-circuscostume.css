@@ -1,7 +1,7 @@
 .version.website_circuscostume /* version checker */
 {
-	color: #000008;
-	background-color: #7BBB66;
+	color: #0000F7;
+	background-color: #E2770C;
 }
 
 #muse_css_mq
@@ -28,12 +28,12 @@
 	width: 0.01px;/* should not cover content below */
 }
 
-#pu1733-6
+#pu1733-7
 {
 	width: 0.01px;
 }
 
-#u1733-6
+#u1733-7
 {
 	z-index: 13;
 	width: 600px;
@@ -52,7 +52,7 @@
 	font-weight: 400;
 }
 
-#u1733-4
+#u1733-5
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
@@ -74,7 +74,7 @@
 
 #u1791-6
 {
-	z-index: 20;
+	z-index: 21;
 	width: 600px;
 	min-height: 67px;
 	background-color: transparent;
@@ -87,7 +87,7 @@
 
 #u1734
 {
-	z-index: 19;
+	z-index: 20;
 	width: 600px;
 	height: 399px;
 	position: relative;
