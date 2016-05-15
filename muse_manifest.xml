@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1463211411523">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1463308958409">
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
     <file name="master_main.css" crc="4124882301" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:donate-thanks:portfolio:drawings"/>
@@ -16,8 +16,8 @@
     <file name="theme-simple-notepad.css" crc="4127749416" ref="theme-simple-notepad"/>
     <file name="iefonts_theme-simple-notepad.css" crc="134662897" ref="theme-simple-notepad"/>
     <file name="contact-thanks.css" crc="4178919979" ref="contact-thanks"/>
-    <file name="resume.css" crc="456894833" ref="resume"/>
-    <file name="iefonts_resume.css" crc="428233848" ref="resume"/>
+    <file name="resume.css" crc="292811520" ref="resume"/>
+    <file name="iefonts_resume.css" crc="3915039636" ref="resume"/>
     <file name="404.css" crc="404799576" ref="404"/>
     <file name="iefonts_404.css" crc="424137545" ref="404"/>
     <file name="website-vipmegastar.css" crc="416871560" ref="website-vipmegastar"/>
@@ -195,7 +195,7 @@
     <file name="circuscostumetk-2.jpg" crc="3870386307" ref="portfolio:website-circuscostume-2"/>
   </folder>
   <file name="index.html" crc="3787928425" seo="true" mt="1461337608338" redirect="true"/>
-  <file name="resume.html" crc="461047001" seo="true" mt="1462890236617" redirect="true"/>
+  <file name="resume.html" crc="4120062538" seo="true" mt="1463304117248" redirect="true"/>
   <file name="portfolio.html" crc="4128643266" seo="true" mt="1463211085159" redirect="true"/>
   <file name="about-me.html" crc="360521974" seo="true" mt="1461528200240" redirect="true"/>
   <file name="donate.html" crc="245424786" seo="true" mt="1461337608338" redirect="true"/>
