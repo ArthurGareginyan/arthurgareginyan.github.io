@@ -1,7 +1,7 @@
 .version.website_mycyberuniverse /* version checker */
 {
-	color: #0000F5;
-	background-color: #830967;
+	color: #00000D;
+	background-color: #C3A990;
 }
 
 #muse_css_mq
@@ -35,7 +35,7 @@
 
 #u1714-7
 {
-	z-index: 13;
+	z-index: 14;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -64,19 +64,33 @@
 	text-decoration: none;
 }
 
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 624px;
+}
+
 #u1955
 {
 	z-index: 2;
 	width: 50px;
 	min-height: 25px;
 	position: relative;
-	margin-right: -10000px;
-	left: 624px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 32px;
+	margin-top: 6px;
+	position: relative;
 }
 
 #u1773-6
 {
-	z-index: 21;
+	z-index: 22;
 	width: 600px;
 	min-height: 33px;
 	background-color: transparent;
@@ -89,7 +103,7 @@
 
 #u1712
 {
-	z-index: 20;
+	z-index: 21;
 	width: 600px;
 	height: 322px;
 	position: relative;
@@ -99,7 +113,7 @@
 
 #u1713-10
 {
-	z-index: 3;
+	z-index: 4;
 	width: 600px;
 	min-height: 42px;
 	background-color: transparent;

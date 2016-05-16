@@ -1,7 +1,7 @@
 .version.website_bizconsultinghub_com /* version checker */
 {
-	color: #00000E;
-	background-color: #BEB7C0;
+	color: #000000;
+	background-color: #601506;
 }
 
 #muse_css_mq
@@ -36,7 +36,7 @@
 
 #u9502-7
 {
-	z-index: 21;
+	z-index: 22;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -60,19 +60,33 @@
 	color: #FFFFFF;
 }
 
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 624px;
+}
+
 #u1955
 {
 	z-index: 2;
 	width: 50px;
 	min-height: 25px;
 	position: relative;
-	margin-right: -10000px;
-	left: 624px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 32px;
+	margin-top: 6px;
+	position: relative;
 }
 
 #u9503-6
 {
-	z-index: 28;
+	z-index: 29;
 	width: 600px;
 	min-height: 43px;
 	background-color: transparent;
@@ -85,7 +99,7 @@
 
 #u9567
 {
-	z-index: 42;
+	z-index: 43;
 	width: 600px;
 	background-color: transparent;
 	top: -6px;
@@ -95,7 +109,7 @@
 
 #u9501-18
 {
-	z-index: 3;
+	z-index: 4;
 	width: 600px;
 	min-height: 59px;
 	background-color: transparent;
@@ -119,7 +133,7 @@
 
 #u9514
 {
-	z-index: 34;
+	z-index: 35;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 13px;
@@ -128,7 +142,7 @@
 
 #u9544-4
 {
-	z-index: 38;
+	z-index: 39;
 	width: 600px;
 	min-height: 27px;
 	background-color: transparent;
@@ -143,7 +157,7 @@
 
 #u9524
 {
-	z-index: 36;
+	z-index: 37;
 	width: 600px;
 	background-color: transparent;
 	position: relative;

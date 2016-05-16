@@ -1,7 +1,7 @@
 .version.theme_simple_notepad /* version checker */
 {
-	color: #0000F6;
-	background-color: #087528;
+	color: #00000A;
+	background-color: #6F5E56;
 }
 
 #muse_css_mq
@@ -36,7 +36,7 @@
 
 #u6300-6
 {
-	z-index: 3;
+	z-index: 4;
 	width: 600px;
 	min-height: 63px;
 	background-color: transparent;
@@ -60,19 +60,33 @@
 	color: #FFFFFF;
 }
 
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 624px;
+}
+
 #u1955
 {
 	z-index: 2;
 	width: 50px;
 	min-height: 25px;
 	position: relative;
-	margin-right: -10000px;
-	left: 624px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 32px;
+	margin-top: 6px;
+	position: relative;
 }
 
 #u6316
 {
-	z-index: 77;
+	z-index: 78;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 30px;
@@ -81,7 +95,7 @@
 
 #u6299-68
 {
-	z-index: 9;
+	z-index: 10;
 	width: 600px;
 	min-height: 140px;
 	background-color: transparent;

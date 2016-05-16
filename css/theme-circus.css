@@ -1,7 +1,7 @@
 .version.theme_circus /* version checker */
 {
-	color: #0000F5;
-	background-color: #533D40;
+	color: #000012;
+	background-color: #37E4EC;
 }
 
 #muse_css_mq
@@ -35,7 +35,7 @@
 
 #u5542-6
 {
-	z-index: 3;
+	z-index: 4;
 	width: 599px;
 	min-height: 63px;
 	background-color: transparent;
@@ -59,19 +59,33 @@
 	color: #FFFFFF;
 }
 
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 624px;
+}
+
 #u1955
 {
 	z-index: 2;
 	width: 50px;
 	min-height: 25px;
 	position: relative;
-	margin-right: -10000px;
-	left: 624px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 32px;
+	margin-top: 6px;
+	position: relative;
 }
 
 #u6139
 {
-	z-index: 45;
+	z-index: 46;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 29px;
@@ -80,7 +94,7 @@
 
 #u6144
 {
-	z-index: 47;
+	z-index: 48;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 29px;
@@ -89,7 +103,7 @@
 
 #u6151
 {
-	z-index: 49;
+	z-index: 50;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 30px;
@@ -104,7 +118,7 @@
 
 #u5545-35
 {
-	z-index: 9;
+	z-index: 10;
 	width: 600px;
 	min-height: 94px;
 	background-color: transparent;
@@ -112,6 +126,7 @@
 	font-family: bitter, serif;
 	position: relative;
 	margin-right: -10000px;
+	left: 1px;
 }
 
 #u5545-18
@@ -149,7 +164,7 @@
 
 #u5546
 {
-	z-index: 44;
+	z-index: 45;
 	width: 155px;
 	min-height: 54px;
 	border-width: 0px;

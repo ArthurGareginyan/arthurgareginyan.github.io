@@ -1,7 +1,7 @@
 .version.theme_white_knight /* version checker */
 {
-	color: #0000FB;
-	background-color: #24E43D;
+	color: #000014;
+	background-color: #C75FA9;
 }
 
 #muse_css_mq
@@ -35,7 +35,7 @@
 
 #u1815-6
 {
-	z-index: 3;
+	z-index: 4;
 	width: 600px;
 	min-height: 63px;
 	background-color: transparent;
@@ -59,19 +59,33 @@
 	color: #FFFFFF;
 }
 
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 624px;
+}
+
 #u1955
 {
 	z-index: 2;
 	width: 50px;
 	min-height: 25px;
 	position: relative;
-	margin-right: -10000px;
-	left: 624px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 32px;
+	margin-top: 6px;
+	position: relative;
 }
 
 #u1818
 {
-	z-index: 46;
+	z-index: 47;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 10px;
@@ -86,7 +100,7 @@
 
 #u1814-37
 {
-	z-index: 9;
+	z-index: 10;
 	width: 600px;
 	min-height: 94px;
 	background-color: transparent;
@@ -136,7 +150,7 @@
 
 #u1829
 {
-	z-index: 48;
+	z-index: 49;
 	width: 155px;
 	min-height: 54px;
 	border-width: 0px;
