@@ -1,7 +1,7 @@
 .version.theme_simple_notepad /* version checker */
 {
-	color: #00000A;
-	background-color: #6F5E56;
+	color: #0000FA;
+	background-color: #1BE39E;
 }
 
 #muse_css_mq
@@ -84,12 +84,12 @@
 	position: relative;
 }
 
-#u6316
+#u9733
 {
 	z-index: 78;
 	width: 600px;
 	background-color: transparent;
-	margin-top: 30px;
+	margin-top: 34px;
 	position: relative;
 }
 
@@ -103,7 +103,7 @@
 	text-indent: 5px;
 	color: #000000;
 	font-family: bitter, serif;
-	margin-top: 44px;
+	margin-top: 40px;
 	position: relative;
 }
 
