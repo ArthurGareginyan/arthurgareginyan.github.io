@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #000008;
-	background-color: #60807C;
+	color: #0000FC;
+	background-color: #D385D5;
 }
 
 #muse_css_mq
@@ -455,7 +455,7 @@
 	min-height: 98px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 265px;
+	margin-top: 158px;
 	left: 810px;
 }
 
@@ -463,11 +463,11 @@
 {
 	z-index: 66;
 	width: 59px;
-	min-height: 34px;
+	min-height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 231px;
-	left: 827px;
+	margin-top: 272px;
+	left: 941px;
 }
 
 #u1250-37

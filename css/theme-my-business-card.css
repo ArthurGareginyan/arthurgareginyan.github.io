@@ -1,7 +1,7 @@
 .version.theme_my_business_card /* version checker */
 {
-	color: #0000F8;
-	background-color: #98A6C8;
+	color: #0000F4;
+	background-color: #C6A3D5;
 }
 
 #muse_css_mq
@@ -24,7 +24,7 @@
 
 #page_position_content
 {
-	padding-top: 13px;
+	padding-top: 8px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -44,6 +44,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u1881-2
@@ -59,28 +60,20 @@
 	color: #FFFFFF;
 }
 
-#pu1955
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 624px;
-}
-
 #u1955
 {
 	z-index: 2;
-	width: 50px;
-	min-height: 25px;
+	width: 67px;
+	min-height: 53px;
 	position: relative;
+	margin-right: -10000px;
+	left: 711px;
 }
 
-#u9697
+#pu1879
 {
-	z-index: 3;
-	width: 67px;
-	min-height: 32px;
-	margin-top: 6px;
-	position: relative;
+	width: 0.01px;
+	margin-top: 5px;
 }
 
 #u1879
@@ -88,17 +81,28 @@
 	z-index: 4;
 	width: 600px;
 	background-color: transparent;
-	margin-top: 34px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
 }
 
-#pu1882-36
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	left: 711px;
+}
+
+#pu1882-34
 {
 	width: 0.01px;
-	margin-top: 36px;
+	margin-top: 35px;
 }
 
-#u1882-36
+#u1882-34
 {
 	z-index: 12;
 	width: 600px;
@@ -110,33 +114,33 @@
 	margin-right: -10000px;
 }
 
-#u1882-21
+#u1882-19
 {
 	font-size: 16px;
 	line-height: 19px;
 	font-weight: 700;
 }
 
-#u1882-2,#u1882-8,#u1882-20,#u1882-27
+#u1882-2,#u1882-8,#u1882-18,#u1882-25
 {
 	font-size: 20px;
 	line-height: 24px;
 	font-weight: 700;
 }
 
-#u1882-9,#u1882-28
+#u1882-9,#u1882-26
 {
 	font-size: 20px;
 	line-height: 24px;
 	font-weight: 400;
 }
 
-#u1882-29,#u1882-32
+#u1882-27,#u1882-30
 {
 	font-size: 16px;
 }
 
-#u1882-3,#u1882-5,#u1882-6,#u1882-11,#u1882-12,#u1882-13,#u1882-14,#u1882-16,#u1882-17,#u1882-18,#u1882-23,#u1882-24,#u1882-25,#u1882-30,#u1882-31,#u1882-33,#u1882-34
+#u1882-3,#u1882-5,#u1882-6,#u1882-10,#u1882-11,#u1882-12,#u1882-14,#u1882-15,#u1882-16,#u1882-21,#u1882-22,#u1882-23,#u1882-28,#u1882-29,#u1882-31,#u1882-32
 {
 	font-size: 16px;
 	line-height: 19px;
@@ -145,7 +149,7 @@
 
 #u1876
 {
-	z-index: 48;
+	z-index: 46;
 	width: 155px;
 	min-height: 54px;
 	border-width: 0px;
@@ -153,12 +157,12 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 169px;
+	margin-top: 142px;
 }
 
 .html
 {
-	background-color: #5FBDE2;
+	background-color: #B2DAFF;
 }
 
 body

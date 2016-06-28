@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
-	color: #0000FA;
-	background-color: #B46AF3;
+	color: #00000D;
+	background-color: #EC4923;
 }
 
 #muse_css_mq
@@ -25,7 +25,7 @@
 
 #page_position_content
 {
-	padding-top: 13px;
+	padding-top: 8px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -45,6 +45,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u1609-2
@@ -60,28 +61,20 @@
 	color: #FFFFFF;
 }
 
-#pu1955
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 625px;
-}
-
 #u1955
 {
 	z-index: 2;
-	width: 50px;
-	min-height: 25px;
+	width: 67px;
+	min-height: 53px;
 	position: relative;
+	margin-right: -10000px;
+	left: 712px;
 }
 
-#u9697
+#pu6232
 {
-	z-index: 3;
-	width: 67px;
-	min-height: 32px;
-	margin-top: 6px;
-	position: relative;
+	width: 0.01px;
+	margin-top: 5px;
 }
 
 #u6232
@@ -89,8 +82,19 @@
 	z-index: 78;
 	width: 600px;
 	background-color: transparent;
-	margin-top: 34px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	left: 711px;
 }
 
 #u1610-68
@@ -103,7 +107,7 @@
 	text-indent: 5px;
 	color: #000000;
 	font-family: bitter, serif;
-	margin-top: 24px;
+	margin-top: 23px;
 	position: relative;
 }
 
@@ -129,7 +133,7 @@
 
 .html
 {
-	background-color: #5FBDE2;
+	background-color: #B2DAFF;
 }
 
 body

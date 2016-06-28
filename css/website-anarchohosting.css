@@ -1,7 +1,7 @@
 .version.website_anarchohosting /* version checker */
 {
-	color: #0000FB;
-	background-color: #9B12AA;
+	color: #0000F1;
+	background-color: #F32682;
 }
 
 #muse_css_mq
@@ -24,13 +24,8 @@
 
 #page_position_content
 {
-	padding-top: 13px;
+	padding-top: 8px;
 	width: 0.01px;/* should not cover content below */
-}
-
-#pu1696-6
-{
-	width: 0.01px;
 }
 
 #u1696-6
@@ -44,6 +39,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u1696-2
@@ -59,28 +55,19 @@
 	color: #FFFFFF;
 }
 
-#pu1955
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 624px;
-}
-
 #u1955
 {
 	z-index: 2;
-	width: 50px;
-	min-height: 25px;
+	width: 67px;
+	min-height: 53px;
 	position: relative;
+	margin-right: -10000px;
+	left: 711px;
 }
 
-#u9697
+#pu1696-6,#pu1768-6
 {
-	z-index: 3;
-	width: 67px;
-	min-height: 32px;
-	margin-top: 6px;
-	position: relative;
+	width: 0.01px;
 }
 
 #u1768-6
@@ -94,6 +81,18 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 711px;
 }
 
 #u1697
@@ -126,7 +125,7 @@
 
 .html
 {
-	background-color: #5FBDE2;
+	background-color: #B2DAFF;
 }
 
 body

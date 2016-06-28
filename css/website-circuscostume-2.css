@@ -1,7 +1,7 @@
 .version.website_circuscostume_2 /* version checker */
 {
-	color: #0000E9;
-	background-color: #46FF4B;
+	color: #0000EB;
+	background-color: #F77648;
 }
 
 #muse_css_mq
@@ -25,13 +25,8 @@
 
 #page_position_content
 {
-	padding-top: 13px;
+	padding-top: 8px;
 	width: 0.01px;/* should not cover content below */
-}
-
-#pu9626-7
-{
-	width: 0.01px;
 }
 
 #u9626-7
@@ -45,6 +40,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u9626-2
@@ -60,28 +56,19 @@
 	color: #FFFFFF;
 }
 
-#pu1955
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 624px;
-}
-
 #u1955
 {
 	z-index: 2;
-	width: 50px;
-	min-height: 25px;
+	width: 67px;
+	min-height: 53px;
 	position: relative;
+	margin-right: -10000px;
+	left: 711px;
 }
 
-#u9697
+#pu9626-7,#pu9625-6
 {
-	z-index: 3;
-	width: 67px;
-	min-height: 32px;
-	margin-top: 6px;
-	position: relative;
+	width: 0.01px;
 }
 
 #u9625-6
@@ -95,6 +82,18 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 711px;
 }
 
 #u9670
@@ -130,7 +129,7 @@
 
 .html
 {
-	background-color: #5FBDE2;
+	background-color: #B2DAFF;
 }
 
 body

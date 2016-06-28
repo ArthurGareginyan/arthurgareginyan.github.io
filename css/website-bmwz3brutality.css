@@ -1,7 +1,7 @@
 .version.website_bmwz3brutality /* version checker */
 {
-	color: #0000EF;
-	background-color: #8A20A2;
+	color: #0000E1;
+	background-color: #711C0D;
 }
 
 #muse_css_mq
@@ -25,13 +25,8 @@
 
 #page_position_content
 {
-	padding-top: 13px;
+	padding-top: 8px;
 	width: 0.01px;/* should not cover content below */
-}
-
-#pu1678-7
-{
-	width: 0.01px;
 }
 
 #u1678-7
@@ -45,6 +40,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u1678-2
@@ -65,28 +61,19 @@
 	text-decoration: none;
 }
 
-#pu1955
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 624px;
-}
-
 #u1955
 {
 	z-index: 2;
-	width: 50px;
-	min-height: 25px;
+	width: 67px;
+	min-height: 53px;
 	position: relative;
+	margin-right: -10000px;
+	left: 711px;
 }
 
-#u9697
+#pu1678-7,#pu1769-6
 {
-	z-index: 3;
-	width: 67px;
-	min-height: 32px;
-	margin-top: 6px;
-	position: relative;
+	width: 0.01px;
 }
 
 #u1769-6
@@ -100,6 +87,18 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 711px;
 }
 
 #u1676
@@ -107,7 +106,8 @@
 	z-index: 24;
 	width: 600px;
 	height: 309px;
-	margin-top: 1px;
+	top: -2px;
+	margin-bottom: -2px;
 	position: relative;
 	background: transparent url("../images/bmwz3brutality.jpg") no-repeat center top;
 	background-size: cover;
@@ -133,7 +133,7 @@
 
 .html
 {
-	background-color: #5FBDE2;
+	background-color: #B2DAFF;
 }
 
 body

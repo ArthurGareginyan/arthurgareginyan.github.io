@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #0000E3;
-	background-color: #BF01F1;
+	color: #0000FF;
+	background-color: #EAD76D;
 }
 
 #muse_css_mq
@@ -453,7 +453,7 @@
 	min-height: 98px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 257px;
+	margin-top: 150px;
 	left: 810px;
 }
 
@@ -461,14 +461,14 @@
 {
 	z-index: 66;
 	width: 59px;
-	min-height: 34px;
+	min-height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 223px;
-	left: 827px;
+	margin-top: 264px;
+	left: 941px;
 }
 
-#u1225-25
+#u1225-21
 {
 	z-index: 67;
 	width: 898px;
@@ -483,7 +483,7 @@
 	margin-top: 28px;
 }
 
-#u1225-17
+#u1225-13
 {
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -491,7 +491,7 @@
 
 #u1235
 {
-	z-index: 92;
+	z-index: 88;
 	width: 118px;
 	min-height: 33px;
 	border-width: 0px;
@@ -499,15 +499,15 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 259px;
-	left: 133px;
+	margin-top: 221px;
+	left: 130px;
 }
 
 #pu1125
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 161px;
+	margin-top: 165px;
 }
 
 #u1125

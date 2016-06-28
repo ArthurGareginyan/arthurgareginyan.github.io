@@ -1,7 +1,7 @@
 .version.website_karolinaray /* version checker */
 {
-	color: #0000E2;
-	background-color: #D0DFBD;
+	color: #000006;
+	background-color: #E69751;
 }
 
 #muse_css_mq
@@ -24,13 +24,8 @@
 
 #page_position_content
 {
-	padding-top: 13px;
+	padding-top: 8px;
 	width: 0.01px;/* should not cover content below */
-}
-
-#pu1721-7
-{
-	width: 0.01px;
 }
 
 #u1721-7
@@ -44,6 +39,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u1721-2
@@ -64,28 +60,19 @@
 	text-decoration: none;
 }
 
-#pu1955
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 624px;
-}
-
 #u1955
 {
 	z-index: 2;
-	width: 50px;
-	min-height: 25px;
+	width: 67px;
+	min-height: 53px;
 	position: relative;
+	margin-right: -10000px;
+	left: 711px;
 }
 
-#u9697
+#pu1721-7,#pu1781-6
 {
-	z-index: 3;
-	width: 67px;
-	min-height: 32px;
-	margin-top: 6px;
-	position: relative;
+	width: 0.01px;
 }
 
 #u1781-6
@@ -99,6 +86,18 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 711px;
 }
 
 #u1723
@@ -106,6 +105,8 @@
 	z-index: 27;
 	width: 600px;
 	height: 330px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
 	background: transparent url("../images/karolinaraytk%20(home).jpg") no-repeat left top;
 	background-size: contain;
@@ -137,7 +138,7 @@
 
 .html
 {
-	background-color: #5FBDE2;
+	background-color: #B2DAFF;
 }
 
 body

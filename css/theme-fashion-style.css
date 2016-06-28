@@ -1,7 +1,7 @@
 .version.theme_fashion_style /* version checker */
 {
-	color: #00001D;
-	background-color: #CE8F01;
+	color: #0000E2;
+	background-color: #979C6D;
 }
 
 #muse_css_mq
@@ -24,7 +24,7 @@
 
 #page_position_content
 {
-	padding-top: 13px;
+	padding-top: 8px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -44,6 +44,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u1457-2
@@ -59,28 +60,20 @@
 	color: #FFFFFF;
 }
 
-#pu1955
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 624px;
-}
-
 #u1955
 {
 	z-index: 2;
-	width: 50px;
-	min-height: 25px;
+	width: 67px;
+	min-height: 53px;
 	position: relative;
+	margin-right: -10000px;
+	left: 711px;
 }
 
-#u9697
+#pu1454
 {
-	z-index: 3;
-	width: 67px;
-	min-height: 32px;
-	margin-top: 6px;
-	position: relative;
+	width: 0.01px;
+	margin-top: 5px;
 }
 
 #u1454
@@ -88,17 +81,28 @@
 	z-index: 4;
 	width: 600px;
 	background-color: transparent;
-	margin-top: 39px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
 }
 
-#pu1835-35
+#u9697
+{
+	z-index: 3;
+	width: 67px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	left: 711px;
+}
+
+#pu1835-33
 {
 	width: 0.01px;
-	margin-top: 31px;
+	margin-top: 30px;
 }
 
-#u1835-35
+#u1835-33
 {
 	z-index: 12;
 	width: 599px;
@@ -110,42 +114,42 @@
 	margin-right: -10000px;
 }
 
-#u1835-21
+#u1835-19
 {
 	font-size: 16px;
 	line-height: 19px;
 	font-weight: 700;
 }
 
-#u1835-2,#u1835-8,#u1835-20,#u1835-27
+#u1835-2,#u1835-8,#u1835-18,#u1835-25
 {
 	font-size: 20px;
 	line-height: 24px;
 	font-weight: 700;
 }
 
-#u1835-9,#u1835-28
+#u1835-9,#u1835-26
 {
 	font-size: 20px;
 	line-height: 24px;
 	font-weight: 400;
 }
 
-#u1835-3,#u1835-5,#u1835-6,#u1835-11,#u1835-12,#u1835-13,#u1835-14,#u1835-16,#u1835-17,#u1835-18,#u1835-23,#u1835-24,#u1835-25,#u1835-30,#u1835-31,#u1835-33
+#u1835-3,#u1835-5,#u1835-6,#u1835-10,#u1835-11,#u1835-12,#u1835-14,#u1835-15,#u1835-16,#u1835-21,#u1835-22,#u1835-23,#u1835-28,#u1835-29,#u1835-31
 {
 	font-size: 16px;
 	line-height: 19px;
 	font-weight: 400;
 }
 
-#u1835-29,#u1835-32
+#u1835-27,#u1835-30
 {
 	font-size: 16px;
 }
 
 #u1836
 {
-	z-index: 47;
+	z-index: 45;
 	width: 155px;
 	min-height: 54px;
 	border-width: 0px;
@@ -153,12 +157,12 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 169px;
+	margin-top: 140px;
 }
 
 .html
 {
-	background-color: #5FBDE2;
+	background-color: #B2DAFF;
 }
 
 body

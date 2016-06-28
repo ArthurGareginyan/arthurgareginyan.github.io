@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000ED;
-	background-color: #2BDEBD;
+	color: #0000EA;
+	background-color: #7731FD;
 }
 
 #muse_css_mq
@@ -419,11 +419,58 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu1896
+#pu425
 {
 	width: 0.01px;
 	margin-left: 89px;
 	margin-top: 16px;
+}
+
+#u425
+{
+	z-index: 2;
+	width: 20px;
+	padding-bottom: 58px;
+	position: relative;
+	margin-right: -10000px;
+	left: 853px;
+}
+
+#u426-5
+{
+	z-index: 3;
+	position: relative;
+	width: 130px;
+	margin-right: -10000px;
+	margin-top: 59px;
+	left: -55px;
+}
+
+#u2571
+{
+	z-index: 65;
+	width: 210px;
+	min-height: 98px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 150px;
+	left: 743px;
+}
+
+#u1290-7
+{
+	z-index: 88;
+	width: 580px;
+	min-height: 123px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 84px;
+	left: 213px;
 }
 
 #u1896
@@ -455,72 +502,22 @@
 	background-size: cover;
 }
 
-#pu1290-7
+#pu9685
 {
 	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 84px;
-	margin-left: 213px;
-}
-
-#u1290-7
-{
-	z-index: 88;
-	width: 580px;
-	min-height: 123px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
+	margin-left: 22px;
+	margin-top: 10px;
 }
 
 #u9685
 {
 	z-index: 66;
 	width: 59px;
-	min-height: 34px;
-	margin-left: 547px;
-	margin-top: 16px;
-	position: relative;
-}
-
-#u425
-{
-	z-index: 2;
-	width: 20px;
-	padding-bottom: 58px;
+	min-height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	left: 853px;
-}
-
-#u426-5
-{
-	z-index: 3;
-	position: relative;
-	width: 130px;
-	margin-right: -10000px;
-	margin-top: 59px;
-	left: -55px;
-}
-
-#pu2571
-{
-	width: 0.01px;
-	margin-left: 22px;
-}
-
-#u2571
-{
-	z-index: 65;
-	width: 210px;
-	min-height: 98px;
-	position: relative;
-	margin-right: -10000px;
-	left: 810px;
+	margin-top: 6px;
+	left: 941px;
 }
 
 #u1254-19
@@ -532,7 +529,6 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
 }
 
 #u1254-2
@@ -575,7 +571,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 269px;
+	margin-top: 268px;
 	left: 513px;
 }
 
