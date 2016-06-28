@@ -5,11 +5,6 @@ My personal website hosted on GitHub.
 [![screenshot](https://github.com/ArthurGareginyan/authors-notepad/blob/master/screenshot.png)]()
 
 
-## License
-
-This website licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html).
-
-
 ## Author
 
 Arthur Garegnyan aka Berserkr
@@ -20,7 +15,7 @@ Arthur Garegnyan aka Berserkr
 
 * My Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
 
-* [Donation Page](http://www.arthurgareginyan.com/donate.html)
+* Donation Page: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
 
 
 ---
@@ -31,4 +26,3 @@ Arthur Garegnyan aka Berserkr
 [![CSS3](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-64.png)]()
 [![JS](https://dl.dropboxusercontent.com/s/zumy31fjzyj4p6z/JavaScript.png)]()
 [![JQuery](https://dl.dropboxusercontent.com/s/dh75pqw99jhga8c/jQurery.png)]()
-[![License](http://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.html)
