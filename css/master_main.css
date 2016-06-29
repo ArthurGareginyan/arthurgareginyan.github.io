@@ -443,19 +443,6 @@
 	cursor: pointer;
 }
 
-#u426-5
-{
-	-webkit-transform: matrix(0,-1,1,0,58,79);
-	-ms-transform: matrix(0,-1,1,0,58,79);
-	transform: matrix(0,-1,1,0,58,79);
-}
-
-#u426-5_img
-{
-	display: block;
-	vertical-align: top;
-}
-
 #u1070,#u1125
 {
 	background: #000000 url("../images/black_denim.jpg") repeat center top;
@@ -484,7 +471,7 @@
 	background-color: transparent;
 }
 
-#u10715
+#u10761,#u10794,#u10715
 {
 	background-color: transparent;
 }
