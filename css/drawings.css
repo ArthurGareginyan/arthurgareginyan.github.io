@@ -1,7 +1,7 @@
 .version.drawings /* version checker */
 {
-	color: #0000F9;
-	background-color: #B16ABB;
+	color: #000007;
+	background-color: #8B286F;
 }
 
 #muse_css_mq
@@ -477,14 +477,13 @@
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 4px;
+	margin-top: 10px;
 }
 
 #pu6349
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 6px;
 }
 
 #u6349
@@ -524,6 +523,7 @@
 	width: 45px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 2px;
 	left: 913px;
 }
 

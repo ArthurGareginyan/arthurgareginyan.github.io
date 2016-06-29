@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #000013;
-	background-color: #487BFB;
+	color: #0000FB;
+	background-color: #732DA6;
 }
 
 #muse_css_mq
@@ -477,7 +477,7 @@
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 4px;
+	margin-top: 12px;
 }
 
 #u2571
@@ -487,7 +487,7 @@
 	min-height: 98px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 146px;
+	margin-top: 138px;
 	left: 810px;
 }
 
@@ -498,7 +498,7 @@
 	min-height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 260px;
+	margin-top: 252px;
 	left: 941px;
 }
 
@@ -520,7 +520,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 19px;
+	margin-top: 11px;
 }
 
 #u1253-2

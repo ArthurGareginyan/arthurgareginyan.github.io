@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000014;
-	background-color: #BD3139;
+	color: #0000E7;
+	background-color: #1EBC91;
 }
 
 #muse_css_mq
@@ -477,14 +477,13 @@
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 4px;
+	margin-top: 10px;
 }
 
 #pu1424
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 6px;
 }
 
 #u1424
@@ -524,6 +523,7 @@
 	width: 45px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 2px;
 	left: 913px;
 }
 
