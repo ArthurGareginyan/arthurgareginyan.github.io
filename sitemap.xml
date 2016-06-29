@@ -559,6 +559,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.arthurgareginyan.com/images/follow-me.png</loc>
+    <lastmod>2016-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.arthurgareginyan.com/index.html</loc>
     <lastmod>2016-06-29</lastmod>
     <changefreq>weekly</changefreq>

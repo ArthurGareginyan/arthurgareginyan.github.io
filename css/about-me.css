@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #00001B;
-	background-color: #22CFC6;
+	color: #00001E;
+	background-color: #577F00;
 }
 
 #muse_css_mq
@@ -23,7 +23,6 @@
 
 #page_position_content
 {
-	padding-bottom: 1px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -492,7 +491,7 @@
 
 #u1290-7
 {
-	z-index: 87;
+	z-index: 89;
 	width: 580px;
 	min-height: 123px;
 	background-color: transparent;
@@ -508,7 +507,7 @@
 
 #u1896
 {
-	z-index: 145;
+	z-index: 147;
 	width: 190px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -521,7 +520,7 @@
 
 #u1292
 {
-	z-index: 146;
+	z-index: 148;
 	width: 181px;
 	height: 180px;
 	border-radius: 125px;
@@ -555,7 +554,7 @@
 
 #u1254-19
 {
-	z-index: 66;
+	z-index: 68;
 	width: 898px;
 	background-color: transparent;
 	font-family: bitter, serif;
@@ -599,7 +598,7 @@
 
 #u1267
 {
-	z-index: 85;
+	z-index: 87;
 	width: 41px;
 	background-color: transparent;
 	position: relative;
@@ -610,7 +609,7 @@
 
 #u1351-51
 {
-	z-index: 94;
+	z-index: 96;
 	width: 898px;
 	min-height: 78px;
 	background-color: transparent;
@@ -643,7 +642,7 @@
 
 #u1961-28
 {
-	z-index: 147;
+	z-index: 149;
 	width: 898px;
 	min-height: 81px;
 	background-color: transparent;
@@ -674,7 +673,7 @@
 #pu1125
 {
 	width: 0.01px;
-	margin-left: -100px;
+	margin-left: -47px;
 }
 
 #u1125
@@ -683,12 +682,12 @@
 	width: 943px;
 	position: relative;
 	margin-right: -10000px;
-	left: 100px;
+	left: 47px;
 }
 
 #u1125_position_content
 {
-	margin-bottom: -12px;
+	margin-bottom: -33px;
 	width: 100%;
 }
 
@@ -717,11 +716,20 @@
 	position: relative;
 }
 
+#u10715
+{
+	z-index: 66;
+	width: 69px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 68px;
+}
+
 #u109
 {
 	z-index: 59;
 	min-height: 51px;
-	padding-bottom: 13px;
+	padding-bottom: 14px;
 }
 
 #u109:active
@@ -773,7 +781,6 @@
 {
 	z-index: 59;
 	min-height: 51px;
-	margin-top: 136px;
 }
 
 .html

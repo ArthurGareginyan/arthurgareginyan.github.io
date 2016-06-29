@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001F;
-	background-color: #AF4960;
+	color: #0000E2;
+	background-color: #D8DB11;
 }
 
 #muse_css_mq
@@ -23,7 +23,6 @@
 
 #page_position_content
 {
-	padding-bottom: 1px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -492,7 +491,7 @@
 
 #u410-10
 {
-	z-index: 66;
+	z-index: 68;
 	width: 662px;
 	min-height: 143px;
 	background-color: transparent;
@@ -510,7 +509,7 @@
 
 #u1894
 {
-	z-index: 117;
+	z-index: 119;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -525,7 +524,7 @@
 
 #u435
 {
-	z-index: 118;
+	z-index: 120;
 	width: 199px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -538,7 +537,7 @@
 
 #u437
 {
-	z-index: 119;
+	z-index: 121;
 	width: 189px;
 	height: 189px;
 	border-radius: 125px;
@@ -567,7 +566,7 @@
 
 #u416
 {
-	z-index: 79;
+	z-index: 81;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -582,7 +581,7 @@
 
 #u422-5
 {
-	z-index: 97;
+	z-index: 99;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -607,7 +606,7 @@
 
 #u412
 {
-	z-index: 76;
+	z-index: 78;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -621,7 +620,7 @@
 
 #u419-5
 {
-	z-index: 82;
+	z-index: 84;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -644,7 +643,7 @@
 
 #u417
 {
-	z-index: 80;
+	z-index: 82;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -659,7 +658,7 @@
 
 #u423-7
 {
-	z-index: 102;
+	z-index: 104;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -674,7 +673,7 @@
 
 #u415
 {
-	z-index: 78;
+	z-index: 80;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -689,7 +688,7 @@
 
 #u420-5
 {
-	z-index: 87;
+	z-index: 89;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -719,7 +718,7 @@
 
 #u418
 {
-	z-index: 81;
+	z-index: 83;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -734,7 +733,7 @@
 
 #u424-8
 {
-	z-index: 109;
+	z-index: 111;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -754,7 +753,7 @@
 
 #u414
 {
-	z-index: 77;
+	z-index: 79;
 	width: 371px;
 	height: 19px;
 	border-style: solid;
@@ -769,7 +768,7 @@
 
 #u421-5
 {
-	z-index: 92;
+	z-index: 94;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -790,7 +789,7 @@
 #pu1125
 {
 	width: 0.01px;
-	margin-left: -100px;
+	margin-left: -47px;
 	margin-top: 94px;
 }
 
@@ -800,12 +799,12 @@
 	width: 943px;
 	position: relative;
 	margin-right: -10000px;
-	left: 100px;
+	left: 47px;
 }
 
 #u1125_position_content
 {
-	margin-bottom: -12px;
+	margin-bottom: -33px;
 	width: 100%;
 }
 
@@ -834,11 +833,20 @@
 	position: relative;
 }
 
+#u10715
+{
+	z-index: 66;
+	width: 69px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 68px;
+}
+
 #u109
 {
 	z-index: 59;
 	min-height: 50px;
-	padding-bottom: 14px;
+	padding-bottom: 15px;
 }
 
 #u109:active
@@ -890,7 +898,6 @@
 {
 	z-index: 59;
 	min-height: 50px;
-	margin-top: 136px;
 }
 
 .html
