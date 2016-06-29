@@ -491,6 +491,8 @@
 
 #u109
 {
+	-pie-box-shadow: 4px -7px 6px #B2B2B2;
+	box-shadow: 4px -7px 6px rgba(0,0,0,0.3);
 	border-style: solid;
 	border-color: #7F7F7F;
 	border-width: 1px 0px 0px;
