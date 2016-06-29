@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #0000F4;
-	background-color: #313E2B;
+	color: #00001C;
+	background-color: #1403AF;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 682.95px;
+	min-height: 682.694538327298px;
 	border-width: 0px;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -24,6 +24,7 @@
 
 #page_position_content
 {
+	margin-bottom: -28px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -581,7 +582,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 41px;
+	padding-bottom: 81px;
 	width: 100%;
 }
 
@@ -605,9 +606,8 @@
 {
 	z-index: 58;
 	width: 995px;
-	min-height: 67px;
+	min-height: 102px;
 	left: -16px;
-	margin-top: 59px;
 	position: relative;
 }
 

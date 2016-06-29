@@ -1,7 +1,7 @@
 .version.drawings /* version checker */
 {
-	color: #000018;
-	background-color: #79C610;
+	color: #00000B;
+	background-color: #89C950;
 }
 
 #muse_css_mq
@@ -13,10 +13,10 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 682.6249999999995px;
+	min-height: 682.3695383272975px;
 	border-width: 0px;
 	border-color: #000000;
-	padding-bottom: 0px;
+	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
@@ -24,6 +24,7 @@
 
 #page_position_content
 {
+	margin-bottom: -29px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -2666,7 +2667,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 41px;
+	padding-bottom: 81px;
 	width: 100%;
 }
 
@@ -2690,9 +2691,8 @@
 {
 	z-index: 58;
 	width: 995px;
-	min-height: 67px;
+	min-height: 102px;
 	left: -16px;
-	margin-top: 59px;
 	position: relative;
 }
 

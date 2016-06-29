@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #0000E9;
-	background-color: #FE1A00;
+	color: #0000EA;
+	background-color: #CFF4F6;
 }
 
 #muse_css_mq
@@ -23,6 +23,7 @@
 
 #page_position_content
 {
+	margin-bottom: -28px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -519,7 +520,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 193px;
+	margin-top: 181px;
 }
 
 #u1125
@@ -533,7 +534,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 41px;
+	padding-bottom: 81px;
 	width: 100%;
 }
 
@@ -557,9 +558,8 @@
 {
 	z-index: 58;
 	width: 995px;
-	min-height: 67px;
+	min-height: 102px;
 	left: -16px;
-	margin-top: 59px;
 	position: relative;
 }
 

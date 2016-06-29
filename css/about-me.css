@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000F9;
-	background-color: #B27E94;
+	color: #0000FD;
+	background-color: #B3D41B;
 }
 
 #muse_css_mq
@@ -23,6 +23,7 @@
 
 #page_position_content
 {
+	margin-bottom: -28px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -687,7 +688,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 41px;
+	padding-bottom: 81px;
 	width: 100%;
 }
 
@@ -711,9 +712,8 @@
 {
 	z-index: 58;
 	width: 995px;
-	min-height: 67px;
+	min-height: 102px;
 	left: -16px;
-	margin-top: 59px;
 	position: relative;
 }
 

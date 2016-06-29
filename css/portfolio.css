@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000010;
-	background-color: #F90AD3;
+	color: #0000E2;
+	background-color: #389F01;
 }
 
 #muse_css_mq
@@ -13,9 +13,10 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 683px;
+	min-height: 682.744538327298px;
 	border-width: 0px;
 	border-color: #000000;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
@@ -23,6 +24,7 @@
 
 #page_position_content
 {
+	margin-bottom: -28px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -2243,7 +2245,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 41px;
+	padding-bottom: 81px;
 	width: 100%;
 }
 
@@ -2267,9 +2269,8 @@
 {
 	z-index: 58;
 	width: 995px;
-	min-height: 67px;
+	min-height: 102px;
 	left: -16px;
-	margin-top: 59px;
 	position: relative;
 }
 

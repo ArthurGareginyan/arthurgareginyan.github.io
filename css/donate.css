@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #0000E8;
-	background-color: #71F9EE;
+	color: #000004;
+	background-color: #31E17F;
 }
 
 #muse_css_mq
@@ -23,6 +23,7 @@
 
 #page_position_content
 {
+	margin-bottom: -28px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -539,7 +540,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 165px;
+	margin-top: 153px;
 }
 
 #u1125
@@ -553,7 +554,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 41px;
+	padding-bottom: 81px;
 	width: 100%;
 }
 
@@ -577,9 +578,8 @@
 {
 	z-index: 58;
 	width: 995px;
-	min-height: 67px;
+	min-height: 102px;
 	left: -16px;
-	margin-top: 59px;
 	position: relative;
 }
 
