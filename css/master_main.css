@@ -1,5 +1,8 @@
 #u1074-4
 {
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 	background-color: transparent;
 	line-height: 35px;
 	color: #0092C4;
@@ -35,14 +38,16 @@
 
 #u1114:hover
 {
-	border-width: 0px;
-	border-color: #000000;
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 0px 0px 2px;
 }
 
 #u1114:active
 {
-	border-width: 0px;
-	border-color: #000000;
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 0px 0px 2px;
 }
 
 #u1115-4
@@ -75,6 +80,13 @@
 	background-color: transparent;
 }
 
+#u1114.MuseMenuActive,#u1105:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 0px 0px 2px;
+}
+
 #u1106-4
 {
 	border-width: 0px;
@@ -103,6 +115,13 @@
 #u1083,#u1086
 {
 	background-color: transparent;
+}
+
+#u1105.MuseMenuActive,#u1086:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 0px 0px 2px;
 }
 
 #u1087-4
@@ -135,6 +154,13 @@
 	background-color: transparent;
 }
 
+#u1086.MuseMenuActive,#u1093:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 0px 0px 2px;
+}
+
 #u1095-4
 {
 	border-width: 0px;
@@ -163,6 +189,13 @@
 #u9329,#u9330
 {
 	background-color: transparent;
+}
+
+#u1093.MuseMenuActive,#u9330:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 0px 0px 2px;
 }
 
 #u9332-4
@@ -195,6 +228,13 @@
 	background-color: transparent;
 }
 
+#u9330.MuseMenuActive,#u1195:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 0px 0px 2px;
+}
+
 #u1196-4
 {
 	border-width: 0px;
@@ -225,7 +265,14 @@
 	background-color: transparent;
 }
 
-#u1114.MuseMenuActive,#u1105.MuseMenuActive,#u1086.MuseMenuActive,#u1093.MuseMenuActive,#u9330.MuseMenuActive,#u1195.MuseMenuActive,#u1100.MuseMenuActive
+#u1195.MuseMenuActive,#u1100:hover
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-width: 0px 0px 2px;
+}
+
+#u1100.MuseMenuActive
 {
 	border-style: solid;
 	border-color: #7F7F7F;
@@ -268,22 +315,11 @@
 	cursor: pointer;
 }
 
-#u425
-{
-	-pie-box-shadow: 6px 6px 8px #7F7F7F;
-	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	border-style: solid;
-	border-color: #000000;
-	background-color: #FFFFFF;
-	border-radius: 0px 5px 5px 0px ;
-	border-width: 0px 0px 0px 1px;
-}
-
 #u426-5
 {
-	-webkit-transform: matrix(0,-1,1,0,55,75);
-	-ms-transform: matrix(0,-1,1,0,55,75);
-	transform: matrix(0,-1,1,0,55,75);
+	-webkit-transform: matrix(0,-1,1,0,58,79);
+	-ms-transform: matrix(0,-1,1,0,58,79);
+	transform: matrix(0,-1,1,0,58,79);
 }
 
 #u426-5_img
