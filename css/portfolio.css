@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000E2;
-	background-color: #389F01;
+	color: #0000F6;
+	background-color: #95FAC6;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 682.744538327298px;
+	min-height: 682.943299594454px;
 	border-width: 0px;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -24,7 +24,7 @@
 
 #page_position_content
 {
-	margin-bottom: -28px;
+	padding-bottom: 1px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -2245,7 +2245,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 81px;
+	margin-bottom: -12px;
 	width: 100%;
 }
 
@@ -2330,7 +2330,7 @@
 {
 	z-index: 59;
 	min-height: 51px;
-	margin-top: 137px;
+	margin-top: 136px;
 }
 
 .html

@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000007;
-	background-color: #252087;
+	color: #00001A;
+	background-color: #65C039;
 }
 
 #muse_css_mq
@@ -23,7 +23,7 @@
 
 #page_position_content
 {
-	margin-bottom: -28px;
+	padding-bottom: 1px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -554,7 +554,7 @@
 
 #u1125_position_content
 {
-	padding-bottom: 81px;
+	margin-bottom: -12px;
 	width: 100%;
 }
 
