@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1467213507365">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1467213631078">
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
     <file name="master_main.css" crc="71508578" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success"/>
@@ -30,7 +30,7 @@
     <file name="iefonts_theme-anarcho-notepad.css" crc="3797816703" ref="theme-anarcho-notepad"/>
     <file name="theme-my-business-card.css" crc="4106658773" ref="theme-my-business-card"/>
     <file name="iefonts_theme-my-business-card.css" crc="407569030" ref="theme-my-business-card"/>
-    <file name="index.css" crc="259677649" ref="index"/>
+    <file name="index.css" crc="3979863796" ref="index"/>
     <file name="theme-authors-notepad.css" crc="233589027" ref="theme-authors-notepad"/>
     <file name="iefonts_theme-authors-notepad.css" crc="4271212339" ref="theme-authors-notepad"/>
     <file name="website-arthurgareginyan.css" crc="295466983" ref="website-arthurgareginyan"/>
@@ -200,7 +200,7 @@
     <file name="favicon.ico" crc="417939427" ref="index"/>
     <file name="follow-me.png" crc="456279628" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings"/>
   </folder>
-  <file name="index.html" crc="3956041523" seo="true" mt="1467213451971" redirect="true"/>
+  <file name="index.html" crc="3956041523" seo="true" mt="1467213606279" redirect="true"/>
   <file name="resume.html" crc="3972982025" seo="true" mt="1467213451971" redirect="true"/>
   <file name="portfolio.html" crc="334737440" seo="true" mt="1467213451971" redirect="true"/>
   <file name="about-me.html" crc="18160904" seo="true" mt="1467213451971" redirect="true"/>
