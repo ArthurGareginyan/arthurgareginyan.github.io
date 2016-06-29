@@ -14,6 +14,8 @@
 
 #u1075
 {
+	-pie-box-shadow: none;
+	box-shadow: 4px -7px 6px rgba(0,0,0,0.3);
 	border-style: solid;
 	border-color: #534741;
 	border-radius: 10px 10px 0px 0px ;
@@ -52,6 +54,9 @@
 
 #u1115-4
 {
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -61,6 +66,20 @@
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
+}
+
+#u1114:hover #u1115-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u1114:active #u1115-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 }
 
 #u1114:hover #u1115-4 p
@@ -89,6 +108,9 @@
 
 #u1106-4
 {
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -98,6 +120,20 @@
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
+}
+
+#u1114.MuseMenuActive #u1115-4,#u1105:hover #u1106-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u1105:active #u1106-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 }
 
 #u1105:hover #u1106-4 p
@@ -126,6 +162,9 @@
 
 #u1087-4
 {
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -135,6 +174,20 @@
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
+}
+
+#u1105.MuseMenuActive #u1106-4,#u1086:hover #u1087-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u1086:active #u1087-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 }
 
 #u1086:hover #u1087-4 p
@@ -163,6 +216,9 @@
 
 #u1095-4
 {
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -172,6 +228,20 @@
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
+}
+
+#u1086.MuseMenuActive #u1087-4,#u1093:hover #u1095-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u1093:active #u1095-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 }
 
 #u1093:hover #u1095-4 p
@@ -200,6 +270,9 @@
 
 #u9332-4
 {
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -209,6 +282,20 @@
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
+}
+
+#u1093.MuseMenuActive #u1095-4,#u9330:hover #u9332-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u9330:active #u9332-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 }
 
 #u9330:hover #u9332-4 p
@@ -237,6 +324,9 @@
 
 #u1196-4
 {
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -246,6 +336,20 @@
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
+}
+
+#u9330.MuseMenuActive #u9332-4,#u1195:hover #u1196-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u1195:active #u1196-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 }
 
 #u1195:hover #u1196-4 p
@@ -281,6 +385,9 @@
 
 #u1101-4
 {
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -290,6 +397,27 @@
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
 	font-weight: 400;
+}
+
+#u1195.MuseMenuActive #u1196-4,#u1100:hover #u1101-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u1100:active #u1101-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
+#u1100.MuseMenuActive #u1101-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
 }
 
 #u1100:hover #u1101-4 p
@@ -336,7 +464,7 @@
 #u1126
 {
 	-pie-box-shadow: none;
-	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	box-shadow: 0px 8px 6px rgba(0,0,0,0.3);
 	border-width: 0px;
 	border-radius: 0px 0px 10px 10px ;
 	background: transparent url("../images/leather.jpg") repeat left top;
