@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #00001E;
-	background-color: #577F00;
+	color: #000008;
+	background-color: #F380A8;
 }
 
 #muse_css_mq
@@ -728,13 +728,13 @@
 #u109
 {
 	z-index: 59;
-	min-height: 51px;
-	padding-bottom: 14px;
+	min-height: 61px;
+	padding-bottom: 4px;
 }
 
 #u109:active
 {
-	min-height: 51px;
+	min-height: 61px;
 	margin: 0px;
 }
 
@@ -750,12 +750,12 @@
 #u199-4
 {
 	z-index: 60;
-	width: 424px;
+	width: 941px;
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 32px;
-	left: 369px;
+	margin-top: 42px;
+	left: 100px;
 }
 
 #u199-4:hover
@@ -763,8 +763,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 424px;
-	margin: 32px -10000px 0px 0px;
+	width: 941px;
+	margin: 42px -10000px 0px 0px;
 }
 
 .js body
@@ -780,7 +780,7 @@
 #u109-bw
 {
 	z-index: 59;
-	min-height: 51px;
+	min-height: 61px;
 }
 
 .html
