@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #00000C;
-	background-color: #3F57D9;
+	color: #000013;
+	background-color: #CD7E81;
 }
 
 #muse_css_mq
@@ -464,7 +464,7 @@
 
 #u10761
 {
-	z-index: 63;
+	z-index: 65;
 	width: 92px;
 	position: relative;
 	margin-right: -10000px;
@@ -476,43 +476,43 @@
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 12px;
+	margin-top: 11px;
 }
 
 #u2571
 {
-	z-index: 59;
+	z-index: 61;
 	width: 210px;
 	min-height: 98px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 138px;
+	margin-top: 139px;
 	left: 810px;
 }
 
 #u9685
 {
-	z-index: 60;
+	z-index: 62;
 	width: 59px;
 	min-height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 252px;
+	margin-top: 253px;
 	left: 941px;
 }
 
-#u10794
+#u10843
 {
-	z-index: 65;
-	width: 45px;
+	z-index: 67;
+	width: 39px;
 	position: relative;
 	margin-right: -10000px;
-	left: 913px;
+	left: 920px;
 }
 
 #u1225-21
 {
-	z-index: 67;
+	z-index: 69;
 	width: 898px;
 	min-height: 323px;
 	background-color: transparent;
@@ -522,7 +522,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 16px;
+	margin-top: 17px;
 }
 
 #u1225-13
@@ -533,7 +533,7 @@
 
 #u1235
 {
-	z-index: 88;
+	z-index: 90;
 	width: 118px;
 	min-height: 33px;
 	border-width: 0px;
@@ -541,7 +541,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 209px;
+	margin-top: 210px;
 	left: 130px;
 }
 
@@ -594,7 +594,7 @@
 
 #u10715
 {
-	z-index: 61;
+	z-index: 63;
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
@@ -604,13 +604,12 @@
 #u109
 {
 	z-index: 54;
-	min-height: 60px;
-	padding-bottom: 5px;
+	min-height: 65px;
 }
 
 #u109:active
 {
-	min-height: 60px;
+	min-height: 65px;
 	margin: 0px;
 }
 
@@ -623,24 +622,24 @@
 	left: -100px;
 }
 
-#u199-4
+#u199-6
 {
 	z-index: 55;
 	width: 941px;
-	min-height: 19px;
+	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 41px;
+	margin-top: 25px;
 	left: 100px;
 }
 
-#u199-4:hover
+#u199-6:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 19px;
+	min-height: 40px;
 	width: 941px;
-	margin: 41px -10000px 0px 0px;
+	margin: 25px -10000px 0px 0px;
 }
 
 .js body
@@ -656,7 +655,7 @@
 #u109-bw
 {
 	z-index: 54;
-	min-height: 60px;
+	min-height: 65px;
 }
 
 .html

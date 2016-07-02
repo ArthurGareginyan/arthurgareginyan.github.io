@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000FB;
-	background-color: #732DA6;
+	color: #0000E1;
+	background-color: #5F6FFF;
 }
 
 #muse_css_mq
@@ -465,7 +465,7 @@
 
 #u10761
 {
-	z-index: 63;
+	z-index: 65;
 	width: 92px;
 	position: relative;
 	margin-right: -10000px;
@@ -477,50 +477,50 @@
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 12px;
+	margin-top: 11px;
 }
 
 #u2571
 {
-	z-index: 59;
+	z-index: 61;
 	width: 210px;
 	min-height: 98px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 138px;
+	margin-top: 139px;
 	left: 810px;
 }
 
 #u9685
 {
-	z-index: 60;
+	z-index: 62;
 	width: 59px;
 	min-height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 252px;
+	margin-top: 253px;
 	left: 941px;
 }
 
-#u10794
+#u10843
 {
-	z-index: 65;
-	width: 45px;
+	z-index: 67;
+	width: 39px;
 	position: relative;
 	margin-right: -10000px;
-	left: 913px;
+	left: 920px;
 }
 
 #u1253-253
 {
-	z-index: 67;
+	z-index: 69;
 	width: 898px;
 	background-color: transparent;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 11px;
+	margin-top: 12px;
 }
 
 #u1253-2
@@ -898,7 +898,7 @@
 
 #slideshowu5590
 {
-	z-index: 320;
+	z-index: 322;
 	width: 0.01px;
 	height: 520px;
 	margin-left: 96px;
@@ -923,22 +923,10 @@
 
 #u5591popup
 {
-	z-index: 321;
+	z-index: 323;
 }
 
 #u5592
-{
-	z-index: 322;
-	width: 1140px;
-	height: 755px;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#u5971
 {
 	z-index: 324;
 	width: 1140px;
@@ -950,7 +938,7 @@
 	left: 22px;
 }
 
-#u5991
+#u5971
 {
 	z-index: 326;
 	width: 1140px;
@@ -962,7 +950,7 @@
 	left: 22px;
 }
 
-#u6011
+#u5991
 {
 	z-index: 328;
 	width: 1140px;
@@ -974,9 +962,21 @@
 	left: 22px;
 }
 
-#u6031
+#u6011
 {
 	z-index: 330;
+	width: 1140px;
+	height: 755px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u6031
+{
+	z-index: 332;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -1004,12 +1004,12 @@
 
 #u5622popup
 {
-	z-index: 332;
+	z-index: 334;
 }
 
 #u5629
 {
-	z-index: 333;
+	z-index: 335;
 	width: 177px;
 	height: 251px;
 	border-width: 0px;
@@ -1023,7 +1023,7 @@
 
 #u5977
 {
-	z-index: 335;
+	z-index: 337;
 	width: 177px;
 	height: 251px;
 	border-width: 0px;
@@ -1037,7 +1037,7 @@
 
 #u5997
 {
-	z-index: 337;
+	z-index: 339;
 	width: 177px;
 	height: 251px;
 	border-width: 0px;
@@ -1051,7 +1051,7 @@
 
 #u6017
 {
-	z-index: 339;
+	z-index: 341;
 	width: 177px;
 	height: 251px;
 	border-width: 0px;
@@ -1073,7 +1073,7 @@
 
 #u6037
 {
-	z-index: 341;
+	z-index: 343;
 	width: 177px;
 	height: 251px;
 	border-width: 0px;
@@ -1104,17 +1104,17 @@
 
 #u5656popup
 {
-	z-index: 343;
+	z-index: 345;
 }
 
 #u5665-10
 {
-	z-index: 344;
+	z-index: 346;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1122,12 +1122,12 @@
 
 #u5983-10
 {
-	z-index: 354;
+	z-index: 356;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1135,12 +1135,12 @@
 
 #u6003-10
 {
-	z-index: 364;
+	z-index: 366;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1148,12 +1148,12 @@
 
 #u6023-8
 {
-	z-index: 374;
+	z-index: 376;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1161,12 +1161,12 @@
 
 #u6043-8
 {
-	z-index: 382;
+	z-index: 384;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1178,8 +1178,8 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
@@ -1188,7 +1188,7 @@
 
 #u5674-4popup
 {
-	z-index: 390;
+	z-index: 392;
 }
 
 #u5655-4
@@ -1197,8 +1197,8 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 170px;
@@ -1207,7 +1207,7 @@
 
 #u5655-4popup
 {
-	z-index: 394;
+	z-index: 396;
 }
 
 #u5672
@@ -1240,14 +1240,14 @@
 
 #u5673-4
 {
-	z-index: 399;
+	z-index: 401;
 	width: 20px;
 	min-height: 20px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
@@ -1314,7 +1314,7 @@
 
 #u10715
 {
-	z-index: 61;
+	z-index: 63;
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
@@ -1324,13 +1324,12 @@
 #u109
 {
 	z-index: 54;
-	min-height: 61px;
-	padding-bottom: 4px;
+	min-height: 65px;
 }
 
 #u109:active
 {
-	min-height: 61px;
+	min-height: 65px;
 	margin: 0px;
 }
 
@@ -1343,24 +1342,24 @@
 	left: -100px;
 }
 
-#u199-4
+#u199-6
 {
 	z-index: 55;
 	width: 941px;
-	min-height: 19px;
+	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 42px;
+	margin-top: 25px;
 	left: 100px;
 }
 
-#u199-4:hover
+#u199-6:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 19px;
+	min-height: 40px;
 	width: 941px;
-	margin: 42px -10000px 0px 0px;
+	margin: 25px -10000px 0px 0px;
 }
 
 .js body
@@ -1376,7 +1375,7 @@
 #u109-bw
 {
 	z-index: 54;
-	min-height: 61px;
+	min-height: 65px;
 }
 
 .html

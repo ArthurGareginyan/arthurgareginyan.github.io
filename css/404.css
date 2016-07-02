@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #000002;
-	background-color: #2A5C7D;
+	color: #000001;
+	background-color: #F42B67;
 }
 
 #muse_css_mq
@@ -465,7 +465,7 @@
 
 #u10761
 {
-	z-index: 63;
+	z-index: 65;
 	width: 92px;
 	position: relative;
 	margin-right: -10000px;
@@ -473,41 +473,41 @@
 	left: 950px;
 }
 
-#ppu10794
+#ppu10843
 {
 	width: 0.01px;
 	margin-left: 72px;
-	margin-top: 12px;
+	margin-top: 11px;
 }
 
-#pu10794
+#pu10843
 {
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 747px;
 }
 
-#u10794
+#u10843
 {
-	z-index: 65;
-	width: 45px;
-	margin-left: 116px;
+	z-index: 67;
+	width: 39px;
+	margin-left: 123px;
 	position: relative;
 }
 
 #u2571
 {
-	z-index: 59;
+	z-index: 61;
 	width: 210px;
 	min-height: 98px;
 	margin-left: 13px;
-	margin-top: 90px;
+	margin-top: 84px;
 	position: relative;
 }
 
 #u9685
 {
-	z-index: 60;
+	z-index: 62;
 	width: 59px;
 	min-height: 59px;
 	margin-left: 144px;
@@ -517,7 +517,7 @@
 
 #u1423-4
 {
-	z-index: 80;
+	z-index: 82;
 	width: 101px;
 	min-height: 27px;
 	background-color: transparent;
@@ -531,14 +531,14 @@
 
 #u1380-11
 {
-	z-index: 67;
+	z-index: 69;
 	width: 272px;
 	min-height: 126px;
 	background-color: transparent;
 	font-family: bitter, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 27px;
+	margin-top: 28px;
 }
 
 #u1380-2
@@ -564,12 +564,12 @@
 
 #u1417
 {
-	z-index: 78;
+	z-index: 80;
 	width: 664px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 53px;
+	margin-top: 54px;
 	left: 67px;
 }
 
@@ -622,7 +622,7 @@
 
 #u10715
 {
-	z-index: 61;
+	z-index: 63;
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
@@ -632,13 +632,12 @@
 #u109
 {
 	z-index: 54;
-	min-height: 60px;
-	padding-bottom: 5px;
+	min-height: 65px;
 }
 
 #u109:active
 {
-	min-height: 60px;
+	min-height: 65px;
 	margin: 0px;
 }
 
@@ -651,24 +650,24 @@
 	left: -100px;
 }
 
-#u199-4
+#u199-6
 {
 	z-index: 55;
 	width: 941px;
-	min-height: 19px;
+	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 41px;
+	margin-top: 25px;
 	left: 100px;
 }
 
-#u199-4:hover
+#u199-6:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 19px;
+	min-height: 40px;
 	width: 941px;
-	margin: 41px -10000px 0px 0px;
+	margin: 25px -10000px 0px 0px;
 }
 
 .js body
@@ -684,7 +683,7 @@
 #u109-bw
 {
 	z-index: 54;
-	min-height: 60px;
+	min-height: 65px;
 }
 
 .html

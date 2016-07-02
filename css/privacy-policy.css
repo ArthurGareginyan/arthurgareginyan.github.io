@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #00001D;
-	background-color: #AEDF7E;
+	color: #000013;
+	background-color: #8744A7;
 }
 
 #muse_css_mq
@@ -465,7 +465,7 @@
 
 #u10761
 {
-	z-index: 63;
+	z-index: 65;
 	width: 92px;
 	position: relative;
 	margin-right: -10000px;
@@ -482,7 +482,7 @@
 
 #u2571
 {
-	z-index: 59;
+	z-index: 61;
 	width: 210px;
 	min-height: 98px;
 	position: relative;
@@ -493,7 +493,7 @@
 
 #u9685
 {
-	z-index: 60;
+	z-index: 62;
 	width: 59px;
 	min-height: 59px;
 	position: relative;
@@ -502,19 +502,19 @@
 	left: 941px;
 }
 
-#u10794
+#u10843
 {
-	z-index: 65;
-	width: 45px;
+	z-index: 67;
+	width: 39px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 913px;
+	margin-top: 19px;
+	left: 920px;
 }
 
 #u1250-37
 {
-	z-index: 67;
+	z-index: 69;
 	width: 898px;
 	min-height: 695px;
 	background-color: transparent;
@@ -548,12 +548,12 @@
 
 #u1251-4
 {
-	z-index: 104;
+	z-index: 106;
 	width: 898px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #0092C4;
+	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
 	font-family: bitter, serif;
@@ -610,7 +610,7 @@
 
 #u10715
 {
-	z-index: 61;
+	z-index: 63;
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
@@ -620,13 +620,12 @@
 #u109
 {
 	z-index: 54;
-	min-height: 61px;
-	padding-bottom: 4px;
+	min-height: 65px;
 }
 
 #u109:active
 {
-	min-height: 61px;
+	min-height: 65px;
 	margin: 0px;
 }
 
@@ -639,24 +638,24 @@
 	left: -100px;
 }
 
-#u199-4
+#u199-6
 {
 	z-index: 55;
 	width: 941px;
-	min-height: 19px;
+	min-height: 40px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 42px;
+	margin-top: 25px;
 	left: 100px;
 }
 
-#u199-4:hover
+#u199-6:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 19px;
+	min-height: 40px;
 	width: 941px;
-	margin: 42px -10000px 0px 0px;
+	margin: 25px -10000px 0px 0px;
 }
 
 .js body
@@ -672,7 +671,7 @@
 #u109-bw
 {
 	z-index: 54;
-	min-height: 61px;
+	min-height: 65px;
 }
 
 .html

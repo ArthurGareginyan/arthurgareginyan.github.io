@@ -4,8 +4,8 @@
 	-pie-box-shadow: none;
 	box-shadow: none;
 	background-color: transparent;
-	line-height: 35px;
 	color: #0092C4;
+	line-height: 35px;
 	text-align: center;
 	font-size: 29px;
 	font-family: bitter, serif;
@@ -60,8 +60,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
@@ -114,8 +114,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
@@ -168,8 +168,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
@@ -222,8 +222,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
@@ -276,8 +276,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
@@ -330,8 +330,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
@@ -391,8 +391,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
 	font-family: alegreya-sc, serif;
@@ -471,7 +471,7 @@
 	background-color: transparent;
 }
 
-#u10761,#u10794,#u10715
+#u10761,#u10843,#u10715
 {
 	background-color: transparent;
 }
@@ -493,7 +493,7 @@
 	border-color: #000000;
 }
 
-#u199-4
+#u199-6
 {
 	background-color: transparent;
 	color: #777777;
@@ -503,7 +503,7 @@
 	font-weight: 400;
 }
 
-#u199-4:hover p
+#u199-6:hover p
 {
 	color: #777777;
 	visibility: inherit;
