@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00000D;
-	background-color: #60E9E1;
+	color: #00001C;
+	background-color: #340039;
 }
 
 #muse_css_mq
@@ -506,42 +506,11 @@
 	left: 950px;
 }
 
-#pu1223-7
-{
-	width: 0.01px;
-	margin-left: 22px;
-	margin-top: 11px;
-}
-
-#u1223-7
-{
-	z-index: 76;
-	width: 898px;
-	min-height: 56px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 15px;
-}
-
-#u10843
-{
-	z-index: 73;
-	width: 39px;
-	position: relative;
-	margin-right: -10000px;
-	left: 920px;
-}
-
 #pu2571
 {
 	width: 0.01px;
-	margin-left: 55px;
-	margin-top: 47px;
+	margin-left: 63px;
+	margin-top: 11px;
 }
 
 #u2571
@@ -551,8 +520,8 @@
 	min-height: 98px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 184px;
-	left: 777px;
+	margin-top: 342px;
+	left: 769px;
 }
 
 #u9685
@@ -562,8 +531,17 @@
 	min-height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 95px;
-	left: 908px;
+	margin-top: 253px;
+	left: 900px;
+}
+
+#u10843
+{
+	z-index: 73;
+	width: 39px;
+	position: relative;
+	margin-right: -10000px;
+	left: 879px;
 }
 
 #u1221
@@ -576,12 +554,14 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 23px;
 }
 
 #pu1125
 {
 	width: 0.01px;
 	margin-left: -47px;
+	margin-top: 9px;
 }
 
 #u1125
