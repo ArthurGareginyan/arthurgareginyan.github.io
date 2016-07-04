@@ -780,10 +780,4 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>http://www.arthurgareginyan.com/store.html</loc>
-    <lastmod>2016-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>
