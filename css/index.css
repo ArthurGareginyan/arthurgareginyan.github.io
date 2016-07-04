@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FB;
-	background-color: #BE8560;
+	color: #000016;
+	background-color: #97A634;
 }
 
 #muse_css_mq
@@ -19,11 +19,6 @@
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
-}
-
-#page_position_content,#pu1070
-{
-	width: 0.01px;/* should not cover content below */
 }
 
 #u1070
@@ -506,22 +501,11 @@
 	left: 950px;
 }
 
-#pu2571
+#pu10843
 {
 	width: 0.01px;
 	margin-left: 47px;
 	margin-top: 11px;
-}
-
-#u2571
-{
-	z-index: 67;
-	width: 210px;
-	min-height: 98px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 139px;
-	left: 785px;
 }
 
 #u10843
@@ -597,7 +581,7 @@
 {
 	width: 0.01px;
 	margin-left: 87px;
-	margin-top: 15px;
+	margin-top: 40px;
 }
 
 #pu416
@@ -682,43 +666,23 @@
 	left: 8px;
 }
 
-#ppu417
+#pppu415
 {
 	width: 0.01px;
 	margin-left: 87px;
 	margin-top: 20px;
 }
 
-#u417
+#ppu415
 {
-	z-index: 89;
-	width: 371px;
-	height: 19px;
-	border-style: solid;
-	border-color: #CCCCCC;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
+	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 11px;
-	border-width: 0px 0px 1px;
+	margin-top: 1px;
 }
 
-#u423-7
+#page_position_content,#pu1070,#pu415
 {
-	z-index: 111;
-	width: 352px;
-	min-height: 21px;
-	background-color: transparent;
-	line-height: 19px;
-	color: #534741;
-	text-align: left;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	left: 10px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u415
@@ -732,7 +696,7 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 12px;
+	margin-top: 11px;
 	border-width: 0px 0px 1px;
 }
 
@@ -750,59 +714,13 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
 	left: 8px;
 }
 
-#ppu418
+#pu414
 {
 	width: 0.01px;
-	margin-left: 87px;
-	margin-top: 26px;
-}
-
-#pu417,#pu418
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 398px;
-}
-
-#u418
-{
-	z-index: 90;
-	width: 371px;
-	height: 19px;
-	border-style: solid;
-	border-color: #CCCCCC;
-	background-color: transparent;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 11px;
-	border-width: 0px 0px 1px;
-}
-
-#u424-8
-{
-	z-index: 118;
-	width: 352px;
-	min-height: 21px;
-	background-color: transparent;
-	line-height: 19px;
-	color: #777777;
-	text-align: left;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	left: 10px;
-}
-
-#u410-2,#u410-6,#u424-2,#u424-5
-{
-	color: #534741;
+	margin-top: 25px;
 }
 
 #u414
@@ -837,16 +755,97 @@
 	left: 8px;
 }
 
-#u422,#u419,#u423,#u420,#u424,#u421
+#u2571
+{
+	z-index: 67;
+	width: 210px;
+	min-height: 98px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 746px;
+}
+
+#u417
+{
+	z-index: 89;
+	width: 371px;
+	height: 19px;
+	border-style: solid;
+	border-color: #CCCCCC;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 398px;
+	border-width: 0px 0px 1px;
+}
+
+#u418
+{
+	z-index: 90;
+	width: 371px;
+	height: 19px;
+	border-style: solid;
+	border-color: #CCCCCC;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 67px;
+	left: 398px;
+	border-width: 0px 0px 1px;
+}
+
+#u423-7
+{
+	z-index: 111;
+	width: 352px;
+	min-height: 21px;
+	background-color: transparent;
+	line-height: 19px;
+	color: #534741;
+	text-align: left;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 408px;
+}
+
+#u424-8
+{
+	z-index: 118;
+	width: 352px;
+	min-height: 21px;
+	background-color: transparent;
+	line-height: 19px;
+	color: #777777;
+	text-align: left;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 408px;
+}
+
+#u422,#u419,#u420,#u421,#u423,#u424
 {
 	color: #000000;
+}
+
+#u410-2,#u410-6,#u424-2,#u424-5
+{
+	color: #534741;
 }
 
 #pu1125
 {
 	width: 0.01px;
 	margin-left: -47px;
-	margin-top: 94px;
+	margin-top: 73px;
 }
 
 #u1125

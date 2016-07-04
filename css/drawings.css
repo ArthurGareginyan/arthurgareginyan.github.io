@@ -1,7 +1,7 @@
 .version.drawings /* version checker */
 {
-	color: #00000B;
-	background-color: #DB061E;
+	color: #0000E1;
+	background-color: #2C5CBB;
 }
 
 #muse_css_mq
@@ -561,24 +561,6 @@
 	left: 920px;
 }
 
-#pu2571
-{
-	width: 0.01px;
-	margin-left: 22px;
-	margin-top: 25px;
-}
-
-#u2571
-{
-	z-index: 67;
-	width: 210px;
-	min-height: 98px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 12px;
-	left: 810px;
-}
-
 #u6362-4
 {
 	z-index: 75;
@@ -591,8 +573,9 @@
 	font-size: 25px;
 	font-family: bitter, serif;
 	font-weight: 400;
+	margin-left: 22px;
+	margin-top: 25px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #slideshowu8270
@@ -600,10 +583,8 @@
 	z-index: 223;
 	width: 0.01px;
 	height: 491px;
+	margin-left: 59px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 49px;
-	left: 37px;
 }
 
 #u8271
@@ -1004,8 +985,19 @@
 	width: 59px;
 	min-height: 59px;
 	margin-left: 963px;
-	top: -413px;
+	top: -414px;
 	margin-bottom: -59px;
+	position: relative;
+}
+
+#u2571
+{
+	z-index: 67;
+	width: 210px;
+	min-height: 98px;
+	margin-left: 832px;
+	top: -325px;
+	margin-bottom: -98px;
 	position: relative;
 }
 
@@ -1022,7 +1014,7 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
-	margin-top: 88px;
+	margin-top: 87px;
 	position: relative;
 }
 

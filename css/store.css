@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #000005;
-	background-color: #B9D4CB;
+	color: #0000F6;
+	background-color: #8514C5;
 }
 
 #muse_css_mq
@@ -607,7 +607,7 @@
 	min-height: 98px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 60px;
+	margin-top: 263px;
 	left: 790px;
 }
 
@@ -632,7 +632,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 253px;
+	margin-top: 19px;
 	left: 920px;
 }
 
@@ -822,6 +822,20 @@
 	left: 739px;
 }
 
+#u10392
+{
+	z-index: 217;
+	width: 62px;
+	min-height: 54px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 101px;
+	left: 920px;
+}
+
 #u10396
 {
 	z-index: 218;
@@ -857,15 +871,7 @@
 {
 	width: 0.01px;
 	margin-left: 42px;
-	margin-top: 13px;
-}
-
-#pu10301-12
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 36px;
-	margin-left: 307px;
+	margin-top: 11px;
 }
 
 #u10301-12
@@ -909,15 +915,6 @@
 	background-size: cover;
 }
 
-#u10306:hover
-{
-	background-image: none;
-	background-color: #372F2B;
-	width: 245px;
-	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
-}
-
 #u10387-8
 {
 	z-index: 209;
@@ -936,48 +933,6 @@
 	text-align: center;
 	line-height: 22px;
 	visibility: hidden;/* 100% transparent text is hidden */
-}
-
-#pu10392
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 920px;
-}
-
-#u10392
-{
-	z-index: 217;
-	width: 62px;
-	min-height: 54px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
-#u10440
-{
-	z-index: 220;
-	width: 62px;
-	min-height: 56px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 24px;
-	position: relative;
-}
-
-#u10444
-{
-	z-index: 221;
-	width: 62px;
-	min-height: 56px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 23px;
-	position: relative;
 }
 
 #u10289-12
@@ -1002,7 +957,7 @@
 	margin-bottom: -5px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 32px;
+	margin-top: -4px;
 	left: -5px;
 }
 
@@ -1015,19 +970,19 @@
 	padding-bottom: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 37px;
+	margin-top: 1px;
 	border-width: 0px 0px 1px;
 	background: transparent url("../images/circus%20(master-1)2.jpg") no-repeat center top;
 	background-size: cover;
 }
 
-#u10299:hover
+#u10306:hover,#u10299:hover
 {
 	background-image: none;
 	background-color: #372F2B;
 	width: 245px;
 	min-height: 0px;
-	margin: 37px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 }
 
 #u10386-8
@@ -1090,7 +1045,7 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
-	margin-top: 130px;
+	margin-top: 129px;
 	position: relative;
 }
 
@@ -1101,7 +1056,7 @@
 	margin-top: 29px;
 }
 
-#pu10296-12,#pu10303-12
+#pu10296-12,#pu10301-12,#pu10303-12
 {
 	width: 0.01px;
 	margin-right: -10000px;
