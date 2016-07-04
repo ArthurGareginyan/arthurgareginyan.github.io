@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #0000F6;
-	background-color: #8514C5;
+	color: #000001;
+	background-color: #E1A6AA;
 }
 
 #muse_css_mq
@@ -588,7 +588,7 @@
 
 #u10377-11
 {
-	z-index: 182;
+	z-index: 181;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
@@ -701,7 +701,7 @@
 
 #u10374-7
 {
-	z-index: 175;
+	z-index: 174;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
@@ -744,7 +744,7 @@
 	margin-right: -10000px;
 	left: 613px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/preview2.jpg") no-repeat center top;
+	background: transparent url("../images/preview.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -759,7 +759,7 @@
 
 #u10378-8
 {
-	z-index: 193;
+	z-index: 192;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
@@ -808,23 +808,9 @@
 	left: 617px;
 }
 
-#u10311
-{
-	z-index: 174;
-	width: 123px;
-	min-height: 68px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 254px;
-	left: 739px;
-}
-
 #u10392
 {
-	z-index: 217;
+	z-index: 216;
 	width: 62px;
 	min-height: 54px;
 	border-width: 0px;
@@ -838,7 +824,7 @@
 
 #u10396
 {
-	z-index: 218;
+	z-index: 217;
 	width: 122px;
 	min-height: 53px;
 	border-width: 0px;
@@ -855,7 +841,7 @@
 
 #u10397
 {
-	z-index: 219;
+	z-index: 218;
 	width: 123px;
 	min-height: 68px;
 	border-width: 0px;
@@ -917,7 +903,7 @@
 
 #u10387-8
 {
-	z-index: 209;
+	z-index: 208;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
@@ -972,7 +958,7 @@
 	margin-right: -10000px;
 	margin-top: 1px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/circus%20(master-1)2.jpg") no-repeat center top;
+	background: transparent url("../images/circus%20(master-1).jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -987,7 +973,7 @@
 
 #u10386-8
 {
-	z-index: 201;
+	z-index: 200;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
@@ -1098,7 +1084,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/icon-256x2562.png") no-repeat center top;
+	background: transparent url("../images/icon-256x256.png") no-repeat center top;
 	background-size: contain;
 }
 
@@ -1154,7 +1140,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/icon-256x2563.png") no-repeat center top;
+	background: transparent url("../images/icon-256x2562.png") no-repeat center top;
 	background-size: contain;
 }
 
