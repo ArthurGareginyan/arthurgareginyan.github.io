@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #0000EA;
-	background-color: #4002FB;
+	color: #000011;
+	background-color: #3046A1;
 }
 
 #muse_css_mq
@@ -331,63 +331,13 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1194
-{
-	width: 116px;
-	min-height: 47px;
-	position: relative;
-	margin-right: -10000px;
-	left: 590px;
-}
-
-#u1195
-{
-	width: 116px;
-	padding-bottom: 28px;
-	position: relative;
-}
-
-#u9330.MuseMenuActive,#u1195:hover
-{
-	width: 116px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u1196-4
-{
-	width: 116px;
-	min-height: 19px;
-	position: relative;
-	margin-right: -10000px;
-	top: 14px;
-}
-
-#u9330.MuseMenuActive #u9332-4,#u1195:hover #u1196-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 116px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u1195:active #u1196-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 116px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u11296
 {
 	width: 116px;
 	min-height: 47px;
 	position: relative;
 	margin-right: -10000px;
-	left: 708px;
+	left: 590px;
 }
 
 #u11297
@@ -397,7 +347,7 @@
 	position: relative;
 }
 
-#u1195.MuseMenuActive,#u11297:hover
+#u9330.MuseMenuActive,#u11297:hover
 {
 	width: 116px;
 	min-height: 0px;
@@ -413,7 +363,7 @@
 	top: 14px;
 }
 
-#u1195.MuseMenuActive #u1196-4,#u11297:hover #u11298-4
+#u9330.MuseMenuActive #u9332-4,#u11297:hover #u11298-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -423,6 +373,56 @@
 }
 
 #u11297:active #u11298-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 116px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1194
+{
+	width: 116px;
+	min-height: 47px;
+	position: relative;
+	margin-right: -10000px;
+	left: 708px;
+}
+
+#u1195
+{
+	width: 116px;
+	padding-bottom: 28px;
+	position: relative;
+}
+
+#u11297.MuseMenuActive,#u1195:hover
+{
+	width: 116px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1196-4
+{
+	width: 116px;
+	min-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	top: 14px;
+}
+
+#u11297.MuseMenuActive #u11298-4,#u1195:hover #u1196-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 116px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1195:active #u1196-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -447,7 +447,7 @@
 	position: relative;
 }
 
-#u11297.MuseMenuActive,#u1100:hover
+#u1195.MuseMenuActive,#u1100:hover
 {
 	width: 116px;
 	min-height: 0px;
@@ -470,7 +470,7 @@
 	top: 14px;
 }
 
-#u11297.MuseMenuActive #u11298-4,#u1100:hover #u1101-4
+#u1195.MuseMenuActive #u1196-4,#u1100:hover #u1101-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -745,7 +745,7 @@
 	margin-right: -10000px;
 	left: 613px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/preview.jpg") no-repeat center top;
+	background: transparent url("../images/preview2.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -948,7 +948,7 @@
 	position: relative;
 	margin-right: -10000px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/circus%20(master-1).jpg") no-repeat center top;
+	background: transparent url("../images/circus%20(master-1)2.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -1074,7 +1074,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/icon-256x256.png") no-repeat center top;
+	background: transparent url("../images/icon-256x2562.png") no-repeat center top;
 	background-size: contain;
 }
 
@@ -1130,7 +1130,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/icon-256x2562.png") no-repeat center top;
+	background: transparent url("../images/icon-256x2563.png") no-repeat center top;
 	background-size: contain;
 }
 
