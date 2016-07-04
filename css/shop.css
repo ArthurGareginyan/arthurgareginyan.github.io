@@ -1,7 +1,7 @@
-.version.privacy_policy /* version checker */
+.version.shop /* version checker */
 {
-	color: #00000B;
-	background-color: #D7006B;
+	color: #0000E6;
+	background-color: #6AE5C9;
 }
 
 #muse_css_mq
@@ -13,10 +13,9 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 682.893299594454px;
+	min-height: 683px;
 	border-width: 0px;
 	border-color: #000000;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
@@ -507,22 +506,13 @@
 	left: 950px;
 }
 
-#pu2571
+#u10843
 {
-	width: 0.01px;
-	margin-left: 22px;
-	margin-top: -8px;
-}
-
-#u2571
-{
-	z-index: 67;
-	width: 210px;
-	min-height: 98px;
+	z-index: 73;
+	width: 39px;
+	margin-left: 942px;
+	margin-top: 11px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 361px;
-	left: 810px;
 }
 
 #u9685
@@ -530,76 +520,26 @@
 	z-index: 68;
 	width: 59px;
 	min-height: 59px;
+	margin-left: 963px;
+	margin-top: 197px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 272px;
-	left: 941px;
 }
 
-#u10843
+#u2571
 {
-	z-index: 73;
-	width: 39px;
+	z-index: 67;
+	width: 210px;
+	min-height: 98px;
+	margin-left: 832px;
+	margin-top: 30px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 19px;
-	left: 920px;
-}
-
-#u1250-37
-{
-	z-index: 75;
-	width: 898px;
-	min-height: 695px;
-	background-color: transparent;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 59px;
-}
-
-#u1250-5,#u1250-11,#u1250-20,#u1250-26,#u1250-32
-{
-	font-size: 20px;
-	text-align: center;
-	line-height: 24px;
-	color: #0093C4;
-}
-
-#u1250-6,#u1250-12,#u1250-21,#u1250-27,#u1250-33
-{
-	font-size: 20px;
-	line-height: 24px;
-	color: #0093C4;
-}
-
-#u1250-2,#u1250-3,#u1250-8,#u1250-9,#u1250-14,#u1250-15,#u1250-17,#u1250-18,#u1250-23,#u1250-24,#u1250-29,#u1250-30,#u1250-35
-{
-	font-size: 16px;
-	line-height: 19px;
-}
-
-#u1251-4
-{
-	z-index: 112;
-	width: 898px;
-	min-height: 34px;
-	background-color: transparent;
-	line-height: 36px;
-	color: #0092C4;
-	text-align: center;
-	font-size: 30px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
 }
 
 #pu1125
 {
 	width: 0.01px;
 	margin-left: -47px;
+	margin-top: 73px;
 }
 
 #u1125
@@ -648,7 +588,7 @@
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 69px;
+	margin-top: 68px;
 }
 
 #u109
