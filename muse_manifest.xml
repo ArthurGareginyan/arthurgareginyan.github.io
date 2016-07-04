@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1467657837487">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1467659830529">
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
     <file name="master_main.css" crc="3811874968" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
@@ -240,5 +240,5 @@
   <file name="website-bizconsultinghub.com.html" crc="270925142" seo="true" mt="1467110647043" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="3880229116" seo="true" mt="1467110647043" redirect="true"/>
   <file name="donate-success.html" crc="4216428335" seo="true" mt="1467656386912" redirect="true"/>
-  <file name="store.html" crc="4147946398" seo="true" mt="1467657814385" redirect="true"/>
+  <file name="store.html" crc="14413383" seo="true" mt="1467659583355" redirect="true"/>
 </manifest>
