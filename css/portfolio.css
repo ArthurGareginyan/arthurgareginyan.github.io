@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000E0;
-	background-color: #22986E;
+	color: #0000E8;
+	background-color: #7FCD39;
 }
 
 #muse_css_mq
@@ -627,9 +627,9 @@
 	width: 245px;
 	min-height: 179px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	text-transform: none;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -646,11 +646,11 @@
 	visibility: inherit;
 	padding-top: 0px;
 	padding-bottom: 0px;
+	padding-right: 0px;
+	vertical-align: 0px;
 	letter-spacing: 0px;
 	line-height: 1.2;
-	vertical-align: 0px;
 	text-transform: none;
-	padding-right: 0px;
 	text-decoration: none;
 	text-indent: 0px;
 	font-weight: normal;

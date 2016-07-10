@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #000011;
-	background-color: #3046A1;
+	color: #0000EA;
+	background-color: #825953;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 682.6484911565497px;
+	min-height: 682.893299594454px;
 	border-width: 0px;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -521,9 +521,9 @@
 	min-height: 29px;
 	background-color: transparent;
 	line-height: 30px;
-	color: #0093C4;
 	text-align: left;
 	font-size: 25px;
+	color: #0093C4;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -549,7 +549,7 @@
 
 #u11341-12
 {
-	z-index: 143;
+	z-index: 142;
 	width: 235px;
 	min-height: 300px;
 	-pie-box-shadow: 0px 0px 8px 2px #FFFFFF/* glow */,
@@ -575,7 +575,7 @@
 
 #u11348
 {
-	z-index: 171;
+	z-index: 170;
 	width: 245px;
 	border-style: solid;
 	border-color: #00BFF3;
@@ -589,7 +589,7 @@
 
 #u11353-11
 {
-	z-index: 180;
+	z-index: 179;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
@@ -639,7 +639,7 @@
 
 #u11340-11
 {
-	z-index: 132;
+	z-index: 131;
 	width: 235px;
 	min-height: 300px;
 	-pie-box-shadow: 0px 0px 8px 2px #FFFFFF/* glow */,
@@ -664,7 +664,7 @@
 
 #u11342-11
 {
-	z-index: 155;
+	z-index: 154;
 	width: 235px;
 	min-height: 300px;
 	-pie-box-shadow: 0px 0px 8px 2px #FFFFFF/* glow */,
@@ -689,7 +689,7 @@
 
 #u11347
 {
-	z-index: 170;
+	z-index: 169;
 	width: 245px;
 	border-style: solid;
 	border-color: #00BFF3;
@@ -702,13 +702,13 @@
 
 #u11352-7
 {
-	z-index: 173;
+	z-index: 172;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	text-transform: none;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -723,11 +723,11 @@
 	visibility: inherit;
 	padding-top: 0px;
 	padding-bottom: 0px;
+	padding-right: 0px;
+	vertical-align: 0px;
 	letter-spacing: 0px;
 	line-height: 1.2;
-	vertical-align: 0px;
 	text-transform: none;
-	padding-right: 0px;
 	text-decoration: none;
 	text-indent: 0px;
 	font-weight: normal;
@@ -736,7 +736,7 @@
 
 #u11349
 {
-	z-index: 172;
+	z-index: 171;
 	width: 245px;
 	border-style: solid;
 	border-color: #00BFF3;
@@ -751,7 +751,7 @@
 
 #u11354-8
 {
-	z-index: 191;
+	z-index: 190;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
@@ -785,7 +785,7 @@
 
 #u11358
 {
-	z-index: 215;
+	z-index: 214;
 	width: 122px;
 	min-height: 53px;
 	border-width: 0px;
@@ -796,13 +796,13 @@
 	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 254px;
+	margin-top: 260px;
 	left: 4px;
 }
 
 #u11359
 {
-	z-index: 216;
+	z-index: 215;
 	width: 123px;
 	min-height: 68px;
 	border-width: 0px;
@@ -810,13 +810,13 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 254px;
+	margin-top: 260px;
 	left: 126px;
 }
 
 #u11426
 {
-	z-index: 217;
+	z-index: 216;
 	width: 122px;
 	min-height: 53px;
 	border-width: 0px;
@@ -827,13 +827,13 @@
 	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 254px;
+	margin-top: 260px;
 	left: 617px;
 }
 
 #u11427
 {
-	z-index: 218;
+	z-index: 217;
 	width: 123px;
 	min-height: 68px;
 	border-width: 0px;
@@ -841,7 +841,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 254px;
+	margin-top: 260px;
 	left: 739px;
 }
 
@@ -854,7 +854,7 @@
 
 #u11339-12
 {
-	z-index: 120;
+	z-index: 119;
 	width: 235px;
 	min-height: 300px;
 	-pie-box-shadow: 0px 0px 8px 2px #FFFFFF/* glow */,
@@ -880,7 +880,7 @@
 
 #u11346
 {
-	z-index: 169;
+	z-index: 168;
 	width: 245px;
 	border-style: solid;
 	border-color: #00BFF3;
@@ -894,7 +894,7 @@
 
 #u11356-8
 {
-	z-index: 207;
+	z-index: 206;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
@@ -914,7 +914,7 @@
 
 #u11338-12
 {
-	z-index: 108;
+	z-index: 107;
 	width: 235px;
 	min-height: 300px;
 	-pie-box-shadow: 0px 0px 8px 2px #FFFFFF/* glow */,
@@ -940,7 +940,7 @@
 
 #u11345
 {
-	z-index: 168;
+	z-index: 167;
 	width: 245px;
 	border-style: solid;
 	border-color: #00BFF3;
@@ -963,7 +963,7 @@
 
 #u11355-8
 {
-	z-index: 199;
+	z-index: 198;
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
@@ -1015,9 +1015,9 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 30px;
-	color: #0093C4;
 	text-align: left;
 	font-size: 25px;
+	color: #0093C4;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
@@ -1041,7 +1041,7 @@
 
 #u11337-12
 {
-	z-index: 96;
+	z-index: 95;
 	width: 235px;
 	min-height: 300px;
 	-pie-box-shadow: 0px 0px 8px 2px #FFFFFF/* glow */,
@@ -1065,9 +1065,15 @@
 	left: -5px;
 }
 
+#u11341-8,#u11341-10,#u11339-8,#u11339-10,#u11338-8,#u11338-10,#u11337-8,#u11337-10
+{
+	padding-top: 10px;
+	color: #7F7F7F;
+}
+
 #u11344
 {
-	z-index: 167;
+	z-index: 166;
 	width: 245px;
 	height: 156px;
 	border-width: 0px;
@@ -1078,7 +1084,7 @@
 	background-size: contain;
 }
 
-#u11336-12
+#u11336-11
 {
 	z-index: 84;
 	width: 235px;
@@ -1097,7 +1103,6 @@
 	font-size: 18px;
 	font-family: bitter, serif;
 	font-weight: 700;
-	margin-bottom: -5px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -5px;
@@ -1109,21 +1114,15 @@
 	padding-top: 10px;
 }
 
-#u11340-9,#u11342-9,#u11336-8
+#u11340-9,#u11342-9,#u11336-9
 {
 	padding-top: 10px;
 	color: #ED1C24;
 }
 
-#u11341-8,#u11341-10,#u11339-8,#u11339-10,#u11338-8,#u11338-10,#u11337-8,#u11337-10,#u11336-10
-{
-	padding-top: 10px;
-	color: #7F7F7F;
-}
-
 #u11343
 {
-	z-index: 166;
+	z-index: 165;
 	width: 245px;
 	height: 156px;
 	border-width: 0px;
@@ -1145,11 +1144,41 @@
 	background-size: contain;
 }
 
+#u11596
+{
+	z-index: 218;
+	width: 122px;
+	min-height: 53px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 12px;
+	text-align: left;
+	line-height: 14px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 260px;
+	left: 4px;
+}
+
+#u11597
+{
+	z-index: 219;
+	width: 123px;
+	min-height: 68px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 260px;
+	left: 126px;
+}
+
 #pu1125
 {
 	width: 0.01px;
 	margin-left: -47px;
-	margin-top: 5px;
 }
 
 #u1125
