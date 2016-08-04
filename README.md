@@ -1,8 +1,30 @@
 # www.ArthurGareginyan.com
 
-My personal website hosted on GitHub.
+Personal website of Arthur Gareginyan.
 
 [![screenshot](https://github.com/ArthurGareginyan/authors-notepad/blob/master/screenshot.png)]()
+
+This is the code for my personal website - [www.arthurgareginyan.com](http://www.arthurgareginyan.com) - it's a static site built with Adobe Muse.
+
+
+## Under the hood
+
+#### Hosting
+
+Website hosted at [GitHub Pages](https://pages.github.com).
+
+#### Theme
+
+Theme "Fashion & Style" designed by [Arthur Gareginyan](http://www.arthurgareginyan.com).
+
+#### Contact form
+
+Contact form are powered by [Formspree](https://formspree.io).
+
+
+## Copyright
+
+Copyright © 2015-2016 Arthur Garegnyan.
 
 
 ## Author

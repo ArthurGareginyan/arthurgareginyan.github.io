@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FA;
-	background-color: #534E83;
+	color: #00001B;
+	background-color: #17DAC9;
 }
 
 #muse_css_mq
@@ -536,7 +536,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 41px;
+	margin-top: 75px;
 	left: 211px;
 }
 
@@ -551,7 +551,7 @@
 	transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,10);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 103px;
+	margin-top: 137px;
 	left: 188px;
 }
 
@@ -565,7 +565,7 @@
 	padding-bottom: 5px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
+	margin-top: 47px;
 }
 
 #u437
@@ -588,7 +588,7 @@
 {
 	width: 0.01px;
 	margin-left: 87px;
-	margin-top: 40px;
+	margin-top: 6px;
 }
 
 #u412
@@ -599,9 +599,10 @@
 	border-color: #CCCCCC;
 	background-color: transparent;
 	padding-bottom: 4px;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 35px;
+	margin-top: 50px;
 	border-width: 0px 0px 1px;
 }
 
@@ -633,7 +634,7 @@
 	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 34px;
+	margin-top: 49px;
 	left: 398px;
 	border-width: 0px 0px 1px;
 }
@@ -670,14 +671,14 @@
 {
 	width: 0.01px;
 	margin-left: 87px;
-	margin-top: 30px;
+	margin-top: 20px;
 }
 
 #pu415
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 2px;
+	margin-top: 17px;
 }
 
 #u415
@@ -761,7 +762,7 @@
 	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
+	margin-top: 16px;
 	left: 398px;
 	border-width: 0px 0px 1px;
 }
@@ -794,7 +795,7 @@
 	padding-bottom: 3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 57px;
+	margin-top: 72px;
 	left: 398px;
 	border-width: 0px 0px 1px;
 }
