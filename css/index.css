@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000B;
-	background-color: #1B213E;
+	color: #0000FA;
+	background-color: #534E83;
 }
 
 #muse_css_mq
@@ -528,8 +528,8 @@
 	width: 662px;
 	min-height: 143px;
 	background-color: transparent;
-	line-height: 46px;
 	color: #736357;
+	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
 	font-family: bitter, serif;
@@ -578,7 +578,9 @@
 	margin-right: -10000px;
 	margin-top: 5px;
 	left: 5px;
-	background: transparent url("../images/avatar-1.jpg") no-repeat center center;
+	background: transparent url("../images/avatar-4-right%20copy-ieu437-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/avatar-4-right%20copy.jpg") no-repeat center center;
+	background-color: transparent;
 	background-size: cover;
 }
 
@@ -609,8 +611,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -642,8 +644,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -696,8 +698,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -727,8 +729,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -770,8 +772,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -803,8 +805,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #777777;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;

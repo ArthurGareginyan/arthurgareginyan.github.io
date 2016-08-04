@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000F8;
-	background-color: #81754A;
+	color: #0000F7;
+	background-color: #3FC94B;
 }
 
 #muse_css_mq
@@ -536,8 +536,8 @@
 	margin-right: -10000px;
 	margin-top: 5px;
 	left: 5px;
-	background: transparent url("../images/avatar-2-ieu1292-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/avatar-2.png") no-repeat center center;
+	background: transparent url("../images/avatar-3-circle-ieu1292-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/avatar-3-circle.png") no-repeat center center;
 	background-color: transparent;
 	background-size: cover;
 }
