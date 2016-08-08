@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000F0;
-	background-color: #A19974;
+	color: #0000F7;
+	background-color: #FE59C1;
 }
 
 #muse_css_mq
@@ -691,12 +691,18 @@
 #u12071
 {
 	z-index: 213;
-	width: 70px;
+	width: 72px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 43px;
 	left: 9px;
+}
+
+#u12071_img
+{
+	margin-left: -4px;
+	margin-right: -3px;
 }
 
 #u1351-51
