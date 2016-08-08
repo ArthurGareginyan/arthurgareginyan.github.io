@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001B;
-	background-color: #17DAC9;
+	color: #0000E2;
+	background-color: #AE44E9;
 }
 
 #muse_css_mq
@@ -498,7 +498,7 @@
 
 #u10761
 {
-	z-index: 71;
+	z-index: 69;
 	width: 92px;
 	position: relative;
 	margin-right: -10000px;
@@ -515,7 +515,7 @@
 
 #u10843
 {
-	z-index: 73;
+	z-index: 71;
 	width: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -524,14 +524,14 @@
 
 #u410-10
 {
-	z-index: 75;
+	z-index: 73;
 	width: 662px;
 	min-height: 143px;
 	background-color: transparent;
 	color: #736357;
-	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
+	line-height: 46px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -542,7 +542,7 @@
 
 #u1894
 {
-	z-index: 126;
+	z-index: 124;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -557,7 +557,7 @@
 
 #u435
 {
-	z-index: 127;
+	z-index: 125;
 	width: 199px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -570,7 +570,7 @@
 
 #u437
 {
-	z-index: 128;
+	z-index: 126;
 	width: 189px;
 	height: 189px;
 	border-radius: 125px;
@@ -593,7 +593,7 @@
 
 #u412
 {
-	z-index: 85;
+	z-index: 83;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -608,14 +608,14 @@
 
 #u419-5
 {
-	z-index: 91;
+	z-index: 89;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -626,7 +626,7 @@
 
 #u416
 {
-	z-index: 88;
+	z-index: 86;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -641,14 +641,14 @@
 
 #u422-5
 {
-	z-index: 106;
+	z-index: 104;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -659,7 +659,7 @@
 
 #u9685
 {
-	z-index: 68;
+	z-index: 66;
 	width: 59px;
 	min-height: 59px;
 	position: relative;
@@ -683,7 +683,7 @@
 
 #u415
 {
-	z-index: 87;
+	z-index: 85;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -695,14 +695,14 @@
 
 #u420-5
 {
-	z-index: 96;
+	z-index: 94;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -713,7 +713,7 @@
 
 #u414
 {
-	z-index: 86;
+	z-index: 84;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -726,14 +726,14 @@
 
 #u421-5
 {
-	z-index: 101;
+	z-index: 99;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -744,7 +744,7 @@
 
 #u2571
 {
-	z-index: 67;
+	z-index: 65;
 	width: 210px;
 	min-height: 98px;
 	position: relative;
@@ -754,7 +754,7 @@
 
 #u417
 {
-	z-index: 89;
+	z-index: 87;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -769,14 +769,14 @@
 
 #u423-7
 {
-	z-index: 111;
+	z-index: 109;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -787,7 +787,7 @@
 
 #u418
 {
-	z-index: 90;
+	z-index: 88;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -802,14 +802,14 @@
 
 #u424-8
 {
-	z-index: 118;
+	z-index: 116;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
 	color: #777777;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -882,7 +882,7 @@
 
 #u10715
 {
-	z-index: 69;
+	z-index: 67;
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
@@ -910,24 +910,24 @@
 	left: -100px;
 }
 
-#u199-6
+#u199-4
 {
 	z-index: 61;
 	width: 941px;
-	min-height: 40px;
+	min-height: 28px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 25px;
+	margin-top: 37px;
 	left: 100px;
 }
 
-#u199-6:hover
+#u199-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 40px;
+	min-height: 28px;
 	width: 941px;
-	margin: 25px -10000px 0px 0px;
+	margin: 37px -10000px 0px 0px;
 }
 
 .js body

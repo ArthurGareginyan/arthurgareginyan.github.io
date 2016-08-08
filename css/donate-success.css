@@ -1,7 +1,7 @@
 .version.donate_success /* version checker */
 {
-	color: #0000F4;
-	background-color: #1C261F;
+	color: #000005;
+	background-color: #66E1BC;
 }
 
 #muse_css_mq
@@ -498,7 +498,7 @@
 
 #u10761
 {
-	z-index: 71;
+	z-index: 69;
 	width: 92px;
 	position: relative;
 	margin-right: -10000px;
@@ -508,7 +508,7 @@
 
 #u10843
 {
-	z-index: 73;
+	z-index: 71;
 	width: 39px;
 	margin-left: 942px;
 	margin-top: 11px;
@@ -524,7 +524,7 @@
 
 #u9685
 {
-	z-index: 68;
+	z-index: 66;
 	width: 59px;
 	min-height: 59px;
 	position: relative;
@@ -535,13 +535,13 @@
 
 #u5355-10
 {
-	z-index: 75;
+	z-index: 73;
 	width: 573px;
 	min-height: 56px;
 	background-color: transparent;
-	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	line-height: 26px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -552,7 +552,7 @@
 
 #u9716
 {
-	z-index: 85;
+	z-index: 83;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -567,7 +567,7 @@
 
 #u9717
 {
-	z-index: 86;
+	z-index: 84;
 	width: 199px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -579,7 +579,7 @@
 
 #u9718
 {
-	z-index: 87;
+	z-index: 85;
 	width: 189px;
 	height: 189px;
 	border-radius: 125px;
@@ -593,7 +593,7 @@
 
 #u2571
 {
-	z-index: 67;
+	z-index: 65;
 	width: 210px;
 	min-height: 98px;
 	margin-left: 832px;
@@ -650,7 +650,7 @@
 
 #u10715
 {
-	z-index: 69;
+	z-index: 67;
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
@@ -678,24 +678,24 @@
 	left: -100px;
 }
 
-#u199-6
+#u199-4
 {
 	z-index: 61;
 	width: 941px;
-	min-height: 40px;
+	min-height: 28px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 25px;
+	margin-top: 37px;
 	left: 100px;
 }
 
-#u199-6:hover
+#u199-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 40px;
+	min-height: 28px;
 	width: 941px;
-	margin: 25px -10000px 0px 0px;
+	margin: 37px -10000px 0px 0px;
 }
 
 .js body

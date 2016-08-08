@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #0000F7;
-	background-color: #3FC94B;
+	color: #0000E8;
+	background-color: #A33EAC;
 }
 
 #muse_css_mq
@@ -498,7 +498,7 @@
 
 #u10761
 {
-	z-index: 71;
+	z-index: 69;
 	width: 92px;
 	position: relative;
 	margin-right: -10000px;
@@ -515,7 +515,7 @@
 
 #u1896
 {
-	z-index: 154;
+	z-index: 152;
 	width: 190px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -528,7 +528,7 @@
 
 #u1292
 {
-	z-index: 155;
+	z-index: 153;
 	width: 181px;
 	height: 180px;
 	border-radius: 125px;
@@ -544,12 +544,12 @@
 
 #u1290-7
 {
-	z-index: 96;
+	z-index: 94;
 	width: 580px;
 	min-height: 123px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -560,7 +560,7 @@
 
 #u10843
 {
-	z-index: 73;
+	z-index: 71;
 	width: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -576,7 +576,7 @@
 
 #u2571
 {
-	z-index: 67;
+	z-index: 65;
 	width: 210px;
 	min-height: 98px;
 	position: relative;
@@ -587,7 +587,7 @@
 
 #u9685
 {
-	z-index: 68;
+	z-index: 66;
 	width: 59px;
 	min-height: 59px;
 	position: relative;
@@ -598,7 +598,7 @@
 
 #u1254-19
 {
-	z-index: 75;
+	z-index: 73;
 	width: 898px;
 	background-color: transparent;
 	font-family: bitter, serif;
@@ -642,7 +642,7 @@
 
 #u1267
 {
-	z-index: 94;
+	z-index: 92;
 	width: 41px;
 	background-color: transparent;
 	position: relative;
@@ -653,7 +653,7 @@
 
 #u1351-51
 {
-	z-index: 103;
+	z-index: 101;
 	width: 898px;
 	min-height: 78px;
 	background-color: transparent;
@@ -686,7 +686,7 @@
 
 #u1961-28
 {
-	z-index: 156;
+	z-index: 154;
 	width: 898px;
 	min-height: 81px;
 	background-color: transparent;
@@ -762,7 +762,7 @@
 
 #u10715
 {
-	z-index: 69;
+	z-index: 67;
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
@@ -790,24 +790,24 @@
 	left: -100px;
 }
 
-#u199-6
+#u199-4
 {
 	z-index: 61;
 	width: 941px;
-	min-height: 40px;
+	min-height: 28px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 25px;
+	margin-top: 37px;
 	left: 100px;
 }
 
-#u199-6:hover
+#u199-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 40px;
+	min-height: 28px;
 	width: 941px;
-	margin: 25px -10000px 0px 0px;
+	margin: 37px -10000px 0px 0px;
 }
 
 .js body

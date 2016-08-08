@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
 	color: #0000E7;
-	background-color: #8628C4;
+	background-color: #8F5B0F;
 }
 
 #muse_css_mq
@@ -499,7 +499,7 @@
 
 #u10761
 {
-	z-index: 71;
+	z-index: 69;
 	width: 92px;
 	position: relative;
 	margin-right: -10000px;
@@ -516,7 +516,7 @@
 
 #u2571
 {
-	z-index: 67;
+	z-index: 65;
 	width: 210px;
 	min-height: 98px;
 	position: relative;
@@ -527,7 +527,7 @@
 
 #u9685
 {
-	z-index: 68;
+	z-index: 66;
 	width: 59px;
 	min-height: 59px;
 	position: relative;
@@ -538,7 +538,7 @@
 
 #u10843
 {
-	z-index: 73;
+	z-index: 71;
 	width: 39px;
 	position: relative;
 	margin-right: -10000px;
@@ -548,7 +548,7 @@
 
 #u1250-37
 {
-	z-index: 75;
+	z-index: 73;
 	width: 898px;
 	min-height: 695px;
 	background-color: transparent;
@@ -582,14 +582,14 @@
 
 #u1251-4
 {
-	z-index: 112;
+	z-index: 110;
 	width: 898px;
 	min-height: 34px;
 	background-color: transparent;
 	color: #0092C4;
-	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -644,7 +644,7 @@
 
 #u10715
 {
-	z-index: 69;
+	z-index: 67;
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
@@ -672,24 +672,24 @@
 	left: -100px;
 }
 
-#u199-6
+#u199-4
 {
 	z-index: 61;
 	width: 941px;
-	min-height: 40px;
+	min-height: 28px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 25px;
+	margin-top: 37px;
 	left: 100px;
 }
 
-#u199-6:hover
+#u199-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 40px;
+	min-height: 28px;
 	width: 941px;
-	margin: 25px -10000px 0px 0px;
+	margin: 37px -10000px 0px 0px;
 }
 
 .js body
