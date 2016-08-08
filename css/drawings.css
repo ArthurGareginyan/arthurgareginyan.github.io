@@ -1,7 +1,7 @@
 .version.drawings /* version checker */
 {
-	color: #0000F6;
-	background-color: #3AC264;
+	color: #000007;
+	background-color: #E07C05;
 }
 
 #muse_css_mq
@@ -987,17 +987,6 @@
 	margin-left: 963px;
 	top: -414px;
 	margin-bottom: -59px;
-	position: relative;
-}
-
-#u2571
-{
-	z-index: 65;
-	width: 210px;
-	min-height: 98px;
-	margin-left: 832px;
-	top: -325px;
-	margin-bottom: -98px;
 	position: relative;
 }
 
@@ -2699,18 +2688,13 @@
 	left: 47px;
 }
 
-#u1125_position_content
-{
-	margin-bottom: -33px;
-	width: 100%;
-}
-
 #u1126
 {
 	z-index: 58;
 	width: 942px;
 	height: 35px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u1126:hover
@@ -2718,7 +2702,7 @@
 	width: 942px;
 	height: 35px;
 	min-height: 0px;
-	margin: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u1842
@@ -2726,8 +2710,22 @@
 	z-index: 59;
 	width: 995px;
 	min-height: 102px;
-	left: -16px;
+	margin-bottom: -33px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: -16px;
+}
+
+#u2571
+{
+	z-index: 65;
+	width: 210px;
+	min-height: 98px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: 832px;
 }
 
 #u10715

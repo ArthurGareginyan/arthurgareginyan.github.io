@@ -49,8 +49,13 @@
 }
 
 
-#u1380-11,#u1423-4
+#u1290-15,#u1254-22,#u12055-16,#u1351-51
 {
 	font-family: bitter-n4, serif;
+}
+
+#u1351-46 > #u1351-23:before,#u1351-46 > #u1351-25:before,#u1351-46 > #u1351-27:before,#u1351-46 > #u1351-29:before,#u1351-46 > #u1351-31:before,#u1351-46 > #u1351-33:before,#u1351-46 > #u1351-35:before,#u1351-46 > #u1351-37:before,#u1351-46 > #u1351-39:before,#u1351-46 > #u1351-41:before,#u1351-46 > #u1351-43:before,#u1351-46 > #u1351-45:before
+{
+	font-family: bitter-n4, Georgia;
 }
 

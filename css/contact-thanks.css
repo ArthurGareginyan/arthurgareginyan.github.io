@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #0000F9;
-	background-color: #9C28F7;
+	color: #000011;
+	background-color: #C9565F;
 }
 
 #muse_css_mq
@@ -563,21 +563,11 @@
 	position: relative;
 }
 
-#u2571
-{
-	z-index: 65;
-	width: 210px;
-	min-height: 98px;
-	margin-left: 832px;
-	margin-top: 30px;
-	position: relative;
-}
-
 #pu1125
 {
 	width: 0.01px;
 	margin-left: -47px;
-	margin-top: 73px;
+	margin-top: 201px;
 }
 
 #u1125
@@ -589,18 +579,13 @@
 	left: 47px;
 }
 
-#u1125_position_content
-{
-	margin-bottom: -33px;
-	width: 100%;
-}
-
 #u1126
 {
 	z-index: 58;
 	width: 942px;
 	height: 35px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u1126:hover
@@ -608,7 +593,7 @@
 	width: 942px;
 	height: 35px;
 	min-height: 0px;
-	margin: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u1842
@@ -616,8 +601,22 @@
 	z-index: 59;
 	width: 995px;
 	min-height: 102px;
-	left: -16px;
+	margin-bottom: -33px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: -16px;
+}
+
+#u2571
+{
+	z-index: 65;
+	width: 210px;
+	min-height: 98px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: 832px;
 }
 
 #u10715
