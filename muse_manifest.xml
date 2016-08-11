@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1470696761140">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1470892471143">
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
-    <file name="master_main.css" crc="379551222" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
+    <file name="master_main.css" crc="4212409525" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="master_project-page.css" crc="3919437180" ref="website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:theme-simple-notepad:website-vipmegastar:website-studiokr:theme-fashion-style:theme-white-knight:theme-anarcho-notepad:theme-my-business-card:theme-authors-notepad:website-arthurgareginyan:website-milenakiseleva.github.io:website-bmwz3brutality:theme-circus:website-bizconsultinghub.com:website-circuscostume-2:plugin-my-custom-styles-pro"/>
     <file name="website-milenakiseleva.css" crc="3976608677" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="4059244162" ref="website-anarchohosting"/>
@@ -35,7 +35,7 @@
     <file name="iefonts_theme-authors-notepad.css" crc="3783769563" ref="theme-authors-notepad"/>
     <file name="website-arthurgareginyan.css" crc="295466983" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="4085112838" ref="website-milenakiseleva.github.io"/>
-    <file name="portfolio.css" crc="3894210387" ref="portfolio"/>
+    <file name="portfolio.css" crc="4169570462" ref="portfolio"/>
     <file name="website-bmwz3brutality.css" crc="3782286349" ref="website-bmwz3brutality"/>
     <file name="theme-circus.css" crc="3843222976" ref="theme-circus"/>
     <file name="iefonts_theme-circus.css" crc="4116236437" ref="theme-circus"/>
@@ -88,14 +88,14 @@
     <file name="circus (master-1).jpg" crc="3996165462" ref="portfolio:theme-circus"/>
     <file name="screenshot-u1303-fr.jpg" crc="4101786434" ref="portfolio"/>
     <file name="screenshot.png" crc="437435627" ref="theme-white-knight" seo="true"/>
-    <file name="icon-256x256.png" crc="312516791" ref="portfolio"/>
+    <file name="icon-256x256.png" crc="3886611133" ref="portfolio"/>
     <file name="icon-256x256-u1307-fr.png" crc="4069716506" ref="portfolio"/>
     <file name="icon-256x256-u1306-fr.png" crc="4085080279" ref="portfolio"/>
     <file name="icon-256x256-u1305-fr.png" crc="107146303" ref="portfolio"/>
     <file name="icon-256x256-u1316-fr.png" crc="479497206" ref="portfolio"/>
     <file name="icon-256x256-u2547-fr.png" crc="212554960" ref="portfolio"/>
     <file name="icon-256x256-u5246-fr.png" crc="194476049" ref="portfolio"/>
-    <file name="icon-512x512.png" crc="494995806" ref="portfolio"/>
+    <file name="icon-512x512.png" crc="217687086" ref="portfolio"/>
     <file name="icon-256x256-u6240-fr.png" crc="4081675746" ref="portfolio"/>
     <file name="mycyberuniverse.jpg" crc="4237882221" ref="portfolio:website-mycyberuniverse"/>
     <file name="oneberserkblogspotcom(full).jpg" crc="3786313136" ref="portfolio"/>
@@ -231,7 +231,7 @@
   </folder>
   <file name="index.html" crc="31371282" seo="true" mt="1470643345928" redirect="true"/>
   <file name="resume.html" crc="4175428663" seo="true" mt="1470677213799" redirect="true"/>
-  <file name="portfolio.html" crc="364194646" seo="true" mt="1470661453132" redirect="true"/>
+  <file name="portfolio.html" crc="4200617951" seo="true" mt="1470892468573" redirect="true"/>
   <file name="about-me.html" crc="455031237" seo="true" mt="1470696622157" redirect="true"/>
   <file name="donate.html" crc="4069683339" seo="true" mt="1470643345928" redirect="true"/>
   <file name="contact.html" crc="4144839572" seo="true" mt="1470643345928" redirect="true"/>
