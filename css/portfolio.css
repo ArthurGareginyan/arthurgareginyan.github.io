@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000F2;
-	background-color: #2C3BEF;
+	color: #000018;
+	background-color: #EDA053;
 }
 
 #muse_css_mq
@@ -855,57 +855,18 @@
 	left: 621px;
 }
 
-#pu5498
+#ppu1303
 {
 	width: 0.01px;
 	margin-left: 37px;
 	margin-top: 30px;
 }
 
-#u5498
+#pu1303
 {
-	z-index: 188;
-	width: 240px;
-	-pie-box-shadow: 6px 6px 8px #7F7F7F;
-	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	border-style: solid;
-	border-width: 5px;
-	border-color: #FFFFFF;
-	padding-bottom: 3px;
-	margin-bottom: -3px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -2px;
-	left: -2px;
-	background: #FFFFFF url("../images/circus%20(master-1).jpg") no-repeat center top;
-	background-size: cover;
-}
-
-#u5498:hover
-{
-	background-repeat: no-repeat;
-	background-position: center top;
-	width: 240px;
-	min-height: 0px;
-	margin: -2px -10000px -3px 0px;
-	background-size: cover;
-}
-
-#u5500-7
-{
-	z-index: 193;
-	width: 245px;
-	min-height: 179px;
-	background-color: transparent;
-	line-height: 24px;
-	text-align: center;
-	font-size: 20px;
-	font-family: bitter, serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -3px;
-	left: -3px;
+	width: 0.01px;
+	padding-bottom: 1px;
+	margin: -2px -10000px -2px 310px;
 }
 
 #u1303
@@ -918,11 +879,7 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	padding-bottom: 3px;
-	margin-bottom: -2px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: -2px;
-	left: 310px;
 	background: #FFFFFF url("../images/screenshot-u1303-fr.jpg") no-repeat center center;
 	background-size: contain;
 }
@@ -933,7 +890,7 @@
 	background-position: center center;
 	width: 240px;
 	min-height: 0px;
-	margin: -2px -10000px -2px 0px;
+	margin: 0px;
 	background-size: contain;
 }
 
@@ -954,7 +911,7 @@
 	left: -3px;
 }
 
-#u5308-10:hover,#u5305-7:hover,#u6272-7:hover,#u5500-7:hover,#u5314-7:hover
+#u5308-10:hover,#u5305-7:hover,#u6272-7:hover,#u5314-7:hover
 {
 	text-shadow: 0px 0px 8px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,0.5);
 	-pie-box-shadow: none;
@@ -966,18 +923,54 @@
 	margin: -3px -10000px 0px 0px;
 }
 
-#u5305-7:hover p,#u6272-7:hover p,#u5500-7:hover p,#u5314-7:hover p
+#u5269-4
 {
-	color: #FFFFFF;
-	visibility: inherit;
-	padding-top: 0px;
+	z-index: 115;
+	width: 240px;
+	min-height: 18px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	top: -6px;
+	margin-bottom: -6px;
+	position: relative;
 }
 
-#pu5499-4
+#u5498
 {
-	width: 0.01px;
-	margin-left: 37px;
-	margin-top: -1px;
+	z-index: 188;
+	width: 240px;
+	height: 179px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: -2px;
+	background: #FFFFFF url("../images/circus%20(master-1)-u5498-fr.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u5498:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 240px;
+	height: 179px;
+	min-height: 0px;
+	margin: -2px -10000px 0px 0px;
+	background-size: cover;
 }
 
 #u5499-4
@@ -999,31 +992,44 @@
 	margin-bottom: -3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
+	margin-top: 182px;
 	left: -2px;
 }
 
-#u5269-4
+#u5500-7
 {
-	z-index: 115;
-	width: 240px;
-	min-height: 18px;
-	-pie-box-shadow: 6px 6px 8px #7F7F7F;
-	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	border-style: solid;
-	border-width: 5px;
-	border-color: #FFFFFF;
-	background-color: #FFFFFF;
-	line-height: 22px;
+	z-index: 193;
+	width: 245px;
+	min-height: 179px;
+	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
-	font-size: 18px;
+	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -2px;
-	left: 310px;
+	margin-top: 24px;
+	left: 58px;
+}
+
+#u5500-7:hover
+{
+	text-shadow: 0px 0px 8px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 179px;
+	width: 245px;
+	margin: 24px -10000px 0px 0px;
+}
+
+#u5305-7:hover p,#u6272-7:hover p,#u5314-7:hover p,#u5500-7:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	padding-top: 0px;
 }
 
 #u1301-7
@@ -1699,7 +1705,7 @@
 	background-size: cover;
 }
 
-#u1302:hover::before,#u1304:hover::before,#u6270:hover::before,#u5498:hover::before,#u1303:hover::before,#u1308:hover::before,#u1309:hover::before,#u1560:hover::before,#u1310:hover::before,#u1311:hover::before,#u1539:hover::before,#u1313:hover::before,#u1312:hover::before,#u1541:hover::before,#u1540:hover::before,#u5440:hover::before,#u9473:hover::before,#u9640:hover::before
+#u1302:hover::before,#u1304:hover::before,#u6270:hover::before,#u1303:hover::before,#u5498:hover::before,#u1308:hover::before,#u1309:hover::before,#u1560:hover::before,#u1310:hover::before,#u1311:hover::before,#u1539:hover::before,#u1313:hover::before,#u1312:hover::before,#u1541:hover::before,#u1540:hover::before,#u5440:hover::before,#u9473:hover::before,#u9640:hover::before
 {
 	content: "";
 	position: absolute;
@@ -1858,7 +1864,7 @@
 	margin: 37px -10000px 0px 0px;
 }
 
-#u5308,#u5308-2,#u5308-3,#u5308-5,#u5308-6,#u5308-8,#u5305,#u5305-2,#u5305-3,#u5305-5,#u6272,#u6272-2,#u6272-3,#u6272-5,#u5500,#u5500-2,#u5500-3,#u5500-5,#u5314,#u5314-2,#u5314-3,#u5314-5,.js body
+#u5308,#u5308-2,#u5308-3,#u5308-5,#u5308-6,#u5308-8,#u5305,#u5305-2,#u5305-3,#u5305-5,#u6272,#u6272-2,#u6272-3,#u6272-5,#u5314,#u5314-2,#u5314-3,#u5314-5,#u5500,#u5500-2,#u5500-3,#u5500-5,.js body
 {
 	visibility: hidden;/* 100% transparent text is hidden */
 }

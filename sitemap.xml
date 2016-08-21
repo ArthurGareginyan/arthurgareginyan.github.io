@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.arthurgareginyan.com/images/circus%20(master-1).jpg</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.arthurgareginyan.com/images/screenshot.png</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -865,12 +871,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.arthurgareginyan.com/theme-circus.html</loc>
-    <lastmod>2016-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.arthurgareginyan.com/theme-simple-notepad.html</loc>
     <lastmod>2016-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -914,6 +914,12 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/example.html</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/theme-circus-tent.html</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
