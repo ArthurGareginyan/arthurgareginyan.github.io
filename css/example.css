@@ -4,8 +4,8 @@
 
 .version.example /* version checker */
 {
-	color: #0000EE;
-	background-color: #7FA2C1;
+	color: #0000E7;
+	background-color: #1C6501;
 }
 
 #page
@@ -25,6 +25,12 @@
 {
 	margin-bottom: -1px;
 	width: 0.01px;/* should not cover content below */
+}
+
+#u13105
+{
+	z-index: 9;
+	min-height: 152px;
 }
 
 #u13099
@@ -65,7 +71,7 @@
 	visibility: visible;
 }
 
-#u13105,#u13105-bw
+#u13105-bw
 {
 	z-index: 9;
 	min-height: 152px;

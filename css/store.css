@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #0000E9;
-	background-color: #86DC73;
+	color: #0000E1;
+	background-color: #672B29;
 }
 
 #muse_css_mq
@@ -739,7 +739,7 @@
 	margin-right: -10000px;
 	left: 613px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/preview2.jpg") no-repeat center top;
+	background: transparent url("../images/preview.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -942,7 +942,7 @@
 	position: relative;
 	margin-right: -10000px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/circus%20(master-1)2.jpg") no-repeat center top;
+	background: transparent url("../images/circus%20(master-1).jpg") no-repeat center top;
 	background-size: cover;
 }
 

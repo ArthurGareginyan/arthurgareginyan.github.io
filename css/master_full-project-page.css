@@ -3,6 +3,18 @@
 	background: #4E3B5B url("../images/github-fork.png") no-repeat right top;
 }
 
+#u13105::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 130px rgba(0,0,0,0.3), inset 0px 0px 130px rgba(0,0,0,0.3);
+}
+
 #u12412-3
 {
 	border-style: solid;

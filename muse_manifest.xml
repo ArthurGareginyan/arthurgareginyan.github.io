@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1471818868782">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1471823545288">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -40,20 +40,20 @@
     <file name="iefonts_theme-authors-notepad.css" crc="3783769563" ref="theme-authors-notepad"/>
     <file name="website-arthurgareginyan.css" crc="295466983" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="4085112838" ref="website-milenakiseleva.github.io"/>
-    <file name="portfolio.css" crc="3782879794" ref="portfolio"/>
+    <file name="portfolio.css" crc="324608986" ref="portfolio"/>
     <file name="website-bmwz3brutality.css" crc="3782286349" ref="website-bmwz3brutality"/>
     <file name="drawings.css" crc="132152325" ref="drawings"/>
     <file name="website-bizconsultinghub_com.css" crc="125021910" ref="website-bizconsultinghub.com"/>
     <file name="website-circuscostume-2.css" crc="3958863432" ref="website-circuscostume-2"/>
     <file name="donate-success.css" crc="4136289028" ref="donate-success"/>
     <file name="iefonts_contact-thanks.css" crc="4032743377" ref="contact-thanks"/>
-    <file name="store.css" crc="3917929587" ref="store"/>
+    <file name="store.css" crc="3781634857" ref="store"/>
     <file name="iefonts_store.css" crc="256014897" ref="store"/>
     <file name="plugin-my-custom-styles-pro.css" crc="4140419770" ref="plugin-my-custom-styles-pro"/>
     <file name="iefonts_plugin-my-custom-styles-pro.css" crc="266758001" ref="plugin-my-custom-styles-pro"/>
     <file name="iefonts_about-me.css" crc="3989560388" ref="about-me"/>
-    <file name="master_full-project-page.css" crc="188211984" ref="example"/>
-    <file name="example.css" crc="4001342145" ref="example"/>
+    <file name="master_full-project-page.css" crc="4016697068" ref="example"/>
+    <file name="example.css" crc="3877397761" ref="example"/>
     <file name="iefonts_example.css" crc="497329825" ref="example"/>
     <file name="master_mini-project-page.css" crc="3919437180" ref="theme-circus-tent"/>
     <file name="theme-circus-tent.css" crc="3843222976" ref="theme-circus-tent"/>
@@ -93,9 +93,8 @@
     <file name="scan 4178x251.jpg" crc="3773730251" seo="true" ref="resume"/>
     <file name="scan 5178x251.jpg" crc="4157742973" seo="true" ref="resume"/>
     <file name="loading.gif" crc="3815509949" ref="resume:drawings:example"/>
-    <file name="screenshot.jpg" crc="3831060545" ref="portfolio:store"/>
-    <file name="circus (master-1).jpg" crc="3996165462" ref="theme-circus-tent" seo="true"/>
-    <file name="screenshot-u1303-fr.jpg" crc="4101786434" ref="portfolio"/>
+    <file name="screenshot.jpg" crc="4237108792" ref="store"/>
+    <file name="circus (master-1).jpg" crc="491004501" ref="theme-circus-tent:store"/>
     <file name="screenshot.png" crc="437435627" ref="theme-white-knight" seo="true"/>
     <file name="icon-256x256.png" crc="45282266" ref="store"/>
     <file name="icon-512x512.png" crc="517244671" ref="store"/>
@@ -114,7 +113,7 @@
     <file name="404.png" crc="3823096910" seo="true" ref="404"/>
     <file name="screenshot2.jpg" crc="387431872" ref="theme-fashion-style:theme-my-business-card:store"/>
     <file name="anarcho-notepad-designe(old-notepad).png" crc="271019185" seo="true" ref="theme-anarcho-notepad"/>
-    <file name="authors-notepad-designe.jpg" crc="4280122262" ref="theme-authors-notepad:portfolio:store"/>
+    <file name="authors-notepad-designe.jpg" crc="3942511638" ref="theme-authors-notepad:store"/>
     <file name="oneberserkr.jpg" crc="3766109066" ref="website-oneberserkr"/>
     <file name="circus (master-2).jpg" crc="3883054578" seo="true" ref="theme-circus-tent"/>
     <file name="circus (master-3).jpg" crc="4006151272" seo="true" ref="theme-circus-tent"/>
@@ -201,7 +200,7 @@
     <file name="scan 52.jpg" crc="340349222" seo="true" ref="drawings"/>
     <file name="scan 46.jpg" crc="226316652" seo="true" ref="drawings"/>
     <file name="scan 322.jpg" crc="144345964" seo="true" ref="drawings"/>
-    <file name="preview.jpg" crc="65644357" ref="portfolio"/>
+    <file name="preview.jpg" crc="134036309" ref="store"/>
     <file name="favicon.ico" crc="417939427" ref="index:theme-authors-notepad:portfolio:resume"/>
     <file name="follow-me.png" crc="456279628" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-download-2.png" crc="337935577" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
@@ -211,8 +210,6 @@
     <file name="02_blog-2.jpg" crc="108334108" seo="true" ref="theme-simple-notepad"/>
     <file name="01_blog-1.jpg" crc="4200743968" seo="true" ref="theme-simple-notepad"/>
     <file name="icon-256x2562.png" crc="174179984" ref="store"/>
-    <file name="preview2.jpg" crc="134036309" ref="store"/>
-    <file name="circus (master-1)2.jpg" crc="491004501" ref="store"/>
     <file name="icon-256x2563.png" crc="3886611133" ref="store"/>
     <file name="4.jpg" crc="522287599" seo="true" ref="plugin-my-custom-styles-pro"/>
     <file name="screen shot 2016-07-07 at 103731 pm.jpg" crc="130362964" seo="true" ref="plugin-my-custom-styles-pro"/>
@@ -252,10 +249,14 @@
     <file name="quote_right.png" crc="3776863807" seo="true" ref="example"/>
     <file name="most-popular.png" crc="3865320305" seo="true" ref="example"/>
     <file name="circus (master-1)-u5498-fr.jpg" crc="4243279135" ref="portfolio"/>
+    <file name="screenshot-u1302-fr.jpg" crc="3831060545" ref="portfolio"/>
+    <file name="play-mini.png" crc="27423749" ref="portfolio"/>
+    <file name="authors-notepad-designe-u1304-fr.jpg" crc="384667820" ref="portfolio"/>
+    <file name="preview-u6270-fr.jpg" crc="134036309" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="31371282" seo="true" mt="1470643345928" redirect="true"/>
   <file name="resume.html" crc="4175428663" seo="true" mt="1470677213799" redirect="true"/>
-  <file name="portfolio.html" crc="127792248" seo="true" mt="1471818853056" redirect="true"/>
+  <file name="portfolio.html" crc="3917436702" seo="true" mt="1471823539695" redirect="true"/>
   <file name="about-me.html" crc="455031237" seo="true" mt="1470696622157" redirect="true"/>
   <file name="donate.html" crc="4069683339" seo="true" mt="1470643345928" redirect="true"/>
   <file name="contact.html" crc="4144839572" seo="true" mt="1470643345928" redirect="true"/>
@@ -283,8 +284,8 @@
   <file name="website-bizconsultinghub.com.html" crc="270925142" seo="true" mt="1467110647043" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="3880229116" seo="true" mt="1467110647043" redirect="true"/>
   <file name="donate-success.html" crc="358067522" seo="true" mt="1470643345928" redirect="true"/>
-  <file name="store.html" crc="4138986760" seo="true" mt="1471818360075" redirect="true"/>
+  <file name="store.html" crc="4138986760" seo="true" mt="1471823539753" redirect="true"/>
   <file name="plugin-my-custom-styles-pro.html" crc="3804177794" seo="true" mt="1468187714674" redirect="true"/>
-  <file name="example.html" crc="4155744961" seo="true" mt="1471818302371" redirect="true"/>
+  <file name="example.html" crc="3793339392" seo="true" mt="1471821626303" redirect="true"/>
   <file name="theme-circus-tent.html" crc="4014900212" seo="true" mt="1471818731257" redirect="true"/>
 </manifest>
