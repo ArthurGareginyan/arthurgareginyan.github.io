@@ -1,7 +1,7 @@
 .version.website_arthurgareginyan /* version checker */
 {
-	color: #000011;
-	background-color: #9C77E7;
+	color: #0000E8;
+	background-color: #C89994;
 }
 
 #muse_css_mq
@@ -76,8 +76,8 @@
 	width: 600px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -118,8 +118,8 @@
 	width: 600px;
 	min-height: 66px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

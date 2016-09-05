@@ -1,7 +1,7 @@
 .version.drawings /* version checker */
 {
-	color: #000007;
-	background-color: #E07C05;
+	color: #0000F6;
+	background-color: #FD9A54;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 682.5682995944535px;
+	min-height: 682.6682995944539px;
 	border-width: 0px;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -569,10 +569,10 @@
 	background-color: transparent;
 	color: #0093C4;
 	text-align: left;
-	font-size: 25px;
-	line-height: 30px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	font-size: 28px;
+	line-height: 34px;
+	font-family: buenard, serif;
+	font-weight: 700;
 	margin-left: 22px;
 	margin-top: 25px;
 	position: relative;
@@ -998,10 +998,10 @@
 	background-color: transparent;
 	color: #0093C4;
 	text-align: left;
-	font-size: 25px;
-	line-height: 30px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	font-size: 28px;
+	line-height: 34px;
+	font-family: buenard, serif;
+	font-weight: 700;
 	margin-left: 22px;
 	margin-top: 87px;
 	position: relative;
@@ -1903,12 +1903,12 @@
 	background-color: transparent;
 	color: #0093C4;
 	text-align: left;
-	font-size: 25px;
-	line-height: 30px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	font-size: 28px;
+	line-height: 34px;
+	font-family: buenard, serif;
+	font-weight: 700;
 	margin-left: 22px;
-	margin-top: 47px;
+	margin-top: 82px;
 	position: relative;
 }
 
@@ -1918,6 +1918,7 @@
 	width: 0.01px;
 	height: 250px;
 	margin-left: 59px;
+	margin-top: 1px;
 	position: relative;
 }
 
@@ -2155,12 +2156,12 @@
 	background-color: transparent;
 	color: #0093C4;
 	text-align: left;
-	font-size: 25px;
-	line-height: 30px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	font-size: 28px;
+	line-height: 34px;
+	font-family: buenard, serif;
+	font-weight: 700;
 	margin-left: 22px;
-	margin-top: 57px;
+	margin-top: 82px;
 	position: relative;
 }
 
@@ -2170,6 +2171,7 @@
 	width: 0.01px;
 	height: 248px;
 	margin-left: 59px;
+	margin-top: 23px;
 	position: relative;
 }
 
@@ -2417,7 +2419,7 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
-	margin-top: 56px;
+	margin-top: 87px;
 	position: relative;
 }
 
@@ -2427,6 +2429,7 @@
 	width: 0.01px;
 	height: 264px;
 	margin-left: 59px;
+	margin-top: 23px;
 	position: relative;
 }
 
