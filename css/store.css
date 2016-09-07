@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #0000EA;
-	background-color: #BF25BA;
+	color: #0000E6;
+	background-color: #92B5EE;
 }
 
 #muse_css_mq
@@ -716,6 +716,7 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
+	padding-right: 0px;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	vertical-align: 0px;
@@ -724,7 +725,6 @@
 	text-transform: none;
 	text-decoration: none;
 	text-indent: 0px;
-	padding-right: 0px;
 	font-weight: normal;
 	font-style: normal;
 }
