@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1473182804599">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1473237793732">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -49,7 +49,7 @@
     <file name="iefonts_contact-thanks.css" crc="4032743377" ref="contact-thanks"/>
     <file name="store.css" crc="3938395578" ref="store"/>
     <file name="iefonts_store.css" crc="4092397296" ref="store"/>
-    <file name="plugin-my-custom-styles-pro.css" crc="4087164964" ref="plugin-my-custom-styles-pro"/>
+    <file name="plugin-my-custom-styles-pro.css" crc="369754031" ref="plugin-my-custom-styles-pro"/>
     <file name="iefonts_about-me.css" crc="4231937275" ref="about-me"/>
     <file name="master_mini-project-page.css" crc="3919437180" ref="theme-circus-tent:website-arthurgareginyan"/>
     <file name="theme-circus-tent.css" crc="3843222976" ref="theme-circus-tent"/>
@@ -204,7 +204,6 @@
     <file name="01_blog-1.jpg" crc="4200743968" seo="true" ref="theme-simple-notepad"/>
     <file name="icon-256x2562.png" crc="174179984" ref="store"/>
     <file name="icon-256x2563.png" crc="3886611133" ref="store"/>
-    <file name="2.jpg" crc="3827066954" seo="true" ref="plugin-my-custom-styles-pro"/>
     <file name="avatar-4-right copy-ieu437-fr.png" crc="471001612" ref="index"/>
     <file name="avatar-4-right copy.jpg" crc="512159174" ref="index"/>
     <file name="avatar-3-circle-ieu1292-fr.png" crc="110479818" ref="about-me"/>
@@ -219,10 +218,7 @@
     <file name="icon-512x5127.png" crc="4116730036" ref="store"/>
     <file name="icon-512x5128.png" crc="42120274" ref="store"/>
     <file name="icon-512x5129.png" crc="4197464893" ref="store"/>
-    <file name="1.jpg" crc="309153165" seo="true" ref="plugin-my-custom-styles-pro"/>
-    <file name="12.jpg" crc="3811668787" seo="true" ref="plugin-my-custom-styles-pro"/>
-    <file name="screen shot 2016-08-21 at 34815 am.jpg" crc="491943634" seo="true" ref="plugin-my-custom-styles-pro"/>
-    <file name="screen shot 2016-08-21 at 34815 am191x156.jpg" crc="3807563785" seo="true" ref="plugin-my-custom-styles-pro"/>
+    <file name="1.jpg" crc="3811668787" seo="true" ref="plugin-my-custom-styles-pro"/>
     <file name="most-popular.png" crc="3865320305" seo="true" ref="plugin-my-custom-styles-pro"/>
     <file name="circus (master-1)-u5498-fr.jpg" crc="4243279135" ref="portfolio"/>
     <file name="screenshot-u1302-fr.jpg" crc="3831060545" ref="portfolio"/>
@@ -242,11 +238,15 @@
     <file name="twitter_circle_gray-128.png" crc="247780762" seo="true" ref="plugin-my-custom-styles-pro"/>
     <file name="browser.png" crc="133673497" ref="plugin-my-custom-styles-pro"/>
     <file name="u15748-6.png" crc="112025787" ref="plugin-my-custom-styles-pro"/>
-    <file name="1-crop-u15734.jpg" crc="4175662474" ref="plugin-my-custom-styles-pro"/>
-    <file name="1-crop-u15732.jpg" crc="274340848" ref="plugin-my-custom-styles-pro"/>
-    <file name="2-crop-u15738.jpg" crc="45556060" ref="plugin-my-custom-styles-pro"/>
     <file name="u16407-grad.png" crc="3848456515" ref="plugin-my-custom-styles-pro"/>
     <file name="mcs-3.jpg" crc="338627194" ref="plugin-my-custom-styles-pro"/>
+    <file name="mcs-1.jpg" crc="4047440128" seo="true" ref="plugin-my-custom-styles-pro"/>
+    <file name="mcs-32.jpg" crc="4112373740" seo="true" ref="plugin-my-custom-styles-pro"/>
+    <file name="sidebar.png" crc="79290932" seo="true" ref="plugin-my-custom-styles-pro"/>
+    <file name="1-crop-u16772.jpg" crc="274340848" ref="plugin-my-custom-styles-pro"/>
+    <file name="mcs-1-crop-u16737.jpg" crc="393771331" ref="plugin-my-custom-styles-pro"/>
+    <file name="mcs-3-crop-u16809.jpg" crc="4033910188" ref="plugin-my-custom-styles-pro"/>
+    <file name="sidebar191x152.png" crc="437762917" seo="true" ref="plugin-my-custom-styles-pro"/>
   </folder>
   <file name="index.html" crc="31371282" seo="true" mt="1470643345928" redirect="true"/>
   <file name="resume.html" crc="457867192" seo="true" mt="1472062385166" redirect="true"/>
@@ -279,6 +279,6 @@
   <file name="website-circuscostume-2.html" crc="3880229116" seo="true" mt="1467110647043" redirect="true"/>
   <file name="donate-success.html" crc="358067522" seo="true" mt="1470643345928" redirect="true"/>
   <file name="store.html" crc="262405362" seo="true" mt="1473080526823" redirect="true"/>
-  <file name="plugin-my-custom-styles-pro.html" crc="3906016426" seo="true" mt="1473182803400" redirect="true"/>
+  <file name="plugin-my-custom-styles-pro.html" crc="318509463" seo="true" mt="1473237248214" redirect="true"/>
   <file name="theme-circus-tent.html" crc="4014900212" seo="true" mt="1471818731257" redirect="true"/>
 </manifest>

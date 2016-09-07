@@ -4,8 +4,8 @@
 
 .version.plugin_my_custom_styles_pro /* version checker */
 {
-	color: #0000F3;
-	background-color: #9D3024;
+	color: #000016;
+	background-color: #09FFAF;
 }
 
 #page
@@ -438,7 +438,7 @@
 	z-index: 248;
 }
 
-#u15723
+#u16766
 {
 	z-index: 249;
 	width: 1140px;
@@ -450,13 +450,13 @@
 	left: 22px;
 }
 
-#u15723_img
+#u16766_img
 {
-	padding-top: 198px;
-	padding-bottom: 198px;
+	padding-top: 92px;
+	padding-bottom: 92px;
 }
 
-#u15727
+#u16731
 {
 	z-index: 251;
 	width: 1140px;
@@ -468,13 +468,7 @@
 	left: 22px;
 }
 
-#u15727_img
-{
-	padding-top: 92px;
-	padding-bottom: 92px;
-}
-
-#u15729
+#u16803
 {
 	z-index: 253;
 	width: 1140px;
@@ -486,11 +480,10 @@
 	left: 22px;
 }
 
-#u15729_img
+#u16731_img,#u16803_img
 {
-	padding-top: 104px;
-	padding-right: 1px;
-	padding-bottom: 104px;
+	padding-top: 57px;
+	padding-bottom: 57px;
 }
 
 #u15725
@@ -507,7 +500,7 @@
 
 #u15725_img
 {
-	padding: 126px 260px 125px 261px;
+	padding: 124px 250px;
 }
 
 #u15731
@@ -524,7 +517,7 @@
 	z-index: 257;
 }
 
-#u15734
+#u16772
 {
 	z-index: 258;
 	width: 191px;
@@ -541,7 +534,7 @@
 	left: 40px;
 }
 
-#u15732
+#u16737
 {
 	z-index: 260;
 	width: 191px;
@@ -558,7 +551,7 @@
 	left: 263px;
 }
 
-#u15738
+#u16809
 {
 	z-index: 262;
 	width: 191px;
@@ -592,7 +585,7 @@
 	left: 709px;
 }
 
-#u15734:hover,#u15732:hover,#u15738:hover,#u15736:hover
+#u16772:hover,#u16737:hover,#u16809:hover,#u15736:hover
 {
 	border-color: #2C6C7A;
 	width: 191px;
@@ -603,8 +596,8 @@
 
 #u15736_img
 {
-	margin-top: -8px;
-	margin-bottom: -8px;
+	margin-top: -6px;
+	margin-bottom: -5px;
 }
 
 #u15715-4
