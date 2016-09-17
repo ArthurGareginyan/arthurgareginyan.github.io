@@ -1,7 +1,7 @@
 .version.drawings /* version checker */
 {
-	color: #0000F6;
-	background-color: #FD9A54;
+	color: #00001F;
+	background-color: #5FEC76;
 }
 
 #muse_css_mq
@@ -538,8 +538,8 @@
 	width: 898px;
 	min-height: 69px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-top: 6px;
@@ -551,10 +551,10 @@
 	color: #000000;
 }
 
-#u10843
+#u17325
 {
 	z-index: 71;
-	width: 39px;
+	width: 35px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -568,9 +568,9 @@
 	min-height: 49px;
 	background-color: transparent;
 	color: #0093C4;
+	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -960,8 +960,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -997,9 +997,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	color: #0093C4;
+	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -1826,8 +1826,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -453px;
 	left: -35px;
@@ -1845,8 +1845,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -453px;
 	left: 1170px;
@@ -1886,8 +1886,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1902,9 +1902,9 @@
 	min-height: 45px;
 	background-color: transparent;
 	color: #0093C4;
+	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -2139,8 +2139,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -2155,9 +2155,9 @@
 	min-height: 46px;
 	background-color: transparent;
 	color: #0093C4;
+	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -2397,8 +2397,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -2413,9 +2413,9 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #0093C4;
+	line-height: 30px;
 	text-align: left;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
@@ -2599,8 +2599,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 129px;
 	left: -45px;
@@ -2618,8 +2618,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 129px;
 	left: 1160px;
@@ -2667,8 +2667,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;

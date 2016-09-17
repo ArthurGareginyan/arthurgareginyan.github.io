@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F7;
-	background-color: #2FA095;
+	color: #000015;
+	background-color: #AD1AEF;
 }
 
 #muse_css_mq
@@ -506,17 +506,17 @@
 	left: 950px;
 }
 
-#pu10843
+#pu17325
 {
 	width: 0.01px;
 	margin-left: 47px;
 	margin-top: 11px;
 }
 
-#u10843
+#u17325
 {
 	z-index: 71;
-	width: 39px;
+	width: 35px;
 	position: relative;
 	margin-right: -10000px;
 	left: 895px;
@@ -529,9 +529,9 @@
 	min-height: 143px;
 	background-color: transparent;
 	color: #736357;
+	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
-	line-height: 46px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -613,9 +613,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -646,9 +646,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -689,9 +689,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -721,9 +721,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -761,9 +761,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -793,9 +793,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #777777;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

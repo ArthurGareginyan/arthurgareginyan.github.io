@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
 	color: #000011;
-	background-color: #C9565F;
+	background-color: #E5EE35;
 }
 
 #muse_css_mq
@@ -506,10 +506,10 @@
 	left: 950px;
 }
 
-#u10843
+#u17325
 {
 	z-index: 71;
-	width: 39px;
+	width: 35px;
 	margin-left: 942px;
 	margin-top: 11px;
 	position: relative;
@@ -521,8 +521,8 @@
 	width: 898px;
 	min-height: 56px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: bitter, serif;
 	margin-left: 22px;
 	margin-top: 56px;

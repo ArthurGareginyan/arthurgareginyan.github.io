@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #0000EB;
-	background-color: #D27B6B;
+	color: #00001E;
+	background-color: #E63D63;
 }
 
 #muse_css_mq
@@ -520,8 +520,8 @@
 	width: 898px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 34px;
 	color: #0093C4;
+	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
 	font-family: buenard, serif;
@@ -531,10 +531,10 @@
 	margin-top: 24px;
 }
 
-#u10843
+#u17325
 {
 	z-index: 71;
-	width: 39px;
+	width: 35px;
 	position: relative;
 	margin-right: -10000px;
 	left: 920px;
@@ -701,9 +701,9 @@
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	text-transform: none;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -716,10 +716,10 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	padding-right: 0px;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	vertical-align: 0px;
+	padding-right: 0px;
 	letter-spacing: 0px;
 	line-height: 1.2;
 	text-transform: none;
@@ -1015,8 +1015,8 @@
 	width: 898px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 34px;
 	color: #0093C4;
+	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
 	font-family: buenard, serif;
@@ -1201,8 +1201,8 @@
 	width: 898px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 34px;
 	color: #0093C4;
+	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
 	font-family: buenard, serif;

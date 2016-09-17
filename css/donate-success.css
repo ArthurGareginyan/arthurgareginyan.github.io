@@ -1,7 +1,7 @@
 .version.donate_success /* version checker */
 {
-	color: #0000F6;
-	background-color: #8AC304;
+	color: #00000C;
+	background-color: #DABE5D;
 }
 
 #muse_css_mq
@@ -506,10 +506,10 @@
 	left: 950px;
 }
 
-#u10843
+#u17325
 {
 	z-index: 71;
-	width: 39px;
+	width: 35px;
 	margin-left: 942px;
 	margin-top: 11px;
 	position: relative;
@@ -539,9 +539,9 @@
 	width: 573px;
 	min-height: 56px;
 	background-color: transparent;
+	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
