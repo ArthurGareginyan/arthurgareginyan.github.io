@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000015;
-	background-color: #AD1AEF;
+	color: #0000E8;
+	background-color: #6B57B9;
 }
 
 #muse_css_mq
@@ -524,7 +524,7 @@
 
 #u410-10
 {
-	z-index: 73;
+	z-index: 75;
 	width: 662px;
 	min-height: 143px;
 	background-color: transparent;
@@ -542,7 +542,7 @@
 
 #u1894
 {
-	z-index: 124;
+	z-index: 126;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -557,7 +557,7 @@
 
 #u435
 {
-	z-index: 125;
+	z-index: 127;
 	width: 199px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -570,7 +570,7 @@
 
 #u437
 {
-	z-index: 126;
+	z-index: 128;
 	width: 189px;
 	height: 189px;
 	border-radius: 125px;
@@ -593,7 +593,7 @@
 
 #u412
 {
-	z-index: 83;
+	z-index: 85;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -608,7 +608,7 @@
 
 #u419-5
 {
-	z-index: 89;
+	z-index: 91;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -626,7 +626,7 @@
 
 #u416
 {
-	z-index: 86;
+	z-index: 88;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -641,7 +641,7 @@
 
 #u422-5
 {
-	z-index: 104;
+	z-index: 106;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -669,7 +669,7 @@
 
 #u415
 {
-	z-index: 85;
+	z-index: 87;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -684,7 +684,7 @@
 
 #u420-5
 {
-	z-index: 94;
+	z-index: 96;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -702,7 +702,7 @@
 
 #u417
 {
-	z-index: 87;
+	z-index: 89;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -716,7 +716,7 @@
 
 #u423-7
 {
-	z-index: 109;
+	z-index: 111;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -741,7 +741,7 @@
 
 #u414
 {
-	z-index: 84;
+	z-index: 86;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -756,7 +756,7 @@
 
 #u421-5
 {
-	z-index: 99;
+	z-index: 101;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -774,7 +774,7 @@
 
 #u418
 {
-	z-index: 88;
+	z-index: 90;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -788,7 +788,7 @@
 
 #u424-8
 {
-	z-index: 116;
+	z-index: 118;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -882,6 +882,16 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 68px;
+}
+
+#u17332
+{
+	z-index: 73;
+	width: 137px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 920px;
 }
 
 #u109

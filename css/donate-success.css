@@ -1,7 +1,7 @@
 .version.donate_success /* version checker */
 {
-	color: #00000C;
-	background-color: #DABE5D;
+	color: #0000E0;
+	background-color: #8C68EB;
 }
 
 #muse_css_mq
@@ -535,7 +535,7 @@
 
 #u5355-10
 {
-	z-index: 73;
+	z-index: 75;
 	width: 573px;
 	min-height: 56px;
 	background-color: transparent;
@@ -552,7 +552,7 @@
 
 #u9716
 {
-	z-index: 83;
+	z-index: 85;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -567,7 +567,7 @@
 
 #u9717
 {
-	z-index: 84;
+	z-index: 86;
 	width: 199px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
@@ -579,7 +579,7 @@
 
 #u9718
 {
-	z-index: 85;
+	z-index: 87;
 	width: 189px;
 	height: 189px;
 	border-radius: 125px;
@@ -654,6 +654,16 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 68px;
+}
+
+#u17332
+{
+	z-index: 73;
+	width: 137px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 920px;
 }
 
 #u109

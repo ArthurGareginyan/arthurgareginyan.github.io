@@ -739,6 +739,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.arthurgareginyan.com/images/privacy-policy.png</loc>
+    <lastmod>2016-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.arthurgareginyan.com/index.html</loc>
     <lastmod>2016-09-18</lastmod>
     <changefreq>weekly</changefreq>

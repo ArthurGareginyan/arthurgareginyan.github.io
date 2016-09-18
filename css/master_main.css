@@ -530,6 +530,14 @@
 	background-color: transparent;
 }
 
+#u17332
+{
+	background-color: transparent;
+	-webkit-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-2,15);
+	-ms-transform: matrix(0.9781,-0.2079,0.2079,0.9781,-2,15);
+	transform: matrix(0.9781,-0.2079,0.2079,0.9781,-2,15);
+}
+
 #u109
 {
 	-pie-box-shadow: 4px -7px 6px #B2B2B2;
