@@ -33,23 +33,22 @@
 	border-width: 0px 0px 3px;
 }
 
-#u1111,#u1114
+#u1114
 {
+	border-style: solid;
+	border-color: #544842;
 	background-color: transparent;
+	border-width: 0px 0px 2px;
 }
 
 #u1114:hover
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u1114:active
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u1115-4
@@ -94,16 +93,17 @@
 	visibility: inherit;
 }
 
-#u1104,#u1105
+#u1105
 {
+	border-style: solid;
+	border-color: #544842;
 	background-color: transparent;
+	border-width: 0px 0px 2px;
 }
 
 #u1114.MuseMenuActive,#u1105:hover
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u1106-4
@@ -148,16 +148,17 @@
 	visibility: inherit;
 }
 
-#u1083,#u1086
+#u1086
 {
+	border-style: solid;
+	border-color: #544842;
 	background-color: transparent;
+	border-width: 0px 0px 2px;
 }
 
 #u1105.MuseMenuActive,#u1086:hover
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u1087-4
@@ -202,16 +203,17 @@
 	visibility: inherit;
 }
 
-#u1090,#u1093
+#u1093
 {
+	border-style: solid;
+	border-color: #544842;
 	background-color: transparent;
+	border-width: 0px 0px 2px;
 }
 
 #u1086.MuseMenuActive,#u1093:hover
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u1095-4
@@ -256,16 +258,17 @@
 	visibility: inherit;
 }
 
-#u9329,#u9330
+#u9330
 {
+	border-style: solid;
+	border-color: #544842;
 	background-color: transparent;
+	border-width: 0px 0px 2px;
 }
 
 #u1093.MuseMenuActive,#u9330:hover
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u9332-4
@@ -310,16 +313,17 @@
 	visibility: inherit;
 }
 
-#u11296,#u11297
+#u11297
 {
+	border-style: solid;
+	border-color: #544842;
 	background-color: transparent;
+	border-width: 0px 0px 2px;
 }
 
 #u9330.MuseMenuActive,#u11297:hover
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u11298-4
@@ -364,16 +368,17 @@
 	visibility: inherit;
 }
 
-#u1194,#u1195
+#u1195
 {
+	border-style: solid;
+	border-color: #544842;
 	background-color: transparent;
+	border-width: 0px 0px 2px;
 }
 
 #u11297.MuseMenuActive,#u1195:hover
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u1196-4
@@ -418,23 +423,22 @@
 	visibility: inherit;
 }
 
-#u1097,#u1100
+#u1100
 {
+	border-style: solid;
+	border-color: #544842;
 	background-color: transparent;
+	border-width: 0px 0px 2px;
 }
 
 #u1195.MuseMenuActive,#u1100:hover
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u1100.MuseMenuActive
 {
-	border-style: solid;
 	border-color: #7F7F7F;
-	border-width: 0px 0px 2px;
 }
 
 #u1101-4
@@ -525,7 +529,7 @@
 	background-color: transparent;
 }
 
-#u10761,#u17325,#u10715
+#u1111,#u1104,#u1083,#u1090,#u9329,#u11296,#u1194,#u1097,#u10761,#u17325,#u10715
 {
 	background-color: transparent;
 }

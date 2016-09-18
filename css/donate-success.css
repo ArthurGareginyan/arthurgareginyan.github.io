@@ -1,7 +1,7 @@
 .version.donate_success /* version checker */
 {
-	color: #0000E0;
-	background-color: #8C68EB;
+	color: #00000B;
+	background-color: #1DBFF8;
 }
 
 #muse_css_mq
@@ -85,7 +85,7 @@
 #u1114
 {
 	width: 116px;
-	padding-bottom: 28px;
+	padding-bottom: 26px;
 	position: relative;
 }
 
@@ -109,7 +109,7 @@
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
-	top: 14px;
+	top: 13px;
 }
 
 #u1114:hover #u1115-4
@@ -142,7 +142,7 @@
 #u1105
 {
 	width: 116px;
-	padding-bottom: 28px;
+	padding-bottom: 26px;
 	position: relative;
 }
 
@@ -159,7 +159,7 @@
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
-	top: 14px;
+	top: 13px;
 }
 
 #u1114.MuseMenuActive #u1115-4,#u1105:hover #u1106-4
@@ -192,7 +192,7 @@
 #u1086
 {
 	width: 116px;
-	padding-bottom: 28px;
+	padding-bottom: 26px;
 	position: relative;
 }
 
@@ -209,7 +209,7 @@
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
-	top: 14px;
+	top: 13px;
 }
 
 #u1105.MuseMenuActive #u1106-4,#u1086:hover #u1087-4
@@ -242,7 +242,7 @@
 #u1093
 {
 	width: 116px;
-	padding-bottom: 28px;
+	padding-bottom: 26px;
 	position: relative;
 }
 
@@ -259,7 +259,7 @@
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
-	top: 14px;
+	top: 13px;
 }
 
 #u1086.MuseMenuActive #u1087-4,#u1093:hover #u1095-4
@@ -292,7 +292,7 @@
 #u9330
 {
 	width: 116px;
-	padding-bottom: 28px;
+	padding-bottom: 26px;
 	position: relative;
 }
 
@@ -309,7 +309,7 @@
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
-	top: 14px;
+	top: 13px;
 }
 
 #u1093.MuseMenuActive #u1095-4,#u9330:hover #u9332-4
@@ -342,7 +342,7 @@
 #u11297
 {
 	width: 116px;
-	padding-bottom: 28px;
+	padding-bottom: 26px;
 	position: relative;
 }
 
@@ -359,7 +359,7 @@
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
-	top: 14px;
+	top: 13px;
 }
 
 #u9330.MuseMenuActive #u9332-4,#u11297:hover #u11298-4
@@ -392,7 +392,7 @@
 #u1195
 {
 	width: 116px;
-	padding-bottom: 28px;
+	padding-bottom: 26px;
 	position: relative;
 }
 
@@ -409,7 +409,7 @@
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
-	top: 14px;
+	top: 13px;
 }
 
 #u11297.MuseMenuActive #u11298-4,#u1195:hover #u1196-4
@@ -442,7 +442,7 @@
 #u1100
 {
 	width: 116px;
-	padding-bottom: 28px;
+	padding-bottom: 26px;
 	position: relative;
 }
 
@@ -466,7 +466,7 @@
 	min-height: 19px;
 	position: relative;
 	margin-right: -10000px;
-	top: 14px;
+	top: 13px;
 }
 
 #u1195.MuseMenuActive #u1196-4,#u1100:hover #u1101-4
