@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1476889827656">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1476893076611">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -55,8 +55,8 @@
     <file name="theme-circus-tent.css" crc="3843222976" ref="theme-circus-tent"/>
     <file name="iefonts_theme-circus-tent.css" crc="4116236437" ref="theme-circus-tent"/>
     <file name="master_full-project-page---plugin.css" crc="12625984" ref="plugin-my-custom-styles-pro:plugin-my-custom-functions-pro"/>
-    <file name="plugin-my-custom-functions-pro.css" crc="6820936" ref="plugin-my-custom-functions-pro"/>
-    <file name="iefonts_plugin-my-custom-functions-pro.css" crc="4040241647" ref="plugin-my-custom-functions-pro"/>
+    <file name="plugin-my-custom-functions-pro.css" crc="117040143" ref="plugin-my-custom-functions-pro"/>
+    <file name="iefonts_plugin-my-custom-functions-pro.css" crc="221664662" ref="plugin-my-custom-functions-pro"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
@@ -92,7 +92,7 @@
     <file name="circus (master-1).jpg" crc="491004501" ref="theme-circus-tent:store"/>
     <file name="screenshot.png" crc="437435627" ref="theme-white-knight" seo="true"/>
     <file name="icon-256x256.png" crc="45282266" ref="store"/>
-    <file name="icon-512x512.png" crc="517244671" ref="store:plugin-my-custom-styles-pro"/>
+    <file name="icon-512x512.png" crc="440451191" ref="store:plugin-my-custom-styles-pro"/>
     <file name="mycyberuniverse.jpg" crc="4237882221" ref="portfolio:website-mycyberuniverse"/>
     <file name="oneberserkblogspotcom(full).jpg" crc="3786313136" ref="portfolio"/>
     <file name="arthurgareginyan.jpg" crc="127957844" ref="portfolio:website-arthurgareginyan"/>
@@ -212,7 +212,7 @@
     <file name="avatar-3-circle.png" crc="110479818" ref="about-me"/>
     <file name="mgu.png" crc="4185285647" seo="true" ref="about-me"/>
     <file name="gimnasium.jpg" crc="161573079" seo="true" ref="about-me"/>
-    <file name="icon-512x5122.png" crc="4243696942" ref="store:plugin-my-custom-functions-pro"/>
+    <file name="icon-512x5122.png" crc="503348495" ref="store:plugin-my-custom-functions-pro"/>
     <file name="icon-512x5123.png" crc="4215153190" ref="store"/>
     <file name="icon-512x5124.png" crc="127565251" ref="store"/>
     <file name="icon-512x5125.png" crc="4218943180" ref="store"/>
@@ -300,7 +300,7 @@
   <file name="website-circuscostume-2.html" crc="3880229116" seo="true" mt="1467110647043" redirect="true"/>
   <file name="donate-success.html" crc="300129861" seo="true" mt="1474164418162" redirect="true"/>
   <file name="store.html" crc="420385182" seo="true" mt="1476889813851" redirect="true"/>
-  <file name="plugin-my-custom-styles-pro.html" crc="163139851" seo="true" mt="1473949690819" redirect="true"/>
+  <file name="plugin-my-custom-styles-pro.html" crc="4195816839" seo="true" mt="1476891609608" redirect="true"/>
   <file name="theme-circus-tent.html" crc="4014900212" seo="true" mt="1471818731257" redirect="true"/>
-  <file name="plugin-my-custom-functions-pro.html" crc="4247588263" seo="true" mt="1473949611324" redirect="true"/>
+  <file name="plugin-my-custom-functions-pro.html" crc="301562688" seo="true" mt="1476893060574" redirect="true"/>
 </manifest>
