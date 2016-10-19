@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1476889082166">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1476889827656">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -79,7 +79,7 @@
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:drawings:donate-success:store"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:drawings:donate-success:store"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:about-me"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:about-me:store"/>
     <file name="avatar-1.jpg" crc="292000260" ref="donate-success"/>
     <file name="scan 1.jpg" crc="4098728078" seo="true" ref="resume:about-me"/>
     <file name="blank.gif" crc="4208392903" ref="resume:drawings:about-me:plugin-my-custom-styles-pro:plugin-my-custom-functions-pro"/>
@@ -196,7 +196,7 @@
     <file name="scan 46.jpg" crc="226316652" seo="true" ref="drawings"/>
     <file name="scan 322.jpg" crc="144345964" seo="true" ref="drawings"/>
     <file name="preview.jpg" crc="134036309" ref="store"/>
-    <file name="favicon.ico" crc="417939427" ref="index:theme-authors-notepad:plugin-my-custom-styles-pro:about-me"/>
+    <file name="favicon.ico" crc="417939427" ref="index:theme-authors-notepad:plugin-my-custom-styles-pro:about-me:store"/>
     <file name="follow-me.png" crc="456279628" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-download-2.png" crc="337935577" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-icon.png" crc="4022076147" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
@@ -299,7 +299,7 @@
   <file name="website-bizconsultinghub.com.html" crc="270925142" seo="true" mt="1467110647043" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="3880229116" seo="true" mt="1467110647043" redirect="true"/>
   <file name="donate-success.html" crc="300129861" seo="true" mt="1474164418162" redirect="true"/>
-  <file name="store.html" crc="4248993430" seo="true" mt="1476889006222" redirect="true"/>
+  <file name="store.html" crc="420385182" seo="true" mt="1476889813851" redirect="true"/>
   <file name="plugin-my-custom-styles-pro.html" crc="163139851" seo="true" mt="1473949690819" redirect="true"/>
   <file name="theme-circus-tent.html" crc="4014900212" seo="true" mt="1471818731257" redirect="true"/>
   <file name="plugin-my-custom-functions-pro.html" crc="4247588263" seo="true" mt="1473949611324" redirect="true"/>
