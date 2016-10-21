@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1477017742456">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1477024468694">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -273,7 +273,7 @@
   <file name="index.html" crc="3935339603" seo="true" mt="1474326899407" redirect="true"/>
   <file name="resume.html" crc="304064451" seo="true" mt="1477016960878" redirect="true"/>
   <file name="portfolio.html" crc="368601464" seo="true" mt="1474164418162" redirect="true"/>
-  <file name="about-me.html" crc="3907361255" seo="true" mt="1477017711441" redirect="true"/>
+  <file name="about-me.html" crc="4183621039" seo="true" mt="1477024340148" redirect="true"/>
   <file name="donate.html" crc="486654800" seo="true" mt="1474164418162" redirect="true"/>
   <file name="contact.html" crc="441872160" seo="true" mt="1474164418162" redirect="true"/>
   <file name="privacy-policy.html" crc="3828149050" seo="true" mt="1474164418162" redirect="true"/>
