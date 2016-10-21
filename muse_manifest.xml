@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1476893076611">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1477016980349">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -6,7 +6,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
-    <file name="master_main.css" crc="279834166" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
+    <file name="master_main.css" crc="279259530" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="master_project-page.css" crc="3919437180" ref="website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:theme-simple-notepad:website-vipmegastar:website-studiokr:theme-fashion-style:theme-white-knight:theme-anarcho-notepad:theme-my-business-card:theme-authors-notepad:website-milenakiseleva.github.io:website-bmwz3brutality:website-bizconsultinghub.com:website-circuscostume-2"/>
     <file name="website-milenakiseleva.css" crc="3976608677" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="4059244162" ref="website-anarchohosting"/>
@@ -21,7 +21,7 @@
     <file name="theme-simple-notepad.css" crc="4131944840" ref="theme-simple-notepad"/>
     <file name="iefonts_theme-simple-notepad.css" crc="118103460" ref="theme-simple-notepad"/>
     <file name="contact-thanks.css" crc="4208326484" ref="contact-thanks"/>
-    <file name="resume.css" crc="509639274" ref="resume"/>
+    <file name="resume.css" crc="3897358531" ref="resume"/>
     <file name="iefonts_resume.css" crc="259502686" ref="resume"/>
     <file name="404.css" crc="193935618" ref="404"/>
     <file name="iefonts_404.css" crc="4098287989" ref="404"/>
@@ -47,7 +47,7 @@
     <file name="website-circuscostume-2.css" crc="3958863432" ref="website-circuscostume-2"/>
     <file name="donate-success.css" crc="186499064" ref="donate-success"/>
     <file name="iefonts_contact-thanks.css" crc="4032743377" ref="contact-thanks"/>
-    <file name="store.css" crc="4020239569" ref="store"/>
+    <file name="store.css" crc="3959877570" ref="store"/>
     <file name="iefonts_store.css" crc="4268188459" ref="store"/>
     <file name="plugin-my-custom-styles-pro.css" crc="4254901950" ref="plugin-my-custom-styles-pro"/>
     <file name="iefonts_about-me.css" crc="474484676" ref="about-me"/>
@@ -59,7 +59,7 @@
     <file name="iefonts_plugin-my-custom-functions-pro.css" crc="221664662" ref="plugin-my-custom-functions-pro"/>
   </folder>
   <folder name="assets">
-    <file name="arthur_gareginyan.vcf" crc="13852572" seo="true" mt="1449258170000"/>
+    <file name="arthur_gareginyan.vcf" crc="4196943282" seo="true" mt="1477016871000"/>
     <file name="resume.pdf" crc="469924339" seo="true" mt="1471976688000"/>
   </folder>
   <folder name="scripts">
@@ -79,7 +79,7 @@
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:drawings:donate-success:store"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:drawings:donate-success:store"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:about-me:store"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:about-me:store:resume"/>
     <file name="avatar-1.jpg" crc="292000260" ref="donate-success"/>
     <file name="scan 1.jpg" crc="4098728078" seo="true" ref="resume:about-me"/>
     <file name="blank.gif" crc="4208392903" ref="resume:drawings:about-me:plugin-my-custom-styles-pro:plugin-my-custom-functions-pro"/>
@@ -92,7 +92,7 @@
     <file name="circus (master-1).jpg" crc="491004501" ref="theme-circus-tent:store"/>
     <file name="screenshot.png" crc="437435627" ref="theme-white-knight" seo="true"/>
     <file name="icon-256x256.png" crc="45282266" ref="store"/>
-    <file name="icon-512x512.png" crc="440451191" ref="store:plugin-my-custom-styles-pro"/>
+    <file name="icon-512x512.png" crc="517244671" ref="store:plugin-my-custom-styles-pro"/>
     <file name="mycyberuniverse.jpg" crc="4237882221" ref="portfolio:website-mycyberuniverse"/>
     <file name="oneberserkblogspotcom(full).jpg" crc="3786313136" ref="portfolio"/>
     <file name="arthurgareginyan.jpg" crc="127957844" ref="portfolio:website-arthurgareginyan"/>
@@ -196,7 +196,7 @@
     <file name="scan 46.jpg" crc="226316652" seo="true" ref="drawings"/>
     <file name="scan 322.jpg" crc="144345964" seo="true" ref="drawings"/>
     <file name="preview.jpg" crc="134036309" ref="store"/>
-    <file name="favicon.ico" crc="417939427" ref="index:theme-authors-notepad:plugin-my-custom-styles-pro:about-me:store"/>
+    <file name="favicon.ico" crc="417939427" ref="index:theme-authors-notepad:plugin-my-custom-styles-pro:about-me:store:resume"/>
     <file name="follow-me.png" crc="456279628" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-download-2.png" crc="337935577" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-icon.png" crc="4022076147" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
@@ -212,7 +212,7 @@
     <file name="avatar-3-circle.png" crc="110479818" ref="about-me"/>
     <file name="mgu.png" crc="4185285647" seo="true" ref="about-me"/>
     <file name="gimnasium.jpg" crc="161573079" seo="true" ref="about-me"/>
-    <file name="icon-512x5122.png" crc="503348495" ref="store:plugin-my-custom-functions-pro"/>
+    <file name="icon-512x5122.png" crc="4243696942" ref="store:plugin-my-custom-functions-pro"/>
     <file name="icon-512x5123.png" crc="4215153190" ref="store"/>
     <file name="icon-512x5124.png" crc="127565251" ref="store"/>
     <file name="icon-512x5125.png" crc="4218943180" ref="store"/>
@@ -268,9 +268,10 @@
     <file name="privacy-policy.png" crc="457148627" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="meetvibe.jpg" crc="459885777" ref="store"/>
     <file name="square-logo-buttons.jpg" crc="388331213" ref="store"/>
+    <file name="resume.png" crc="98820532" seo="true" ref="resume"/>
   </folder>
   <file name="index.html" crc="3935339603" seo="true" mt="1474326899407" redirect="true"/>
-  <file name="resume.html" crc="3967182597" seo="true" mt="1474164418162" redirect="true"/>
+  <file name="resume.html" crc="304064451" seo="true" mt="1477016960878" redirect="true"/>
   <file name="portfolio.html" crc="368601464" seo="true" mt="1474164418162" redirect="true"/>
   <file name="about-me.html" crc="241680802" seo="true" mt="1475460558255" redirect="true"/>
   <file name="donate.html" crc="486654800" seo="true" mt="1474164418162" redirect="true"/>
@@ -299,7 +300,7 @@
   <file name="website-bizconsultinghub.com.html" crc="270925142" seo="true" mt="1467110647043" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="3880229116" seo="true" mt="1467110647043" redirect="true"/>
   <file name="donate-success.html" crc="300129861" seo="true" mt="1474164418162" redirect="true"/>
-  <file name="store.html" crc="420385182" seo="true" mt="1476889813851" redirect="true"/>
+  <file name="store.html" crc="395283712" seo="true" mt="1477015247857" redirect="true"/>
   <file name="plugin-my-custom-styles-pro.html" crc="4195816839" seo="true" mt="1476891609608" redirect="true"/>
   <file name="theme-circus-tent.html" crc="4014900212" seo="true" mt="1471818731257" redirect="true"/>
   <file name="plugin-my-custom-functions-pro.html" crc="301562688" seo="true" mt="1476893060574" redirect="true"/>

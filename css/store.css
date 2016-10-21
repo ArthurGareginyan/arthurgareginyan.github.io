@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #0000EF;
-	background-color: #9FFCD1;
+	color: #0000EC;
+	background-color: #06EFC2;
 }
 
 #muse_css_mq
@@ -520,8 +520,8 @@
 	width: 898px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #0093C4;
 	line-height: 34px;
+	color: #0093C4;
 	text-align: left;
 	font-size: 28px;
 	font-family: buenard, serif;
@@ -701,9 +701,9 @@
 	width: 245px;
 	min-height: 155px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	text-transform: none;
-	line-height: 24px;
 	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -1015,8 +1015,8 @@
 	width: 898px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #0093C4;
 	line-height: 34px;
+	color: #0093C4;
 	text-align: left;
 	font-size: 28px;
 	font-family: buenard, serif;
@@ -1201,8 +1201,8 @@
 	width: 898px;
 	min-height: 32px;
 	background-color: transparent;
-	color: #0093C4;
 	line-height: 34px;
+	color: #0093C4;
 	text-align: left;
 	font-size: 28px;
 	font-family: buenard, serif;
@@ -1793,8 +1793,8 @@
 	width: 898px;
 	min-height: 32px;
 	background-color: transparent;
-	color: #0093C4;
 	line-height: 34px;
+	color: #0093C4;
 	text-align: left;
 	font-size: 28px;
 	font-family: buenard, serif;
