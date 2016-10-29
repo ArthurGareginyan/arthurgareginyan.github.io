@@ -4,8 +4,8 @@
 
 .version.plugin_my_custom_styles_pro /* version checker */
 {
-	color: #0000FD;
-	background-color: #9CA6BE;
+	color: #000000;
+	background-color: #87ADE4;
 }
 
 #page
@@ -211,7 +211,7 @@
 	z-index: 232;
 	width: 110px;
 	height: 109px;
-	background: transparent url("../images/icon-512x512.png") no-repeat center center;
+	background: transparent url("../images/icon-512x512-u16320-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -634,8 +634,8 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 142px;
@@ -653,8 +653,8 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 142px;
@@ -702,8 +702,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;

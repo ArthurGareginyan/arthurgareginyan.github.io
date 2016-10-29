@@ -4,8 +4,8 @@
 
 .version.plugin_my_custom_functions_pro /* version checker */
 {
-	color: #000006;
-	background-color: #F9E40F;
+	color: #0000FE;
+	background-color: #70EDF0;
 }
 
 #page
@@ -198,7 +198,7 @@
 	z-index: 235;
 	width: 110px;
 	height: 110px;
-	background: transparent url("../images/icon-512x5122.png") no-repeat center center;
+	background: transparent url("../images/icon-512x512-u16904-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -600,8 +600,8 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 142px;
@@ -619,8 +619,8 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 142px;
@@ -668,8 +668,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
@@ -820,8 +820,8 @@
 	border-color: #EDEDED;
 	background-color: transparent;
 	color: #3B454C;
-	text-align: right;
 	line-height: 18px;
+	text-align: right;
 	font-size: 15px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -883,8 +883,8 @@
 	border-color: #EDEDED;
 	background-color: transparent;
 	color: #3B454C;
-	text-align: right;
 	line-height: 18px;
+	text-align: right;
 	font-size: 15px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -953,8 +953,8 @@
 	border-color: #EDEDED;
 	background-color: transparent;
 	color: #3B454C;
-	text-align: right;
 	line-height: 18px;
+	text-align: right;
 	font-size: 15px;
 	font-family: bitter, serif;
 	font-weight: 400;
