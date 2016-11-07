@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1478179418699">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1478489087283">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -6,7 +6,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
-    <file name="master_main.css" crc="279259530" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
+    <file name="master_main.css" crc="243457619" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="master_project-page.css" crc="3919437180" ref="website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:theme-simple-notepad:website-vipmegastar:website-studiokr:theme-fashion-style:theme-white-knight:theme-anarcho-notepad:theme-my-business-card:theme-authors-notepad:website-milenakiseleva.github.io:website-bmwz3brutality:website-bizconsultinghub.com:website-circuscostume-2"/>
     <file name="website-milenakiseleva.css" crc="3976608677" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="4059244162" ref="website-anarchohosting"/>
@@ -47,15 +47,15 @@
     <file name="website-circuscostume-2.css" crc="3958863432" ref="website-circuscostume-2"/>
     <file name="donate-success.css" crc="186499064" ref="donate-success"/>
     <file name="iefonts_contact-thanks.css" crc="4032743377" ref="contact-thanks"/>
-    <file name="store.css" crc="3806455091" ref="store"/>
+    <file name="store.css" crc="134135368" ref="store"/>
     <file name="iefonts_store.css" crc="4268188459" ref="store"/>
-    <file name="plugin-my-custom-styles-pro.css" crc="8891876" ref="plugin-my-custom-styles-pro"/>
+    <file name="plugin-my-custom-styles-pro.css" crc="421703801" ref="plugin-my-custom-styles-pro"/>
     <file name="iefonts_about-me.css" crc="4115723128" ref="about-me"/>
     <file name="master_mini-project-page.css" crc="3919437180" ref="theme-circus-tent:website-arthurgareginyan"/>
     <file name="theme-circus-tent.css" crc="3843222976" ref="theme-circus-tent"/>
     <file name="iefonts_theme-circus-tent.css" crc="4116236437" ref="theme-circus-tent"/>
-    <file name="master_full-project-page---plugin.css" crc="12625984" ref="plugin-my-custom-styles-pro:plugin-my-custom-functions-pro"/>
-    <file name="plugin-my-custom-functions-pro.css" crc="4268813808" ref="plugin-my-custom-functions-pro"/>
+    <file name="master_full-project-page---plugin.css" crc="4065624710" ref="plugin-my-custom-styles-pro:plugin-my-custom-functions-pro"/>
+    <file name="plugin-my-custom-functions-pro.css" crc="221034931" ref="plugin-my-custom-functions-pro"/>
     <file name="iefonts_plugin-my-custom-functions-pro.css" crc="221664662" ref="plugin-my-custom-functions-pro"/>
   </folder>
   <folder name="assets">
@@ -271,6 +271,8 @@
     <file name="icon-512x51210.png" crc="4116730036" ref="store"/>
     <file name="icon-512x51211.png" crc="42120274" ref="store"/>
     <file name="icon-512x51212.png" crc="4197464893" ref="store"/>
+    <file name="sale-tag-1.png" crc="4983194" seo="true" ref="store"/>
+    <file name="sale-tag-2.png" crc="4128132468" seo="true" ref="plugin-my-custom-styles-pro:plugin-my-custom-functions-pro"/>
   </folder>
   <file name="index.html" crc="3935339603" seo="true" mt="1474326899407" redirect="true"/>
   <file name="resume.html" crc="48784699" seo="true" mt="1477931730374" redirect="true"/>
@@ -302,8 +304,8 @@
   <file name="website-bizconsultinghub.com.html" crc="270925142" seo="true" mt="1467110647043" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="3880229116" seo="true" mt="1467110647043" redirect="true"/>
   <file name="donate-success.html" crc="300129861" seo="true" mt="1474164418162" redirect="true"/>
-  <file name="store.html" crc="213127303" seo="true" mt="1477758869320" redirect="true"/>
-  <file name="plugin-my-custom-styles-pro.html" crc="4293690288" seo="true" mt="1477758536471" redirect="true"/>
+  <file name="store.html" crc="530057710" seo="true" mt="1478488650647" redirect="true"/>
+  <file name="plugin-my-custom-styles-pro.html" crc="4219614504" seo="true" mt="1478488804819" redirect="true"/>
   <file name="theme-circus-tent.html" crc="4014900212" seo="true" mt="1471818731257" redirect="true"/>
-  <file name="plugin-my-custom-functions-pro.html" crc="4242148876" seo="true" mt="1477758536231" redirect="true"/>
+  <file name="plugin-my-custom-functions-pro.html" crc="8765337" seo="true" mt="1478488789990" redirect="true"/>
 </manifest>
