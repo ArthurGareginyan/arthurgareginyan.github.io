@@ -1,7 +1,7 @@
 .version.donate_success /* version checker */
 {
-	color: #00000B;
-	background-color: #1DBFF8;
+	color: #000018;
+	background-color: #D96C7A;
 }
 
 #muse_css_mq
@@ -518,8 +518,8 @@
 #pu9685
 {
 	width: 0.01px;
-	margin-left: 88px;
-	margin-top: 22px;
+	margin-left: 73px;
+	margin-top: 7px;
 }
 
 #u9685
@@ -529,8 +529,8 @@
 	min-height: 59px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 175px;
-	left: 875px;
+	margin-top: 190px;
+	left: 890px;
 }
 
 #u5355-10
@@ -546,8 +546,8 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 35px;
-	left: 199px;
+	margin-top: 50px;
+	left: 214px;
 }
 
 #u9716
@@ -561,20 +561,22 @@
 	transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,10);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 90px;
-	left: 188px;
+	margin-top: 105px;
+	left: 202px;
 }
 
 #u9717
 {
 	z-index: 86;
 	width: 199px;
+	height: 200px;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
 	border-radius: 125px;
-	padding-bottom: 5px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 15px;
+	left: 15px;
 }
 
 #u9718
@@ -583,11 +585,14 @@
 	width: 189px;
 	height: 189px;
 	border-radius: 125px;
+	-webkit-transform: matrix(0.9703,-0.2419,0.2419,0.9703,-20,26);
+	-ms-transform: matrix(0.9703,-0.2419,0.2419,0.9703,-20,26);
+	transform: matrix(0.9703,-0.2419,0.2419,0.9703,-20,26);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
-	left: 5px;
-	background: transparent url("../images/avatar-1.jpg") no-repeat center center;
+	margin-top: 20px;
+	left: 20px;
+	background: transparent url("../images/avatar-3-dark.jpg") no-repeat center center;
 	background-size: cover;
 }
 
