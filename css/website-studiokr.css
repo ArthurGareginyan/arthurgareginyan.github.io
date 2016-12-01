@@ -1,7 +1,7 @@
 .version.website_studiokr /* version checker */
 {
-	color: #0000E3;
-	background-color: #09A005;
+	color: #00000A;
+	background-color: #22B361;
 }
 
 #muse_css_mq
@@ -28,6 +28,18 @@
 	width: 0.01px;/* should not cover content below */
 }
 
+#ppu1739-7
+{
+	width: 0.01px;
+}
+
+#pu1739-7
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
 #u1739-7
 {
 	z-index: 17;
@@ -38,8 +50,6 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
 }
 
 #u1739-2
@@ -60,21 +70,6 @@
 	text-decoration: none;
 }
 
-#u1955
-{
-	z-index: 2;
-	width: 67px;
-	min-height: 53px;
-	position: relative;
-	margin-right: -10000px;
-	left: 711px;
-}
-
-#pu1739-7,#pu1792-6
-{
-	width: 0.01px;
-}
-
 #u1792-6
 {
 	z-index: 25;
@@ -86,18 +81,32 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
 }
 
-#u9697
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 711px;
+}
+
+#u1955
+{
+	z-index: 2;
+	width: 67px;
+	min-height: 53px;
+	position: relative;
+}
+
+#u17867
 {
 	z-index: 3;
-	width: 67px;
+	width: 59px;
 	min-height: 59px;
+	margin-left: 4px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 711px;
 }
 
 #u1740
@@ -105,8 +114,6 @@
 	z-index: 24;
 	width: 600px;
 	height: 348px;
-	top: -6px;
-	margin-bottom: -6px;
 	position: relative;
 	background: transparent url("../images/studio-kr.jpg") no-repeat left top;
 	background-size: contain;

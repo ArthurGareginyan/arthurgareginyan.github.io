@@ -1,7 +1,7 @@
 .version.theme_circus_tent /* version checker */
 {
-	color: #0000E5;
-	background-color: #12EDC0;
+	color: #0000E0;
+	background-color: #EFE28D;
 }
 
 #muse_css_mq
@@ -28,9 +28,16 @@
 	width: 0.01px;/* should not cover content below */
 }
 
+#ppu5542-6
+{
+	width: 0.01px;
+}
+
 #pu5542-6
 {
 	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u5542-6
@@ -43,8 +50,6 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
 }
 
 #u5542-2
@@ -60,40 +65,39 @@
 	color: #FFFFFF;
 }
 
+#u6139
+{
+	z-index: 43;
+	width: 600px;
+	background-color: transparent;
+	margin-top: 29px;
+	position: relative;
+}
+
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 711px;
+}
+
 #u1955
 {
 	z-index: 2;
 	width: 67px;
 	min-height: 53px;
 	position: relative;
-	margin-right: -10000px;
-	left: 711px;
 }
 
-#pu6139
-{
-	width: 0.01px;
-	margin-top: 5px;
-}
-
-#u6139
-{
-	z-index: 43;
-	width: 600px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 24px;
-}
-
-#u9697
+#u17867
 {
 	z-index: 3;
-	width: 67px;
+	width: 59px;
 	min-height: 59px;
+	margin-left: 4px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
-	margin-right: -10000px;
-	left: 711px;
 }
 
 #u6144
@@ -101,7 +105,7 @@
 	z-index: 45;
 	width: 600px;
 	background-color: transparent;
-	margin-top: 29px;
+	margin-top: 30px;
 	position: relative;
 }
 

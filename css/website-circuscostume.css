@@ -1,7 +1,7 @@
 .version.website_circuscostume /* version checker */
 {
-	color: #000019;
-	background-color: #36919A;
+	color: #000011;
+	background-color: #69DACB;
 }
 
 #muse_css_mq
@@ -28,6 +28,18 @@
 	width: 0.01px;/* should not cover content below */
 }
 
+#ppu1733-7
+{
+	width: 0.01px;
+}
+
+#pu1733-7
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
 #u1733-7
 {
 	z-index: 14;
@@ -36,8 +48,6 @@
 	background-color: transparent;
 	text-align: center;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
 }
 
 #u1733-2
@@ -58,21 +68,6 @@
 	line-height: 24px;
 }
 
-#u1955
-{
-	z-index: 2;
-	width: 67px;
-	min-height: 53px;
-	position: relative;
-	margin-right: -10000px;
-	left: 711px;
-}
-
-#pu1733-7,#pu1791-6
-{
-	width: 0.01px;
-}
-
 #u1791-6
 {
 	z-index: 22;
@@ -84,18 +79,32 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
 }
 
-#u9697
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 711px;
+}
+
+#u1955
+{
+	z-index: 2;
+	width: 67px;
+	min-height: 53px;
+	position: relative;
+}
+
+#u17867
 {
 	z-index: 3;
-	width: 67px;
+	width: 59px;
 	min-height: 59px;
+	margin-left: 4px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 711px;
 }
 
 #u1734

@@ -1,7 +1,7 @@
 .version.website_milenakiseleva /* version checker */
 {
-	color: #0000ED;
-	background-color: #063BA5;
+	color: #0000F9;
+	background-color: #0C3F9B;
 }
 
 #muse_css_mq
@@ -28,6 +28,18 @@
 	width: 0.01px;/* should not cover content below */
 }
 
+#ppu1684-7
+{
+	width: 0.01px;
+}
+
+#pu1684-7
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
 #u1684-7
 {
 	z-index: 20;
@@ -38,8 +50,6 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
 }
 
 #u1684-2
@@ -60,21 +70,6 @@
 	text-decoration: none;
 }
 
-#u1955
-{
-	z-index: 2;
-	width: 67px;
-	min-height: 53px;
-	position: relative;
-	margin-right: -10000px;
-	left: 711px;
-}
-
-#pu1684-7,#pu1777-6
-{
-	width: 0.01px;
-}
-
 #u1777-6
 {
 	z-index: 28;
@@ -86,18 +81,32 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
 }
 
-#u9697
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 711px;
+}
+
+#u1955
+{
+	z-index: 2;
+	width: 67px;
+	min-height: 53px;
+	position: relative;
+}
+
+#u17867
 {
 	z-index: 3;
-	width: 67px;
+	width: 59px;
 	min-height: 59px;
+	margin-left: 4px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 711px;
 }
 
 #u1686

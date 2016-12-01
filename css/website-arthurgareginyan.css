@@ -1,7 +1,7 @@
 .version.website_arthurgareginyan /* version checker */
 {
-	color: #000011;
-	background-color: #9C77E7;
+	color: #0000F9;
+	background-color: #70E803;
 }
 
 #muse_css_mq
@@ -28,6 +28,18 @@
 	width: 0.01px;/* should not cover content below */
 }
 
+#ppu1670-7
+{
+	width: 0.01px;
+}
+
+#pu1670-7
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
 #u1670-7
 {
 	z-index: 14;
@@ -38,8 +50,6 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
 }
 
 #u1670-2
@@ -55,21 +65,6 @@
 	color: #FFFFFF;
 }
 
-#u1955
-{
-	z-index: 2;
-	width: 67px;
-	min-height: 53px;
-	position: relative;
-	margin-right: -10000px;
-	left: 711px;
-}
-
-#pu1670-7,#pu1770-6
-{
-	width: 0.01px;
-}
-
 #u1770-6
 {
 	z-index: 22;
@@ -81,7 +76,6 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u1770-3,#u1770-4
@@ -89,15 +83,30 @@
 	color: #000000;
 }
 
-#u9697
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 711px;
+}
+
+#u1955
+{
+	z-index: 2;
+	width: 67px;
+	min-height: 53px;
+	position: relative;
+}
+
+#u17867
 {
 	z-index: 3;
-	width: 67px;
+	width: 59px;
 	min-height: 59px;
+	margin-left: 4px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 711px;
 }
 
 #u1672
@@ -105,8 +114,6 @@
 	z-index: 21;
 	width: 600px;
 	height: 373px;
-	top: -6px;
-	margin-bottom: -6px;
 	position: relative;
 	background: transparent url("../images/arthurgareginyan.jpg") no-repeat center top;
 	background-size: cover;

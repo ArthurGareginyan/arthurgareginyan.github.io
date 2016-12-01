@@ -1,7 +1,7 @@
 .version.theme_fashion_style /* version checker */
 {
-	color: #0000E2;
-	background-color: #979C6D;
+	color: #0000F0;
+	background-color: #420934;
 }
 
 #muse_css_mq
@@ -60,20 +60,30 @@
 	color: #FFFFFF;
 }
 
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 711px;
+}
+
 #u1955
 {
 	z-index: 2;
 	width: 67px;
 	min-height: 53px;
 	position: relative;
-	margin-right: -10000px;
-	left: 711px;
 }
 
-#pu1454
+#u17867
 {
-	width: 0.01px;
-	margin-top: 5px;
+	z-index: 3;
+	width: 59px;
+	min-height: 59px;
+	margin-left: 4px;
+	top: -6px;
+	margin-bottom: -6px;
+	position: relative;
 }
 
 #u1454
@@ -81,25 +91,14 @@
 	z-index: 4;
 	width: 600px;
 	background-color: transparent;
+	margin-top: 1px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 34px;
-}
-
-#u9697
-{
-	z-index: 3;
-	width: 67px;
-	min-height: 59px;
-	position: relative;
-	margin-right: -10000px;
-	left: 711px;
 }
 
 #pu1835-33
 {
 	width: 0.01px;
-	margin-top: 30px;
+	margin-top: 31px;
 }
 
 #u1835-33

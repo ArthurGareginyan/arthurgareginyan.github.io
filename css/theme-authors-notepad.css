@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
-	color: #0000EF;
-	background-color: #114472;
+	color: #0000E8;
+	background-color: #1F333D;
 }
 
 #muse_css_mq
@@ -61,20 +61,30 @@
 	color: #FFFFFF;
 }
 
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 712px;
+}
+
 #u1955
 {
 	z-index: 2;
 	width: 67px;
 	min-height: 53px;
 	position: relative;
-	margin-right: -10000px;
-	left: 712px;
 }
 
-#pu6232
+#u17867
 {
-	width: 0.01px;
-	margin-top: 5px;
+	z-index: 3;
+	width: 59px;
+	min-height: 59px;
+	margin-left: 4px;
+	top: -6px;
+	margin-bottom: -6px;
+	position: relative;
 }
 
 #u6232
@@ -82,19 +92,9 @@
 	z-index: 69;
 	width: 600px;
 	background-color: transparent;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 29px;
-}
-
-#u9697
-{
-	z-index: 3;
-	width: 67px;
-	min-height: 59px;
-	position: relative;
-	margin-right: -10000px;
-	left: 711px;
 }
 
 #u1610-59
@@ -103,11 +103,11 @@
 	width: 600px;
 	min-height: 140px;
 	background-color: transparent;
+	color: #000000;
 	text-align: justify;
 	text-indent: 5px;
-	color: #000000;
 	font-family: bitter, serif;
-	margin-top: 23px;
+	margin-top: 24px;
 	position: relative;
 }
 

@@ -1,7 +1,7 @@
 .version.theme_white_knight /* version checker */
 {
-	color: #00001E;
-	background-color: #72922A;
+	color: #0000EF;
+	background-color: #B15AE2;
 }
 
 #muse_css_mq
@@ -22,15 +22,11 @@
 	margin-right: auto;
 }
 
-#page_position_content
-{
-	padding-top: 8px;
-	width: 0.01px;/* should not cover content below */
-}
-
 #pu1815-6
 {
 	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 13px;
 }
 
 #u1815-6
@@ -43,8 +39,6 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
 }
 
 #u1815-2
@@ -60,46 +54,19 @@
 	color: #FFFFFF;
 }
 
-#u1955
-{
-	z-index: 2;
-	width: 67px;
-	min-height: 53px;
-	position: relative;
-	margin-right: -10000px;
-	left: 711px;
-}
-
-#pu1818
-{
-	width: 0.01px;
-	margin-top: 5px;
-}
-
 #u1818
 {
 	z-index: 45;
 	width: 600px;
 	background-color: transparent;
+	margin-top: 10px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-}
-
-#u9697
-{
-	z-index: 3;
-	width: 67px;
-	min-height: 59px;
-	position: relative;
-	margin-right: -10000px;
-	left: 711px;
 }
 
 #pu1814-35
 {
 	width: 0.01px;
-	margin-top: 11px;
+	margin-top: 12px;
 }
 
 #u1814-35
@@ -165,6 +132,33 @@
 	margin-top: 185px;
 }
 
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	margin-left: 711px;
+}
+
+#u1955
+{
+	z-index: 2;
+	width: 67px;
+	min-height: 53px;
+	position: relative;
+}
+
+#u17867
+{
+	z-index: 3;
+	width: 59px;
+	min-height: 59px;
+	margin-left: 4px;
+	top: -6px;
+	margin-bottom: -6px;
+	position: relative;
+}
+
 .html
 {
 	background-color: #B2DAFF;
@@ -175,4 +169,5 @@ body
 	position: relative;
 	min-width: 600px;
 }
+
 

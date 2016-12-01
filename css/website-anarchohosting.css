@@ -1,7 +1,7 @@
 .version.website_anarchohosting /* version checker */
 {
-	color: #0000F1;
-	background-color: #F32682;
+	color: #0000F8;
+	background-color: #2EABA8;
 }
 
 #muse_css_mq
@@ -28,6 +28,18 @@
 	width: 0.01px;/* should not cover content below */
 }
 
+#ppu1696-6
+{
+	width: 0.01px;
+}
+
+#pu1696-6
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
 #u1696-6
 {
 	z-index: 13;
@@ -38,8 +50,6 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
 }
 
 #u1696-2
@@ -55,21 +65,6 @@
 	color: #FFFFFF;
 }
 
-#u1955
-{
-	z-index: 2;
-	width: 67px;
-	min-height: 53px;
-	position: relative;
-	margin-right: -10000px;
-	left: 711px;
-}
-
-#pu1696-6,#pu1768-6
-{
-	width: 0.01px;
-}
-
 #u1768-6
 {
 	z-index: 20;
@@ -81,18 +76,32 @@
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
-	margin-right: -10000px;
 }
 
-#u9697
+#pu1955
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 711px;
+}
+
+#u1955
+{
+	z-index: 2;
+	width: 67px;
+	min-height: 53px;
+	position: relative;
+}
+
+#u17867
 {
 	z-index: 3;
-	width: 67px;
+	width: 59px;
 	min-height: 59px;
+	margin-left: 4px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 711px;
 }
 
 #u1697
