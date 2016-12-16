@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1481896261235">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1481896540818">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -304,7 +304,7 @@
   <file name="website-bizconsultinghub.com.html" crc="4182879567" seo="true" mt="1480631375586" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="4278361811" seo="true" mt="1480631375586" redirect="true"/>
   <file name="donate-success.html" crc="3961973631" seo="true" mt="1480631271060" redirect="true"/>
-  <file name="store.html" crc="4148458527" seo="true" mt="1481896255008" redirect="true"/>
+  <file name="store.html" crc="413147526" seo="true" mt="1481896519443" redirect="true"/>
   <file name="plugin-my-custom-styles-pro.html" crc="4160067003" seo="true" mt="1480631368814" redirect="true"/>
   <file name="theme-circus-tent.html" crc="3820068450" seo="true" mt="1480631375586" redirect="true"/>
   <file name="plugin-my-custom-functions-pro.html" crc="3799077234" seo="true" mt="1480631368814" redirect="true"/>
