@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
-	color: #0000E8;
-	background-color: #1F333D;
+	color: #000011;
+	background-color: #BF775B;
 }
 
 #muse_css_mq
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.8499999999999px;
+	min-height: 500px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -87,9 +86,9 @@
 	position: relative;
 }
 
-#u6232
+#u17935
 {
-	z-index: 69;
+	z-index: 34;
 	width: 600px;
 	background-color: transparent;
 	top: -4px;
@@ -97,7 +96,7 @@
 	position: relative;
 }
 
-#u1610-59
+#u1610-24
 {
 	z-index: 10;
 	width: 600px;
@@ -107,24 +106,24 @@
 	text-align: justify;
 	text-indent: 5px;
 	font-family: bitter, serif;
-	margin-top: 24px;
+	margin-top: 34px;
 	position: relative;
 }
 
-#u1610-48 > #u1610-11:before,#u1610-48 > #u1610-13:before,#u1610-48 > #u1610-15:before,#u1610-48 > #u1610-17:before,#u1610-48 > #u1610-19:before,#u1610-48 > #u1610-21:before,#u1610-48 > #u1610-23:before,#u1610-48 > #u1610-25:before,#u1610-48 > #u1610-27:before,#u1610-48 > #u1610-29:before,#u1610-48 > #u1610-31:before,#u1610-48 > #u1610-33:before,#u1610-48 > #u1610-35:before,#u1610-48 > #u1610-37:before,#u1610-48 > #u1610-39:before,#u1610-48 > #u1610-41:before,#u1610-48 > #u1610-43:before,#u1610-48 > #u1610-45:before,#u1610-48 > #u1610-47:before
+#u1610-12 > #u1610-11:before
 {
 	font-family: bitter, Georgia;
 	font-weight: 400;
 }
 
-#u1610-2,#u1610-8,#u1610-53
+#u1610-2,#u1610-8,#u1610-18
 {
 	font-size: 20px;
 	line-height: 26px;
 	font-weight: 700;
 }
 
-#u1610-3,#u1610-5,#u1610-6,#u1610-9,#u1610-11,#u1610-13,#u1610-15,#u1610-17,#u1610-19,#u1610-21,#u1610-23,#u1610-25,#u1610-27,#u1610-29,#u1610-31,#u1610-33,#u1610-35,#u1610-37,#u1610-39,#u1610-41,#u1610-43,#u1610-45,#u1610-47,#u1610-49,#u1610-50,#u1610-51,#u1610-54,#u1610-56,#u1610-57
+#u1610-3,#u1610-5,#u1610-6,#u1610-9,#u1610-11,#u1610-13,#u1610-15,#u1610-16,#u1610-19,#u1610-21,#u1610-22
 {
 	font-size: 16px;
 	line-height: 21px;
