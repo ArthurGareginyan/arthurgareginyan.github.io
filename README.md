@@ -2,7 +2,7 @@
 
 Personal website of Arthur Gareginyan.
 
-[![screenshot](https://github.com/ArthurGareginyan/authors-notepad/blob/master/screenshot.png)]()
+[![screenshot](https://github.com/ArthurGareginyan/arthurgareginyan.github.io/blob/master/screenshot.png)]()
 
 This is the code for my personal website - [www.arthurgareginyan.com](http://www.arthurgareginyan.com) - it's a static site built with Adobe Muse.
 
