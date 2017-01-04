@@ -61,12 +61,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-designe(old-notepad).png</loc>
-    <lastmod>2017-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.arthurgareginyan.com/images/circus%20(master-2).jpg</loc>
     <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -740,13 +734,13 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/index.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/resume.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -758,37 +752,37 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/about-me.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/donate.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/contact.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/privacy-policy.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/contact-thanks.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/404.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -800,7 +794,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/theme-anarcho-notepad.html</loc>
-    <lastmod>2016-12-02</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -896,7 +890,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/drawings.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -914,7 +908,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/donate-success.html</loc>
-    <lastmod>2017-01-03</lastmod>
+    <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
