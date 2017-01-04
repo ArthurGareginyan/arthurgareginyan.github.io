@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #000018;
-	background-color: #BC9A7C;
+	color: #0000E5;
+	background-color: #6B2A0D;
 }
 
 #muse_css_mq
@@ -582,7 +582,7 @@
 	position: relative;
 	margin-right: -10000px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/screenshot.jpg") no-repeat center top;
+	background: transparent url("../images/authors-notepad.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -722,7 +722,7 @@
 	position: relative;
 	margin-right: -10000px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/screenshot2.jpg") no-repeat center top;
+	background: transparent url("../images/anarcho-notepad.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -771,7 +771,7 @@
 	margin-right: -10000px;
 	left: 613px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/screenshot3.jpg") no-repeat center top;
+	background: transparent url("../images/simple-notepad.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -895,7 +895,7 @@
 	position: relative;
 	margin-right: -10000px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/screenshot4.jpg") no-repeat center top;
+	background: transparent url("../images/screenshot.jpg") no-repeat center top;
 	background-size: cover;
 }
 
