@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
-	color: #00000D;
-	background-color: #96C7A7;
+	color: #000019;
+	background-color: #814F5A;
 }
 
 #muse_css_mq
@@ -88,7 +88,7 @@
 
 #u18018
 {
-	z-index: 34;
+	z-index: 76;
 	width: 600px;
 	background-color: transparent;
 	top: -4px;
@@ -96,7 +96,7 @@
 	position: relative;
 }
 
-#u1610-24
+#u1610-66
 {
 	z-index: 10;
 	width: 600px;
@@ -110,20 +110,20 @@
 	position: relative;
 }
 
-#u1610-12 > #u1610-11:before
+#u1610-54 > #u1610-11:before,#u1610-54 > #u1610-13:before,#u1610-54 > #u1610-15:before,#u1610-54 > #u1610-17:before,#u1610-54 > #u1610-19:before,#u1610-54 > #u1610-21:before,#u1610-54 > #u1610-23:before,#u1610-54 > #u1610-25:before,#u1610-54 > #u1610-27:before,#u1610-54 > #u1610-29:before,#u1610-54 > #u1610-31:before,#u1610-54 > #u1610-33:before,#u1610-54 > #u1610-35:before,#u1610-54 > #u1610-37:before,#u1610-54 > #u1610-39:before,#u1610-54 > #u1610-41:before,#u1610-54 > #u1610-43:before,#u1610-54 > #u1610-45:before,#u1610-54 > #u1610-47:before,#u1610-54 > #u1610-49:before,#u1610-54 > #u1610-51:before,#u1610-54 > #u1610-53:before
 {
 	font-family: bitter, Georgia;
 	font-weight: 400;
 }
 
-#u1610-2,#u1610-8,#u1610-18
+#u1610-2,#u1610-8,#u1610-60
 {
 	font-size: 20px;
 	line-height: 26px;
 	font-weight: 700;
 }
 
-#u1610-3,#u1610-5,#u1610-6,#u1610-9,#u1610-11,#u1610-13,#u1610-15,#u1610-16,#u1610-19,#u1610-21,#u1610-22
+#u1610-3,#u1610-5,#u1610-6,#u1610-9,#u1610-11,#u1610-13,#u1610-15,#u1610-17,#u1610-19,#u1610-21,#u1610-23,#u1610-25,#u1610-27,#u1610-29,#u1610-31,#u1610-33,#u1610-35,#u1610-37,#u1610-39,#u1610-41,#u1610-43,#u1610-45,#u1610-47,#u1610-49,#u1610-51,#u1610-53,#u1610-55,#u1610-57,#u1610-58,#u1610-61,#u1610-63,#u1610-64
 {
 	font-size: 16px;
 	line-height: 21px;
