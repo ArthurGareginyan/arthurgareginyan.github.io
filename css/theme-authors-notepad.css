@@ -1,7 +1,7 @@
 .version.theme_authors_notepad /* version checker */
 {
-	color: #000019;
-	background-color: #814F5A;
+	color: #0000E3;
+	background-color: #F6CD69;
 }
 
 #muse_css_mq
@@ -102,9 +102,9 @@
 	width: 600px;
 	min-height: 140px;
 	background-color: transparent;
-	color: #000000;
 	text-align: justify;
 	text-indent: 5px;
+	color: #000000;
 	font-family: bitter, serif;
 	margin-top: 34px;
 	position: relative;
