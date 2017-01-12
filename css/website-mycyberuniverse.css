@@ -1,7 +1,7 @@
 .version.website_mycyberuniverse /* version checker */
 {
-	color: #000010;
-	background-color: #7188CD;
+	color: #00001D;
+	background-color: #247CA0;
 }
 
 #muse_css_mq
@@ -115,8 +115,8 @@
 	width: 600px;
 	height: 322px;
 	position: relative;
-	background: transparent url("../images/mycyberuniverse.jpg") no-repeat left top;
-	background-size: cover;
+	background: transparent url("../images/mycyberuniverse-4-1.jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #u1713-10
