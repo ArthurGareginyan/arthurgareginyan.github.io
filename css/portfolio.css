@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000004;
-	background-color: #A376DC;
+	color: #000016;
+	background-color: #16CD46;
 }
 
 #muse_css_mq
@@ -520,8 +520,8 @@
 	width: 898px;
 	min-height: 69px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -731,9 +731,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -754,9 +754,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -777,9 +777,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -827,9 +827,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 35px;
@@ -909,9 +909,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -965,9 +965,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1011,9 +1011,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1057,9 +1057,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1103,9 +1103,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1149,9 +1149,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1195,9 +1195,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1241,9 +1241,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1287,9 +1287,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1340,9 +1340,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -1386,9 +1386,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1432,9 +1432,9 @@
 	width: 245px;
 	min-height: 157px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1497,9 +1497,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -1535,7 +1535,7 @@
 	margin-right: -10000px;
 	margin-top: -2px;
 	left: 310px;
-	background: #7F7F7F url("../images/screen%20shot%202017-01-06%20at%20124034%20pm.jpg") no-repeat center top;
+	background: #7F7F7F url("../images/prison-diariescom-preview.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -1567,9 +1567,9 @@
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -2px;

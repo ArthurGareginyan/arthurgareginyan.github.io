@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1484419770343">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1484420499404">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -6,7 +6,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
-    <file name="master_main.css" crc="279834166" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
+    <file name="master_main.css" crc="243457619" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="website-milenakiseleva.css" crc="4178329499" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="4163808168" ref="website-anarchohosting"/>
     <file name="about-me.css" crc="4049166575" ref="about-me"/>
@@ -39,7 +39,7 @@
     <file name="iefonts_theme-authors-notepad.css" crc="3958917313" ref="theme-authors-notepad"/>
     <file name="website-arthurgareginyan.css" crc="4184926211" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="314758681" ref="website-milenakiseleva.github.io"/>
-    <file name="portfolio.css" crc="77821660" ref="portfolio"/>
+    <file name="portfolio.css" crc="370593094" ref="portfolio"/>
     <file name="website-bmwz3brutality.css" crc="3836097701" ref="website-bmwz3brutality"/>
     <file name="drawings.css" crc="3970559104" ref="drawings"/>
     <file name="website-bizconsultinghub_com.css" crc="3877545295" ref="website-bizconsultinghub.com"/>
@@ -56,7 +56,7 @@
     <file name="master_full-project-page---plugin.css" crc="4206061830" ref="plugin-my-custom-styles-pro:plugin-my-custom-functions-pro"/>
     <file name="plugin-my-custom-functions-pro.css" crc="3957304517" ref="plugin-my-custom-functions-pro"/>
     <file name="iefonts_plugin-my-custom-functions-pro.css" crc="4054379406" ref="plugin-my-custom-functions-pro"/>
-    <file name="website-prison-diaries_com.css" crc="4086364101" ref="website-prison-diaries.com"/>
+    <file name="website-prison-diaries_com.css" crc="355617906" ref="website-prison-diaries.com"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="4196943282" seo="true" mt="1477016871000"/>
@@ -266,13 +266,12 @@
     <file name="authors-notepad.jpg" crc="396355776" ref="store:theme-authors-notepad"/>
     <file name="anarcho-notepad.jpg" crc="3765093694" ref="store:theme-anarcho-notepad"/>
     <file name="simple-notepad.jpg" crc="4243194001" ref="store:theme-simple-notepad"/>
-    <file name="screen shot 2017-01-06 at 124034 pm.jpg" crc="4194096749" ref="portfolio"/>
-    <file name="screen shot 2017-01-08 at 23305 am.jpg" crc="271398758" seo="true" ref="website-prison-diaries.com"/>
     <file name="mycyberuniverse-4-1.jpg" crc="48132318" ref="portfolio:website-mycyberuniverse"/>
+    <file name="prison-diariescom-preview.jpg" crc="10063430" seo="true" ref="portfolio:website-prison-diaries.com"/>
   </folder>
   <file name="index.html" crc="226701545" seo="true" mt="1483574130133" redirect="true"/>
   <file name="resume.html" crc="72296763" seo="true" mt="1484407080010" redirect="true"/>
-  <file name="portfolio.html" crc="326467095" seo="true" mt="1484226101891" redirect="true"/>
+  <file name="portfolio.html" crc="4285648199" seo="true" mt="1484420495011" redirect="true"/>
   <file name="about-me.html" crc="516587786" seo="true" mt="1484407104488" redirect="true"/>
   <file name="donate.html" crc="484585139" seo="true" mt="1483574130133" redirect="true"/>
   <file name="contact.html" crc="173490478" seo="true" mt="1483574130133" redirect="true"/>
@@ -304,5 +303,5 @@
   <file name="plugin-my-custom-styles-pro.html" crc="327874684" seo="true" mt="1484419716879" redirect="true"/>
   <file name="theme-circus-tent.html" crc="3820068450" seo="true" mt="1480631375586" redirect="true"/>
   <file name="plugin-my-custom-functions-pro.html" crc="4092341906" seo="true" mt="1484419716879" redirect="true"/>
-  <file name="website-prison-diaries.com.html" crc="67426464" seo="true" mt="1483832720735" redirect="true"/>
+  <file name="website-prison-diaries.com.html" crc="264930349" seo="true" mt="1484420454838" redirect="true"/>
 </manifest>
