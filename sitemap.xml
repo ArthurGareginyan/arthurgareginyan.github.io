@@ -721,24 +721,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.arthurgareginyan.com/images/sale-tag-1.png</loc>
-    <lastmod>2017-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.arthurgareginyan.com/images/sale-tag-2.png</loc>
-    <lastmod>2017-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.arthurgareginyan.com/images/authors-notepad.jpg</loc>
-    <lastmod>2017-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.arthurgareginyan.com/images/screen%20shot%202017-01-08%20at%2023305%20am.jpg</loc>
     <lastmod>2017-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -926,13 +908,13 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/store.html</loc>
-    <lastmod>2017-01-10</lastmod>
+    <lastmod>2017-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/plugin-my-custom-styles-pro.html</loc>
-    <lastmod>2016-12-02</lastmod>
+    <lastmod>2017-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -944,7 +926,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/plugin-my-custom-functions-pro.html</loc>
-    <lastmod>2016-12-02</lastmod>
+    <lastmod>2017-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
