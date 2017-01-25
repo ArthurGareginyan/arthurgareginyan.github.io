@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000EC;
-	background-color: #DCD3FB;
+	color: #000000;
+	background-color: #4054B5;
 }
 
 #muse_css_mq
@@ -630,7 +630,7 @@
 	margin-right: -10000px;
 	margin-top: -2px;
 	left: -2px;
-	background: #FFFFFF url("../images/screenshot-u1302-fr.jpg") no-repeat center top;
+	background: #FFFFFF url("../images/anarcho-notepad-preview-cropped-u1302-fr.jpg") no-repeat center top;
 	background-size: contain;
 }
 
@@ -676,7 +676,7 @@
 
 #u6270
 {
-	z-index: 166;
+	z-index: 200;
 	width: 240px;
 	height: 179px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -768,7 +768,7 @@
 
 #u6271-4
 {
-	z-index: 167;
+	z-index: 201;
 	width: 240px;
 	min-height: 18px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -791,7 +791,7 @@
 
 #u5498
 {
-	z-index: 161;
+	z-index: 195;
 	width: 240px;
 	height: 179px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -818,7 +818,7 @@
 
 #u5499-4
 {
-	z-index: 162;
+	z-index: 196;
 	width: 240px;
 	min-height: 22px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
@@ -903,7 +903,7 @@
 	background-size: cover;
 }
 
-#u5272-4
+#u5272-7
 {
 	z-index: 116;
 	width: 245px;
@@ -921,10 +921,11 @@
 	left: -3px;
 }
 
-#u5272-4:hover p
+#u5272-7:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
+	padding-top: 0px;
 	vertical-align: 0px;
 	text-transform: none;
 	text-decoration: none;
@@ -959,9 +960,9 @@
 	background-size: cover;
 }
 
-#u5275-4
+#u5275-6
 {
-	z-index: 120;
+	z-index: 123;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1005,9 +1006,9 @@
 	background-size: cover;
 }
 
-#u5278-4
+#u5278-7
 {
-	z-index: 124;
+	z-index: 129;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1051,9 +1052,9 @@
 	background-size: cover;
 }
 
-#u5281-4
+#u5281-7
 {
-	z-index: 128;
+	z-index: 136;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1097,9 +1098,9 @@
 	background-size: cover;
 }
 
-#u5296-4
+#u5296-7
 {
-	z-index: 148;
+	z-index: 172;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1143,9 +1144,9 @@
 	background-size: cover;
 }
 
-#u5284-4
+#u5284-8
 {
-	z-index: 132;
+	z-index: 143;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1189,9 +1190,9 @@
 	background-size: cover;
 }
 
-#u5287-4
+#u5287-7
 {
-	z-index: 136;
+	z-index: 151;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1235,9 +1236,9 @@
 	background-size: cover;
 }
 
-#u5290-4
+#u5290-7
 {
-	z-index: 140;
+	z-index: 158;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1281,9 +1282,9 @@
 	background-size: cover;
 }
 
-#u5293-4
+#u5293-7
 {
-	z-index: 144;
+	z-index: 165;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1334,9 +1335,9 @@
 	background-size: cover;
 }
 
-#u5299-4
+#u5299-7
 {
-	z-index: 152;
+	z-index: 179;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1354,7 +1355,7 @@
 
 #u5440
 {
-	z-index: 156;
+	z-index: 186;
 	width: 240px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1380,9 +1381,9 @@
 	background-size: cover;
 }
 
-#u5441-4
+#u5441-8
 {
-	z-index: 157;
+	z-index: 187;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1400,7 +1401,7 @@
 
 #u9473
 {
-	z-index: 171;
+	z-index: 205;
 	width: 240px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1426,9 +1427,9 @@
 	background-size: cover;
 }
 
-#u9474-4
+#u9474-7
 {
-	z-index: 172;
+	z-index: 206;
 	width: 245px;
 	min-height: 157px;
 	background-color: transparent;
@@ -1444,7 +1445,7 @@
 	left: -3px;
 }
 
-#u9474-4:hover
+#u9474-7:hover
 {
 	text-shadow: 0px 0px 8px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,0.5);
 	-pie-box-shadow: none;
@@ -1465,7 +1466,7 @@
 
 #u9640
 {
-	z-index: 176;
+	z-index: 213;
 	width: 240px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1491,9 +1492,9 @@
 	background-size: cover;
 }
 
-#u9641-4
+#u9641-7
 {
-	z-index: 177;
+	z-index: 214;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1509,7 +1510,7 @@
 	left: -3px;
 }
 
-#u5299-4:hover,#u9641-4:hover
+#u5299-7:hover,#u9641-7:hover
 {
 	text-shadow: 0px 0px 8px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,0.5);
 	-pie-box-shadow: none;
@@ -1523,7 +1524,7 @@
 
 #u18075
 {
-	z-index: 181;
+	z-index: 221;
 	width: 240px;
 	-pie-box-shadow: 6px 6px 8px #7F7F7F;
 	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -1561,9 +1562,9 @@
 	box-shadow: inset -10px 58px 99px rgba(255,255,255,0.75), inset 10px -58px 99px rgba(0,0,0,0.75);
 }
 
-#u18089-4
+#u18089-7
 {
-	z-index: 182;
+	z-index: 222;
 	width: 245px;
 	min-height: 156px;
 	background-color: transparent;
@@ -1579,7 +1580,7 @@
 	left: -3px;
 }
 
-#u5272-4:hover,#u5275-4:hover,#u5278-4:hover,#u5281-4:hover,#u5296-4:hover,#u5284-4:hover,#u5287-4:hover,#u5290-4:hover,#u5293-4:hover,#u5441-4:hover,#u18089-4:hover
+#u5272-7:hover,#u5275-6:hover,#u5278-7:hover,#u5281-7:hover,#u5296-7:hover,#u5284-8:hover,#u5287-7:hover,#u5290-7:hover,#u5293-7:hover,#u5441-8:hover,#u18089-7:hover
 {
 	text-shadow: 0px 0px 8px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,0.5);
 	-pie-box-shadow: none;
@@ -1591,16 +1592,11 @@
 	margin: -3px -10000px -2px 0px;
 }
 
-#u5275-4:hover p,#u5278-4:hover p,#u5281-4:hover p,#u5296-4:hover p,#u5284-4:hover p,#u5287-4:hover p,#u5290-4:hover p,#u5293-4:hover p,#u5299-4:hover p,#u5441-4:hover p,#u9474-4:hover p,#u9641-4:hover p,#u18089-4:hover p
+#u5275-6:hover p,#u5278-7:hover p,#u5281-7:hover p,#u5296-7:hover p,#u5284-8:hover p,#u5287-7:hover p,#u5290-7:hover p,#u5293-7:hover p,#u5299-7:hover p,#u5441-8:hover p,#u9474-7:hover p,#u9641-7:hover p,#u18089-7:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
-}
-
-#u5272-2,#u5275-2,#u5278-2,#u5281-2,#u5296-2,#u5284-2,#u5287-2,#u5290-2,#u5293-2,#u5299-2,#u5441-2,#u9474-2,#u9641-2,#u18089-2
-{
-	padding-top: 70px;
-	visibility: hidden;/* 100% transparent text is hidden */
+	padding-top: 0px;
 }
 
 #pu1125
@@ -1719,9 +1715,9 @@
 	margin: 37px -10000px 0px 0px;
 }
 
-.js body
+#u5272,#u5272-2,#u5272-3,#u5272-5,#u5275,#u5275-2,#u5275-4,#u5278,#u5278-2,#u5278-3,#u5278-5,#u5281,#u5281-2,#u5281-3,#u5281-5,#u5296,#u5296-2,#u5296-3,#u5296-5,#u5284,#u5284-2,#u5284-4,#u5284-6,#u5287,#u5287-2,#u5287-3,#u5287-5,#u5290,#u5290-2,#u5290-3,#u5290-5,#u5293,#u5293-2,#u5293-3,#u5293-5,#u5299,#u5299-2,#u5299-3,#u5299-5,#u5441,#u5441-2,#u5441-4,#u5441-6,#u9474,#u9474-2,#u9474-3,#u9474-5,#u9641,#u9641-2,#u9641-3,#u9641-5,#u18089,#u18089-2,#u18089-3,#u18089-5,.js body
 {
-	visibility: hidden;
+	visibility: hidden;/* 100% transparent text is hidden */
 }
 
 .js body.initialized

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1485380749404">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1485381271516">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -32,7 +32,7 @@
     <file name="theme-authors-notepad.css" crc="286470709" ref="theme-authors-notepad"/>
     <file name="website-arthurgareginyan.css" crc="4184926211" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="314758681" ref="website-milenakiseleva.github.io"/>
-    <file name="portfolio.css" crc="3973895163" ref="portfolio"/>
+    <file name="portfolio.css" crc="4215989" ref="portfolio"/>
     <file name="website-bmwz3brutality.css" crc="3836097701" ref="website-bmwz3brutality"/>
     <file name="drawings.css" crc="3970559104" ref="drawings"/>
     <file name="website-bizconsultinghub_com.css" crc="3877545295" ref="website-bizconsultinghub.com"/>
@@ -201,7 +201,6 @@
     <file name="1.jpg" crc="3864174323" seo="true" ref="plugin-my-custom-styles-pro"/>
     <file name="most-popular.png" crc="3865320305" seo="true" ref="plugin-my-custom-styles-pro:plugin-my-custom-functions-pro:theme-authors-notepad:theme-simple-notepad"/>
     <file name="circus (master-1)-u5498-fr.jpg" crc="3842089789" ref="portfolio"/>
-    <file name="screenshot-u1302-fr.jpg" crc="3831060545" ref="portfolio"/>
     <file name="play-mini.png" crc="27423749" ref="portfolio"/>
     <file name="scan 166x94.jpg" crc="4243119857" seo="true" ref="resume"/>
     <file name="scan 266x94.jpg" crc="214412499" seo="true" ref="resume"/>
@@ -306,10 +305,11 @@
     <file name="simple-notepad-ipadair4-horizontal-crop-u19769.jpg" crc="307193916" ref="theme-simple-notepad"/>
     <file name="simple-notepad-ipadair4-vertical-crop-u19789.jpg" crc="4199812240" ref="theme-simple-notepad"/>
     <file name="simple-notepad-iphone6s-crop-u19729.jpg" crc="4035009113" ref="theme-simple-notepad"/>
+    <file name="anarcho-notepad-preview-cropped-u1302-fr.jpg" crc="230190292" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="226701545" seo="true" mt="1483574130133" redirect="true"/>
   <file name="resume.html" crc="72296763" seo="true" mt="1484407080010" redirect="true"/>
-  <file name="portfolio.html" crc="491697317" seo="true" mt="1485379572596" redirect="true"/>
+  <file name="portfolio.html" crc="68235025" seo="true" mt="1485381240778" redirect="true"/>
   <file name="about-me.html" crc="516587786" seo="true" mt="1484407104488" redirect="true"/>
   <file name="donate.html" crc="484585139" seo="true" mt="1483574130133" redirect="true"/>
   <file name="contact.html" crc="173490478" seo="true" mt="1483574130133" redirect="true"/>
