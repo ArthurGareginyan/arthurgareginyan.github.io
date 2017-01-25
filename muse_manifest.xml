@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1485382503343">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1485383070274">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -19,7 +19,7 @@
     <file name="website-circuscostume.css" crc="292149963" ref="website-circuscostume"/>
     <file name="theme-simple-notepad.css" crc="4047899210" ref="theme-simple-notepad"/>
     <file name="contact-thanks.css" crc="4208326484" ref="contact-thanks"/>
-    <file name="resume.css" crc="4170896352" ref="resume"/>
+    <file name="resume.css" crc="193552199" ref="resume"/>
     <file name="iefonts_resume.css" crc="4040064716" ref="resume"/>
     <file name="404.css" crc="193935618" ref="404"/>
     <file name="iefonts_404.css" crc="4098287989" ref="404"/>
@@ -310,7 +310,7 @@
     <file name="u18412-grad.png" crc="3848456515" ref="theme-authors-notepad"/>
   </folder>
   <file name="index.html" crc="226701545" seo="true" mt="1483574130133" redirect="true"/>
-  <file name="resume.html" crc="72296763" seo="true" mt="1484407080010" redirect="true"/>
+  <file name="resume.html" crc="4011516459" seo="true" mt="1485383025575" redirect="true"/>
   <file name="portfolio.html" crc="68235025" seo="true" mt="1485381240778" redirect="true"/>
   <file name="about-me.html" crc="516587786" seo="true" mt="1484407104488" redirect="true"/>
   <file name="donate.html" crc="484585139" seo="true" mt="1483574130133" redirect="true"/>
