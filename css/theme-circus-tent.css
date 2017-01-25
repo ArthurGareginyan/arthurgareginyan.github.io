@@ -1,7 +1,7 @@
 .version.theme_circus_tent /* version checker */
 {
-	color: #0000E0;
-	background-color: #EFE28D;
+	color: #0000F8;
+	background-color: #3E8782;
 }
 
 #muse_css_mq
@@ -67,7 +67,7 @@
 
 #u6139
 {
-	z-index: 43;
+	z-index: 42;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 29px;
@@ -102,7 +102,7 @@
 
 #u6144
 {
-	z-index: 45;
+	z-index: 44;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 30px;
@@ -111,17 +111,11 @@
 
 #u6151
 {
-	z-index: 47;
+	z-index: 46;
 	width: 600px;
 	background-color: transparent;
 	margin-top: 30px;
 	position: relative;
-}
-
-#pu5545-32
-{
-	width: 0.01px;
-	margin-top: 52px;
 }
 
 #u5545-32
@@ -132,9 +126,8 @@
 	background-color: transparent;
 	text-align: justify;
 	font-family: bitter, serif;
+	margin-top: 52px;
 	position: relative;
-	margin-right: -10000px;
-	left: 1px;
 }
 
 #u5545-15
@@ -168,19 +161,6 @@
 	font-size: 16px;
 	line-height: 19px;
 	font-weight: 400;
-}
-
-#u5546
-{
-	z-index: 42;
-	width: 155px;
-	min-height: 54px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 124px;
 }
 
 .html

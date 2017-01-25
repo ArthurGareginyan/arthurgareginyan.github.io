@@ -1,0 +1,264 @@
+#u19257
+{
+	background-color: #4E3B5B;
+}
+
+#u19257::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 130px rgba(0,0,0,0.3), inset 0px 0px 130px rgba(0,0,0,0.3);
+}
+
+#u19251
+{
+	background: transparent url("../images/u16407-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(127,127,127,0.2)),color-stop(57%, rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(top,rgba(127,127,127,0.2) ,rgba(255,255,255,0) 20px);
+	background: linear-gradient(to bottom,rgba(127,127,127,0.2) ,rgba(255,255,255,0) 20px);
+}
+
+#u19242
+{
+	background: transparent url("../images/macbook-air-mockup.png") no-repeat center top;
+	background-size: cover;
+}
+
+#u19268
+{
+	background-color: transparent;
+}
+
+#u19268:hover,#u19238
+{
+	background-color: transparent;
+}
+
+#u19238:hover,#u19236
+{
+	background-color: transparent;
+}
+
+#u19236:hover,#u19266
+{
+	background-color: transparent;
+}
+
+#u19266:hover,#u19258
+{
+	background-color: transparent;
+}
+
+#u19270
+{
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255,255,255,0)),color-stop(100%, rgba(127,127,127,0.1)));
+	background: -webkit-linear-gradient(top,rgba(255,255,255,0) ,rgba(127,127,127,0.1) 100%);
+	background: linear-gradient(to bottom,rgba(255,255,255,0) ,rgba(127,127,127,0.1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF, endColorstr=#197F7F7F, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#00FFFFFF', endColorstr='#197F7F7F', GradientType=0)";
+}
+
+#u19245-4
+{
+	border-style: solid;
+	border-color: #AAAAAA;
+	background-color: #4D3B5B;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+	border-width: 1px 0px 0px;
+}
+
+#u19245-4::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	z-index: -1;
+	top: -1px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: none;
+}
+
+#u19245-2
+{
+	padding-top: 23px;
+}
+
+#u19261-3
+{
+	border-style: solid;
+	border-color: #AAAAAA;
+	background-color: #BABABA;
+	line-height: 14px;
+	color: #000000;
+	text-align: center;
+	font-size: 12px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	border-width: 1px 0px;
+}
+
+#u19260-4
+{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #352D29;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+}
+
+#u19260-2
+{
+	padding-top: 7px;
+}
+
+#u19262-4
+{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #352D29;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+}
+
+#u19262-2
+{
+	padding-top: 7px;
+}
+
+#u19265-4
+{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #352D29;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+}
+
+#u19265-2
+{
+	padding-top: 7px;
+}
+
+#u19252-4
+{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #352D29;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+}
+
+#u19252-2
+{
+	padding-top: 7px;
+}
+
+#u19243-4
+{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #352D29;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+}
+
+#u19243-2
+{
+	padding-top: 7px;
+}
+
+#u19244-4
+{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #352D29;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+}
+
+#u19244-2
+{
+	padding-top: 7px;
+}
+
+#u19256-4
+{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #352D29;
+	text-align: center;
+	font-family: bitter, serif;
+	font-weight: 400;
+}
+
+#u19260-4:hover p,#u19262-4:hover p,#u19265-4:hover p,#u19252-4:hover p,#u19243-4:hover p,#u19244-4:hover p,#u19256-4:hover p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u19256-2
+{
+	padding-top: 7px;
+}
+
+#u19258:hover,#u19240
+{
+	background-color: transparent;
+}
+
+#u19240:hover,#u19263
+{
+	background-color: transparent;
+}
+
+#u19263:hover,#u19247
+{
+	background-color: transparent;
+}
+
+#u19247:hover,#u19254
+{
+	background-color: transparent;
+}
+
+#u19254:hover,#u19249
+{
+	background-color: transparent;
+}
+
+#u19249:hover
+{
+	background-color: transparent;
+}
+
+#u19268_img:hover,#u19238_img:hover,#u19236_img:hover,#u19266_img:hover,#u19258_img:hover,#u19240_img:hover,#u19263_img:hover,#u19247_img:hover,#u19254_img:hover,#u19249_img:hover
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+}
+
+#u19246
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
