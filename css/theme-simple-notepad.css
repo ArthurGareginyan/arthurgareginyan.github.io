@@ -4,8 +4,8 @@
 
 .version.theme_simple_notepad /* version checker */
 {
-	color: #0000F8;
-	background-color: #0C8298;
+	color: #0000F1;
+	background-color: #460A4A;
 }
 
 #page
@@ -125,7 +125,7 @@
 	margin-top: 32px;
 	left: 187px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/simple-notepad-macbookpro17-u19403-fr.jpg") no-repeat center top;
+	background: transparent url("../images/simple-notepad-macbookair11-u19403-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 

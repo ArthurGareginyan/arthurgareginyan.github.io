@@ -4,8 +4,8 @@
 
 .version.theme_anarcho_notepad /* version checker */
 {
-	color: #000003;
-	background-color: #E19274;
+	color: #000014;
+	background-color: #A6C58C;
 }
 
 #page
@@ -113,7 +113,7 @@
 	margin-top: 32px;
 	left: 135px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/anarcho-notepad-preview-cropped-u18320-fr.jpg") no-repeat center top;
+	background: transparent url("../images/anarcho-notepad-macbookair11-u18320-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 

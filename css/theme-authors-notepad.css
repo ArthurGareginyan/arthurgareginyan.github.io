@@ -4,8 +4,8 @@
 
 .version.theme_authors_notepad /* version checker */
 {
-	color: #000011;
-	background-color: #133235;
+	color: #0000EF;
+	background-color: #BA7F60;
 }
 
 #page
@@ -109,7 +109,7 @@
 	margin-right: -10000px;
 	margin-top: 145px;
 	left: 8px;
-	background: transparent url("../images/theme%20%e2%80%9cauthors%20notepad%e2%80%9d%20%e2%80%93%20arthur%20gareginyan%20(20170125)-u18781-fr.jpg") no-repeat left top;
+	background: transparent url("../images/authors-notepad-iphone6s.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -125,7 +125,7 @@
 	margin-top: 32px;
 	left: 187px;
 	border-width: 0px 0px 1px;
-	background: transparent url("../images/authors-notepad-preview-u18811-fr.jpg") no-repeat center top;
+	background: transparent url("../images/authors-notepad-macbookair11.jpg") no-repeat center top;
 	background-size: cover;
 }
 
