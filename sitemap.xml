@@ -727,24 +727,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-macbook17pro.jpg</loc>
-    <lastmod>2017-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-macbookair11.jpg</loc>
-    <lastmod>2017-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-macbook17pro199x140.jpg</loc>
-    <lastmod>2017-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.arthurgareginyan.com/images/macbookpro17-preview.jpg</loc>
     <lastmod>2017-02-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -823,6 +805,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-preview-full.jpg</loc>
+    <lastmod>2017-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-imac.jpg</loc>
+    <lastmod>2017-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-macbookpro.jpg</loc>
+    <lastmod>2017-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-macbookair.jpg</loc>
+    <lastmod>2017-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/images/anarcho-notepad-preview-full158x156.jpg</loc>
+    <lastmod>2017-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.arthurgareginyan.com/index.html</loc>
     <lastmod>2017-01-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -878,7 +890,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/theme-anarcho-notepad.html</loc>
-    <lastmod>2017-01-26</lastmod>
+    <lastmod>2017-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
