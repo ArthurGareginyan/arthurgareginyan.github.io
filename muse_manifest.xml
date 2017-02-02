@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1486011355661">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1486018133250">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -6,7 +6,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
-    <file name="master_main.css" crc="279259530" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
+    <file name="master_main.css" crc="243457619" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="website-milenakiseleva.css" crc="4178329499" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="4163808168" ref="website-anarchohosting"/>
     <file name="about-me.css" crc="4049166575" ref="about-me"/>
@@ -39,8 +39,8 @@
     <file name="website-circuscostume-2.css" crc="52949749" ref="website-circuscostume-2"/>
     <file name="donate-success.css" crc="416902266" ref="donate-success"/>
     <file name="iefonts_contact-thanks.css" crc="4032743377" ref="contact-thanks"/>
-    <file name="store.css" crc="4064769804" ref="store"/>
-    <file name="iefonts_store.css" crc="375238042" ref="store"/>
+    <file name="store.css" crc="3996314472" ref="store"/>
+    <file name="iefonts_store.css" crc="4218004856" ref="store"/>
     <file name="plugin-my-custom-styles-pro.css" crc="54178495" ref="plugin-my-custom-styles-pro"/>
     <file name="iefonts_about-me.css" crc="99779749" ref="about-me"/>
     <file name="master_mini-project-page.css" crc="110116179" ref="website-arthurgareginyan:theme-white-knight:website-bmwz3brutality:website-milenakiseleva:website-milenakiseleva.github.io:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-bizconsultinghub.com:website-circuscostume:website-circuscostume-2:website-studiokr:website-vipmegastar:website-prison-diaries.com"/>
@@ -261,13 +261,13 @@
     <file name="authors-notepad-preview-croped-u1304-fr.jpg" crc="59967526" ref="portfolio"/>
     <file name="simple-notepad-preview-cropped-u6270-fr.jpg" crc="482154944" ref="portfolio"/>
     <file name="authors-notepad-preview-croped.jpg" crc="92139332" ref="store"/>
-    <file name="authors-notepad-preview-croped-u11353-7-r-fr.png" crc="441569640" ref="store"/>
+    <file name="authors-notepad-preview-croped-u11353-7-r-fr.png" crc="4031701155" ref="store"/>
     <file name="anarcho-notepad-preview-cropped.jpg" crc="204080596" ref="store"/>
-    <file name="anarcho-notepad-preview-cropped-u11352-7-r-fr.png" crc="4218317725" ref="store"/>
+    <file name="anarcho-notepad-preview-cropped-u11352-7-r-fr.png" crc="3962168910" ref="store"/>
     <file name="simple-notepad-preview-cropped.jpg" crc="120768514" ref="store"/>
-    <file name="simple-notepad-preview-cropped-u11354-7-r-fr.png" crc="4123233515" ref="store"/>
+    <file name="simple-notepad-preview-cropped-u11354-7-r-fr.png" crc="38364011" ref="store"/>
     <file name="fashion-ans-style-preview.jpg" crc="109984948" ref="store"/>
-    <file name="fashion-ans-style-preview-u11356-7-r-fr.png" crc="521756361" ref="store"/>
+    <file name="fashion-ans-style-preview-u11356-7-r-fr.png" crc="258231077" ref="store"/>
     <file name="circus (master-1)-u11355-7-fr.jpg" crc="4056013404" ref="store"/>
     <file name="circus (master-1)-u11355-7-r-fr.png" crc="4022904456" ref="store"/>
     <file name="macbook-air-mockup.png" crc="497666481" ref="theme-anarcho-notepad"/>
@@ -316,6 +316,7 @@
     <file name="anarcho-notepad-imac-crop-u21081.jpg" crc="127292485" ref="theme-anarcho-notepad"/>
     <file name="anarcho-notepad-macbookpro-crop-u21248.jpg" crc="299361694" ref="theme-anarcho-notepad"/>
     <file name="anarcho-notepad-macbookair-crop-u21228.jpg" crc="3999164838" ref="theme-anarcho-notepad"/>
+    <file name="icon-512x51214.png" crc="1368944" ref="store"/>
   </folder>
   <file name="index.html" crc="226701545" seo="true" mt="1483574130133" redirect="true"/>
   <file name="resume.html" crc="4011516459" seo="true" mt="1485383025575" redirect="true"/>
@@ -345,7 +346,7 @@
   <file name="website-bizconsultinghub.com.html" crc="4182879567" seo="true" mt="1480631375586" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="4278361811" seo="true" mt="1480631375586" redirect="true"/>
   <file name="donate-success.html" crc="4183915851" seo="true" mt="1483574130133" redirect="true"/>
-  <file name="store.html" crc="4180419769" seo="true" mt="1485382369012" redirect="true"/>
+  <file name="store.html" crc="459681940" seo="true" mt="1486018124513" redirect="true"/>
   <file name="plugin-my-custom-styles-pro.html" crc="4156612976" seo="true" mt="1485371260082" redirect="true"/>
   <file name="theme-circus-tent.html" crc="4251760802" seo="true" mt="1485379695319" redirect="true"/>
   <file name="plugin-my-custom-functions-pro.html" crc="4087014249" seo="true" mt="1485371284515" redirect="true"/>
