@@ -26,7 +26,7 @@
 #u19242
 {
 	background: transparent url("../images/macbook-air-mockup.png") no-repeat center top;
-	background-size: cover;
+	background-size: contain;
 }
 
 #u19268
