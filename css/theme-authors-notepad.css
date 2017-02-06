@@ -4,19 +4,20 @@
 
 .version.theme_authors_notepad /* version checker */
 {
-	color: #00000D;
-	background-color: #7FAAF8;
+	color: #000010;
+	background-color: #FB5AEC;
 }
 
 #page
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 873px;
+	min-height: 872.9000000000001px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -206,11 +207,10 @@
 	width: 942px;
 	min-height: 335px;
 	background-color: transparent;
+	line-height: 34px;
 	color: #3C454C;
-	line-height: 29px;
 	font-size: 19px;
-	font-family: adamina, serif;
-	font-weight: 400;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 1px;
 	margin-top: 64px;
 	position: relative;
@@ -229,6 +229,12 @@
 	height: 109px;
 	background: transparent url("../images/favicon.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+#u18795-5
+{
+	text-align: center;
+	font-weight: bold;
 }
 
 #u18814
@@ -813,11 +819,6 @@
 	position: relative;
 }
 
-#u18836-2,#u18801-2
-{
-	padding-top: 15px;
-}
-
 #pu18815
 {
 	width: 0.01px;
@@ -1266,17 +1267,6 @@
 	font-weight: bold;
 }
 
-#u18791-4,#u18791-9
-{
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: normal;
-}
-
-#u18791-2,#u18791-7
-{
-	font-weight: bold;
-}
-
 #u18785-bw
 {
 	z-index: 70;
@@ -1298,6 +1288,55 @@
 {
 	z-index: 137;
 	height: 26px;
+}
+
+#u21316-4
+{
+	z-index: 266;
+	width: 942px;
+	min-height: 71px;
+	background-color: transparent;
+	color: #3C454C;
+	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	font-family: buenard, serif;
+	font-weight: 700;
+	margin-top: 33px;
+	position: relative;
+}
+
+#u18836-2,#u18801-2,#u21316-2
+{
+	padding-top: 15px;
+}
+
+#u21319-50
+{
+	z-index: 270;
+	width: 942px;
+	min-height: 102px;
+	background-color: transparent;
+	color: #3C454C;
+	line-height: 23px;
+	font-size: 19px;
+	position: relative;
+}
+
+#u18791-2,#u18791-7,#u21319-4,#u21319-9,#u21319-14,#u21319-19,#u21319-34,#u21319-39
+{
+	font-weight: bold;
+}
+
+#u21319-21,#u21319-23,#u21319-25,#u21319-27,#u21319-29,#u21319-41
+{
+	font-style: italic;
+}
+
+#u18791-4,#u18791-9,#u21319-2,#u21319-3,#u21319-6,#u21319-8,#u21319-11,#u21319-13,#u21319-16,#u21319-18,#u21319-31,#u21319-33,#u21319-36,#u21319-38,#u21319-43,#u21319-45,#u21319-47
+{
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: normal;
 }
 
 #u18397,#u18397-bw

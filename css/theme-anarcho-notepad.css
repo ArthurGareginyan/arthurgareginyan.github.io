@@ -4,8 +4,8 @@
 
 .version.theme_anarcho_notepad /* version checker */
 {
-	color: #000001;
-	background-color: #0B4619;
+	color: #000015;
+	background-color: #DB4D7D;
 }
 
 #page
@@ -194,11 +194,10 @@
 	width: 942px;
 	min-height: 335px;
 	background-color: transparent;
+	line-height: 34px;
 	color: #3C454C;
-	line-height: 29px;
 	font-size: 19px;
-	font-family: adamina, serif;
-	font-weight: 400;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 1px;
 	margin-top: 64px;
 	position: relative;
@@ -217,6 +216,12 @@
 	height: 109px;
 	background: transparent url("../images/favicon.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+#u18326-5
+{
+	text-align: center;
+	font-weight: bold;
 }
 
 #u18342
@@ -411,7 +416,7 @@
 
 #slideshowu21054
 {
-	z-index: 165;
+	z-index: 169;
 	width: 0.01px;
 	height: 152px;
 	left: -100px;
@@ -434,12 +439,12 @@
 
 #u21067popup
 {
-	z-index: 166;
+	z-index: 170;
 }
 
 #u21262
 {
-	z-index: 167;
+	z-index: 171;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -457,7 +462,7 @@
 
 #u21068
 {
-	z-index: 169;
+	z-index: 173;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -469,7 +474,7 @@
 
 #u21242
 {
-	z-index: 171;
+	z-index: 175;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -481,7 +486,7 @@
 
 #u21222
 {
-	z-index: 173;
+	z-index: 177;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -508,12 +513,12 @@
 
 #u21080popup
 {
-	z-index: 175;
+	z-index: 179;
 }
 
 #u21268
 {
-	z-index: 176;
+	z-index: 180;
 	width: 158px;
 	height: 140px;
 	-pie-box-shadow: none;
@@ -536,7 +541,7 @@
 
 #u21081
 {
-	z-index: 178;
+	z-index: 182;
 	width: 158px;
 	height: 140px;
 	-pie-box-shadow: none;
@@ -553,7 +558,7 @@
 
 #u21248
 {
-	z-index: 180;
+	z-index: 184;
 	width: 158px;
 	height: 140px;
 	-pie-box-shadow: none;
@@ -570,7 +575,7 @@
 
 #u21228
 {
-	z-index: 182;
+	z-index: 186;
 	width: 158px;
 	height: 140px;
 	-pie-box-shadow: none;
@@ -610,7 +615,7 @@
 
 #u21093-4popup
 {
-	z-index: 184;
+	z-index: 188;
 }
 
 #u21094-4
@@ -629,7 +634,7 @@
 
 #u21094-4popup
 {
-	z-index: 188;
+	z-index: 192;
 }
 
 #u21057
@@ -662,7 +667,7 @@
 
 #u21058-4
 {
-	z-index: 193;
+	z-index: 197;
 	width: 20px;
 	min-height: 20px;
 	border-width: 0px;
@@ -749,14 +754,15 @@
 	padding-top: 15px;
 }
 
-#u19387-4
+#u19387-6
 {
-	z-index: 161;
+	z-index: 163;
 	width: 942px;
 	min-height: 98px;
 	background-color: transparent;
 	color: #3C454C;
 	line-height: 29px;
+	text-align: center;
 	font-size: 19px;
 	font-family: adamina, serif;
 	font-weight: 400;
@@ -766,7 +772,7 @@
 
 #u19382
 {
-	z-index: 160;
+	z-index: 162;
 	width: 212px;
 	min-height: 68px;
 	border-width: 0px;
@@ -822,18 +828,22 @@
 	padding-top: 22px;
 }
 
-#u19373-13
+#u19373-15
 {
 	z-index: 147;
 	width: 942px;
 	min-height: 242px;
 	background-color: transparent;
-	color: #3C454C;
 	line-height: 29px;
+	color: #3C454C;
 	font-size: 19px;
-	font-family: adamina, serif;
-	font-weight: 400;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
+}
+
+#u19373-11
+{
+	font-style: italic;
 }
 
 #u19270,#u19270-bw

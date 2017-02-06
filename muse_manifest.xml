@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1486080013996">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1486380835740">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -17,7 +17,7 @@
     <file name="website-karolinaray.css" crc="4138757935" ref="website-karolinaray"/>
     <file name="privacy-policy.css" crc="339681564" ref="privacy-policy"/>
     <file name="website-circuscostume.css" crc="292149963" ref="website-circuscostume"/>
-    <file name="theme-simple-notepad.css" crc="3933161845" ref="theme-simple-notepad"/>
+    <file name="theme-simple-notepad.css" crc="293452700" ref="theme-simple-notepad"/>
     <file name="contact-thanks.css" crc="4208326484" ref="contact-thanks"/>
     <file name="resume.css" crc="193552199" ref="resume"/>
     <file name="iefonts_resume.css" crc="4040064716" ref="resume"/>
@@ -27,9 +27,9 @@
     <file name="website-studiokr.css" crc="170046305" ref="website-studiokr"/>
     <file name="theme-white-knight.css" crc="4021377762" ref="theme-white-knight"/>
     <file name="iefonts_theme-white-knight.css" crc="397915271" ref="theme-white-knight"/>
-    <file name="theme-anarcho-notepad.css" crc="17516057" ref="theme-anarcho-notepad"/>
+    <file name="theme-anarcho-notepad.css" crc="366693757" ref="theme-anarcho-notepad"/>
     <file name="index.css" crc="290622443" ref="index"/>
-    <file name="theme-authors-notepad.css" crc="226470648" ref="theme-authors-notepad"/>
+    <file name="theme-authors-notepad.css" crc="284908268" ref="theme-authors-notepad"/>
     <file name="website-arthurgareginyan.css" crc="4184926211" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="314758681" ref="website-milenakiseleva.github.io"/>
     <file name="portfolio.css" crc="4215989" ref="portfolio"/>
@@ -326,8 +326,8 @@
   <file name="privacy-policy.html" crc="249470855" seo="true" mt="1483574130133" redirect="true"/>
   <file name="contact-thanks.html" crc="12735367" seo="true" mt="1483574130133" redirect="true"/>
   <file name="404.html" crc="4274255932" seo="true" mt="1483574130133" redirect="true"/>
-  <file name="theme-anarcho-notepad.html" crc="384294892" seo="true" mt="1486079520351" redirect="true"/>
-  <file name="theme-authors-notepad.html" crc="395920086" seo="true" mt="1486079764119" redirect="true"/>
+  <file name="theme-anarcho-notepad.html" crc="496726655" seo="true" mt="1486380516917" redirect="true"/>
+  <file name="theme-authors-notepad.html" crc="520511595" seo="true" mt="1486380372361" redirect="true"/>
   <file name="website-arthurgareginyan.html" crc="72139906" seo="true" mt="1483572135270" redirect="true"/>
   <file name="website-bmwz3brutality.html" crc="4000411547" seo="true" mt="1480631375586" redirect="true"/>
   <file name="website-milenakiseleva.html" crc="280057385" seo="true" mt="1480631375586" redirect="true"/>
@@ -340,7 +340,7 @@
   <file name="website-vipmegastar.html" crc="508043886" seo="true" mt="1480631375586" redirect="true"/>
   <file name="theme-white-knight.html" crc="86660705" seo="true" mt="1480631375586" redirect="true"/>
   <file name="website-milenakiseleva.github.io.html" crc="4115585861" seo="true" mt="1480631375586" redirect="true"/>
-  <file name="theme-simple-notepad.html" crc="4221407642" seo="true" mt="1486079960700" redirect="true"/>
+  <file name="theme-simple-notepad.html" crc="4174147904" seo="true" mt="1486380357314" redirect="true"/>
   <file name="drawings.html" crc="4138672424" seo="true" mt="1483574130133" redirect="true"/>
   <file name="website-bizconsultinghub.com.html" crc="4182879567" seo="true" mt="1480631375586" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="4278361811" seo="true" mt="1480631375586" redirect="true"/>
