@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1486380835740">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1486802535943">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -29,7 +29,7 @@
     <file name="iefonts_theme-white-knight.css" crc="397915271" ref="theme-white-knight"/>
     <file name="theme-anarcho-notepad.css" crc="366693757" ref="theme-anarcho-notepad"/>
     <file name="index.css" crc="290622443" ref="index"/>
-    <file name="theme-authors-notepad.css" crc="284908268" ref="theme-authors-notepad"/>
+    <file name="theme-authors-notepad.css" crc="498886288" ref="theme-authors-notepad"/>
     <file name="website-arthurgareginyan.css" crc="4184926211" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="314758681" ref="website-milenakiseleva.github.io"/>
     <file name="portfolio.css" crc="4215989" ref="portfolio"/>
@@ -51,7 +51,7 @@
     <file name="website-prison-diaries_com.css" crc="355617906" ref="website-prison-diaries.com"/>
     <file name="master_pop-up-window.css" crc="110116179" ref="theme-circus-tent"/>
     <file name="master_project-page---plugin.css" crc="3850037864" ref="plugin-my-custom-functions-pro:plugin-my-custom-styles-pro"/>
-    <file name="master_project-page---theme-2.css" crc="3806011851" ref="theme-authors-notepad:theme-simple-notepad"/>
+    <file name="master_project-page---theme-2.css" crc="358087698" ref="theme-authors-notepad:theme-simple-notepad"/>
     <file name="master_project-page---theme-1.css" crc="183764497" ref="theme-anarcho-notepad"/>
   </folder>
   <folder name="assets">
@@ -184,7 +184,7 @@
     <file name="scan 52.jpg" crc="340349222" seo="true" ref="drawings"/>
     <file name="scan 46.jpg" crc="226316652" seo="true" ref="drawings"/>
     <file name="scan 322.jpg" crc="144345964" seo="true" ref="drawings"/>
-    <file name="favicon.ico" crc="417939427" ref="index:portfolio:resume:store:theme-anarcho-notepad"/>
+    <file name="favicon.ico" crc="417939427" ref="index:portfolio:resume:store:theme-anarcho-notepad:theme-authors-notepad"/>
     <file name="follow-me.png" crc="456279628" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-download-2.png" crc="337935577" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-icon.png" crc="4022076147" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
@@ -279,7 +279,7 @@
     <file name="simple-notepad-iphone6s-u19395-fr.jpg" crc="3798531341" ref="theme-simple-notepad"/>
     <file name="u19401-6.png" crc="264810047" ref="theme-simple-notepad"/>
     <file name="anarcho-notepad-preview-cropped-u1302-fr.jpg" crc="230190292" ref="portfolio"/>
-    <file name="u19251-grad.png" crc="3848456515" ref="theme-anarcho-notepad:theme-authors-notepad"/>
+    <file name="u19251-grad.png" crc="3848456515" ref="theme-anarcho-notepad"/>
     <file name="anarcho-notepad-macbookair11-u18320-fr.jpg" crc="104364392" ref="theme-anarcho-notepad"/>
     <file name="authors-notepad-iphone6s.jpg" crc="203527384" ref="theme-authors-notepad"/>
     <file name="authors-notepad-macbookair11.jpg" crc="4100818233" ref="theme-authors-notepad"/>
@@ -316,6 +316,7 @@
     <file name="anarcho-notepad-macbookpro-crop-u21248.jpg" crc="299361694" ref="theme-anarcho-notepad"/>
     <file name="anarcho-notepad-macbookair-crop-u21228.jpg" crc="3999164838" ref="theme-anarcho-notepad"/>
     <file name="icon-512x51214.png" crc="1368944" ref="store"/>
+    <file name="u18412-grad.png" crc="3848456515" ref="theme-authors-notepad"/>
   </folder>
   <file name="index.html" crc="226701545" seo="true" mt="1483574130133" redirect="true"/>
   <file name="resume.html" crc="4011516459" seo="true" mt="1485383025575" redirect="true"/>
@@ -327,7 +328,7 @@
   <file name="contact-thanks.html" crc="12735367" seo="true" mt="1483574130133" redirect="true"/>
   <file name="404.html" crc="4274255932" seo="true" mt="1483574130133" redirect="true"/>
   <file name="theme-anarcho-notepad.html" crc="496726655" seo="true" mt="1486380516917" redirect="true"/>
-  <file name="theme-authors-notepad.html" crc="520511595" seo="true" mt="1486380372361" redirect="true"/>
+  <file name="theme-authors-notepad.html" crc="4211514432" seo="true" mt="1486802399571" redirect="true"/>
   <file name="website-arthurgareginyan.html" crc="72139906" seo="true" mt="1483572135270" redirect="true"/>
   <file name="website-bmwz3brutality.html" crc="4000411547" seo="true" mt="1480631375586" redirect="true"/>
   <file name="website-milenakiseleva.html" crc="280057385" seo="true" mt="1480631375586" redirect="true"/>
