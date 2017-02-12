@@ -4,8 +4,8 @@
 
 .version.theme_simple_notepad /* version checker */
 {
-	color: #000011;
-	background-color: #7DBB9C;
+	color: #0000E4;
+	background-color: #33C673;
 }
 
 #page
@@ -296,8 +296,8 @@
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
-	color: #3C454C;
 	line-height: 29px;
+	color: #3C454C;
 	text-align: center;
 	font-size: 24px;
 	font-family: buenard, serif;
@@ -325,8 +325,8 @@
 	width: 505px;
 	min-height: 358px;
 	background-color: transparent;
-	color: #3B454C;
 	line-height: 25px;
+	color: #3B454C;
 	font-size: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -350,8 +350,8 @@
 	width: 505px;
 	min-height: 358px;
 	background-color: transparent;
-	color: #3B454C;
 	line-height: 25px;
+	color: #3B454C;
 	font-size: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -423,8 +423,8 @@
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
-	color: #3C454C;
 	line-height: 29px;
+	color: #3C454C;
 	text-align: center;
 	font-size: 24px;
 	font-family: buenard, serif;
@@ -815,8 +815,8 @@
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
-	color: #3C454C;
 	line-height: 29px;
+	color: #3C454C;
 	text-align: center;
 	font-size: 24px;
 	font-family: buenard, serif;
@@ -987,8 +987,8 @@
 	width: 278px;
 	min-height: 25px;
 	background-color: transparent;
-	color: #2B2B2B;
 	line-height: 24px;
+	color: #2B2B2B;
 	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
@@ -1212,8 +1212,8 @@
 	width: 278px;
 	min-height: 25px;
 	background-color: transparent;
-	color: #2B2B2B;
 	line-height: 24px;
+	color: #2B2B2B;
 	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
@@ -1259,8 +1259,8 @@
 	width: 942px;
 	min-height: 102px;
 	background-color: transparent;
-	color: #3C454C;
 	line-height: 16px;
+	color: #3C454C;
 	font-size: 13px;
 	left: 100px;
 	margin-top: 49px;
@@ -1302,8 +1302,8 @@
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
-	color: #3C454C;
 	line-height: 29px;
+	color: #3C454C;
 	text-align: center;
 	font-size: 24px;
 	font-family: buenard, serif;
@@ -1323,8 +1323,8 @@
 	width: 942px;
 	min-height: 102px;
 	background-color: transparent;
-	color: #3C454C;
 	line-height: 23px;
+	color: #3C454C;
 	font-size: 19px;
 	position: relative;
 }

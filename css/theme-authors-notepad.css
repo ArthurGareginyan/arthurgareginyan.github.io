@@ -4,8 +4,8 @@
 
 .version.theme_authors_notepad /* version checker */
 {
-	color: #00001D;
-	background-color: #BC6690;
+	color: #000001;
+	background-color: #948C05;
 }
 
 #page
@@ -1550,5 +1550,4 @@ body
 	font-weight: 400;
 	font-style: normal;
 }
-
 
