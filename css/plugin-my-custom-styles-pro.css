@@ -4,8 +4,8 @@
 
 .version.plugin_my_custom_styles_pro /* version checker */
 {
-	color: #000003;
-	background-color: #3AB2BF;
+	color: #0000FC;
+	background-color: #19BE31;
 }
 
 #page
@@ -63,7 +63,7 @@
 
 #u16025
 {
-	z-index: 324;
+	z-index: 329;
 	width: 667px;
 	height: 264px;
 	border-style: solid;
@@ -140,7 +140,7 @@
 
 #u15748-6
 {
-	z-index: 208;
+	z-index: 213;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -186,7 +186,7 @@
 
 #u15698-13
 {
-	z-index: 231;
+	z-index: 236;
 	width: 942px;
 	min-height: 373px;
 	background-color: transparent;
@@ -208,7 +208,7 @@
 
 #u16320
 {
-	z-index: 235;
+	z-index: 240;
 	width: 110px;
 	height: 109px;
 	background: transparent url("../images/icon-512x512-u16320-fr.png") no-repeat center center;
@@ -217,7 +217,7 @@
 
 #u15797
 {
-	z-index: 322;
+	z-index: 327;
 	height: 26px;
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255,255,255,0)),color-stop(100%, rgba(127,127,127,0.1)));
 	background: -webkit-linear-gradient(top,rgba(255,255,255,0) ,rgba(127,127,127,0.1) 100%);
@@ -228,7 +228,7 @@
 
 #u15797-bw
 {
-	z-index: 322;
+	z-index: 327;
 	margin-top: 46px;
 	height: 26px;
 }
@@ -268,13 +268,13 @@
 #u15742_position_content
 {
 	margin-top: -1px;
-	padding-bottom: 45px;
+	padding-bottom: 46px;
 	width: 100%;
 }
 
 #u15696-4
 {
-	z-index: 223;
+	z-index: 228;
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
@@ -303,7 +303,7 @@
 
 #u15801-19
 {
-	z-index: 282;
+	z-index: 287;
 	width: 505px;
 	min-height: 225px;
 	background-color: transparent;
@@ -328,7 +328,7 @@
 
 #u15706-19
 {
-	z-index: 301;
+	z-index: 306;
 	width: 505px;
 	min-height: 225px;
 	background-color: transparent;
@@ -382,7 +382,7 @@
 
 #u15769
 {
-	z-index: 320;
+	z-index: 325;
 	height: 26px;
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(127,127,127,0.1)),color-stop(100%, rgba(255,255,255,0)));
 	background: -webkit-linear-gradient(top,rgba(127,127,127,0.1) ,rgba(255,255,255,0) 100%);
@@ -393,7 +393,7 @@
 
 #u15769-bw
 {
-	z-index: 320;
+	z-index: 325;
 	margin-top: -1px;
 	margin-bottom: -1px;
 	height: 26px;
@@ -401,7 +401,7 @@
 
 #u15798-4
 {
-	z-index: 219;
+	z-index: 224;
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
@@ -417,7 +417,7 @@
 
 #slideshowu15711
 {
-	z-index: 246;
+	z-index: 251;
 	width: 0.01px;
 	height: 152px;
 	left: -100px;
@@ -440,12 +440,12 @@
 
 #u15722popup
 {
-	z-index: 247;
+	z-index: 252;
 }
 
 #u17188
 {
-	z-index: 248;
+	z-index: 253;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -457,7 +457,7 @@
 
 #u17215
 {
-	z-index: 250;
+	z-index: 255;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -469,7 +469,7 @@
 
 #u17242
 {
-	z-index: 252;
+	z-index: 257;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -481,7 +481,7 @@
 
 #u17269
 {
-	z-index: 254;
+	z-index: 259;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -499,7 +499,7 @@
 
 #u15725
 {
-	z-index: 256;
+	z-index: 261;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -525,12 +525,12 @@
 
 #u15731popup
 {
-	z-index: 258;
+	z-index: 263;
 }
 
 #u17194
 {
-	z-index: 259;
+	z-index: 264;
 	width: 191px;
 	height: 140px;
 	-pie-box-shadow: none;
@@ -547,7 +547,7 @@
 
 #u17221
 {
-	z-index: 261;
+	z-index: 266;
 	width: 191px;
 	height: 140px;
 	-pie-box-shadow: none;
@@ -564,7 +564,7 @@
 
 #u17248
 {
-	z-index: 263;
+	z-index: 268;
 	width: 191px;
 	height: 140px;
 	-pie-box-shadow: none;
@@ -581,7 +581,7 @@
 
 #u17275
 {
-	z-index: 265;
+	z-index: 270;
 	width: 191px;
 	height: 140px;
 	-pie-box-shadow: none;
@@ -598,7 +598,7 @@
 
 #u15736
 {
-	z-index: 267;
+	z-index: 272;
 	width: 191px;
 	height: 140px;
 	-pie-box-shadow: none;
@@ -644,7 +644,7 @@
 
 #u15715-4popup
 {
-	z-index: 269;
+	z-index: 274;
 }
 
 #u15740-4
@@ -663,7 +663,7 @@
 
 #u15740-4popup
 {
-	z-index: 273;
+	z-index: 278;
 }
 
 #u15712
@@ -696,7 +696,7 @@
 
 #u15713-4
 {
-	z-index: 278;
+	z-index: 283;
 	width: 20px;
 	min-height: 20px;
 	border-width: 0px;
@@ -724,7 +724,7 @@
 
 #u15692
 {
-	z-index: 323;
+	z-index: 328;
 	height: 26px;
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255,255,255,0)),color-stop(100%, rgba(127,127,127,0.1)));
 	background: -webkit-linear-gradient(top,rgba(255,255,255,0) ,rgba(127,127,127,0.1) 100%);
@@ -735,14 +735,14 @@
 
 #u15692-bw
 {
-	z-index: 323;
+	z-index: 328;
 	margin-top: 42px;
 	height: 26px;
 }
 
 #u15752
 {
-	z-index: 214;
+	z-index: 219;
 	min-height: 76px;
 	border-style: solid;
 	border-color: #E2E2E2;
@@ -762,7 +762,7 @@
 
 #u15795-4
 {
-	z-index: 215;
+	z-index: 220;
 	width: 942px;
 	min-height: 50px;
 	background-color: transparent;
@@ -780,13 +780,13 @@
 
 #u15752-bw
 {
-	z-index: 214;
+	z-index: 219;
 	min-height: 76px;
 }
 
 #u15802
 {
-	z-index: 321;
+	z-index: 326;
 	height: 26px;
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(127,127,127,0.1)),color-stop(100%, rgba(255,255,255,0)));
 	background: -webkit-linear-gradient(top,rgba(127,127,127,0.1) ,rgba(255,255,255,0) 100%);
@@ -797,7 +797,7 @@
 
 #u15802-bw
 {
-	z-index: 321;
+	z-index: 326;
 	margin-top: -1px;
 	margin-bottom: -1px;
 	height: 26px;
@@ -805,7 +805,7 @@
 
 #u15768-4
 {
-	z-index: 227;
+	z-index: 232;
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
@@ -1526,7 +1526,7 @@
 	padding-top: 10px;
 }
 
-#u15793-13
+#u15793-18
 {
 	z-index: 195;
 	width: 942px;
@@ -1535,30 +1535,19 @@
 	line-height: 16px;
 	color: #3C454C;
 	font-size: 13px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-top: 51px;
 	position: relative;
 }
 
-#u15793-3,#u15793-6
-{
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: normal;
-}
-
-#u15793,#u15793-4
-{
-	font-weight: bold;
-}
-
-#u15793-7,#u15793-10
-{
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
-}
-
-#u15793-9
+#u15793-3,#u15793-6,#u15793-9
 {
 	font-weight: normal;
+}
+
+#u15793,#u15793-4,#u15793-7,#u15793-10,#u15793-13
+{
+	font-weight: bold;
 }
 
 #u16385,#u16385-bw
