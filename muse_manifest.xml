@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1487112932846">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1487415773800">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -6,10 +6,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
-    <file name="master_main.css" crc="279259530" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
+    <file name="master_main.css" crc="279834166" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="website-milenakiseleva.css" crc="4178329499" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="4163808168" ref="website-anarchohosting"/>
-    <file name="about-me.css" crc="4049166575" ref="about-me"/>
+    <file name="about-me.css" crc="379019656" ref="about-me"/>
     <file name="website-oneberserkr.css" crc="344446868" ref="website-oneberserkr"/>
     <file name="donate.css" crc="4200401586" ref="donate"/>
     <file name="website-mycyberuniverse.css" crc="488930464" ref="website-mycyberuniverse"/>
@@ -320,7 +320,7 @@
   <file name="index.html" crc="226701545" seo="true" mt="1483574130133" redirect="true"/>
   <file name="resume.html" crc="4011516459" seo="true" mt="1485383025575" redirect="true"/>
   <file name="portfolio.html" crc="68235025" seo="true" mt="1485381240778" redirect="true"/>
-  <file name="about-me.html" crc="4003868723" seo="true" mt="1487112901681" redirect="true"/>
+  <file name="about-me.html" crc="4187981460" seo="true" mt="1487415747164" redirect="true"/>
   <file name="donate.html" crc="484585139" seo="true" mt="1483574130133" redirect="true"/>
   <file name="contact.html" crc="173490478" seo="true" mt="1483574130133" redirect="true"/>
   <file name="privacy-policy.html" crc="249470855" seo="true" mt="1483574130133" redirect="true"/>
