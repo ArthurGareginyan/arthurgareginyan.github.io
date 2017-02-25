@@ -4,8 +4,8 @@
 
 .version.theme_simple_notepad /* version checker */
 {
-	color: #0000FD;
-	background-color: #22CB21;
+	color: #000017;
+	background-color: #75F624;
 }
 
 #page
@@ -208,9 +208,9 @@
 	width: 942px;
 	min-height: 335px;
 	background-color: transparent;
-	line-height: 34px;
 	color: #3C454C;
 	font-size: 19px;
+	line-height: 34px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 1px;
 	margin-top: 64px;
@@ -296,10 +296,10 @@
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3C454C;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	left: 101px;
@@ -325,9 +325,9 @@
 	width: 505px;
 	min-height: 358px;
 	background-color: transparent;
-	line-height: 25px;
 	color: #3B454C;
 	font-size: 19px;
+	line-height: 25px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -350,9 +350,9 @@
 	width: 505px;
 	min-height: 358px;
 	background-color: transparent;
-	line-height: 25px;
 	color: #3B454C;
 	font-size: 19px;
+	line-height: 25px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -423,10 +423,10 @@
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3C454C;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-top: 37px;
@@ -682,9 +682,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 142px;
 	left: 11px;
@@ -701,9 +701,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 142px;
 	left: 1216px;
@@ -750,9 +750,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -815,10 +815,10 @@
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3C454C;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	left: 100px;
@@ -898,10 +898,10 @@
 	width: 278px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 14px;
 	color: #727272;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	left: -1px;
 	margin-top: 20px;
 	position: relative;
@@ -915,10 +915,10 @@
 	border-style: solid;
 	border-color: #D1D1D1;
 	background-color: transparent;
-	line-height: 14px;
 	color: #727272;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
@@ -943,10 +943,10 @@
 	width: 278px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 14px;
 	color: #727272;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	left: -1px;
 	margin-top: 30px;
 	position: relative;
@@ -960,10 +960,10 @@
 	border-style: solid;
 	border-color: #D1D1D1;
 	background-color: transparent;
-	line-height: 14px;
 	color: #727272;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
@@ -987,10 +987,10 @@
 	width: 278px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #2B2B2B;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-weight: bold;
 	left: -1px;
 	margin-top: 29px;
@@ -1004,10 +1004,10 @@
 	min-height: 34px;
 	background-color: #F77D2C;
 	border-radius: 3px;
-	line-height: 13px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 11px;
+	line-height: 13px;
 	margin-left: 26px;
 	margin-top: 16px;
 	position: relative;
@@ -1106,10 +1106,10 @@
 	width: 278px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 14px;
 	color: #727272;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	left: -1px;
 	margin-top: 8px;
 	position: relative;
@@ -1123,10 +1123,10 @@
 	border-style: solid;
 	border-color: #D1D1D1;
 	background-color: transparent;
-	line-height: 14px;
 	color: #727272;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
@@ -1151,10 +1151,10 @@
 	width: 278px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 14px;
 	color: #727272;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	left: -1px;
 	margin-top: 38px;
 	position: relative;
@@ -1180,10 +1180,10 @@
 	border-style: solid;
 	border-color: #D1D1D1;
 	background-color: transparent;
-	line-height: 14px;
 	color: #727272;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
@@ -1212,10 +1212,10 @@
 	width: 278px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #2B2B2B;
 	text-align: center;
 	font-size: 20px;
+	line-height: 24px;
 	font-weight: bold;
 	left: -1px;
 	margin-top: 31px;
@@ -1229,10 +1229,10 @@
 	min-height: 34px;
 	background-color: #38302C;
 	border-radius: 3px;
-	line-height: 13px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 11px;
+	line-height: 13px;
 	margin-left: 26px;
 	margin-top: 14px;
 	position: relative;
@@ -1259,9 +1259,9 @@
 	width: 942px;
 	min-height: 102px;
 	background-color: transparent;
-	line-height: 16px;
 	color: #3C454C;
 	font-size: 13px;
+	line-height: 16px;
 	left: 100px;
 	margin-top: 49px;
 	position: relative;
@@ -1307,10 +1307,10 @@
 	width: 942px;
 	min-height: 71px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3C454C;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-top: 34px;
@@ -1328,9 +1328,9 @@
 	width: 942px;
 	min-height: 102px;
 	background-color: transparent;
-	line-height: 23px;
 	color: #3C454C;
 	font-size: 19px;
+	line-height: 23px;
 	position: relative;
 }
 
