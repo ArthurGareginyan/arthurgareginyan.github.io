@@ -4,8 +4,8 @@
 
 .version.theme_authors_notepad /* version checker */
 {
-	color: #000001;
-	background-color: #373DB3;
+	color: #0000F9;
+	background-color: #B96125;
 }
 
 #page
@@ -773,7 +773,7 @@
 
 #u21813
 {
-	z-index: 337;
+	z-index: 338;
 	width: 269px;
 	height: 165px;
 	left: 436px;
@@ -784,7 +784,7 @@
 
 #u21812-4
 {
-	z-index: 333;
+	z-index: 334;
 	width: 942px;
 	min-height: 51px;
 	background-color: transparent;
@@ -807,7 +807,7 @@
 
 #u21814-4
 {
-	z-index: 338;
+	z-index: 339;
 	width: 942px;
 	min-height: 100px;
 	background-color: transparent;
@@ -1362,7 +1362,7 @@
 	padding-top: 40px;
 }
 
-#u21319-59
+#u21319-60
 {
 	z-index: 274;
 	width: 942px;
@@ -1377,22 +1377,22 @@
 	left: 100px;
 }
 
-#u21319-44
+#u21319-45
 {
 	font-size: 19px;
 }
 
-#u18791-2,#u18791-7,#u21319-4,#u21319-9,#u21319-14,#u21319-19,#u21319-23,#u21319-38,#u21319-43,#u21319-48
+#u18791-2,#u18791-7,#u21319-4,#u21319-9,#u21319-14,#u21319-19,#u21319-24,#u21319-39,#u21319-44,#u21319-49
 {
 	font-weight: bold;
 }
 
-#u21319-25,#u21319-27,#u21319-29,#u21319-31,#u21319-33,#u21319-50
+#u21319-26,#u21319-28,#u21319-30,#u21319-32,#u21319-34,#u21319-51
 {
 	font-style: italic;
 }
 
-#u18791-4,#u18791-9,#u18791-10,#u21319-2,#u21319-3,#u21319-6,#u21319-8,#u21319-11,#u21319-13,#u21319-16,#u21319-18,#u21319-21,#u21319-35,#u21319-37,#u21319-40,#u21319-42,#u21319-45,#u21319-47,#u21319-52,#u21319-54,#u21319-56
+#u18791-4,#u18791-9,#u18791-10,#u21319-2,#u21319-3,#u21319-6,#u21319-8,#u21319-11,#u21319-13,#u21319-16,#u21319-18,#u21319-21,#u21319-23,#u21319-36,#u21319-38,#u21319-41,#u21319-43,#u21319-46,#u21319-48,#u21319-53,#u21319-55,#u21319-57
 {
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1623,4 +1623,5 @@ body
 	font-weight: 400;
 	font-style: normal;
 }
+
 
