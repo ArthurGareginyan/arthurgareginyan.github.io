@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #0000EE;
-	background-color: #32EB68;
+	color: #00000D;
+	background-color: #7DBFD5;
 }
 
 #muse_css_mq
@@ -520,10 +520,10 @@
 	width: 898px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 34px;
 	color: #0093C4;
 	text-align: left;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	position: relative;
@@ -561,9 +561,9 @@
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
 	border-radius: 0px 0px 10px 10px ;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	position: relative;
@@ -577,9 +577,9 @@
 	z-index: 168;
 	width: 245px;
 	min-height: 155px;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -610,8 +610,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	font-size: 12px;
+	text-align: left;
 	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
@@ -678,9 +678,9 @@
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
 	border-radius: 0px 0px 10px 10px ;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	position: relative;
@@ -703,9 +703,9 @@
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
 	border-radius: 0px 0px 10px 10px ;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	position: relative;
@@ -719,10 +719,10 @@
 	z-index: 161;
 	width: 245px;
 	min-height: 155px;
-	text-transform: none;
-	text-align: center;
-	font-size: 20px;
 	line-height: 24px;
+	text-align: center;
+	text-transform: none;
+	font-size: 20px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -751,14 +751,14 @@
 	color: #FFFFFF;
 	visibility: inherit;
 	padding-top: 0px;
-	padding-bottom: 0px;
 	padding-right: 0px;
+	padding-bottom: 0px;
 	vertical-align: 0px;
 	letter-spacing: 0px;
+	line-height: 1.2;
 	text-transform: none;
 	text-decoration: none;
 	text-indent: 0px;
-	line-height: 1.2;
 	font-weight: normal;
 	font-style: normal;
 }
@@ -768,9 +768,9 @@
 	z-index: 175;
 	width: 245px;
 	min-height: 155px;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -802,8 +802,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	font-size: 12px;
+	text-align: left;
 	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
@@ -833,8 +833,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	font-size: 12px;
+	text-align: left;
 	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
@@ -877,9 +877,9 @@
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
 	border-radius: 0px 0px 10px 10px ;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	margin-bottom: -5px;
@@ -945,9 +945,9 @@
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
 	border-radius: 0px 0px 10px 10px ;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	margin-bottom: -5px;
@@ -1019,10 +1019,10 @@
 	width: 898px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 34px;
 	color: #0093C4;
 	text-align: left;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -1058,9 +1058,9 @@
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
 	border-radius: 0px 0px 10px 10px ;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	position: relative;
@@ -1090,8 +1090,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	font-size: 12px;
+	text-align: left;
 	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
@@ -1127,9 +1127,9 @@
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
 	border-radius: 0px 0px 10px 10px ;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	position: relative;
@@ -1176,8 +1176,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	font-size: 12px;
+	text-align: left;
 	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
@@ -1205,10 +1205,10 @@
 	width: 898px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 34px;
 	color: #0093C4;
 	text-align: left;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -1222,11 +1222,11 @@
 	width: 898px;
 	min-height: 113px;
 	background-color: transparent;
+	line-height: 24px;
 	color: #000000;
 	text-align: left;
 	font-size: 20px;
 	letter-spacing: 0px;
-	line-height: 24px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 22px;
 	top: -1px;
@@ -1371,9 +1371,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1394,9 +1394,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1417,9 +1417,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1440,9 +1440,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1583,9 +1583,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1606,9 +1606,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1629,9 +1629,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1652,9 +1652,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1809,9 +1809,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1832,9 +1832,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1855,9 +1855,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1878,9 +1878,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -1896,10 +1896,10 @@
 	width: 898px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 34px;
 	color: #0093C4;
 	text-align: left;
 	font-size: 28px;
-	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -1918,11 +1918,11 @@
 	width: 898px;
 	min-height: 96px;
 	background-color: transparent;
+	line-height: 24px;
 	color: #000000;
 	text-align: left;
 	font-size: 20px;
 	letter-spacing: 0px;
-	line-height: 24px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 22px;
 	top: -2px;
@@ -2056,9 +2056,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -2079,9 +2079,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -2102,9 +2102,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -2211,9 +2211,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -2234,9 +2234,9 @@
 	border-width: 5px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-bottom: -3px;
@@ -2254,7 +2254,6 @@
 #pu1125
 {
 	width: 0.01px;
-	margin-left: -47px;
 	margin-top: 3px;
 }
 
@@ -2264,7 +2263,6 @@
 	width: 943px;
 	position: relative;
 	margin-right: -10000px;
-	left: 47px;
 }
 
 #u1126
@@ -2313,7 +2311,8 @@
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 69px;
+	margin-top: 82px;
+	left: -32px;
 }
 
 #u17332
@@ -2323,7 +2322,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 41px;
-	left: 920px;
+	left: 873px;
 }
 
 #u109

@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #0000FA;
-	background-color: #D5F754;
+	color: #0000E4;
+	background-color: #EB0A28;
 }
 
 #muse_css_mq
@@ -566,7 +566,6 @@
 #pu1125
 {
 	width: 0.01px;
-	margin-left: -47px;
 	margin-top: 201px;
 }
 
@@ -576,7 +575,6 @@
 	width: 943px;
 	position: relative;
 	margin-right: -10000px;
-	left: 47px;
 }
 
 #u1126
@@ -625,7 +623,8 @@
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 68px;
+	margin-top: 82px;
+	left: -32px;
 }
 
 #u17332
@@ -635,7 +634,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 40px;
-	left: 920px;
+	left: 873px;
 }
 
 #u109

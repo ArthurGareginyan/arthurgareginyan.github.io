@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000000;
-	background-color: #4054B5;
+	color: #0000FE;
+	background-color: #849C55;
 }
 
 #muse_css_mq
@@ -1602,7 +1602,6 @@
 #pu1125
 {
 	width: 0.01px;
-	margin-left: -47px;
 	margin-top: 3px;
 }
 
@@ -1612,7 +1611,6 @@
 	width: 943px;
 	position: relative;
 	margin-right: -10000px;
-	left: 47px;
 }
 
 #u1126
@@ -1661,7 +1659,8 @@
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 68px;
+	margin-top: 82px;
+	left: -32px;
 }
 
 #u17332
@@ -1671,7 +1670,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 41px;
-	left: 920px;
+	left: 873px;
 }
 
 #u109

@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #00000B;
-	background-color: #8F3902;
+	color: #0000FE;
+	background-color: #3FCC48;
 }
 
 #muse_css_mq
@@ -20,11 +20,6 @@
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
-}
-
-#page_position_content,#pu1070
-{
-	width: 0.01px;/* should not cover content below */
 }
 
 #u1070
@@ -599,10 +594,9 @@
 	position: relative;
 }
 
-#pu1125
+#page_position_content,#pu1070,#pu1125
 {
-	width: 0.01px;
-	margin-left: -47px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u1125
@@ -611,7 +605,6 @@
 	width: 943px;
 	position: relative;
 	margin-right: -10000px;
-	left: 47px;
 }
 
 #u1126
@@ -660,7 +653,8 @@
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 69px;
+	margin-top: 82px;
+	left: -32px;
 }
 
 #u17332
@@ -670,7 +664,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 41px;
-	left: 920px;
+	left: 873px;
 }
 
 #u109

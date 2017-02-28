@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000011;
-	background-color: #528BEB;
+	color: #0000F2;
+	background-color: #B2A115;
 }
 
 #muse_css_mq
@@ -529,8 +529,8 @@
 	width: 662px;
 	min-height: 143px;
 	background-color: transparent;
-	color: #736357;
 	line-height: 46px;
+	color: #736357;
 	text-align: center;
 	font-size: 38px;
 	font-family: bitter, serif;
@@ -615,8 +615,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #534741;
 	line-height: 19px;
+	color: #534741;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -648,8 +648,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #534741;
 	line-height: 19px;
+	color: #534741;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -691,8 +691,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #534741;
 	line-height: 19px;
+	color: #534741;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -723,8 +723,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #534741;
 	line-height: 19px;
+	color: #534741;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -763,8 +763,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #534741;
 	line-height: 19px;
+	color: #534741;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -795,8 +795,8 @@
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #777777;
 	line-height: 19px;
+	color: #777777;
 	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
@@ -831,7 +831,6 @@
 #pu1125
 {
 	width: 0.01px;
-	margin-left: -47px;
 	margin-top: 79px;
 }
 
@@ -841,7 +840,6 @@
 	width: 943px;
 	position: relative;
 	margin-right: -10000px;
-	left: 47px;
 }
 
 #u1126
@@ -890,7 +888,8 @@
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 68px;
+	margin-top: 82px;
+	left: -32px;
 }
 
 #u17332
@@ -900,7 +899,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 40px;
-	left: 920px;
+	left: 873px;
 }
 
 #u109

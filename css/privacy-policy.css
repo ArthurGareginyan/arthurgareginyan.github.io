@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #000014;
-	background-color: #3F211C;
+	color: #0000EA;
+	background-color: #B76010;
 }
 
 #muse_css_mq
@@ -20,11 +20,6 @@
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
-}
-
-#page_position_content,#pu1070
-{
-	width: 0.01px;/* should not cover content below */
 }
 
 #u1070
@@ -513,8 +508,8 @@
 	width: 898px;
 	min-height: 34px;
 	background-color: transparent;
-	color: #0092C4;
 	line-height: 36px;
+	color: #0092C4;
 	text-align: center;
 	font-size: 30px;
 	font-family: bitter, serif;
@@ -584,10 +579,9 @@
 	left: 941px;
 }
 
-#pu1125
+#page_position_content,#pu1070,#pu1125
 {
-	width: 0.01px;
-	margin-left: -47px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u1125
@@ -596,7 +590,6 @@
 	width: 943px;
 	position: relative;
 	margin-right: -10000px;
-	left: 47px;
 }
 
 #u1126
@@ -645,7 +638,8 @@
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 69px;
+	margin-top: 82px;
+	left: -32px;
 }
 
 #u17332
@@ -655,7 +649,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 41px;
-	left: 920px;
+	left: 873px;
 }
 
 #u109
