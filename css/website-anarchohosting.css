@@ -1,7 +1,7 @@
 .version.website_anarchohosting /* version checker */
 {
-	color: #0000F8;
-	background-color: #2EABA8;
+	color: #0000E3;
+	background-color: #C397EF;
 }
 
 #muse_css_mq
@@ -42,7 +42,7 @@
 
 #u1696-6
 {
-	z-index: 13;
+	z-index: 16;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -65,17 +65,14 @@
 	color: #FFFFFF;
 }
 
-#u1768-6
+#u1697
 {
-	z-index: 20;
+	z-index: 22;
 	width: 600px;
-	min-height: 66px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	height: 325px;
 	position: relative;
+	background: transparent url("../images/anarcho-hosting.jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #pu1955
@@ -104,21 +101,11 @@
 	position: relative;
 }
 
-#u1697
+#u1768-6
 {
-	z-index: 19;
+	z-index: 23;
 	width: 600px;
-	height: 325px;
-	position: relative;
-	background: transparent url("../images/anarcho-hosting.jpg") no-repeat left top;
-	background-size: contain;
-}
-
-#u1695-9
-{
-	z-index: 4;
-	width: 600px;
-	min-height: 71px;
+	min-height: 66px;
 	background-color: transparent;
 	line-height: 19px;
 	font-size: 16px;
@@ -127,9 +114,18 @@
 	position: relative;
 }
 
-#u1695-2,#u1695-5
+#u1695-12
 {
-	color: #FFFFFF;
+	z-index: 4;
+	width: 600px;
+	min-height: 71px;
+	background-color: transparent;
+	color: #000000;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
 }
 
 .html

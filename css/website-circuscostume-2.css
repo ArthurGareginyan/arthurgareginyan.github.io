@@ -1,7 +1,7 @@
 .version.website_circuscostume_2 /* version checker */
 {
-	color: #000003;
-	background-color: #27F2F5;
+	color: #0000FE;
+	background-color: #4A5CB2;
 }
 
 #muse_css_mq
@@ -37,13 +37,14 @@
 #pu9626-7
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 5px;
 }
 
 #u9626-7
 {
-	z-index: 14;
+	z-index: 16;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -66,17 +67,17 @@
 	color: #FFFFFF;
 }
 
-#u9625-6
+#u9670
 {
-	z-index: 21;
+	z-index: 29;
 	width: 600px;
-	min-height: 67px;
 	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
 	position: relative;
+}
+
+#u9670_img
+{
+	padding-right: 1px;
 }
 
 #pu1955
@@ -105,20 +106,20 @@
 	position: relative;
 }
 
-#u9670
+#u9625-6
 {
-	z-index: 27;
+	z-index: 23;
 	width: 600px;
+	min-height: 67px;
 	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
 	position: relative;
 }
 
-#u9670_img
-{
-	padding-right: 1px;
-}
-
-#u9624-10
+#u9624-12
 {
 	z-index: 4;
 	width: 600px;
@@ -131,9 +132,9 @@
 	position: relative;
 }
 
-#u9624-2,#u9624-5
+#u9624-3,#u9624-5,#u9624-7,#u9624-9
 {
-	color: #FFFFFF;
+	color: #000000;
 }
 
 .html

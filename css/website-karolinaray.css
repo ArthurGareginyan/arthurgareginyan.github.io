@@ -1,7 +1,7 @@
 .version.website_karolinaray /* version checker */
 {
-	color: #0000F6;
-	background-color: #B06F2F;
+	color: #000015;
+	background-color: #59E0E0;
 }
 
 #muse_css_mq
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.95000000000005px;
+	min-height: 500px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -43,7 +42,7 @@
 
 #u1721-7
 {
-	z-index: 20;
+	z-index: 22;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -71,17 +70,14 @@
 	text-decoration: none;
 }
 
-#u1781-6
+#u1723
 {
-	z-index: 28;
+	z-index: 29;
 	width: 600px;
-	min-height: 33px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	height: 414px;
 	position: relative;
+	background: transparent url("../images/karolinaraytk%20(home).jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #pu1955
@@ -110,17 +106,20 @@
 	position: relative;
 }
 
-#u1723
+#u1781-6
 {
-	z-index: 27;
+	z-index: 30;
 	width: 600px;
-	height: 414px;
+	min-height: 33px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
 	position: relative;
-	background: transparent url("../images/karolinaraytk%20(home).jpg") no-repeat left top;
-	background-size: contain;
 }
 
-#u1722-16
+#u1722-18
 {
 	z-index: 4;
 	width: 600px;
@@ -130,16 +129,15 @@
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	margin-top: 17px;
 	position: relative;
 }
 
-#u1722-2,#u1722-5
+#u1722-3,#u1722-5,#u1722-7,#u1722-9
 {
-	color: #FFFFFF;
+	color: #000000;
 }
 
-#u1722-10
+#u1722-12
 {
 	font-size: 16px;
 	text-decoration: none;

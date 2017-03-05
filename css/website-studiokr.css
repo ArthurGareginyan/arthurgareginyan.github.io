@@ -1,7 +1,7 @@
 .version.website_studiokr /* version checker */
 {
-	color: #00000A;
-	background-color: #22B361;
+	color: #0000E2;
+	background-color: #B301B3;
 }
 
 #muse_css_mq
@@ -42,7 +42,7 @@
 
 #u1739-7
 {
-	z-index: 17;
+	z-index: 18;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -70,17 +70,14 @@
 	text-decoration: none;
 }
 
-#u1792-6
+#u1740
 {
 	z-index: 25;
 	width: 600px;
-	min-height: 33px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	height: 348px;
 	position: relative;
+	background: transparent url("../images/studio-kr.jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #pu1955
@@ -109,17 +106,20 @@
 	position: relative;
 }
 
-#u1740
+#u1792-6
 {
-	z-index: 24;
+	z-index: 26;
 	width: 600px;
-	height: 348px;
+	min-height: 33px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
 	position: relative;
-	background: transparent url("../images/studio-kr.jpg") no-repeat left top;
-	background-size: contain;
 }
 
-#u1741-13
+#u1741-14
 {
 	z-index: 4;
 	width: 600px;
@@ -132,9 +132,9 @@
 	position: relative;
 }
 
-#u1741-2,#u1741-5,#u1741-8
+#u1741-3,#u1741-5,#u1741-7,#u1741-9,#u1741-11
 {
-	color: #FFFFFF;
+	color: #000000;
 }
 
 .html

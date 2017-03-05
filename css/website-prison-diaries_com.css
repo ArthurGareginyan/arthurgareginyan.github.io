@@ -1,7 +1,7 @@
 .version.website_prison_diaries_com /* version checker */
 {
-	color: #000015;
-	background-color: #324C72;
+	color: #00000B;
+	background-color: #82033C;
 }
 
 #muse_css_mq
@@ -42,7 +42,7 @@
 
 #u18044-7
 {
-	z-index: 20;
+	z-index: 21;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -67,12 +67,12 @@
 
 #u18045-6
 {
-	z-index: 27;
+	z-index: 28;
 	width: 600px;
 	min-height: 43px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -106,33 +106,28 @@
 
 #u18125
 {
-	z-index: 33;
+	z-index: 34;
 	width: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#u18037-16
+#u18037-17
 {
 	z-index: 4;
 	width: 600px;
 	min-height: 59px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u18037,#u18037-3,#u18037-4,#u18037-9
+#u18037,#u18037-3,#u18037-4,#u18037-6,#u18037-8,#u18037-10,#u18037-12,#u18037-14
 {
 	color: #000000;
-}
-
-#u18037-5,#u18037-8,#u18037-11
-{
-	color: #FFFFFF;
 }
 
 .html

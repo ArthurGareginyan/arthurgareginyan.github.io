@@ -1,7 +1,7 @@
 .version.website_oneberserkr /* version checker */
 {
-	color: #000014;
-	background-color: #87D794;
+	color: #0000E5;
+	background-color: #34503B;
 }
 
 #muse_css_mq
@@ -28,21 +28,21 @@
 	width: 0.01px;/* should not cover content below */
 }
 
-#ppu1704-7
+#ppu1704-8
 {
 	width: 0.01px;
 }
 
-#pu1704-7
+#pu1704-8
 {
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 5px;
 }
 
-#u1704-7
+#u1704-8
 {
-	z-index: 13;
+	z-index: 15;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -58,29 +58,26 @@
 	line-height: 30px;
 }
 
-#u1704-5
+#u1704-6
 {
 	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
 }
 
-#u1704-3
+#u1704-3,#u1704-5
 {
 	text-decoration: none;
 }
 
-#u1767-5
+#u1702
 {
-	z-index: 21;
+	z-index: 23;
 	width: 600px;
-	min-height: 60px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	height: 305px;
 	position: relative;
+	background: transparent url("../images/oneberserkr.jpg") no-repeat left top;
+	background-size: cover;
 }
 
 #pu1955
@@ -109,21 +106,11 @@
 	position: relative;
 }
 
-#u1702
+#u1767-5
 {
-	z-index: 20;
+	z-index: 24;
 	width: 600px;
-	height: 305px;
-	position: relative;
-	background: transparent url("../images/oneberserkr.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#u1703-9
-{
-	z-index: 4;
-	width: 600px;
-	min-height: 110px;
+	min-height: 60px;
 	background-color: transparent;
 	line-height: 19px;
 	font-size: 16px;
@@ -132,9 +119,18 @@
 	position: relative;
 }
 
-#u1703-2,#u1703-5
+#u1703-11
 {
-	color: #FFFFFF;
+	z-index: 4;
+	width: 600px;
+	min-height: 110px;
+	background-color: transparent;
+	color: #000000;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
 }
 
 .html

@@ -1,7 +1,7 @@
 .version.website_vipmegastar /* version checker */
 {
-	color: #00000F;
-	background-color: #2362E3;
+	color: #000008;
+	background-color: #794D6C;
 }
 
 #muse_css_mq
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.5px;
+	min-height: 500px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -43,7 +42,7 @@
 
 #u1747-6
 {
-	z-index: 14;
+	z-index: 16;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -64,17 +63,14 @@
 	line-height: 24px;
 }
 
-#u1796-6
+#u1749
 {
-	z-index: 21;
+	z-index: 22;
 	width: 600px;
-	min-height: 43px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	height: 320px;
 	position: relative;
+	background: transparent url("../images/vipmegastar.jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #pu1955
@@ -103,17 +99,20 @@
 	position: relative;
 }
 
-#u1749
+#u1796-6
 {
-	z-index: 20;
+	z-index: 23;
 	width: 600px;
-	height: 320px;
+	min-height: 43px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
 	position: relative;
-	background: transparent url("../images/vipmegastar.jpg") no-repeat left top;
-	background-size: contain;
 }
 
-#u1748-10
+#u1748-12
 {
 	z-index: 4;
 	width: 600px;
@@ -123,14 +122,12 @@
 	font-size: 16px;
 	font-family: bitter, serif;
 	font-weight: 400;
-	top: -2px;
-	margin-bottom: -2px;
 	position: relative;
 }
 
-#u1748-2,#u1748-5
+#u1748-3,#u1748-5,#u1748-7,#u1748-9
 {
-	color: #FFFFFF;
+	color: #000000;
 }
 
 .html

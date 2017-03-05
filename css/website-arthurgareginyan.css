@@ -1,7 +1,7 @@
 .version.website_arthurgareginyan /* version checker */
 {
-	color: #0000F9;
-	background-color: #70E803;
+	color: #0000F6;
+	background-color: #E113EF;
 }
 
 #muse_css_mq
@@ -42,7 +42,7 @@
 
 #u1670-7
 {
-	z-index: 14;
+	z-index: 16;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -65,22 +65,14 @@
 	color: #FFFFFF;
 }
 
-#u1770-6
+#u1672
 {
-	z-index: 22;
+	z-index: 23;
 	width: 600px;
-	min-height: 42px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	height: 373px;
 	position: relative;
-}
-
-#u1770-3,#u1770-4
-{
-	color: #000000;
+	background: transparent url("../images/arthurgareginyan.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 #pu1955
@@ -109,17 +101,20 @@
 	position: relative;
 }
 
-#u1672
+#u1770-6
 {
-	z-index: 21;
+	z-index: 24;
 	width: 600px;
-	height: 373px;
+	min-height: 42px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
 	position: relative;
-	background: transparent url("../images/arthurgareginyan.jpg") no-repeat center top;
-	background-size: cover;
 }
 
-#u1669-10
+#u1669-12
 {
 	z-index: 4;
 	width: 600px;
@@ -132,9 +127,9 @@
 	position: relative;
 }
 
-#u1669-2,#u1669-5
+#u1770-3,#u1770-4,#u1669-3,#u1669-5,#u1669-7,#u1669-9
 {
-	color: #FFFFFF;
+	color: #000000;
 }
 
 .html

@@ -1,7 +1,7 @@
 .version.website_milenakiseleva_github_io /* version checker */
 {
-	color: #000012;
-	background-color: #C2D619;
+	color: #0000F6;
+	background-color: #F16310;
 }
 
 #muse_css_mq
@@ -42,7 +42,7 @@
 
 #u5475-7
 {
-	z-index: 20;
+	z-index: 22;
 	width: 600px;
 	min-height: 64px;
 	background-color: transparent;
@@ -70,17 +70,14 @@
 	text-decoration: none;
 }
 
-#u5478-6
+#u5477
 {
-	z-index: 28;
+	z-index: 29;
 	width: 600px;
-	min-height: 43px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: bitter, serif;
-	font-weight: 400;
+	height: 344px;
 	position: relative;
+	background: transparent url("../images/milenakiselevagithubio.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 #pu1955
@@ -109,17 +106,20 @@
 	position: relative;
 }
 
-#u5477
+#u5478-6
 {
-	z-index: 27;
+	z-index: 30;
 	width: 600px;
-	height: 344px;
+	min-height: 43px;
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: bitter, serif;
+	font-weight: 400;
 	position: relative;
-	background: transparent url("../images/milenakiselevagithubio.jpg") no-repeat center center;
-	background-size: cover;
 }
 
-#u5476-16
+#u5476-18
 {
 	z-index: 4;
 	width: 600px;
@@ -132,12 +132,12 @@
 	position: relative;
 }
 
-#u5476-2,#u5476-5
+#u5476-3,#u5476-5,#u5476-7,#u5476-9
 {
-	color: #FFFFFF;
+	color: #000000;
 }
 
-#u5476-10
+#u5476-12
 {
 	font-size: 16px;
 	text-decoration: none;
