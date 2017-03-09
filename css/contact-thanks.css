@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #0000E4;
-	background-color: #EB0A28;
+	color: #0000FC;
+	background-color: #D05517;
 }
 
 #muse_css_mq
@@ -515,30 +515,32 @@
 	position: relative;
 }
 
+#pu1289-11
+{
+	width: 0.01px;
+	margin-left: 47px;
+	margin-top: 31px;
+}
+
 #u1289-11
 {
 	z-index: 75;
-	width: 898px;
+	width: 620px;
 	min-height: 56px;
 	background-color: transparent;
 	line-height: 24px;
+	text-align: center;
 	font-size: 20px;
 	font-family: bitter, serif;
-	margin-left: 22px;
-	margin-top: 56px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 222px;
 }
 
 #u1289-2,#u1289-3
 {
-	text-align: center;
 	font-weight: 700;
-}
-
-#u1289-6
-{
-	text-align: left;
-	font-weight: 400;
 }
 
 #u1289-5
@@ -546,9 +548,8 @@
 	font-size: 20px;
 }
 
-#u1289-7,#u1289-9
+#u1289-6,#u1289-7,#u1289-9
 {
-	text-align: center;
 	font-weight: 400;
 }
 
@@ -557,16 +558,62 @@
 	z-index: 66;
 	width: 59px;
 	min-height: 59px;
-	margin-left: 963px;
-	top: -3px;
-	margin-bottom: -3px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 167px;
+	left: 916px;
+}
+
+#u21949
+{
+	z-index: 86;
+	width: 20px;
+	height: 20px;
+	background-color: #FFFFFF;
+	-webkit-transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,10);
+	-ms-transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,10);
+	transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,10);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 100px;
+	left: 197px;
+}
+
+#u21950
+{
+	z-index: 87;
+	width: 199px;
+	height: 200px;
+	border-color: #7F7F7F;
+	background-color: #FFFFFF;
+	border-radius: 125px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 10px;
+}
+
+#u21951
+{
+	z-index: 88;
+	width: 189px;
+	height: 189px;
+	border-radius: 125px;
+	-webkit-transform: matrix(0.9848,-0.1736,0.1736,0.9848,-15,18);
+	-ms-transform: matrix(0.9848,-0.1736,0.1736,0.9848,-15,18);
+	transform: matrix(0.9848,-0.1736,0.1736,0.9848,-15,18);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 15px;
+	background: transparent url("../images/avatar.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 #pu1125
 {
 	width: 0.01px;
-	margin-top: 201px;
+	margin-top: 200px;
 }
 
 #u1125
