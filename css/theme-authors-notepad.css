@@ -4,15 +4,15 @@
 
 .version.theme_authors_notepad /* version checker */
 {
-	color: #0000F9;
-	background-color: #B96125;
+	color: #0000F0;
+	background-color: #092C84;
 }
 
 #page
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 872.7500000000005px;
+	min-height: 872.75px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -273,8 +273,8 @@
 	width: 942px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3C454C;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -296,8 +296,8 @@
 	width: 505px;
 	min-height: 358px;
 	background-color: transparent;
-	line-height: 25px;
 	color: #3B454C;
+	line-height: 25px;
 	font-size: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -321,8 +321,8 @@
 	width: 505px;
 	min-height: 358px;
 	background-color: transparent;
-	line-height: 25px;
 	color: #3B454C;
+	line-height: 25px;
 	font-size: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
@@ -393,8 +393,8 @@
 	width: 942px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3C454C;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -811,8 +811,8 @@
 	width: 942px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3C454C;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -845,8 +845,8 @@
 	width: 942px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3C454C;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -1015,8 +1015,8 @@
 	width: 278px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #2B2B2B;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
@@ -1240,8 +1240,8 @@
 	width: 278px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #2B2B2B;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
@@ -1287,8 +1287,8 @@
 	width: 942px;
 	min-height: 102px;
 	background-color: transparent;
-	line-height: 16px;
 	color: #3C454C;
+	line-height: 16px;
 	font-size: 13px;
 	margin-top: 51px;
 	position: relative;
@@ -1346,8 +1346,8 @@
 	width: 942px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3C454C;
+	line-height: 29px;
 	text-align: center;
 	font-size: 24px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -1368,8 +1368,8 @@
 	width: 942px;
 	min-height: 680px;
 	background-color: transparent;
-	line-height: 23px;
 	color: #3C454C;
+	line-height: 23px;
 	font-size: 19px;
 	position: relative;
 	margin-right: -10000px;
@@ -1623,5 +1623,4 @@ body
 	font-weight: 400;
 	font-style: normal;
 }
-
 
