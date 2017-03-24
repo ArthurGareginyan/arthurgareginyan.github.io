@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1490022124350">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1490398149274">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -6,7 +6,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
-    <file name="master_main.css" crc="279834166" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
+    <file name="master_main.css" crc="243457619" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="website-milenakiseleva.css" crc="434663935" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="3821246447" ref="website-anarchohosting"/>
     <file name="about-me.css" crc="236191228" ref="about-me"/>
@@ -39,7 +39,7 @@
     <file name="website-circuscostume-2.css" crc="4266286258" ref="website-circuscostume-2"/>
     <file name="donate-success.css" crc="4246665605" ref="donate-success"/>
     <file name="iefonts_contact-thanks.css" crc="4032743377" ref="contact-thanks"/>
-    <file name="store.css" crc="59630782" ref="store"/>
+    <file name="store.css" crc="203564238" ref="store"/>
     <file name="iefonts_store.css" crc="4226681023" ref="store"/>
     <file name="plugin-my-custom-styles-pro.css" crc="208222934" ref="plugin-my-custom-styles-pro"/>
     <file name="iefonts_about-me.css" crc="99779749" ref="about-me"/>
@@ -341,7 +341,7 @@
   <file name="website-bizconsultinghub.com.html" crc="28319651" seo="true" mt="1488683788365" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="3963852849" seo="true" mt="1488683679119" redirect="true"/>
   <file name="donate-success.html" crc="4217996492" seo="true" mt="1489041884807" redirect="true"/>
-  <file name="store.html" crc="3765750289" seo="true" mt="1490001072613" redirect="true"/>
+  <file name="store.html" crc="333720617" seo="true" mt="1490398072900" redirect="true"/>
   <file name="plugin-my-custom-styles-pro.html" crc="143469715" seo="true" mt="1488299135029" redirect="true"/>
   <file name="theme-circus-tent.html" crc="4251760802" seo="true" mt="1485379695319" redirect="true"/>
   <file name="plugin-my-custom-functions-pro.html" crc="76921267" seo="true" mt="1488299135028" redirect="true"/>
