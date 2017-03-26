@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F9;
-	background-color: #52F067;
+	color: #0000EC;
+	background-color: #474BC4;
 }
 
 #muse_css_mq
@@ -530,9 +530,9 @@
 	min-height: 143px;
 	background-color: transparent;
 	color: #736357;
-	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
+	line-height: 46px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -543,7 +543,7 @@
 
 #u1894
 {
-	z-index: 127;
+	z-index: 126;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -558,7 +558,7 @@
 
 #u435
 {
-	z-index: 128;
+	z-index: 127;
 	width: 199px;
 	height: 200px;
 	border-color: #7F7F7F;
@@ -572,7 +572,7 @@
 
 #u437
 {
-	z-index: 129;
+	z-index: 128;
 	width: 189px;
 	height: 189px;
 	border-radius: 125px;
@@ -616,9 +616,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -642,16 +642,16 @@
 	border-width: 0px 0px 1px;
 }
 
-#u422-5
+#u422-6
 {
 	z-index: 106;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -692,9 +692,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -719,20 +719,25 @@
 
 #u423-7
 {
-	z-index: 111;
+	z-index: 112;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -6px;
 	left: 10px;
+}
+
+#u423-3
+{
+	text-decoration: none;
 }
 
 #pu415,#pu414
@@ -764,9 +769,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -789,16 +794,16 @@
 	border-width: 0px 0px 1px;
 }
 
-#u424-9
+#u424-7
 {
-	z-index: 118;
+	z-index: 119;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
 	color: #777777;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -812,18 +817,7 @@
 	color: #000000;
 }
 
-#u424-3
-{
-	text-decoration: none;
-	color: #534741;
-}
-
-#u423-3,#u424-4
-{
-	text-decoration: none;
-}
-
-#u410-2,#u410-6,#u424-2,#u424-6
+#u410-2,#u410-6,#u424-2
 {
 	color: #534741;
 }

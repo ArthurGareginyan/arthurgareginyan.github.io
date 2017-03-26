@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1490398149274">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1490547287149">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -9,7 +9,7 @@
     <file name="master_main.css" crc="243457619" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="website-milenakiseleva.css" crc="434663935" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="3821246447" ref="website-anarchohosting"/>
-    <file name="about-me.css" crc="236191228" ref="about-me"/>
+    <file name="about-me.css" crc="455969180" ref="about-me"/>
     <file name="website-oneberserkr.css" crc="3845410875" ref="website-oneberserkr"/>
     <file name="donate.css" crc="4155260099" ref="donate"/>
     <file name="website-mycyberuniverse.css" crc="4143182478" ref="website-mycyberuniverse"/>
@@ -28,7 +28,7 @@
     <file name="theme-white-knight.css" crc="4021377762" ref="theme-white-knight"/>
     <file name="iefonts_theme-white-knight.css" crc="397915271" ref="theme-white-knight"/>
     <file name="theme-anarcho-notepad.css" crc="320231994" ref="theme-anarcho-notepad"/>
-    <file name="index.css" crc="4182962279" ref="index"/>
+    <file name="index.css" crc="3964095428" ref="index"/>
     <file name="theme-authors-notepad.css" crc="329007142" ref="theme-authors-notepad"/>
     <file name="website-arthurgareginyan.css" crc="4141945839" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="4143014672" ref="website-milenakiseleva.github.io"/>
@@ -73,7 +73,7 @@
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:drawings:donate-success:store"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:drawings:donate-success:store"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:about-me:store"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:store"/>
     <file name="scan 1.jpg" crc="4098728078" seo="true" ref="resume:about-me"/>
     <file name="blank.gif" crc="4208392903" ref="resume:drawings:about-me:plugin-my-custom-styles-pro:plugin-my-custom-functions-pro:theme-anarcho-notepad:theme-authors-notepad:theme-simple-notepad"/>
     <file name="scan 2.jpg" crc="4186395706" seo="true" ref="resume:about-me"/>
@@ -182,7 +182,7 @@
     <file name="scan 52.jpg" crc="340349222" seo="true" ref="drawings"/>
     <file name="scan 46.jpg" crc="226316652" seo="true" ref="drawings"/>
     <file name="scan 322.jpg" crc="144345964" seo="true" ref="drawings"/>
-    <file name="favicon.ico" crc="417939427" ref="index:theme-authors-notepad:website-arthurgareginyan:theme-white-knight:about-me:store"/>
+    <file name="favicon.ico" crc="417939427" ref="index:theme-authors-notepad:website-arthurgareginyan:theme-white-knight:store"/>
     <file name="follow-me.png" crc="456279628" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-download-2.png" crc="337935577" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-icon.png" crc="4022076147" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
@@ -313,10 +313,10 @@
     <file name="avatar-ieu1292-fr.png" crc="249084068" ref="about-me"/>
     <file name="u21992-grad.png" crc="445964383" ref="store"/>
   </folder>
-  <file name="index.html" crc="183703768" seo="true" mt="1489041884808" redirect="true"/>
+  <file name="index.html" crc="4270366490" seo="true" mt="1490546940190" redirect="true"/>
   <file name="resume.html" crc="3867582826" seo="true" mt="1488213131003" redirect="true"/>
   <file name="portfolio.html" crc="513875531" seo="true" mt="1488213131003" redirect="true"/>
-  <file name="about-me.html" crc="4037588540" seo="true" mt="1490022104057" redirect="true"/>
+  <file name="about-me.html" crc="4028327252" seo="true" mt="1490547262142" redirect="true"/>
   <file name="donate.html" crc="4138745924" seo="true" mt="1488213131003" redirect="true"/>
   <file name="contact.html" crc="466425388" seo="true" mt="1488213131003" redirect="true"/>
   <file name="privacy-policy.html" crc="322299433" seo="true" mt="1488213131003" redirect="true"/>
