@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1490549368818">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1490555475133">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -11,7 +11,7 @@
     <file name="website-anarchohosting.css" crc="3821246447" ref="website-anarchohosting"/>
     <file name="about-me.css" crc="455969180" ref="about-me"/>
     <file name="website-oneberserkr.css" crc="3845410875" ref="website-oneberserkr"/>
-    <file name="donate.css" crc="3824495226" ref="donate"/>
+    <file name="donate.css" crc="4166129836" ref="donate"/>
     <file name="website-mycyberuniverse.css" crc="4143182478" ref="website-mycyberuniverse"/>
     <file name="contact.css" crc="162784155" ref="contact"/>
     <file name="website-karolinaray.css" crc="358211808" ref="website-karolinaray"/>
@@ -317,7 +317,7 @@
   <file name="resume.html" crc="3867582826" seo="true" mt="1488213131003" redirect="true"/>
   <file name="portfolio.html" crc="513875531" seo="true" mt="1488213131003" redirect="true"/>
   <file name="about-me.html" crc="4028327252" seo="true" mt="1490547262142" redirect="true"/>
-  <file name="donate.html" crc="4036090501" seo="true" mt="1490549329006" redirect="true"/>
+  <file name="donate.html" crc="4033769313" seo="true" mt="1490555454720" redirect="true"/>
   <file name="contact.html" crc="466425388" seo="true" mt="1488213131003" redirect="true"/>
   <file name="privacy-policy.html" crc="322299433" seo="true" mt="1488213131003" redirect="true"/>
   <file name="contact-thanks.html" crc="4021934815" seo="true" mt="1489041884811" redirect="true"/>
