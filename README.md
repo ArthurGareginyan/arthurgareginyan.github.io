@@ -7,6 +7,10 @@ Personal website of Arthur Gareginyan.
 This is the code for my personal website - [www.arthurgareginyan.com](http://www.arthurgareginyan.com) - it's a static site built with Adobe Muse.
 
 
+## DON'T CLONE THIS REPO!
+### THE SPACEX-CHIMP WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
+
+
 ## Under the hood
 
 #### Hosting
