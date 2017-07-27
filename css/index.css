@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F9;
-	background-color: #BE47E6;
+	color: #000002;
+	background-color: #862169;
 }
 
 #muse_css_mq
@@ -526,7 +526,7 @@
 
 #u410-10
 {
-	z-index: 75;
+	z-index: 76;
 	width: 662px;
 	min-height: 143px;
 	background-color: transparent;
@@ -544,7 +544,7 @@
 
 #u1894
 {
-	z-index: 126;
+	z-index: 127;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -559,7 +559,7 @@
 
 #u435
 {
-	z-index: 127;
+	z-index: 128;
 	width: 199px;
 	height: 200px;
 	border-color: #7F7F7F;
@@ -573,7 +573,7 @@
 
 #u437
 {
-	z-index: 128;
+	z-index: 129;
 	width: 189px;
 	height: 189px;
 	border-radius: 125px;
@@ -597,7 +597,7 @@
 
 #u412
 {
-	z-index: 85;
+	z-index: 86;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -612,7 +612,7 @@
 
 #u419-5
 {
-	z-index: 91;
+	z-index: 92;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -630,7 +630,7 @@
 
 #u416
 {
-	z-index: 88;
+	z-index: 89;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -645,7 +645,7 @@
 
 #u422-6
 {
-	z-index: 106;
+	z-index: 107;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -673,7 +673,7 @@
 
 #u415
 {
-	z-index: 87;
+	z-index: 88;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -688,7 +688,7 @@
 
 #u420-5
 {
-	z-index: 96;
+	z-index: 97;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -706,7 +706,7 @@
 
 #u417
 {
-	z-index: 89;
+	z-index: 90;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -720,7 +720,7 @@
 
 #u423-7
 {
-	z-index: 112;
+	z-index: 113;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -750,7 +750,7 @@
 
 #u414
 {
-	z-index: 86;
+	z-index: 87;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -765,7 +765,7 @@
 
 #u421-5
 {
-	z-index: 101;
+	z-index: 102;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -783,7 +783,7 @@
 
 #u418
 {
-	z-index: 90;
+	z-index: 91;
 	width: 371px;
 	border-style: solid;
 	border-color: #CCCCCC;
@@ -797,7 +797,7 @@
 
 #u424-7
 {
-	z-index: 119;
+	z-index: 120;
 	width: 352px;
 	min-height: 21px;
 	background-color: transparent;
@@ -936,6 +936,17 @@
 	min-height: 28px;
 	width: 941px;
 	margin: 37px -10000px 0px 0px;
+}
+
+#u22378
+{
+	z-index: 75;
+	width: 59px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 1067px;
 }
 
 .js body

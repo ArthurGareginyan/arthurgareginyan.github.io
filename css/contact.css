@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000FE;
-	background-color: #4A6BC1;
+	color: #0000EF;
+	background-color: #C53E89;
 }
 
 #muse_css_mq
@@ -516,7 +516,7 @@
 
 #u1221
 {
-	z-index: 75;
+	z-index: 76;
 	width: 844px;
 	min-height: 472px;
 	border-width: 0px;
@@ -665,6 +665,17 @@
 	min-height: 28px;
 	width: 941px;
 	margin: 37px -10000px 0px 0px;
+}
+
+#u22378
+{
+	z-index: 75;
+	width: 59px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 1067px;
 }
 
 .js body

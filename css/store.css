@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #0000FC;
-	background-color: #9A29E3;
+	color: #0000F3;
+	background-color: #AE085B;
 }
 
 #muse_css_mq
@@ -639,6 +639,17 @@
 	min-height: 28px;
 	width: 941px;
 	margin: 37px -10000px 0px 0px;
+}
+
+#u22378
+{
+	z-index: 75;
+	width: 59px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 1067px;
 }
 
 .js body

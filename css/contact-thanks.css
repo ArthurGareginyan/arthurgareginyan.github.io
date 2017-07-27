@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #00001A;
-	background-color: #9AFEDE;
+	color: #0000E3;
+	background-color: #B0DDBA;
 }
 
 #muse_css_mq
@@ -525,7 +525,7 @@
 
 #u1289-11
 {
-	z-index: 75;
+	z-index: 76;
 	width: 620px;
 	min-height: 56px;
 	background-color: transparent;
@@ -567,7 +567,7 @@
 
 #u21949
 {
-	z-index: 86;
+	z-index: 87;
 	width: 20px;
 	height: 20px;
 	background-color: #FFFFFF;
@@ -582,7 +582,7 @@
 
 #u21950
 {
-	z-index: 87;
+	z-index: 88;
 	width: 199px;
 	height: 200px;
 	border-color: #7F7F7F;
@@ -596,7 +596,7 @@
 
 #u21951
 {
-	z-index: 88;
+	z-index: 89;
 	width: 189px;
 	height: 189px;
 	border-radius: 125px;
@@ -724,6 +724,17 @@
 	min-height: 28px;
 	width: 941px;
 	margin: 37px -10000px 0px 0px;
+}
+
+#u22378
+{
+	z-index: 75;
+	width: 59px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 1067px;
 }
 
 .js body

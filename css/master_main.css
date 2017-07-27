@@ -36,8 +36,6 @@
 #u1114
 {
 	border-style: solid;
-	border-color: #544842;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
@@ -49,6 +47,13 @@
 #u1114:active
 {
 	border-color: #7F7F7F;
+}
+
+.store-link
+{
+	border-color: #544842;
+	background-color: transparent;
+	border-width: 0px 0px 2px;
 }
 
 #u1115-4
@@ -96,8 +101,6 @@
 #u1105
 {
 	border-style: solid;
-	border-color: #544842;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
@@ -151,8 +154,6 @@
 #u1086
 {
 	border-style: solid;
-	border-color: #544842;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
@@ -206,8 +207,6 @@
 #u1093
 {
 	border-style: solid;
-	border-color: #544842;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
@@ -261,8 +260,6 @@
 #u9330
 {
 	border-style: solid;
-	border-color: #544842;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
@@ -316,8 +313,6 @@
 #u11297
 {
 	border-style: solid;
-	border-color: #544842;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
@@ -371,8 +366,6 @@
 #u1195
 {
 	border-style: solid;
-	border-color: #544842;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
@@ -426,8 +419,6 @@
 #u1100
 {
 	border-style: solid;
-	border-color: #544842;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
@@ -522,13 +513,6 @@
 	background-color: transparent;
 }
 
-#menuu1082,#u9685,#u1842,#u2571
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-}
-
 #u1111,#u1104,#u1083,#u1090,#u9329,#u11296,#u1194,#u1097,#u10761,#u17325,#u10715
 {
 	background-color: transparent;
@@ -574,6 +558,13 @@
 {
 	color: #777777;
 	visibility: inherit;
+}
+
+#menuu1082,#u9685,#u1842,#u2571,#u22378
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
 }
 
 
