@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00001D;
-	background-color: #439C21;
+	color: #0000EF;
+	background-color: #5206B3;
 }
 
 #muse_css_mq
@@ -923,11 +923,57 @@
 	font-weight: 400;
 }
 
-#pu1308
+#pu22384
 {
 	width: 0.01px;
 	margin-left: 37px;
 	margin-top: 29px;
+}
+
+#u22384
+{
+	z-index: 407;
+	width: 240px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FFFFFF;
+	margin-bottom: -3px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: -2px;
+	background: #7F7F7F url("../images/spacexchimp-cropped.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u22384:hover
+{
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 240px;
+	min-height: 0px;
+	margin: -2px -10000px -3px 0px;
+	background-size: cover;
+}
+
+#u22385-7
+{
+	z-index: 408;
+	width: 245px;
+	min-height: 156px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-bottom: -2px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -3px;
+	left: -3px;
 }
 
 #u1308
@@ -943,7 +989,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -2px;
-	left: -2px;
+	left: 309px;
 	background: #7F7F7F url("../images/mycyberuniverse-4-1.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -976,7 +1022,7 @@
 	left: -3px;
 }
 
-#u5272-7:hover p
+#u22385-7:hover p,#u5272-7:hover p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -1000,7 +1046,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -2px;
-	left: 310px;
+	left: 621px;
 	background: #7F7F7F url("../images/oneberserkblogspotcom(full).jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1033,6 +1079,13 @@
 	left: -3px;
 }
 
+#pu1560
+{
+	width: 0.01px;
+	margin-left: 37px;
+	margin-top: 20px;
+}
+
 #u1560
 {
 	z-index: 101;
@@ -1046,7 +1099,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -2px;
-	left: 621px;
+	left: -2px;
 	background: #7F7F7F url("../images/arthurgareginyan.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1092,7 +1145,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -2px;
-	left: -2px;
+	left: 310px;
 	background: #7F7F7F url("../images/bmwz3brutality.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1138,7 +1191,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -2px;
-	left: 310px;
+	left: 621px;
 	background: #7F7F7F url("../images/anarcho-hosting.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1180,11 +1233,11 @@
 	border-style: solid;
 	border-width: 5px;
 	border-color: #FFFFFF;
-	margin-bottom: -3px;
+	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -2px;
-	left: 621px;
+	left: -2px;
 	background: #7F7F7F url("../images/milenakiselevablogspotcom.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1195,7 +1248,7 @@
 	background-position: center top;
 	width: 240px;
 	min-height: 0px;
-	margin: -2px -10000px -3px 0px;
+	margin: -2px -10000px -2px 0px;
 	background-size: cover;
 }
 
@@ -1229,8 +1282,8 @@
 	margin-bottom: -3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -2px;
-	left: -2px;
+	margin-top: -1px;
+	left: 310px;
 	background: #7F7F7F url("../images/karolinaraytk%20(home).jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1241,7 +1294,7 @@
 	background-position: center top;
 	width: 240px;
 	min-height: 0px;
-	margin: -2px -10000px -3px 0px;
+	margin: -1px -10000px -3px 0px;
 	background-size: cover;
 }
 
@@ -1275,8 +1328,8 @@
 	margin-bottom: -3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -2px;
-	left: 310px;
+	margin-top: -1px;
+	left: 621px;
 	background: #7F7F7F url("../images/studio-kr.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1287,7 +1340,7 @@
 	background-position: center top;
 	width: 240px;
 	min-height: 0px;
-	margin: -2px -10000px -3px 0px;
+	margin: -1px -10000px -3px 0px;
 	background-size: cover;
 }
 
@@ -1318,11 +1371,11 @@
 	border-style: solid;
 	border-width: 5px;
 	border-color: #FFFFFF;
-	margin-bottom: -3px;
+	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -2px;
-	left: 621px;
+	left: -2px;
 	background: #7F7F7F url("../images/circuscostume.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1333,7 +1386,7 @@
 	background-position: center top;
 	width: 240px;
 	min-height: 0px;
-	margin: -2px -10000px -3px 0px;
+	margin: -2px -10000px -2px 0px;
 	background-size: cover;
 }
 
@@ -1355,13 +1408,6 @@
 	left: -3px;
 }
 
-#pu1310,#pu1313,#pu1540
-{
-	width: 0.01px;
-	margin-left: 37px;
-	margin-top: 19px;
-}
-
 #u1540
 {
 	z-index: 99;
@@ -1374,8 +1420,8 @@
 	margin-bottom: -3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -2px;
-	left: -2px;
+	margin-top: -1px;
+	left: 310px;
 	background: #7F7F7F url("../images/vipmegastar.jpg") no-repeat left top;
 	background-size: cover;
 }
@@ -1386,7 +1432,7 @@
 	background-position: left top;
 	width: 240px;
 	min-height: 0px;
-	margin: -2px -10000px -3px 0px;
+	margin: -1px -10000px -3px 0px;
 	background-size: cover;
 }
 
@@ -1417,11 +1463,11 @@
 	border-style: solid;
 	border-width: 5px;
 	border-color: #FFFFFF;
-	margin-bottom: -3px;
+	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -2px;
-	left: 309px;
+	left: 621px;
 	background: #7F7F7F url("../images/milenakiselevagithubio.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1432,7 +1478,7 @@
 	background-position: center top;
 	width: 240px;
 	min-height: 0px;
-	margin: -2px -10000px -3px 0px;
+	margin: -2px -10000px -2px 0px;
 	background-size: cover;
 }
 
@@ -1454,6 +1500,13 @@
 	left: -3px;
 }
 
+#pu1539,#pu1541,#pu9473
+{
+	width: 0.01px;
+	margin-left: 37px;
+	margin-top: 19px;
+}
+
 #u9473
 {
 	z-index: 186;
@@ -1463,11 +1516,11 @@
 	border-style: solid;
 	border-width: 5px;
 	border-color: #FFFFFF;
-	margin-bottom: -3px;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -2px;
-	left: 621px;
+	left: -2px;
 	background: #7F7F7F url("../images/1600-1200.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1478,7 +1531,7 @@
 	background-position: center top;
 	width: 240px;
 	min-height: 0px;
-	margin: -2px -10000px -3px 0px;
+	margin: -2px -10000px -1px 0px;
 	background-size: cover;
 }
 
@@ -1512,13 +1565,6 @@
 	margin: -3px -10000px -3px 0px;
 }
 
-#pu9640
-{
-	width: 0.01px;
-	margin-left: 37px;
-	margin-top: 22px;
-}
-
 #u9640
 {
 	z-index: 194;
@@ -1531,8 +1577,7 @@
 	margin-bottom: -3px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
-	left: -2px;
+	left: 310px;
 	background: #7F7F7F url("../images/circuscostumetk-2.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1543,7 +1588,7 @@
 	background-position: center top;
 	width: 240px;
 	min-height: 0px;
-	margin: -1px -10000px -3px 0px;
+	margin: 0px -10000px -3px 0px;
 	background-size: cover;
 }
 
@@ -1589,8 +1634,8 @@
 	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -2px;
-	left: 310px;
+	margin-top: -1px;
+	left: 621px;
 	background: #7F7F7F url("../images/prison-diariescom-preview.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -1601,7 +1646,7 @@
 	background-position: center top;
 	width: 240px;
 	min-height: 0px;
-	margin: -2px -10000px -2px 0px;
+	margin: -1px -10000px -2px 0px;
 	background-size: cover;
 }
 
@@ -1623,7 +1668,7 @@
 	left: -3px;
 }
 
-#u5272-7:hover,#u5275-6:hover,#u5278-7:hover,#u5281-7:hover,#u5296-7:hover,#u5284-8:hover,#u5287-7:hover,#u5290-7:hover,#u5293-7:hover,#u5441-8:hover,#u18089-7:hover
+#u22385-7:hover,#u5272-7:hover,#u5275-6:hover,#u5278-7:hover,#u5281-7:hover,#u5296-7:hover,#u5284-8:hover,#u5287-7:hover,#u5290-7:hover,#u5293-7:hover,#u5441-8:hover,#u18089-7:hover
 {
 	text-shadow: 0px 0px 8px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,0.5);
 	-pie-box-shadow: none;
@@ -2824,7 +2869,7 @@
 	background-size: contain;
 }
 
-#u1308:hover::before,#u1309:hover::before,#u1560:hover::before,#u1310:hover::before,#u1311:hover::before,#u1539:hover::before,#u1313:hover::before,#u1312:hover::before,#u1541:hover::before,#u1540:hover::before,#u5440:hover::before,#u9473:hover::before,#u9640:hover::before,#u18075:hover::before,#u22150:hover::before,#u22149:hover::before,#u22148:hover::before,#u22147:hover::before,#u22151:hover::before,#u22152:hover::before,#u22153:hover::before,#u22154:hover::before,#u22155:hover::before,#u22156:hover::before,#u22167:hover::before,#u22169:hover::before,#u22267:hover::before,#u22270:hover::before,#u22272:hover::before,#u22274:hover::before,#u22276:hover::before
+#u22384:hover::before,#u1308:hover::before,#u1309:hover::before,#u1560:hover::before,#u1310:hover::before,#u1311:hover::before,#u1539:hover::before,#u1313:hover::before,#u1312:hover::before,#u1541:hover::before,#u1540:hover::before,#u5440:hover::before,#u9473:hover::before,#u9640:hover::before,#u18075:hover::before,#u22150:hover::before,#u22149:hover::before,#u22148:hover::before,#u22147:hover::before,#u22151:hover::before,#u22152:hover::before,#u22153:hover::before,#u22154:hover::before,#u22155:hover::before,#u22156:hover::before,#u22167:hover::before,#u22169:hover::before,#u22267:hover::before,#u22270:hover::before,#u22272:hover::before,#u22274:hover::before,#u22276:hover::before
 {
 	content: "";
 	position: absolute;
@@ -3020,7 +3065,7 @@
 	left: 1067px;
 }
 
-#u22342,#u22342-2,#u22342-3,#u22342-5,#u22354,#u22354-2,#u22354-3,#u22354-5,#u22360,#u22360-2,#u22360-3,#u22360-5,#u22372,#u22372-2,#u22372-3,#u22372-5,#u5272,#u5272-2,#u5272-3,#u5272-5,#u5275,#u5275-2,#u5275-4,#u5278,#u5278-2,#u5278-3,#u5278-5,#u5281,#u5281-2,#u5281-3,#u5281-5,#u5296,#u5296-2,#u5296-3,#u5296-5,#u5284,#u5284-2,#u5284-4,#u5284-6,#u5287,#u5287-2,#u5287-3,#u5287-5,#u5290,#u5290-2,#u5290-3,#u5290-5,#u5293,#u5293-2,#u5293-3,#u5293-5,#u5299,#u5299-2,#u5299-3,#u5299-5,#u5441,#u5441-2,#u5441-4,#u5441-6,#u9474,#u9474-2,#u9474-3,#u9474-5,#u9641,#u9641-2,#u9641-3,#u9641-5,#u18089,#u18089-2,#u18089-3,#u18089-5,.js body
+#u22342,#u22342-2,#u22342-3,#u22342-5,#u22354,#u22354-2,#u22354-3,#u22354-5,#u22360,#u22360-2,#u22360-3,#u22360-5,#u22372,#u22372-2,#u22372-3,#u22372-5,#u22385,#u22385-2,#u22385-3,#u22385-5,#u5272,#u5272-2,#u5272-3,#u5272-5,#u5275,#u5275-2,#u5275-4,#u5278,#u5278-2,#u5278-3,#u5278-5,#u5281,#u5281-2,#u5281-3,#u5281-5,#u5296,#u5296-2,#u5296-3,#u5296-5,#u5284,#u5284-2,#u5284-4,#u5284-6,#u5287,#u5287-2,#u5287-3,#u5287-5,#u5290,#u5290-2,#u5290-3,#u5290-5,#u5293,#u5293-2,#u5293-3,#u5293-5,#u5299,#u5299-2,#u5299-3,#u5299-5,#u5441,#u5441-2,#u5441-4,#u5441-6,#u9474,#u9474-2,#u9474-3,#u9474-5,#u9641,#u9641-2,#u9641-3,#u9641-5,#u18089,#u18089-2,#u18089-3,#u18089-5,.js body
 {
 	visibility: hidden;/* 100% transparent text is hidden */
 }
