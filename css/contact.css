@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000EF;
-	background-color: #C53E89;
+	color: #0000F2;
+	background-color: #105FD5;
 }
 
 #muse_css_mq
@@ -13,17 +13,13 @@
 {
 	z-index: 1;
 	width: 942px;
-	min-height: 683px;
+	min-height: 682.7432995944539px;
 	border-width: 0px;
 	border-color: #000000;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: transparent url("../images/leather.jpg") repeat left top;
-}
-
-#page_position_content,#pu1070
-{
-	width: 0.01px;/* should not cover content below */
 }
 
 #u1070
@@ -507,11 +503,42 @@
 	left: 950px;
 }
 
+#pu22428-5
+{
+	width: 0.01px;
+	margin-left: 22px;
+	margin-top: 11px;
+}
+
+#u22428-5
+{
+	z-index: 82;
+	width: 898px;
+	min-height: 45px;
+	background-color: transparent;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+}
+
+#u17325
+{
+	z-index: 71;
+	width: 35px;
+	position: relative;
+	margin-right: -10000px;
+	left: 920px;
+}
+
 #pu1221
 {
 	width: 0.01px;
 	margin-left: 63px;
-	margin-top: 11px;
+	margin-top: 15px;
 }
 
 #u1221
@@ -524,22 +551,6 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 23px;
-}
-
-#pu17325
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-left: 879px;
-}
-
-#u17325
-{
-	z-index: 71;
-	width: 35px;
-	position: relative;
 }
 
 #u9685
@@ -547,15 +558,52 @@
 	z-index: 66;
 	width: 59px;
 	min-height: 59px;
-	margin-left: 21px;
-	margin-top: 197px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 165px;
+	left: 900px;
+}
+
+#u22431-6
+{
+	z-index: 87;
+	width: 898px;
+	min-height: 45px;
+	background-color: transparent;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-left: 22px;
+	margin-top: 26px;
 	position: relative;
 }
 
-#pu1125
+#u22425-5
 {
-	width: 0.01px;
-	margin-top: 10px;
+	z-index: 77;
+	width: 898px;
+	min-height: 45px;
+	background-color: transparent;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: bitter, serif;
+	font-weight: 400;
+	margin-left: 22px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u22431,#u22425
+{
+	color: #ED1C24;
+	font-weight: 700;
+}
+
+#page_position_content,#pu1070,#pu1125
+{
+	width: 0.01px;/* should not cover content below */
 }
 
 #u1125
@@ -622,7 +670,7 @@
 	width: 137px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 40px;
+	margin-top: 41px;
 	left: 873px;
 }
 
