@@ -1,7 +1,7 @@
 .version._404 /* version checker */
 {
-	color: #0000FE;
-	background-color: #3FCC48;
+	color: #00000C;
+	background-color: #D0632A;
 }
 
 #muse_css_mq
@@ -68,6 +68,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 11px;
+	left: -1px;
 }
 
 #u1111
@@ -559,8 +560,8 @@
 	width: 101px;
 	min-height: 27px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	position: relative;

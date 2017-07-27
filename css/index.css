@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #474BC4;
+	color: #0000F9;
+	background-color: #BE47E6;
 }
 
 #muse_css_mq
@@ -72,6 +72,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 11px;
+	left: -1px;
 }
 
 #u1111

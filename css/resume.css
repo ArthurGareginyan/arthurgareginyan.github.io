@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000E0;
-	background-color: #ED7E06;
+	color: #00001B;
+	background-color: #675BCC;
 }
 
 #muse_css_mq
@@ -68,6 +68,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 11px;
+	left: -1px;
 }
 
 #u1111
@@ -1223,9 +1224,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 12px;
 	left: -15px;
@@ -1242,9 +1243,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 12px;
 	left: 1190px;
@@ -1291,9 +1292,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1317,8 +1318,8 @@
 	width: 778px;
 	min-height: 618px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 16px;
 	font-family: bitter, serif;
 	position: relative;
@@ -1386,8 +1387,8 @@
 	width: 307px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 700;
 	position: relative;

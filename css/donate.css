@@ -1,7 +1,7 @@
 .version.donate /* version checker */
 {
-	color: #0000F8;
-	background-color: #5218AC;
+	color: #000006;
+	background-color: #EA9646;
 }
 
 #muse_css_mq
@@ -72,6 +72,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 11px;
+	left: -1px;
 }
 
 #u1111
@@ -544,8 +545,8 @@
 	width: 898px;
 	min-height: 323px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
