@@ -1,7 +1,7 @@
 .version.contact_thanks /* version checker */
 {
-	color: #0000E3;
-	background-color: #B0DDBA;
+	color: #0000FA;
+	background-color: #C7235E;
 }
 
 #muse_css_mq
@@ -529,9 +529,9 @@
 	width: 620px;
 	min-height: 56px;
 	background-color: transparent;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: bitter, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -672,7 +672,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 82px;
-	left: -32px;
+	left: 60px;
 }
 
 #u17332
@@ -681,8 +681,8 @@
 	width: 137px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 40px;
-	left: 873px;
+	margin-top: 67px;
+	left: 863px;
 }
 
 #u109

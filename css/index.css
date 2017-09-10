@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000002;
-	background-color: #862169;
+	color: #000015;
+	background-color: #0AF092;
 }
 
 #muse_css_mq
@@ -531,9 +531,9 @@
 	min-height: 143px;
 	background-color: transparent;
 	color: #736357;
+	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
-	line-height: 46px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -617,9 +617,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -650,9 +650,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -693,9 +693,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -725,9 +725,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -770,9 +770,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -802,9 +802,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #777777;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -884,7 +884,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 82px;
-	left: -32px;
+	left: 60px;
 }
 
 #u17332
@@ -893,8 +893,8 @@
 	width: 137px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 40px;
-	left: 873px;
+	margin-top: 67px;
+	left: 863px;
 }
 
 #u109
