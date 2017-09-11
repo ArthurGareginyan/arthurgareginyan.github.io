@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #00001F;
-	background-color: #C01938;
+	color: #000011;
+	background-color: #256333;
 }
 
 #muse_css_mq
@@ -571,7 +571,7 @@
 
 #u1251-4
 {
-	z-index: 145;
+	z-index: 146;
 	width: 898px;
 	min-height: 34px;
 	background-color: transparent;
@@ -604,7 +604,7 @@
 
 #u1250-63
 {
-	z-index: 82;
+	z-index: 83;
 	width: 898px;
 	min-height: 695px;
 	background-color: transparent;
@@ -740,6 +740,14 @@
 	left: -100px;
 }
 
+#pu199-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 100px;
+}
+
 #u199-4
 {
 	z-index: 67;
@@ -747,8 +755,7 @@
 	min-height: 28px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 37px;
-	left: 100px;
+	margin-top: 35px;
 }
 
 #u199-4:hover
@@ -757,7 +764,17 @@
 	padding-bottom: 0px;
 	min-height: 28px;
 	width: 941px;
-	margin: 37px -10000px 0px 0px;
+	margin: 35px -10000px 0px 0px;
+}
+
+#u22529
+{
+	z-index: 82;
+	width: 59px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	left: 873px;
 }
 
 #u22378

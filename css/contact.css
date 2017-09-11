@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00000F;
-	background-color: #C0AACA;
+	color: #0000EF;
+	background-color: #B99CEF;
 }
 
 #muse_css_mq
@@ -578,7 +578,7 @@
 
 #u22428-5
 {
-	z-index: 88;
+	z-index: 89;
 	width: 898px;
 	min-height: 45px;
 	background-color: transparent;
@@ -609,7 +609,7 @@
 
 #u1221
 {
-	z-index: 82;
+	z-index: 83;
 	width: 844px;
 	min-height: 472px;
 	border-width: 0px;
@@ -632,7 +632,7 @@
 
 #u22431-6
 {
-	z-index: 93;
+	z-index: 94;
 	width: 898px;
 	min-height: 45px;
 	background-color: transparent;
@@ -647,7 +647,7 @@
 
 #u22425-5
 {
-	z-index: 83;
+	z-index: 84;
 	width: 898px;
 	min-height: 45px;
 	background-color: transparent;
@@ -761,6 +761,14 @@
 	left: -100px;
 }
 
+#pu199-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 100px;
+}
+
 #u199-4
 {
 	z-index: 67;
@@ -768,8 +776,7 @@
 	min-height: 28px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 37px;
-	left: 100px;
+	margin-top: 35px;
 }
 
 #u199-4:hover
@@ -778,7 +785,17 @@
 	padding-bottom: 0px;
 	min-height: 28px;
 	width: 941px;
-	margin: 37px -10000px 0px 0px;
+	margin: 35px -10000px 0px 0px;
+}
+
+#u22529
+{
+	z-index: 82;
+	width: 59px;
+	min-height: 59px;
+	position: relative;
+	margin-right: -10000px;
+	left: 873px;
 }
 
 #u22378
