@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1505121488957">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1505121943883">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -219,15 +219,15 @@
     <file name="u22489-4.png" crc="231383046" ref="451"/>
     <file name="noise.jpg" crc="3766357177" ref="451"/>
   </folder>
-  <file name="index.html" crc="4043820446" seo="true" mt="1505121462092" redirect="true"/>
-  <file name="resume.html" crc="257540390" seo="true" mt="1505121462092" redirect="true"/>
-  <file name="portfolio.html" crc="3804566456" seo="true" mt="1505121462092" redirect="true"/>
-  <file name="about-me.html" crc="268820592" seo="true" mt="1505121462092" redirect="true"/>
-  <file name="donate.html" crc="2730066" seo="true" mt="1505121462092" redirect="true"/>
-  <file name="contact.html" crc="3897033440" seo="true" mt="1505121462092" redirect="true"/>
-  <file name="privacy-policy.html" crc="522005484" seo="true" mt="1505121462092" redirect="true"/>
-  <file name="contact-thanks.html" crc="3874106733" seo="true" mt="1505121462092" redirect="true"/>
-  <file name="404.html" crc="4051182467" seo="true" mt="1505121462092" redirect="true"/>
+  <file name="index.html" crc="4220994120" seo="true" mt="1505121923598" redirect="true"/>
+  <file name="resume.html" crc="288459723" seo="true" mt="1505121923598" redirect="true"/>
+  <file name="portfolio.html" crc="369171141" seo="true" mt="1505121923598" redirect="true"/>
+  <file name="about-me.html" crc="3828472797" seo="true" mt="1505121923598" redirect="true"/>
+  <file name="donate.html" crc="265621567" seo="true" mt="1505121923598" redirect="true"/>
+  <file name="contact.html" crc="4113194100" seo="true" mt="1505121923598" redirect="true"/>
+  <file name="privacy-policy.html" crc="4267222837" seo="true" mt="1505121923598" redirect="true"/>
+  <file name="contact-thanks.html" crc="201290293" seo="true" mt="1505121923598" redirect="true"/>
+  <file name="404.html" crc="4066756435" seo="true" mt="1505121923598" redirect="true"/>
   <file name="website-arthurgareginyan.html" crc="435683705" seo="true" mt="1488684246645" redirect="true"/>
   <file name="website-bmwz3brutality.html" crc="3941656589" seo="true" mt="1488684255455" redirect="true"/>
   <file name="website-milenakiseleva.html" crc="3911113324" seo="true" mt="1488683649925" redirect="true"/>
@@ -239,12 +239,12 @@
   <file name="website-studiokr.html" crc="3969164103" seo="true" mt="1488683689861" redirect="true"/>
   <file name="website-vipmegastar.html" crc="428576470" seo="true" mt="1488683532652" redirect="true"/>
   <file name="website-milenakiseleva.github.io.html" crc="4049914396" seo="true" mt="1488683468997" redirect="true"/>
-  <file name="drawings.html" crc="107455122" seo="true" mt="1505121462092" redirect="true"/>
+  <file name="drawings.html" crc="370464378" seo="true" mt="1505121923598" redirect="true"/>
   <file name="website-bizconsultinghub.com.html" crc="28319651" seo="true" mt="1488683788365" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="3963852849" seo="true" mt="1488683679119" redirect="true"/>
-  <file name="donate-success.html" crc="4241079357" seo="true" mt="1505121462092" redirect="true"/>
-  <file name="store.html" crc="3760512321" seo="true" mt="1505121462092" redirect="true"/>
+  <file name="donate-success.html" crc="3933827629" seo="true" mt="1505121923598" redirect="true"/>
+  <file name="store.html" crc="4156173905" seo="true" mt="1505121923598" redirect="true"/>
   <file name="website-prison-diaries.com.html" crc="4135696487" seo="true" mt="1488682442789" redirect="true"/>
   <file name="website-spacexchimp.html" crc="360910252" seo="true" mt="1501177613054" redirect="true"/>
-  <file name="451.html" crc="3968635198" seo="true" mt="1505120386846" redirect="true"/>
+  <file name="451.html" crc="3968635198" seo="true" mt="1505121728529" redirect="true"/>
 </manifest>
