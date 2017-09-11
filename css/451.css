@@ -1,0 +1,90 @@
+.version._451 /* version checker */
+{
+	color: #000012;
+	background-color: #307A7B;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1060px;
+	min-height: 706px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 57px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#u22477-4
+{
+	z-index: 2;
+	display: block;
+	vertical-align: top;
+	margin-left: 24px;
+	position: relative;
+}
+
+#u22483-4
+{
+	z-index: 6;
+	display: block;
+	vertical-align: top;
+	margin-left: 24px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u22486-6
+{
+	z-index: 10;
+	display: block;
+	vertical-align: top;
+	margin-left: 24px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u22494
+{
+	z-index: 20;
+	width: 174px;
+	background-color: transparent;
+	margin-left: 443px;
+	margin-top: 37px;
+	position: relative;
+}
+
+#u22489-4
+{
+	z-index: 16;
+	display: block;
+	vertical-align: top;
+	margin-left: 651px;
+	margin-top: 46px;
+	position: relative;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/noise.jpg") repeat left top scroll;
+}
+
+body
+{
+	position: relative;
+	min-width: 1060px;
+}
+
