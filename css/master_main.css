@@ -427,6 +427,11 @@
 	border-color: #7F7F7F;
 }
 
+#u1100.MuseMenuActive
+{
+	border-color: #7F7F7F;
+}
+
 #u1101-4
 {
 	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
@@ -457,6 +462,13 @@
 	box-shadow: none;
 }
 
+#u1100.MuseMenuActive #u1101-4
+{
+	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+}
+
 #u1100:hover #u1101-4 p
 {
 	color: #B9D0C1;
@@ -469,72 +481,7 @@
 	visibility: inherit;
 }
 
-#u22455
-{
-	border-style: solid;
-	border-width: 0px 0px 2px;
-}
-
-#u1100.MuseMenuActive,#u22455:hover
-{
-	border-color: #7F7F7F;
-}
-
-#u22455.MuseMenuActive
-{
-	border-color: #7F7F7F;
-}
-
-#u22456-4
-{
-	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	-pie-box-shadow: none;
-	box-shadow: none;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	color: #7F7F7F;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
-	font-family: alegreya-sc, serif;
-	font-weight: 400;
-}
-
-#u1100.MuseMenuActive #u1101-4,#u22455:hover #u22456-4
-{
-	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	-pie-box-shadow: none;
-	box-shadow: none;
-}
-
-#u22455:active #u22456-4
-{
-	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	-pie-box-shadow: none;
-	box-shadow: none;
-}
-
-#u22455.MuseMenuActive #u22456-4
-{
-	text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	-pie-box-shadow: none;
-	box-shadow: none;
-}
-
-#u22455:hover #u22456-4 p
-{
-	color: #B9D0C1;
-	visibility: inherit;
-}
-
-#u22455:active #u22456-4 p
-{
-	color: #7F7F7F;
-	visibility: inherit;
-}
-
-#u1114.MuseMenuActive #u1115-4 p,#u1105.MuseMenuActive #u1106-4 p,#u1086.MuseMenuActive #u1087-4 p,#u1093.MuseMenuActive #u1095-4 p,#u9330.MuseMenuActive #u9332-4 p,#u11297.MuseMenuActive #u11298-4 p,#u1195.MuseMenuActive #u1196-4 p,#u1100.MuseMenuActive #u1101-4 p,#u22455.MuseMenuActive #u22456-4 p
+#u1114.MuseMenuActive #u1115-4 p,#u1105.MuseMenuActive #u1106-4 p,#u1086.MuseMenuActive #u1087-4 p,#u1093.MuseMenuActive #u1095-4 p,#u9330.MuseMenuActive #u9332-4 p,#u11297.MuseMenuActive #u11298-4 p,#u1195.MuseMenuActive #u1196-4 p,#u1100.MuseMenuActive #u1101-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -566,7 +513,7 @@
 	background-color: transparent;
 }
 
-#u1111,#u1104,#u1083,#u1090,#u9329,#u11296,#u1194,#u1097,#u22452,#u10761,#u17325,#u10715
+#u1111,#u1104,#u1083,#u1090,#u9329,#u11296,#u1194,#u1097,#u10761,#u17325,#u10715
 {
 	background-color: transparent;
 }
@@ -613,7 +560,7 @@
 	visibility: inherit;
 }
 
-#menuu1082,#u9685,#u1842,#u2571,#u22529,#u22378
+#menuu1082,#u22529,#u9685,#u1842,#u2571,#u22378
 {
 	border-width: 0px;
 	border-color: transparent;
