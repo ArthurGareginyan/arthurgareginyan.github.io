@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000F1;
-	background-color: #B0011E;
+	color: #00000F;
+	background-color: #C0AACA;
 }
 
 #muse_css_mq
@@ -578,7 +578,7 @@
 
 #u22428-5
 {
-	z-index: 89;
+	z-index: 88;
 	width: 898px;
 	min-height: 45px;
 	background-color: transparent;
@@ -609,7 +609,7 @@
 
 #u1221
 {
-	z-index: 83;
+	z-index: 82;
 	width: 844px;
 	min-height: 472px;
 	border-width: 0px;
@@ -619,35 +619,20 @@
 	margin-right: -10000px;
 }
 
-#pu22529
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 87px;
-	margin-left: 900px;
-}
-
-#u22529
-{
-	z-index: 82;
-	width: 59px;
-	min-height: 59px;
-	position: relative;
-}
-
 #u9685
 {
 	z-index: 72;
 	width: 59px;
 	min-height: 59px;
-	margin-top: 19px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 165px;
+	left: 900px;
 }
 
 #u22431-6
 {
-	z-index: 94;
+	z-index: 93;
 	width: 898px;
 	min-height: 45px;
 	background-color: transparent;
@@ -662,7 +647,7 @@
 
 #u22425-5
 {
-	z-index: 84;
+	z-index: 83;
 	width: 898px;
 	min-height: 45px;
 	background-color: transparent;
