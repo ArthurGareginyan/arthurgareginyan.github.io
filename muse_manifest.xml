@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1505140368814">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1505144414173">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -27,7 +27,7 @@
     <file name="index.css" crc="70427356" ref="index"/>
     <file name="website-arthurgareginyan.css" crc="4141945839" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="4143014672" ref="website-milenakiseleva.github.io"/>
-    <file name="portfolio.css" crc="125494218" ref="portfolio"/>
+    <file name="portfolio.css" crc="506615584" ref="portfolio"/>
     <file name="website-bmwz3brutality.css" crc="93201262" ref="website-bmwz3brutality"/>
     <file name="drawings.css" crc="268702821" ref="drawings"/>
     <file name="website-bizconsultinghub_com.css" crc="4150059246" ref="website-bizconsultinghub.com"/>
@@ -41,7 +41,7 @@
     <file name="iefonts_portfolio.css" crc="464432833" ref="portfolio"/>
     <file name="website-spacexchimp.css" crc="3888179805" ref="website-spacexchimp"/>
     <file name="iefonts_contact.css" crc="410168431" ref="contact"/>
-    <file name="451.css" crc="305166971" ref="451"/>
+    <file name="451.css" crc="206304295" ref="451"/>
   </folder>
   <folder name="assets">
     <file name="arthur_gareginyan.vcf" crc="4196943282" seo="true" mt="1477016871000"/>
@@ -212,22 +212,22 @@
     <file name="simple-notepad-preview-cropped.jpg" crc="482154944" ref="portfolio"/>
     <file name="circus (master-1).jpg" crc="226121874" ref="portfolio"/>
     <file name="spacexchimp-cropped.jpg" crc="83377024" ref="portfolio:website-spacexchimp"/>
-    <file name="u22477-4.png" crc="4077355311" ref="451"/>
-    <file name="u22483-4.png" crc="38977972" ref="451"/>
-    <file name="u22486-6.png" crc="3940974938" ref="451"/>
+    <file name="u22477-4.png" crc="95147996" ref="451"/>
+    <file name="u22483-4.png" crc="3767181403" ref="451"/>
+    <file name="u22486-6.png" crc="49611410" ref="451"/>
     <file name="lock.jpg" crc="4115236169" seo="true" ref="451"/>
-    <file name="u22489-4.png" crc="231383046" ref="451"/>
+    <file name="u22489-4.png" crc="189644001" ref="451"/>
     <file name="noise.jpg" crc="3766357177" ref="451"/>
   </folder>
-  <file name="index.html" crc="4037855589" seo="true" mt="1505140347779" redirect="true"/>
-  <file name="resume.html" crc="4202862601" seo="true" mt="1505140347779" redirect="true"/>
-  <file name="portfolio.html" crc="4274253650" seo="true" mt="1505140347779" redirect="true"/>
-  <file name="about-me.html" crc="363152453" seo="true" mt="1505140347779" redirect="true"/>
-  <file name="donate.html" crc="194131718" seo="true" mt="1505140347779" redirect="true"/>
-  <file name="contact.html" crc="4241929224" seo="true" mt="1505140347779" redirect="true"/>
-  <file name="privacy-policy.html" crc="4007035691" seo="true" mt="1505140347779" redirect="true"/>
-  <file name="contact-thanks.html" crc="309117866" seo="true" mt="1505140347779" redirect="true"/>
-  <file name="404.html" crc="4068016465" seo="true" mt="1505140347779" redirect="true"/>
+  <file name="index.html" crc="3902575722" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="resume.html" crc="4164601290" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="portfolio.html" crc="3879219390" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="about-me.html" crc="3942561345" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="donate.html" crc="502856040" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="contact.html" crc="56242903" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="privacy-policy.html" crc="267391366" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="contact-thanks.html" crc="4004893696" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="404.html" crc="425155652" seo="true" mt="1505144396164" redirect="true"/>
   <file name="website-arthurgareginyan.html" crc="435683705" seo="true" mt="1488684246645" redirect="true"/>
   <file name="website-bmwz3brutality.html" crc="3941656589" seo="true" mt="1488684255455" redirect="true"/>
   <file name="website-milenakiseleva.html" crc="3911113324" seo="true" mt="1488683649925" redirect="true"/>
@@ -239,12 +239,12 @@
   <file name="website-studiokr.html" crc="3969164103" seo="true" mt="1488683689861" redirect="true"/>
   <file name="website-vipmegastar.html" crc="428576470" seo="true" mt="1488683532652" redirect="true"/>
   <file name="website-milenakiseleva.github.io.html" crc="4049914396" seo="true" mt="1488683468997" redirect="true"/>
-  <file name="drawings.html" crc="4043905559" seo="true" mt="1505140347779" redirect="true"/>
+  <file name="drawings.html" crc="3876422009" seo="true" mt="1505144396164" redirect="true"/>
   <file name="website-bizconsultinghub.com.html" crc="28319651" seo="true" mt="1488683788365" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="3963852849" seo="true" mt="1488683679119" redirect="true"/>
-  <file name="donate-success.html" crc="3819030143" seo="true" mt="1505140347779" redirect="true"/>
-  <file name="store.html" crc="3893142306" seo="true" mt="1505140347779" redirect="true"/>
+  <file name="donate-success.html" crc="3923990154" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="store.html" crc="4106674582" seo="true" mt="1505144396164" redirect="true"/>
   <file name="website-prison-diaries.com.html" crc="4135696487" seo="true" mt="1488682442789" redirect="true"/>
   <file name="website-spacexchimp.html" crc="360910252" seo="true" mt="1501177613054" redirect="true"/>
-  <file name="451.html" crc="3968635198" seo="true" mt="1505139438807" redirect="true"/>
+  <file name="451.html" crc="59592227" seo="true" mt="1505140731533" redirect="true"/>
 </manifest>

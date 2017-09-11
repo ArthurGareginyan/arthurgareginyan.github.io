@@ -787,6 +787,16 @@ var __adobewebfontsappname__ = "muse";
      <div class="clearfix grpelem" id="pu22529"><!-- column -->
       <div class="colelem" id="u22529"><!-- custom html -->
        <script>
+function defer(method) {
+    if (window.jQuery) {
+        method();
+    } else {
+        setTimeout(function() { defer(method) }, 50);
+    }
+}
+
+defer( function () {
+
 $.getJSON('https://freegeoip.net/json/', function(data) {
 
     // Get data from the FreeGeoIP.net service
@@ -934,6 +944,8 @@ $.getJSON('https://freegeoip.net/json/', function(data) {
             //window.location.href = target_url;
         }
     }
+});
+
 });
 </script>
 </div>
