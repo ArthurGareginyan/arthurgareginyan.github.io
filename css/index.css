@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000004;
-	background-color: #32A2DC;
+	color: #0000E3;
+	background-color: #ACEDB7;
 }
 
 #muse_css_mq
@@ -547,9 +547,9 @@
 	min-height: 143px;
 	background-color: transparent;
 	color: #736357;
-	line-height: 46px;
 	text-align: center;
 	font-size: 38px;
+	line-height: 46px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -638,9 +638,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -671,9 +671,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -719,9 +719,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -753,9 +753,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -791,9 +791,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -830,9 +830,9 @@
 	min-height: 21px;
 	background-color: transparent;
 	color: #534741;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;

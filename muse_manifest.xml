@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1505144414173">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1508329202476">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -6,33 +6,33 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
-    <file name="master_main.css" crc="4047375455" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
+    <file name="master_main.css" crc="195222791" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="website-milenakiseleva.css" crc="434663935" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="3821246447" ref="website-anarchohosting"/>
-    <file name="about-me.css" crc="28277556" ref="about-me"/>
+    <file name="about-me.css" crc="356413618" ref="about-me"/>
     <file name="website-oneberserkr.css" crc="3845410875" ref="website-oneberserkr"/>
     <file name="donate.css" crc="3976060079" ref="donate"/>
     <file name="website-mycyberuniverse.css" crc="4143182478" ref="website-mycyberuniverse"/>
     <file name="contact.css" crc="4273259489" ref="contact"/>
     <file name="website-karolinaray.css" crc="358211808" ref="website-karolinaray"/>
-    <file name="privacy-policy.css" crc="513069003" ref="privacy-policy"/>
+    <file name="privacy-policy.css" crc="4221105834" ref="privacy-policy"/>
     <file name="website-circuscostume.css" crc="4210722084" ref="website-circuscostume"/>
-    <file name="contact-thanks.css" crc="4077036284" ref="contact-thanks"/>
-    <file name="resume.css" crc="4216090243" ref="resume"/>
+    <file name="contact-thanks.css" crc="163833428" ref="contact-thanks"/>
+    <file name="resume.css" crc="97268751" ref="resume"/>
     <file name="iefonts_resume.css" crc="4040064716" ref="resume"/>
     <file name="404.css" crc="207575590" ref="404"/>
     <file name="iefonts_404.css" crc="4098287989" ref="404"/>
     <file name="website-vipmegastar.css" crc="142167404" ref="website-vipmegastar"/>
     <file name="website-studiokr.css" crc="3803382195" ref="website-studiokr"/>
-    <file name="index.css" crc="70427356" ref="index"/>
+    <file name="index.css" crc="3819761079" ref="index"/>
     <file name="website-arthurgareginyan.css" crc="4141945839" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="4143014672" ref="website-milenakiseleva.github.io"/>
-    <file name="portfolio.css" crc="506615584" ref="portfolio"/>
+    <file name="portfolio.css" crc="4260535227" ref="portfolio"/>
     <file name="website-bmwz3brutality.css" crc="93201262" ref="website-bmwz3brutality"/>
-    <file name="drawings.css" crc="268702821" ref="drawings"/>
+    <file name="drawings.css" crc="4201679668" ref="drawings"/>
     <file name="website-bizconsultinghub_com.css" crc="4150059246" ref="website-bizconsultinghub.com"/>
     <file name="website-circuscostume-2.css" crc="4266286258" ref="website-circuscostume-2"/>
-    <file name="donate-success.css" crc="416441412" ref="donate-success"/>
+    <file name="donate-success.css" crc="191541697" ref="donate-success"/>
     <file name="iefonts_contact-thanks.css" crc="4032743377" ref="contact-thanks"/>
     <file name="store.css" crc="46408041" ref="store"/>
     <file name="iefonts_about-me.css" crc="3825307283" ref="about-me"/>
@@ -219,15 +219,15 @@
     <file name="u22489-4.png" crc="189644001" ref="451"/>
     <file name="noise.jpg" crc="3766357177" ref="451"/>
   </folder>
-  <file name="index.html" crc="3902575722" seo="true" mt="1505144396164" redirect="true"/>
-  <file name="resume.html" crc="4164601290" seo="true" mt="1505144396164" redirect="true"/>
-  <file name="portfolio.html" crc="3879219390" seo="true" mt="1505144396164" redirect="true"/>
-  <file name="about-me.html" crc="3942561345" seo="true" mt="1505144396164" redirect="true"/>
-  <file name="donate.html" crc="502856040" seo="true" mt="1505144396164" redirect="true"/>
-  <file name="contact.html" crc="56242903" seo="true" mt="1505144396164" redirect="true"/>
-  <file name="privacy-policy.html" crc="267391366" seo="true" mt="1505144396164" redirect="true"/>
-  <file name="contact-thanks.html" crc="4004893696" seo="true" mt="1505144396164" redirect="true"/>
-  <file name="404.html" crc="425155652" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="index.html" crc="4284171298" seo="true" mt="1505144380669" redirect="true"/>
+  <file name="resume.html" crc="3891293224" seo="true" mt="1505144380669" redirect="true"/>
+  <file name="portfolio.html" crc="3880788251" seo="true" mt="1505144380669" redirect="true"/>
+  <file name="about-me.html" crc="10797497" seo="true" mt="1505144380669" redirect="true"/>
+  <file name="donate.html" crc="110434439" seo="true" mt="1505144380669" redirect="true"/>
+  <file name="contact.html" crc="416209173" seo="true" mt="1505144380669" redirect="true"/>
+  <file name="privacy-policy.html" crc="4138491249" seo="true" mt="1505144380669" redirect="true"/>
+  <file name="contact-thanks.html" crc="3767661884" seo="true" mt="1505144380669" redirect="true"/>
+  <file name="404.html" crc="3871966307" seo="true" mt="1505144380669" redirect="true"/>
   <file name="website-arthurgareginyan.html" crc="435683705" seo="true" mt="1488684246645" redirect="true"/>
   <file name="website-bmwz3brutality.html" crc="3941656589" seo="true" mt="1488684255455" redirect="true"/>
   <file name="website-milenakiseleva.html" crc="3911113324" seo="true" mt="1488683649925" redirect="true"/>
@@ -239,11 +239,11 @@
   <file name="website-studiokr.html" crc="3969164103" seo="true" mt="1488683689861" redirect="true"/>
   <file name="website-vipmegastar.html" crc="428576470" seo="true" mt="1488683532652" redirect="true"/>
   <file name="website-milenakiseleva.github.io.html" crc="4049914396" seo="true" mt="1488683468997" redirect="true"/>
-  <file name="drawings.html" crc="3876422009" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="drawings.html" crc="4135350820" seo="true" mt="1505144380669" redirect="true"/>
   <file name="website-bizconsultinghub.com.html" crc="28319651" seo="true" mt="1488683788365" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="3963852849" seo="true" mt="1488683679119" redirect="true"/>
-  <file name="donate-success.html" crc="3923990154" seo="true" mt="1505144396164" redirect="true"/>
-  <file name="store.html" crc="4106674582" seo="true" mt="1505144396164" redirect="true"/>
+  <file name="donate-success.html" crc="3999191029" seo="true" mt="1505144380669" redirect="true"/>
+  <file name="store.html" crc="189625341" seo="true" mt="1505144380669" redirect="true"/>
   <file name="website-prison-diaries.com.html" crc="4135696487" seo="true" mt="1488682442789" redirect="true"/>
   <file name="website-spacexchimp.html" crc="360910252" seo="true" mt="1501177613054" redirect="true"/>
   <file name="451.html" crc="59592227" seo="true" mt="1505140731533" redirect="true"/>

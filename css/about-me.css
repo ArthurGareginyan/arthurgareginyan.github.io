@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000001;
-	background-color: #AF7B34;
+	color: #000015;
+	background-color: #3E70B2;
 }
 
 #muse_css_mq
@@ -718,9 +718,9 @@
 	width: 898px;
 	background-color: transparent;
 	color: #0093C4;
-	line-height: 42px;
 	text-align: left;
 	font-size: 28px;
+	line-height: 42px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -980,8 +980,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -993,8 +993,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1006,8 +1006,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1019,8 +1019,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1032,8 +1032,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1139,8 +1139,8 @@
 	width: 778px;
 	min-height: 654px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 24px;
+	text-align: left;
 	font-size: 16px;
 	font-family: bitter, serif;
 	position: relative;

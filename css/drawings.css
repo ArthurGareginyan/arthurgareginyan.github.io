@@ -1,7 +1,7 @@
 .version.drawings /* version checker */
 {
-	color: #000010;
-	background-color: #041465;
+	color: #0000FA;
+	background-color: #708B34;
 }
 
 #muse_css_mq
@@ -571,9 +571,9 @@
 	min-height: 49px;
 	background-color: transparent;
 	color: #0093C4;
-	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
+	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	position: relative;
@@ -1009,9 +1009,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	color: #0093C4;
-	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
+	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -1914,9 +1914,9 @@
 	min-height: 45px;
 	background-color: transparent;
 	color: #0093C4;
-	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
+	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -2167,9 +2167,9 @@
 	min-height: 46px;
 	background-color: transparent;
 	color: #0093C4;
-	line-height: 34px;
 	text-align: left;
 	font-size: 28px;
+	line-height: 34px;
 	font-family: buenard, serif;
 	font-weight: 700;
 	margin-left: 22px;
@@ -2425,9 +2425,9 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #0093C4;
-	line-height: 30px;
 	text-align: left;
 	font-size: 25px;
+	line-height: 30px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
