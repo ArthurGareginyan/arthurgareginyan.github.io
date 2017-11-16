@@ -1,7 +1,7 @@
 .version.about_me /* version checker */
 {
-	color: #000015;
-	background-color: #3E70B2;
+	color: #0000EB;
+	background-color: #59C7B6;
 }
 
 #muse_css_mq
@@ -512,12 +512,12 @@
 
 #u1290-11
 {
-	z-index: 112;
+	z-index: 111;
 	width: 612px;
 	min-height: 96px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -536,34 +536,18 @@
 	color: #FF5A99;
 }
 
-#pu17325
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-left: 876px;
-}
-
 #u17325
 {
 	z-index: 71;
 	width: 35px;
 	position: relative;
-}
-
-#u22529
-{
-	z-index: 76;
-	width: 59px;
-	min-height: 59px;
-	margin-left: 21px;
-	margin-top: 108px;
-	position: relative;
+	margin-right: -10000px;
+	left: 876px;
 }
 
 #u1896
 {
-	z-index: 184;
+	z-index: 183;
 	width: 190px;
 	height: 190px;
 	border-color: #7F7F7F;
@@ -577,7 +561,7 @@
 
 #u1292
 {
-	z-index: 185;
+	z-index: 184;
 	width: 181px;
 	height: 180px;
 	border-radius: 125px;
@@ -603,11 +587,11 @@
 
 #u1254-32
 {
-	z-index: 77;
+	z-index: 76;
 	width: 898px;
 	background-color: transparent;
-	color: #0093C4;
 	text-align: left;
+	color: #0093C4;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -626,7 +610,7 @@
 
 #u14503
 {
-	z-index: 104;
+	z-index: 103;
 	width: 21px;
 	background-color: transparent;
 }
@@ -651,11 +635,11 @@
 
 #u12055-20
 {
-	z-index: 216;
+	z-index: 215;
 	width: 898px;
 	background-color: transparent;
-	color: #0093C4;
 	text-align: left;
+	color: #0093C4;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -687,7 +671,7 @@
 
 #u12061
 {
-	z-index: 236;
+	z-index: 235;
 	width: 88px;
 	background-color: transparent;
 	position: relative;
@@ -697,7 +681,7 @@
 
 #u12071
 {
-	z-index: 238;
+	z-index: 237;
 	width: 72px;
 	background-color: transparent;
 	position: relative;
@@ -714,7 +698,7 @@
 
 #u12095-4
 {
-	z-index: 240;
+	z-index: 239;
 	width: 898px;
 	background-color: transparent;
 	color: #0093C4;
@@ -736,7 +720,7 @@
 
 #slideshowu14795
 {
-	z-index: 244;
+	z-index: 243;
 	width: 0.01px;
 	height: 631px;
 	position: relative;
@@ -760,12 +744,12 @@
 
 #u14815popup
 {
-	z-index: 245;
+	z-index: 244;
 }
 
 #u14816
 {
-	z-index: 246;
+	z-index: 245;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -777,7 +761,7 @@
 
 #u14820
 {
-	z-index: 248;
+	z-index: 247;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -789,7 +773,7 @@
 
 #u14822
 {
-	z-index: 250;
+	z-index: 249;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -801,7 +785,7 @@
 
 #u14824
 {
-	z-index: 252;
+	z-index: 251;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -813,7 +797,7 @@
 
 #u14818
 {
-	z-index: 254;
+	z-index: 253;
 	width: 1140px;
 	height: 755px;
 	background-color: transparent;
@@ -841,12 +825,12 @@
 
 #u14804popup
 {
-	z-index: 256;
+	z-index: 255;
 }
 
 #u14811
 {
-	z-index: 257;
+	z-index: 256;
 	width: 66px;
 	height: 86px;
 	border-width: 0px;
@@ -868,7 +852,7 @@
 
 #u14805
 {
-	z-index: 259;
+	z-index: 258;
 	width: 66px;
 	height: 86px;
 	border-width: 0px;
@@ -890,7 +874,7 @@
 
 #u14809
 {
-	z-index: 261;
+	z-index: 260;
 	width: 66px;
 	height: 86px;
 	border-width: 0px;
@@ -912,7 +896,7 @@
 
 #u14813
 {
-	z-index: 263;
+	z-index: 262;
 	width: 66px;
 	height: 86px;
 	border-width: 0px;
@@ -934,7 +918,7 @@
 
 #u14807
 {
-	z-index: 265;
+	z-index: 264;
 	width: 66px;
 	height: 86px;
 	border-width: 0px;
@@ -971,12 +955,12 @@
 
 #u14796popup
 {
-	z-index: 267;
+	z-index: 266;
 }
 
 #u14799-10
 {
-	z-index: 268;
+	z-index: 267;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
@@ -989,7 +973,7 @@
 
 #u14801-10
 {
-	z-index: 278;
+	z-index: 277;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
@@ -1002,7 +986,7 @@
 
 #u14800-10
 {
-	z-index: 288;
+	z-index: 287;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
@@ -1015,7 +999,7 @@
 
 #u14798-8
 {
-	z-index: 298;
+	z-index: 297;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
@@ -1028,7 +1012,7 @@
 
 #u14797-8
 {
-	z-index: 306;
+	z-index: 305;
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
@@ -1045,9 +1029,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 84px;
 	left: -15px;
@@ -1055,7 +1039,7 @@
 
 #u14827-4popup
 {
-	z-index: 314;
+	z-index: 313;
 }
 
 #u14826-4
@@ -1064,9 +1048,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 84px;
 	left: 1190px;
@@ -1074,7 +1058,7 @@
 
 #u14826-4popup
 {
-	z-index: 318;
+	z-index: 317;
 }
 
 #u14829
@@ -1107,15 +1091,15 @@
 
 #u14830-4
 {
-	z-index: 323;
+	z-index: 322;
 	width: 20px;
 	min-height: 20px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1135,13 +1119,13 @@
 
 #u14913-39
 {
-	z-index: 327;
+	z-index: 326;
 	width: 778px;
 	min-height: 654px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: bitter, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1197,7 +1181,7 @@
 
 #u1351-58
 {
-	z-index: 123;
+	z-index: 122;
 	width: 898px;
 	min-height: 78px;
 	background-color: transparent;
@@ -1233,7 +1217,7 @@
 
 #u15542
 {
-	z-index: 143;
+	z-index: 142;
 	width: 898px;
 	background-color: transparent;
 }
@@ -1259,7 +1243,7 @@
 
 #u1961-30
 {
-	z-index: 186;
+	z-index: 185;
 	width: 898px;
 	min-height: 81px;
 	background-color: transparent;

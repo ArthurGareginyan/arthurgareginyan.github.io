@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000FE;
-	background-color: #B4C3E1;
+	color: #000001;
+	background-color: #E7A46C;
 }
 
 #muse_css_mq
@@ -512,12 +512,12 @@
 
 #u22428-5
 {
-	z-index: 83;
+	z-index: 82;
 	width: 898px;
 	min-height: 45px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	position: relative;
@@ -543,7 +543,7 @@
 
 #u1221
 {
-	z-index: 77;
+	z-index: 76;
 	width: 844px;
 	min-height: 472px;
 	border-width: 0px;
@@ -553,40 +553,25 @@
 	margin-right: -10000px;
 }
 
-#pu22529
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 76px;
-	margin-left: 900px;
-}
-
-#u22529
-{
-	z-index: 76;
-	width: 59px;
-	min-height: 59px;
-	position: relative;
-}
-
 #u9685
 {
 	z-index: 66;
 	width: 59px;
 	min-height: 59px;
-	margin-top: 30px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 165px;
+	left: 900px;
 }
 
 #u22431-6
 {
-	z-index: 88;
+	z-index: 87;
 	width: 898px;
 	min-height: 45px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;
@@ -596,12 +581,12 @@
 
 #u22425-5
 {
-	z-index: 78;
+	z-index: 77;
 	width: 898px;
 	min-height: 45px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: bitter, serif;
 	font-weight: 400;
 	margin-left: 22px;

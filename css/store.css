@@ -1,7 +1,7 @@
 .version.store /* version checker */
 {
-	color: #000002;
-	background-color: #C42169;
+	color: #0000E7;
+	background-color: #5DD944;
 }
 
 #muse_css_mq
@@ -516,23 +516,13 @@
 	position: relative;
 }
 
-#u22529
-{
-	z-index: 76;
-	width: 59px;
-	min-height: 59px;
-	margin-left: 963px;
-	margin-top: 108px;
-	position: relative;
-}
-
 #u9685
 {
 	z-index: 66;
 	width: 59px;
 	min-height: 59px;
 	margin-left: 963px;
-	margin-top: 30px;
+	margin-top: 197px;
 	position: relative;
 }
 
