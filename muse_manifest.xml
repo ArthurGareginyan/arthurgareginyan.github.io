@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1513878293424">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1514050235066">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -6,10 +6,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4169160843"/>
-    <file name="master_main.css" crc="243016180" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
+    <file name="master_main.css" crc="114205822" ref="about-me:donate:contact:privacy-policy:contact-thanks:resume:404:index:portfolio:drawings:donate-success:store"/>
     <file name="website-milenakiseleva.css" crc="434663935" ref="website-milenakiseleva"/>
     <file name="website-anarchohosting.css" crc="3821246447" ref="website-anarchohosting"/>
-    <file name="about-me.css" crc="3948529590" ref="about-me"/>
+    <file name="about-me.css" crc="526781716" ref="about-me"/>
     <file name="website-oneberserkr.css" crc="3845410875" ref="website-oneberserkr"/>
     <file name="donate.css" crc="4019469060" ref="donate"/>
     <file name="website-mycyberuniverse.css" crc="4143182478" ref="website-mycyberuniverse"/>
@@ -35,7 +35,7 @@
     <file name="donate-success.css" crc="4227322218" ref="donate-success"/>
     <file name="iefonts_contact-thanks.css" crc="4032743377" ref="contact-thanks"/>
     <file name="store.css" crc="3881687364" ref="store"/>
-    <file name="iefonts_about-me.css" crc="3825307283" ref="about-me"/>
+    <file name="iefonts_about-me.css" crc="3881733376" ref="about-me"/>
     <file name="website-prison-diaries_com.css" crc="193069884" ref="website-prison-diaries.com"/>
     <file name="master_pop-up-window.css" crc="110116179" ref="website-mycyberuniverse:website-karolinaray:website-arthurgareginyan:website-milenakiseleva.github.io:website-circuscostume:website-bmwz3brutality:website-studiokr:website-milenakiseleva:website-vipmegastar:website-anarchohosting:website-bizconsultinghub.com:website-prison-diaries.com:website-oneberserkr:website-circuscostume-2:website-spacexchimp"/>
     <file name="iefonts_portfolio.css" crc="464432833" ref="portfolio"/>
@@ -63,7 +63,7 @@
   <folder name="images">
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:drawings:donate-success:store"/>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:drawings:donate-success:store"/>
-    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:resume"/>
+    <file name="pattern-dark-grey.jpg" crc="338499582" ref="index:resume:about-me"/>
     <file name="scan 1.jpg" crc="4098728078" seo="true" ref="resume:about-me"/>
     <file name="blank.gif" crc="4208392903" ref="resume:drawings:about-me"/>
     <file name="scan 2.jpg" crc="4186395706" seo="true" ref="resume:about-me"/>
@@ -168,7 +168,7 @@
     <file name="scan 52.jpg" crc="340349222" seo="true" ref="drawings"/>
     <file name="scan 46.jpg" crc="226316652" seo="true" ref="drawings"/>
     <file name="scan 322.jpg" crc="144345964" seo="true" ref="drawings"/>
-    <file name="favicon.ico" crc="417939427" ref="index:website-arthurgareginyan:resume"/>
+    <file name="favicon.ico" crc="417939427" ref="index:website-arthurgareginyan:resume:about-me"/>
     <file name="follow-me.png" crc="456279628" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-download-2.png" crc="337935577" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="vcard-icon.png" crc="4022076147" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
@@ -180,11 +180,11 @@
     <file name="icon-512x5125.png" crc="127565251" ref="portfolio"/>
     <file name="icon-512x5126.png" crc="4218943180" ref="portfolio"/>
     <file name="icon-512x5127.png" crc="368527429" ref="portfolio"/>
-    <file name="scan 166x94.jpg" crc="4243119857" seo="true" ref="resume"/>
-    <file name="scan 266x94.jpg" crc="214412499" seo="true" ref="resume"/>
-    <file name="scan 366x94.jpg" crc="3777582590" seo="true" ref="resume"/>
-    <file name="scan 466x94.jpg" crc="484009665" seo="true" ref="resume"/>
-    <file name="scan 566x94.jpg" crc="203601833" seo="true" ref="resume"/>
+    <file name="scan 166x94.jpg" crc="4243119857" seo="true" ref="resume:about-me"/>
+    <file name="scan 266x94.jpg" crc="214412499" seo="true" ref="resume:about-me"/>
+    <file name="scan 366x94.jpg" crc="3777582590" seo="true" ref="resume:about-me"/>
+    <file name="scan 466x94.jpg" crc="484009665" seo="true" ref="resume:about-me"/>
+    <file name="scan 566x94.jpg" crc="203601833" seo="true" ref="resume:about-me"/>
     <file name="map-where-i-have-been-2.jpg" crc="328900158" seo="true" ref="about-me"/>
     <file name="privacy-policy.png" crc="457148627" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:drawings:store"/>
     <file name="meetvibe.jpg" crc="4142124974" ref="portfolio"/>
@@ -215,7 +215,7 @@
   <file name="index.html" crc="3801996405" seo="true" mt="1510792591953" redirect="true"/>
   <file name="resume.html" crc="3893085174" seo="true" mt="1513878209799" redirect="true"/>
   <file name="portfolio.html" crc="133887776" seo="true" mt="1510792591953" redirect="true"/>
-  <file name="about-me.html" crc="161636655" seo="true" mt="1510792591953" redirect="true"/>
+  <file name="about-me.html" crc="4070870" seo="true" mt="1514050195385" redirect="true"/>
   <file name="donate.html" crc="494578350" seo="true" mt="1510792591953" redirect="true"/>
   <file name="contact.html" crc="148959545" seo="true" mt="1510792591953" redirect="true"/>
   <file name="privacy-policy.html" crc="63123327" seo="true" mt="1510792591953" redirect="true"/>
