@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #000004;
-	background-color: #20A806;
+	color: #000003;
+	background-color: #1CADDB;
 }
 
 #muse_css_mq
@@ -1159,8 +1159,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1172,8 +1172,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1185,8 +1185,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1198,8 +1198,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1211,8 +1211,8 @@
 	width: 323px;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1225,8 +1225,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -93px;
 	left: -15px;
@@ -1244,8 +1244,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -93px;
 	left: 1190px;
@@ -1293,8 +1293,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1318,8 +1318,8 @@
 	width: 778px;
 	min-height: 618px;
 	background-color: transparent;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 16px;
 	font-family: bitter, serif;
 	position: relative;
