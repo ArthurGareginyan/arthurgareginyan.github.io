@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1515950666417">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1515950808739">
   <folder name="fonts">
     <file name="fontawesome-webfont.woff" crc="222444626"/>
     <file name="fontawesome-webfont.eot" crc="3863299673"/>
@@ -24,7 +24,7 @@
     <file name="iefonts_404.css" crc="4098287989" ref="404"/>
     <file name="website-vipmegastar.css" crc="142167404" ref="website-vipmegastar"/>
     <file name="website-studiokr.css" crc="3803382195" ref="website-studiokr"/>
-    <file name="index.css" crc="3978899959" ref="index"/>
+    <file name="index.css" crc="62133420" ref="index"/>
     <file name="website-arthurgareginyan.css" crc="4141945839" ref="website-arthurgareginyan"/>
     <file name="website-milenakiseleva_github_io.css" crc="4143014672" ref="website-milenakiseleva.github.io"/>
     <file name="portfolio.css" crc="444444029" ref="portfolio"/>
@@ -212,7 +212,7 @@
     <file name="circus (master-1).jpg" crc="226121874" ref="portfolio"/>
     <file name="spacexchimp-cropped.jpg" crc="83377024" ref="portfolio:website-spacexchimp"/>
   </folder>
-  <file name="index.html" crc="355171706" seo="true" mt="1515950370195" redirect="true"/>
+  <file name="index.html" crc="155681423" seo="true" mt="1515950749905" redirect="true"/>
   <file name="resume.html" crc="379305422" seo="true" mt="1515950370195" redirect="true"/>
   <file name="portfolio.html" crc="4266154254" seo="true" mt="1515950370195" redirect="true"/>
   <file name="about-me.html" crc="346843359" seo="true" mt="1515950370195" redirect="true"/>
