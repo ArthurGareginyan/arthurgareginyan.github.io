@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.arthurgareginyan.com/index.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/resume.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/portfolio.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,7 +101,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/about-me.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -132,6 +132,21 @@
       <image:loc>http://www.arthurgareginyan.com/images/scan%205.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.arthurgareginyan.com/images/scan%20166x94.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arthurgareginyan.com/images/scan%20266x94.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arthurgareginyan.com/images/scan%20366x94.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arthurgareginyan.com/images/scan%20466x94.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arthurgareginyan.com/images/scan%20566x94.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.arthurgareginyan.com/images/smiling_face.png</image:loc>
     </image:image>
     <image:image>
@@ -146,7 +161,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/donate.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -164,7 +179,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/contact.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -182,7 +197,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/privacy-policy.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -200,7 +215,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/contact-thanks.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -218,7 +233,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/404.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -257,7 +272,7 @@
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/donate-success.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -274,14 +289,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.arthurgareginyan.com/website-milenakiseleva.github.io.html</loc>
+    <loc>http://www.arthurgareginyan.com/website-vipmegastar.html</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/website-mycyberuniverse.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -304,19 +319,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.arthurgareginyan.com/website-vipmegastar.html</loc>
-    <lastmod>2017-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.arthurgareginyan.com/website-circuscostume-2.html</loc>
+    <loc>http://www.arthurgareginyan.com/website-prison-diaries.com.html</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/circuscostumetk-2.jpg</image:loc>
+      <image:loc>http://www.arthurgareginyan.com/images/prison-diariescom-preview.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/website-spacexchimp.html</loc>
+    <lastmod>2018-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.arthurgareginyan.com/website-milenakiseleva.github.io.html</loc>
+    <lastmod>2017-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.arthurgareginyan.com/website-bizconsultinghub.com.html</loc>
@@ -334,275 +355,17 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.arthurgareginyan.com/drawings.html</loc>
-    <lastmod>2018-03-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/vcard-download-2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/vcard-icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/follow-me.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/privacy-policy.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2039.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2041.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2042.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2043.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2048.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2045.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2044.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2049.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2039177x228.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2041177x251.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2042177x248.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2043180x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2048185x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2045186x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2044177x272.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2049-crop-u8619.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%200.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2016.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2013.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%209.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2014.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2018.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2017.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2019.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2015.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2021.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2022.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2012.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2032.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2052.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%206.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%208.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2020.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2046.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2010.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2011.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%200177x240.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2016197x221.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2013-crop-u7558.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%209177x258.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2014177x246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2018190x221.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2017177x247.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2019177x254.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2015177x226.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2021177x222.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%202177x254.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%201177x229.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%203177x260.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%205183x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%206190x221.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%208177x254.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2020199x221.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%204-crop-u7378.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2010-crop-u7498.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2011177x230.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2033.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%20322.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2030.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2031.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2033207x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2032177x245.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2030-crop-u6882.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2031207x221.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2050.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2037.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2036.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2038.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2050189x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2037177x252.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2036177x267.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2038-crop-u9077.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2047.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2034.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2051.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2047199x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2034206x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/scan%2051177x225.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.arthurgareginyan.com/website-prison-diaries.com.html</loc>
+    <loc>http://www.arthurgareginyan.com/website-circuscostume-2.html</loc>
     <lastmod>2017-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.arthurgareginyan.com/images/prison-diariescom-preview.jpg</image:loc>
+      <image:loc>http://www.arthurgareginyan.com/images/circuscostumetk-2.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.arthurgareginyan.com/website-spacexchimp.html</loc>
-    <lastmod>2018-03-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.arthurgareginyan.com/store.html</loc>
-    <lastmod>2018-03-11</lastmod>
+    <lastmod>2018-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
