@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1522917895230">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1523396460425">
   <folder name="css">
     <file name="site_global.css" crc="186283690"/>
-    <file name="master_main.css" crc="100807776" ref="portfolio:store:contact:donate-success:index:contact-thanks:privacy-policy:donate:404:resume:about-me"/>
+    <file name="master_main.css" crc="297420187" ref="portfolio:store:contact:donate-success:index:contact-thanks:privacy-policy:donate:404:resume:about-me"/>
     <file name="master_pop-up-window.css" crc="4292443660" ref="website-oneberserkr:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:website-arthurgareginyan:website-prison-diaries.com:website-bmwz3brutality:website-milenakiseleva.github.io:website-bizconsultinghub.com:website-circuscostume-2:website-milenakiseleva:website-spacexchimp:website-anarchohosting:website-mycyberuniverse"/>
     <file name="website-oneberserkr.css" crc="3941611933" ref="website-oneberserkr"/>
     <file name="website-karolinaray.css" crc="4093722989" ref="website-karolinaray"/>
@@ -20,7 +20,7 @@
     <file name="iefonts_contact.css" crc="225583133" ref="contact"/>
     <file name="website-circuscostume-2.css" crc="485413400" ref="website-circuscostume-2"/>
     <file name="donate-success.css" crc="4098075417" ref="donate-success"/>
-    <file name="index.css" crc="4223027935" ref="index"/>
+    <file name="index.css" crc="347661377" ref="index"/>
     <file name="contact-thanks.css" crc="3930731136" ref="contact-thanks"/>
     <file name="iefonts_contact-thanks.css" crc="389102545" ref="contact-thanks"/>
     <file name="website-milenakiseleva.css" crc="426800181" ref="website-milenakiseleva"/>
@@ -60,103 +60,103 @@
     <file name="leather.jpg" crc="224769125" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:store">
       <caption webpage="404" alt=""/>
       <caption webpage="drawings" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="donate-success" alt=""/>
-      <caption webpage="about-me" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact-thanks" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="contact-thanks" alt=""/>
+      <caption webpage="donate-success" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="black_denim.jpg" crc="3786350993" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:store">
       <caption webpage="404" alt=""/>
       <caption webpage="drawings" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="donate-success" alt=""/>
-      <caption webpage="about-me" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact-thanks" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="contact-thanks" alt=""/>
+      <caption webpage="donate-success" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="pattern-dark-grey.jpg" crc="338499582" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="avatar.jpg" crc="4097376408" ref="index:about-me:contact-thanks:donate-success">
       <caption webpage="index" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="donate-success" alt=""/>
       <caption webpage="contact-thanks" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="vcard-download-2.png" crc="337935577" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:store">
       <caption webpage="404" alt=""/>
       <caption webpage="drawings" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="donate-success" alt=""/>
-      <caption webpage="about-me" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact-thanks" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="contact-thanks" alt=""/>
+      <caption webpage="donate-success" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="vcard-icon.png" crc="4022076147" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:store">
       <caption webpage="404" alt=""/>
       <caption webpage="drawings" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="donate-success" alt=""/>
-      <caption webpage="about-me" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact-thanks" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="contact-thanks" alt=""/>
+      <caption webpage="donate-success" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="follow-me.png" crc="456279628" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:store">
       <caption webpage="404" alt=""/>
       <caption webpage="drawings" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="donate-success" alt=""/>
-      <caption webpage="about-me" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact-thanks" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="contact-thanks" alt=""/>
+      <caption webpage="donate-success" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="privacy-policy.png" crc="457148627" seo="true" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:store">
       <caption webpage="404" alt=""/>
       <caption webpage="drawings" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="donate-success" alt=""/>
-      <caption webpage="about-me" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact-thanks" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="contact-thanks" alt=""/>
+      <caption webpage="donate-success" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="scan 1.jpg" crc="4098728078" seo="true" ref="resume:about-me">
       <caption webpage="about-me" alt=""/>
@@ -358,7 +358,7 @@
       <caption webpage="website-spacexchimp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3979670139" seo="true" mt="1522917869643" redirect="true"/>
+  <file name="index.html" crc="522329621" seo="true" mt="1523396442867" redirect="true"/>
   <file name="resume.html" crc="3952191725" seo="true" mt="1522917869643" redirect="true"/>
   <file name="portfolio.html" crc="251479750" seo="true" mt="1522917869643" redirect="true"/>
   <file name="about-me.html" crc="3824783567" seo="true" mt="1522917869643" redirect="true"/>
