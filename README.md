@@ -58,8 +58,8 @@ Arthur Garegnyan
 ---
 #### Technologies:
 
-[![Adobe Muse](http://mycyberuniverse.com/public-files/images/logos/Adobe-Muse.png)]()
-[![HTML5](http://mycyberuniverse.com/public-files/images/logos/HTML5.png)]()
-[![CSS3](http://mycyberuniverse.com/public-files/images/logos/CSS3.png)]()
-[![JS](http://mycyberuniverse.com/public-files/images/logos/JavaScript.png)]()
-[![JQuery](http://mycyberuniverse.com/public-files/images/logos/jQurery.png)]()
+[![Adobe Muse](https://mycyberuniverse.com/public-files/images/logos/Adobe-Muse.png)]()
+[![HTML5](https://mycyberuniverse.com/public-files/images/logos/HTML5.png)]()
+[![CSS3](https://mycyberuniverse.com/public-files/images/logos/CSS3.png)]()
+[![JS](https://mycyberuniverse.com/public-files/images/logos/JavaScript.png)]()
+[![JQuery](https://mycyberuniverse.com/public-files/images/logos/jQurery.png)]()
