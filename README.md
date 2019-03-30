@@ -62,4 +62,4 @@ Arthur Garegnyan
 [![HTML5](https://mycyberuniverse.com/public-files/images/logos/HTML5.png)]()
 [![CSS3](https://mycyberuniverse.com/public-files/images/logos/CSS3.png)]()
 [![JS](https://mycyberuniverse.com/public-files/images/logos/JavaScript.png)]()
-[![JQuery](https://mycyberuniverse.com/public-files/images/logos/jQurery.png)]()
+[![jQuery](https://mycyberuniverse.com/public-files/images/logos/jQuery.png)]()
