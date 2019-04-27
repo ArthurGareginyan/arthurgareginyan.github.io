@@ -1,4 +1,4 @@
-# www.ArthurGareginyan.com
+# www.arthurgareginyan.com
 
 Personal website of Arthur Gareginyan.
 
