@@ -8,7 +8,7 @@ This is the code for my personal website - [www.arthurgareginyan.com](http://www
 
 
 ## DON'T CLONE THIS REPO!
-### THE SPACEX-CHIMP WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
+### THIS WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
 
 
 ## Under the hood
@@ -27,7 +27,7 @@ Theme "Fashion & Style" designed by [Arthur Gareginyan](http://www.arthurgaregin
 
 #### Contact form
 
-Contact form are powered by [Formspree](https://formspree.io).
+Contact forms are powered by [Formspree](https://formspree.io).
 
 
 ### Linking
