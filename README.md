@@ -1,13 +1,6 @@
-# www.arthurgareginyan.com
+# Personal website of Arthur Gareginyan - [www.arthurgareginyan.com](https://www.arthurgareginyan.com)
 
-Personal website of Arthur Gareginyan.
-
-[![screenshot](https://github.com/ArthurGareginyan/arthurgareginyan.github.io/blob/master/screenshot.png)]()
-
-This is the code for my personal website - [www.arthurgareginyan.com](https://www.arthurgareginyan.com) - it's a static site built with Adobe Muse.
-
-
-## DON'T CLONE THIS REPO!
+### DON'T CLONE THIS REPO!
 ### THIS WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
 
 
