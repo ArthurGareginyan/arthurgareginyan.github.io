@@ -1,7 +1,7 @@
 # Personal website of Arthur Gareginyan - [www.arthurgareginyan.com](https://www.arthurgareginyan.com)
 
-### DON'T CLONE THIS REPO!
-### THIS WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
+> DON'T CLONE THIS REPO!
+> THIS WEBSITE IS PROTECTED BY INTERNATIONAL COPYRIGHT LAW.
 
 
 ## Under the hood
@@ -23,7 +23,7 @@ Theme "Fashion & Style" designed by [Arthur Gareginyan](https://www.arthurgaregi
 Contact forms are powered by [Formspree](https://formspree.io).
 
 
-### Linking
+## Linking
 
 Please do not [hotlink](http://en.wikipedia.org/wiki/Hotlinking) the files contained on this webserver, e.g. by including an image hosted here in any external HTML. Hotlinking is not only a breach of "netiquette": It is bandwidth theft and will be blocked with extreme prejudice.
 
