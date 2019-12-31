@@ -30,7 +30,7 @@ Please do not [hotlink](http://en.wikipedia.org/wiki/Hotlinking) the files conta
 
 ## Copyright
 
-Copyright © 2015-2019 Arthur Gareginyan. All rights reserved.
+Copyright © 2015-2020 Arthur Gareginyan. All rights reserved.
 
 All content on this website is protected by international copyright law, unless otherwise specified. Material that I have explicitly released under a free license is of course available to all without my approval.
 
