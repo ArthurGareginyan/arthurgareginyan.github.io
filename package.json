@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "name": "arthurgareginyan",
+  "description": "Website Arthur Gareginyan",
+  "homepage": "https://arthurgareginyan.com/",
+  "license": "UNLICENSED",
+  "keywords": [
+    "website",
+    "arthurgareginyan"
+  ],
+  "author": "Arthur Gareginyan (https://www.arthurgareginyan.com)",
+  "scripts": {
+    "test": ""
+  },
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurGareginyan/arthurgareginyan.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArthurGareginyan/arthurgareginyan.github.io/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2"
+  }
+}
