@@ -9,7 +9,11 @@
         del       = require('del'),
         concat    = require('gulp-concat'),
         uglify    = require('gulp-uglify'),
+        postcss   = require('gulp-postcss'),
         babel     = require('gulp-babel'),
+        unprefix  = require("postcss-unprefix"),
+        autoprefixer = require('autoprefixer'),
+        cssnano   = require('cssnano'),
         htmlmin   = require('gulp-htmlmin'),
         prettify  = require('gulp-html-prettify'),
 
@@ -50,6 +54,26 @@
             .pipe(dest(`${path.build}/`));
     }
 
+    function stylesheets () {
+        let css_files = [
+            `${path.build}/css/*.css`
+        ];
+        let cssnano_opts = {
+            preset: ['default', {
+                discardComments: {
+                    removeAll: true,
+                },
+            }]
+        };
+        return src(css_files)
+            .pipe(postcss([
+                unprefix(),
+                autoprefixer(),
+                cssnano(cssnano_opts)
+            ]))
+            .pipe(dest(`${path.build}/css/`));
+    }
+
     function javascript_bundle () {
         let js_files = [
             `${path.source}/scripts/*.js`
@@ -71,6 +95,7 @@
     }
 
     exports.html = html_optimize;
+    exports.css = stylesheets;
     exports.js = javascript_bundle;
     exports.default = default_function;
 
