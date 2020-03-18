@@ -11,6 +11,7 @@
         uglify    = require('gulp-uglify'),
         babel     = require('gulp-babel'),
         htmlmin   = require('gulp-htmlmin'),
+        prettify  = require('gulp-html-prettify'),
 
         // Directory locations
         path = {
@@ -39,8 +40,13 @@
             //minifyJS: true,                      // Minify JavaScript in script elements and event attributes (uses UglifyJS)
             //minifyCSS: true                      // Minify CSS in style elements and style attributes (uses clean-css)
         };
+        let prettify_opts = {
+            indent_char: ' ',
+            indent_size: 4
+        };
         return src(html_files)
             .pipe(htmlmin(htmlmin_opts))
+            .pipe(prettify(prettify_opts))
             .pipe(dest(`${path.build}/`));
     }
 
