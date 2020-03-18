@@ -34,7 +34,7 @@
             //removeComments: true,                // Strip HTML comments
             //removeEmptyElements: true,           // Remove all elements with empty contents
             //removeEmptyAttributes: true,         // Remove all attributes with whitespace-only values
-            //removeScriptTypeAttributes: true,    // Remove type="text/javascript" from script tags. Other type attribute values are left intact
+            removeScriptTypeAttributes: true,    // Remove type="text/javascript" from script tags. Other type attribute values are left intact
             removeStyleLinkTypeAttributes: true, // Remove type="text/css" from style and link tags. Other type attribute values are left intact
             //minifyJS: true,                      // Minify JavaScript in script elements and event attributes (uses UglifyJS)
             //minifyCSS: true                      // Minify CSS in style elements and style attributes (uses clean-css)
