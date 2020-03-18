@@ -6,7 +6,7 @@
 
         // Modules
         { src, dest, series, parallel } = require('gulp'),
-        del = require('del'),
+        del       = require('del'),
         concat    = require('gulp-concat'),
         uglify    = require('gulp-uglify'),
         babel     = require('gulp-babel'),
