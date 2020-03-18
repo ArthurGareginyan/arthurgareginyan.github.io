@@ -10,8 +10,8 @@
 
         // Directory locations
         path = {
-            source  : './',
-            build   : './'
+            source  : '.',
+            build   : '.'
         };
 
     (async (done) => {
