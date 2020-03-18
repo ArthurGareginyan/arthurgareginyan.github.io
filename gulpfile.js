@@ -6,7 +6,13 @@
 
         // Modules
         { parallel } = require('gulp'),
-        del = require('del');
+        del = require('del'),
+
+        // Directory locations
+        path = {
+            source  : './',
+            build   : './'
+        };
 
     (async (done) => {
         await del(['**/.DS_Store'], done);
