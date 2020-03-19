@@ -88,16 +88,9 @@
             .pipe(dest(`${path.build}/scripts/`));
     }
 
-    function default_function (done) {
-
-        // Code here
-
-        done();
-    }
-
     exports.html = html_optimize;
     exports.css = stylesheets;
     exports.js = javascript_bundle;
-    exports.default = default_function;
+    exports.default = parallel(html_optimize, stylesheets, javascript_bundle);
 
 })();
