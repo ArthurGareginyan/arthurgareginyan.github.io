@@ -33,8 +33,8 @@
         ];
         let htmlmin_opts = {
             html5: true,                         // Parse input according to HTML5 specifications
-            //preserveLineBreaks: true,            // Always collapse to 1 line break (never remove it entirely) when whitespace between tags include a line break. Must be used in conjunction with collapseWhitespace=true
-            //collapseWhitespace: true,            // Collapse white space that contributes to text nodes in a document tree
+            preserveLineBreaks: true,            // Always collapse to 1 line break (never remove it entirely) when whitespace between tags include a line break. Must be used in conjunction with collapseWhitespace=true
+            collapseWhitespace: true,            // Collapse white space that contributes to text nodes in a document tree
             collapseBooleanAttributes: true,     // Omit attribute values from boolean attributes
             //removeComments: true,                // Strip HTML comments
             //removeEmptyElements: true,           // Remove all elements with empty contents
