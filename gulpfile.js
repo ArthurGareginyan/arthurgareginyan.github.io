@@ -76,7 +76,8 @@
 
     function javascript_bundle () {
         let js_files = [
-            `${path.source}/scripts/*.js`
+            `${path.source}/scripts/*.js`,
+            `!${path.source}/scripts/scripts.js`
         ];
         return src(js_files)
             .pipe(babel({
