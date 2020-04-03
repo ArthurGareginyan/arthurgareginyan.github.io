@@ -30,7 +30,8 @@
 
     function html_optimize () {
         let files = [
-            `${path.build}/**/*.html`
+            `${path.build}/**/*.html`,
+            '!node_modules/**'
         ];
         let htmlmin_opts = {
             html5: true,                         // Parse input according to HTML5 specifications
