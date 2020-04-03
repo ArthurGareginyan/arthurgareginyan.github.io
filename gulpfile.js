@@ -28,7 +28,7 @@
     })();
 
     function html_optimize () {
-        let html_files = [
+        let files = [
             `${path.build}/**/*.html`
         ];
         let htmlmin_opts = {
@@ -48,7 +48,7 @@
             indent_char: ' ',
             indent_size: 4
         };
-        return src(html_files)
+        return src(files)
             .pipe(htmlmin(htmlmin_opts))
             .pipe(prettify(prettify_opts))
             .pipe(dest(`${path.build}/`));
