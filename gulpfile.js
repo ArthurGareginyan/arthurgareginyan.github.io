@@ -93,6 +93,7 @@
             .pipe(dest(`${path.build}/scripts/`));
     }
 
+    exports.html_optimize = html_optimize;
     exports.html = html_optimize;
     exports.css = stylesheets;
     exports.js = javascript_bundle;
