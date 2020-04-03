@@ -16,6 +16,7 @@
         cssnano   = require('cssnano'),
         htmlmin   = require('gulp-htmlmin'),
         prettify  = require('gulp-html-prettify'),
+        beautify  = require('gulp-beautify'),
 
         // Directory locations
         path = {
@@ -44,6 +45,9 @@
             //minifyJS: true,                      // Minify JavaScript in script elements and event attributes (uses UglifyJS)
             //minifyCSS: true                      // Minify CSS in style elements and style attributes (uses clean-css)
         };
+        let beautify_opts = {
+            indent_size: 4
+        };
         let prettify_opts = {
             indent_char: ' ',
             indent_size: 4
@@ -51,6 +55,7 @@
         return src(files)
             .pipe(htmlmin(htmlmin_opts))
             .pipe(prettify(prettify_opts))
+            .pipe(beautify.html(beautify_opts))
             .pipe(dest(`${path.build}/`));
     }
 
