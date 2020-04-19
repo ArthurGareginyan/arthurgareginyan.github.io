@@ -1,7 +1,7 @@
 <manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.arthurgareginyan.com" resolutions="1x" timestamp="1546344856223">
   <folder name="css">
     <file name="site_global.css" crc="186283690"/>
-    <file name="master_pop-up-window.css" crc="4292443660" ref="website-bmwz3brutality:website-circuscostume-2:website-vipmegastar:website-oneberserkr:website-arthurgareginyan:website-spacexchimp:website-anarchohosting:website-milenakiseleva.github.io:website-milenakiseleva:website-bizconsultinghub.com:website-karolinaray:website-prison-diaries.com:website-mycyberuniverse:website-studiokr:website-circuscostume"/>
+    <file name="master_pop-up-window.css" crc="4292443660" ref="website-bmwz3brutality:website-circuscostume-2:website-vipmegastar:website-oneberserkr:website-arthurgareginyan:website-spacexchimp:website-anarchohosting:website-milenakiseleva.com:website-milenakiseleva:website-bizconsultinghub.com:website-karolinaray:website-prison-diaries.com:website-mycyberuniverse:website-studiokr:website-circuscostume"/>
     <file name="master_main.css" crc="100807776" ref="donate:privacy-policy:resume:contact:index:portfolio:404:store:about-me:donate-success:contact-thanks"/>
     <file name="website-bmwz3brutality.css" crc="4236115623" ref="website-bmwz3brutality"/>
     <file name="donate.css" crc="4173924614" ref="donate"/>
@@ -19,7 +19,7 @@
     <file name="index.css" crc="403646447" ref="index"/>
     <file name="portfolio.css" crc="120751176" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="116676354" ref="portfolio"/>
-    <file name="website-milenakiseleva_github_io.css" crc="184771094" ref="website-milenakiseleva.github.io"/>
+    <file name="website-milenakiseleva_github_io.css" crc="184771094" ref="website-milenakiseleva.com"/>
     <file name="website-milenakiseleva.css" crc="4237238643" ref="website-milenakiseleva"/>
     <file name="404.css" crc="355053428" ref="404"/>
     <file name="iefonts_404.css" crc="424073685" ref="404"/>
@@ -41,15 +41,15 @@
     <file name="resume.pdf" crc="469924339" seo="true" mt="1471976688000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.github.io:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
-    <file name="museutils.js" crc="340535759" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.github.io:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
-    <file name="whatinput.js" crc="86476730" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.github.io:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
-    <file name="museconfig.js" crc="310584261" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.github.io:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.com:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
+    <file name="museutils.js" crc="340535759" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.com:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
+    <file name="whatinput.js" crc="86476730" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.com:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
+    <file name="museconfig.js" crc="310584261" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.com:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:donate-success:store"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portfolio:about-me:contact-thanks:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.github.io:website-spacexchimp"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.github.io:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.github.io:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
-    <file name="require.js" crc="7928878" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.github.io:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portfolio:about-me:contact-thanks:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.com:website-spacexchimp"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.com:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.com:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
+    <file name="require.js" crc="7928878" ref="index:resume:portfolio:about-me:donate:contact:privacy-policy:contact-thanks:404:website-arthurgareginyan:website-bmwz3brutality:website-milenakiseleva:website-anarchohosting:website-oneberserkr:website-mycyberuniverse:website-karolinaray:website-circuscostume:website-studiokr:website-vipmegastar:donate-success:website-milenakiseleva.com:website-bizconsultinghub.com:website-circuscostume-2:store:website-prison-diaries.com:website-spacexchimp"/>
     <file name="webpro.js" crc="4059564322" ref="resume:about-me"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="resume:about-me"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="resume:about-me"/>
@@ -311,8 +311,8 @@
     <file name="vipmegastar.jpg" crc="119622205" ref="website-vipmegastar">
       <caption webpage="website-vipmegastar" alt=""/>
     </file>
-    <file name="milenakiselevagithubio.jpg" crc="85672899" ref="website-milenakiseleva.github.io">
-      <caption webpage="website-milenakiseleva.github.io" alt=""/>
+    <file name="milenakiselevagithubio.jpg" crc="85672899" ref="website-milenakiseleva.com">
+      <caption webpage="website-milenakiseleva.com" alt=""/>
     </file>
     <file name="biz consulting hub – dream – plan – execute (20160422).jpg" crc="3774621421" seo="true" ref="website-bizconsultinghub.com">
       <caption webpage="website-bizconsultinghub.com" alt=""/>
@@ -360,7 +360,7 @@
   <file name="website-studiokr.html" crc="4215668603" seo="true" mt="1488683689861" redirect="true"/>
   <file name="website-vipmegastar.html" crc="499228881" seo="true" mt="1488683532652" redirect="true"/>
   <file name="donate-success.html" crc="3809471066" seo="true" mt="1546344811756" redirect="true"/>
-  <file name="website-milenakiseleva.github.io.html" crc="3921047645" seo="true" mt="1488683468997" redirect="true"/>
+  <file name="website-milenakiseleva.com.html" crc="3921047645" seo="true" mt="1488683468997" redirect="true"/>
   <file name="website-bizconsultinghub.com.html" crc="3928285105" seo="true" mt="1488683788365" redirect="true"/>
   <file name="website-circuscostume-2.html" crc="364962215" seo="true" mt="1488683679119" redirect="true"/>
   <file name="store.html" crc="4014534438" seo="true" mt="1546344811756" redirect="true"/>
