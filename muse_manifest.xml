@@ -336,9 +336,9 @@
     <file name="icon-512x512-u22152-fr.png" crc="3944167506" ref="portfolio"/>
     <file name="icon-512x512-u22148-fr.png" crc="226072342" ref="portfolio"/>
     <file name="icon-512x512-u22632-fr.png" crc="509813496" ref="portfolio"/>
-    <file name="icon-512x512-u22227-fr.png" crc="3849037425" ref="portfolio"/>
-    <file name="icon-512x512-u22226-fr.png" crc="303583659" ref="portfolio"/>
-    <file name="icon-512x512-u22667-fr.png" crc="4181705297" ref="portfolio"/>
+    <file name="icon-512x512-portfolio-s4-row1-column2-image-fr.png" crc="3849037425" ref="portfolio"/>
+    <file name="icon-512x512-portfolio-s4-row1-column1-image-fr.png" crc="303583659" ref="portfolio"/>
+    <file name="icon-512x512-portfolio-s4-row2-column1-image-fr.png" crc="4181705297" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="462207491" seo="true" mt="1546344811756" redirect="true"/>
   <file name="resume.html" crc="4088780925" seo="true" mt="1546344811756" redirect="true"/>
