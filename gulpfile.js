@@ -21,6 +21,7 @@
         outlinks  = require('posthtml-outlinks'),
         through   = require('through2'),
         jsdom     = require('jsdom'),
+        replace   = require('gulp-replace'),
 
         // Directory locations
         path = {
@@ -155,6 +156,13 @@
         });
     }
 
+    function html_prepare_add_new_lines() {
+        return src('dist/*.html')
+          .pipe(replace('<!DOCTYPE html><html', '<!DOCTYPE html>\n<html'))
+          .pipe(replace('><head>', '>\n<head>\n'))
+          .pipe(dest('dist'));
+    }
+
     function html_prepare() {
         let files = [
             `${path.build}/**/*.html`,
@@ -162,6 +170,7 @@
         ];
         return src(files)
             .pipe(html_prepare_sort_attributes())
+            .pipe(html_prepare_add_new_lines())
             .pipe(dest(`${path.build}/`));
     }
 

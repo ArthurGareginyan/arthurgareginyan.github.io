@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "gulp-imagemin": "^7.1.0",
+    "gulp-replace": "^1.1.4",
     "imagemin-webp": "^6.0.0",
     "jsdom": "^22.1.0",
     "through2": "^4.0.2"
