@@ -33,6 +33,38 @@
         await del(['**/.DS_Store'], done);
     })();
 
+    function html_prepare_sort_attributes() {
+        return through.obj(function(file, enc, cb) {
+        const dom = new jsdom.JSDOM(file.contents.toString());
+        const document = dom.window.document;
+
+        // Get all elements
+        const elements = document.querySelectorAll('*');
+
+        // Loop through each element
+        elements.forEach(element => {
+            const attributes = Array.from(element.attributes);
+
+            // Sort attributes
+            attributes.sort((a, b) => a.name.localeCompare(b.name));
+
+            // Remove all attributes
+            attributes.forEach(attr => {
+                element.removeAttribute(attr.name);
+            });
+
+            // Add back sorted attributes
+            attributes.forEach(attr => {
+                element.setAttribute(attr.name, attr.value);
+            });
+        });
+
+        // Set file contents to the new HTML
+        file.contents = Buffer.from(dom.serialize());
+            cb(null, file);
+        });
+    }
+
     function html_optimize () {
         let files = [
             `${path.build}/**/*.html`,
@@ -76,6 +108,9 @@
             .pipe(posthtml(posthtml_opts))
             .pipe(htmlmin(htmlmin_opts))
             .pipe(beautify.html(beautify_opts))
+            .pipe(html_prepare_sort_attributes())
+            .pipe(replace('<!DOCTYPE html><html', '<!DOCTYPE html>\n<html'))
+            .pipe(replace('><head>', '>\n<head>\n'))
             .pipe(dest(`${path.build}/`));
     }
 
@@ -124,61 +159,10 @@
             .pipe(dest(`${path.build}/scripts/`));
     }
 
-    function html_prepare_sort_attributes() {
-        return through.obj(function(file, enc, cb) {
-        const dom = new jsdom.JSDOM(file.contents.toString());
-        const document = dom.window.document;
-
-        // Get all elements
-        const elements = document.querySelectorAll('*');
-
-        // Loop through each element
-        elements.forEach(element => {
-            const attributes = Array.from(element.attributes);
-
-            // Sort attributes
-            attributes.sort((a, b) => a.name.localeCompare(b.name));
-
-            // Remove all attributes
-            attributes.forEach(attr => {
-                element.removeAttribute(attr.name);
-            });
-
-            // Add back sorted attributes
-            attributes.forEach(attr => {
-                element.setAttribute(attr.name, attr.value);
-            });
-        });
-
-        // Set file contents to the new HTML
-        file.contents = Buffer.from(dom.serialize());
-            cb(null, file);
-        });
-    }
-
-    function html_prepare_add_new_lines() {
-        return src('dist/*.html')
-          .pipe(replace('<!DOCTYPE html><html', '<!DOCTYPE html>\n<html'))
-          .pipe(replace('><head>', '>\n<head>\n'))
-          .pipe(dest('dist'));
-    }
-
-    function html_prepare() {
-        let files = [
-            `${path.build}/**/*.html`,
-            '!node_modules/**'
-        ];
-        return src(files)
-            .pipe(html_prepare_sort_attributes())
-            .pipe(html_prepare_add_new_lines())
-            .pipe(dest(`${path.build}/`));
-    }
-
-    exports.html_prepare  = html_prepare;
     exports.html_optimize = html_optimize;
     exports.html_validate = html_validate;
     exports.css     = stylesheets;
     exports.js      = javascript_bundle;
-    exports.default = parallel(html_prepare, html_optimize, stylesheets, javascript_bundle);
+    exports.default = parallel(html_optimize, stylesheets, javascript_bundle);
 
 })();
