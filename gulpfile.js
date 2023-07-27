@@ -22,8 +22,8 @@
 
         // Directory locations
         path = {
-            source  : '.',
-            build   : '.'
+            source  : './source',
+            build   : './docs'
         };
 
     (async (done) => {
