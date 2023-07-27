@@ -25,7 +25,9 @@
   },
   "dependencies": {
     "gulp-imagemin": "^7.1.0",
-    "imagemin-webp": "^6.0.0"
+    "imagemin-webp": "^6.0.0",
+    "jsdom": "^22.1.0",
+    "through2": "^4.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
