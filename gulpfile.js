@@ -27,10 +27,7 @@
 
         // Defines directory paths for the source, preview,
         // and build environments
-        path = {
-            source  : './source',
-            build   : './docs'
-        };
+        { path }  = require('./gulp-tasks/path');
 
     // Immediately invoked asynchronous function
     // that deletes all .DS_Store files in the project
