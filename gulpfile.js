@@ -1,10 +1,12 @@
 (() => {
 
+    // Enforces strict mode to catch common coding mistakes
+    // and prevent the use of certain features
     'use strict';
 
+    // Imports required Gulp plugins and Node.js modules
+    // for task automation and file manipulation
     const
-
-        // Modules
         { src, dest, series, parallel } = require('gulp'),
         del       = require('del'),
         concat    = require('gulp-concat'),
@@ -23,12 +25,16 @@
         jsdom     = require('jsdom'),
         replace   = require('gulp-replace'),
 
-        // Directory locations
+        // Defines directory paths for the source, preview,
+        // and build environments
         path = {
             source  : './source',
             build   : './docs'
         };
 
+    // Immediately invoked asynchronous function
+    // that deletes all .DS_Store files in the project
+    // Requires: del
     (async (done) => {
         await del(['**/.DS_Store'], done);
     })();
@@ -65,6 +71,9 @@
         });
     }
 
+    // Optimizes HTML files by applying various transformations
+    // such as link exclusion, minification, and beautification
+    // Requires: src, dest from gulp, posthtml, htmlmin, beautify.html
     function html_optimize () {
         let files = [
             `${path.build}/**/*.html`,
@@ -114,6 +123,9 @@
             .pipe(dest(`${path.build}/`));
     }
 
+    // Validates HTML files in the build directory
+    // and fails the task if any errors are found
+    // Requires: src from gulp, htmlhint
     function html_validate () {
         let files = [
             `${path.build}/**/*.html`,
@@ -125,6 +137,9 @@
             .pipe(htmlhint.failOnError({ suppress: true }));
     }
 
+    // Bundles and optimizes CSS files, adding vendor prefixes and source maps
+    // based on the environment (development or production)
+    // Requires: src, dest from gulp, sourcemaps.init, postcss, autoprefixer, cssnano, gulpif
     function stylesheets () {
         let css_files = [
             `${path.build}/css/*.css`
@@ -145,6 +160,10 @@
             .pipe(dest(`${path.build}/css/`));
     }
 
+    // Bundles and minifies specified JavaScript files,
+    // transpiles them with Babel, and adds source maps
+    // based on the environment (development or production)
+    // Requires: src, dest from gulp, sourcemaps.init, babel, concat, uglify, gulpif
     function javascript_bundle () {
         let js_files = [
             `${path.source}/scripts/*.js`,
@@ -159,6 +178,8 @@
             .pipe(dest(`${path.build}/scripts/`));
     }
 
+    // Defines the Gulp tasks that can be executed from the command line,
+    // specifying their dependencies and execution order
     exports.html_optimize = html_optimize;
     exports.html_validate = html_validate;
     exports.css     = stylesheets;
