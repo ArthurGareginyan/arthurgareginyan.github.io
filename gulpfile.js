@@ -48,23 +48,10 @@
           stylesheet_bundle
       } = require('./gulp-tasks/stylesheet');
 
-    // Bundles and minifies specified JavaScript files,
-    // transpiles them with Babel, and adds source maps
-    // based on the environment (development or production)
-    // Requires: src, dest from gulp, sourcemaps.init, babel, concat, uglify, gulpif
-    function javascript_bundle () {
-        let js_files = [
-            `${path.source}/scripts/*.js`,
-            `!${path.source}/scripts/scripts.js`
-        ];
-        return src(js_files)
-            .pipe(babel({
-                presets: ['@babel/env']
-            }))
-            .pipe(concat('scripts.js'))
-            .pipe(uglify())
-            .pipe(dest(`${path.build}/scripts/`));
-    }
+      // Import all tasks from the javascriptTasks module
+      const {
+          javascript_bundle
+      } = require('./gulp-tasks/javascript');
 
     // Defines the Gulp tasks that can be executed from the command line,
     // specifying their dependencies and execution order
