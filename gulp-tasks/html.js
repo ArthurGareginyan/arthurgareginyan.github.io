@@ -2,7 +2,6 @@
 // for task automation and file manipulation
 const
     { src, dest } = require('gulp'),
-    del       = require('del'),
     posthtml  = require('gulp-posthtml'),
     htmlmin   = require('gulp-htmlmin'),
     beautify  = require('gulp-beautify'),

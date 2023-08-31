@@ -6,7 +6,6 @@ const
     postcss   = require('gulp-postcss'),
     autoprefixer = require('autoprefixer'),
     cssnano   = require('cssnano'),
-    gulpif    = require('gulp-if'),
     //unprefix  = require('postcss-unprefix'),
 
     // Import tasks from my modules
@@ -15,7 +14,7 @@ const
 
 // Bundles and optimizes CSS files, adding vendor prefixes and source maps
 // based on the environment (development or production)
-// Requires: src, dest from gulp, sourcemaps.init, postcss, autoprefixer, cssnano, gulpif
+// Requires: src, dest from gulp, sourcemaps.init, postcss, autoprefixer, cssnano
 function stylesheets () {
     let css_files = [
         `${path.build}/css/*.css`
