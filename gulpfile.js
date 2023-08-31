@@ -134,28 +134,10 @@
             .pipe(htmlhint.failOnError({ suppress: true }));
     }
 
-    // Bundles and optimizes CSS files, adding vendor prefixes and source maps
-    // based on the environment (development or production)
-    // Requires: src, dest from gulp, sourcemaps.init, postcss, autoprefixer, cssnano, gulpif
-    function stylesheets () {
-        let css_files = [
-            `${path.build}/css/*.css`
-        ];
-        let cssnano_opts = {
-            preset: ['default', {
-                discardComments: {
-                    removeAll: true,
-                },
-            }]
-        };
-        return src(css_files)
-            .pipe(postcss([
-                unprefix(),
-                autoprefixer(),
-                cssnano(cssnano_opts)
-            ]))
-            .pipe(dest(`${path.build}/css/`));
-    }
+    // Import all tasks from the stylesheetTasks module
+      const {
+          stylesheet_bundle
+      } = require('./gulp-tasks/stylesheet');
 
     // Bundles and minifies specified JavaScript files,
     // transpiles them with Babel, and adds source maps
