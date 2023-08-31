@@ -23,11 +23,7 @@
         outlinks  = require('posthtml-outlinks'),
         through   = require('through2'),
         jsdom     = require('jsdom'),
-        replace   = require('gulp-replace'),
-
-        // Defines directory paths for the source, preview,
-        // and build environments
-        { path }  = require('./gulp-tasks/path');
+        replace   = require('gulp-replace');
 
     // Immediately invoked asynchronous function
     // that deletes all .DS_Store files in the project
@@ -35,6 +31,11 @@
     (async (done) => {
         await del(['**/.DS_Store'], done);
     })();
+
+    // Import all tasks from the pathTasks module
+    const {
+        path
+    }  = require('./gulp-tasks/path');
 
     // Import all tasks from the htmlTasks module
     const {
