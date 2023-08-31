@@ -10,6 +10,7 @@ const
     // Import tasks from my modules
     { path }  = require('./path');
 
+//
 function html_prepare_sort_attributes() {
     return through.obj(function(file, enc, cb) {
     const dom = new jsdom.JSDOM(file.contents.toString());
