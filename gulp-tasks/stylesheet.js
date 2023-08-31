@@ -39,6 +39,6 @@ function stylesheets () {
 
 // Export the function so it can be used in other files
 module.exports = {
-    stylesheet_bundle
+    stylesheets
     // ... Export other shared variables or functions
 };
