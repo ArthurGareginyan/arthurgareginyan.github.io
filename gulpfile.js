@@ -54,6 +54,11 @@
         javascript_bundle
     } = require('./gulp-tasks/javascript');
 
+    // Import all tasks from the fontsTasks module
+    const {
+        example_fonts
+    } = require('./gulp-tasks/fonts');
+
     // Defines the Gulp tasks that can be executed from the command line,
     // specifying their dependencies and execution order
     exports.html_optimize = html_optimize;
