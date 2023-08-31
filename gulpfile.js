@@ -44,14 +44,14 @@
     } = require('./gulp-tasks/html');
 
     // Import all tasks from the stylesheetTasks module
-      const {
-          stylesheet_bundle
-      } = require('./gulp-tasks/stylesheet');
+    const {
+        stylesheet_bundle
+    } = require('./gulp-tasks/stylesheet');
 
-      // Import all tasks from the javascriptTasks module
-      const {
-          javascript_bundle
-      } = require('./gulp-tasks/javascript');
+    // Import all tasks from the javascriptTasks module
+    const {
+        javascript_bundle
+    } = require('./gulp-tasks/javascript');
 
     // Defines the Gulp tasks that can be executed from the command line,
     // specifying their dependencies and execution order
