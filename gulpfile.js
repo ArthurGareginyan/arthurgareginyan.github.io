@@ -54,6 +54,11 @@
         javascript_bundle
     } = require('./gulp-tasks/javascript');
 
+    // Import all tasks from the imagesTasks module
+    const {
+        example_images
+    } = require('./gulp-tasks/images');
+
     // Import all tasks from the fontsTasks module
     const {
         example_fonts
