@@ -31,7 +31,7 @@
 
     // Import all tasks from the stylesheetTasks module
     const {
-        stylesheet_bundle
+        stylesheets
     } = require('./gulp-tasks/stylesheet');
 
     // Import all tasks from the javascriptTasks module

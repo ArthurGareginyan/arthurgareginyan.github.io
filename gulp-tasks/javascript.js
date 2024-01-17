@@ -7,8 +7,7 @@ const
     uglify    = require('gulp-uglify'),
 
     // Import tasks from my modules
-    { path }  = require('./path'),
-    { env }   = require('./environment');
+    { path }  = require('./path');
 
 // Bundles and minifies specified JavaScript files,
 // transpiles them with Babel, and adds source maps

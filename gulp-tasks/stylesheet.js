@@ -8,8 +8,7 @@ const
     //unprefix  = require('postcss-unprefix'),
 
     // Import tasks from my modules
-    { path }  = require('./path'),
-    { env }   = require('./environment');
+    { path }  = require('./path');
 
 // Bundles and optimizes CSS files, adding vendor prefixes and source maps
 // based on the environment (development or production)
