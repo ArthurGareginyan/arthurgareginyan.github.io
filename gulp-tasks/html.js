@@ -4,6 +4,7 @@ const
     { src, dest } = require('gulp'),
     posthtml  = require('gulp-posthtml'),
     htmlmin   = require('gulp-htmlmin'),
+    htmlhint  = require('gulp-htmlhint'),
     beautify  = require('gulp-beautify'),
     outlinks  = require('posthtml-outlinks'),
 

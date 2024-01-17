@@ -2,11 +2,9 @@
 // for task automation and file manipulation
 const
     { src, dest } = require('gulp'),
-    sourcemaps = require('gulp-sourcemaps'),
     babel     = require('gulp-babel'),
     concat    = require('gulp-concat'),
     uglify    = require('gulp-uglify'),
-    gulpif    = require('gulp-if'),
 
     // Import tasks from my modules
     { path }  = require('./path'),
@@ -15,7 +13,7 @@ const
 // Bundles and minifies specified JavaScript files,
 // transpiles them with Babel, and adds source maps
 // based on the environment (development or production)
-// Requires: src, dest from gulp, sourcemaps.init, babel, concat, uglify, gulpif
+// Requires: src, dest from gulp, babel, concat, uglify
 function javascript_bundle () {
     let js_files = [
         `${path.source}/scripts/*.js`,
