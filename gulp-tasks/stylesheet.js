@@ -5,7 +5,7 @@ const
     postcss   = require('gulp-postcss'),
     autoprefixer = require('autoprefixer'),
     cssnano   = require('cssnano'),
-    unprefix  = require('postcss-unprefix'),
+    //unprefix  = require('postcss-unprefix'),
 
     // Import tasks from my modules
     { path }  = require('./path');
@@ -26,7 +26,7 @@ function stylesheets () {
     };
     return src(css_files)
         .pipe(postcss([
-            unprefix(),
+            //unprefix(),
             autoprefixer(),
             cssnano(cssnano_opts)
         ]))
