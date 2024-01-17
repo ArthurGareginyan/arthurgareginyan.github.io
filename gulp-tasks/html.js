@@ -7,6 +7,9 @@ const
     htmlhint  = require('gulp-htmlhint'),
     beautify  = require('gulp-beautify'),
     outlinks  = require('posthtml-outlinks'),
+    through   = require('through2'),
+    replace   = require('gulp-replace'),
+    jsdom     = require('jsdom'),
 
     // Import tasks from my modules
     { path }  = require('./path');

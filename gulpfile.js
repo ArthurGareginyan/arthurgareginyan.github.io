@@ -7,23 +7,8 @@
     // Imports required Gulp plugins and Node.js modules
     // for task automation and file manipulation
     const
-        { src, dest, series, parallel } = require('gulp'),
-        del       = require('del'),
-        concat    = require('gulp-concat'),
-        uglify    = require('gulp-uglify'),
-        posthtml  = require('gulp-posthtml'),
-        postcss   = require('gulp-postcss'),
-        babel     = require('gulp-babel'),
-        unprefix  = require('postcss-unprefix'),
-        autoprefixer = require('autoprefixer'),
-        cssnano   = require('cssnano'),
-        htmlmin   = require('gulp-htmlmin'),
-        beautify  = require('gulp-beautify'),
-        htmlhint  = require('gulp-htmlhint'),
-        outlinks  = require('posthtml-outlinks'),
-        through   = require('through2'),
-        jsdom     = require('jsdom'),
-        replace   = require('gulp-replace');
+        { series, parallel } = require('gulp'),
+        del       = require('del');
 
     // Immediately invoked asynchronous function
     // that deletes all .DS_Store files in the project
